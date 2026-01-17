@@ -1,0 +1,44 @@
+site_name: Dynasties of Ash and Wood
+site_description: Campaign wiki and session archive for our Pathfinder 2e game set in Chu Ye
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep orange
+    accent: amber
+  font:
+    text: Noto Serif
+    code: Fira Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.highlight
+    - content.tabs.link
+  icon:
+    logo: material/sword-cross
+  favicon: resources/images/image1.png
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Player Guide: resources/Player Guide.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  social: []
