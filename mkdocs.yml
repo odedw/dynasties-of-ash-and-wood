@@ -28,6 +28,23 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Sessions:
+    - Session Zero: sessions/2026-01-16.md
+  - Wiki:
+    - Player Characters:
+      - Da Baishan: wiki/pcs/da-baishan.md
+      - Ginkgo: wiki/pcs/ginkgo.md
+      - Donkey: wiki/pcs/donkey.md
+      - Boone: wiki/pcs/boone.md
+      - Littlefinger: wiki/pcs/littlefinger.md
+    - NPCs:
+      - The Smiling One: wiki/npcs/the-smiling-one.md
+      - Shogun Tsuneni: wiki/npcs/shogun-tsuneni.md
+    - Factions:
+      - Willowshore Ruling Family: wiki/factions/willowshore-ruling-family.md
+      - Mizu Ki Hikari: wiki/factions/mizu-ki-hikari.md
+    - Locations:
+      - Willowshore: wiki/locations/willowshore.md
   - Player Guide: resources/Player Guide.md
 
 markdown_extensions:

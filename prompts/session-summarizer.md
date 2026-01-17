@@ -107,16 +107,14 @@ Find the newest date folder for the latest session.
 
 ### Participants
 
-| Player | Character |
-|--------|-----------|
-| Gary | GM |
-| Braedon | Da Baishan (orc investigator) |
-| Oded |  Ginko (fungus leshy cleric|
-| David | (halfing wizard) |
-| Chris | (human warrior) |
-| Vic | (halfing rogue) |
-
-*(Update this table as character names are confirmed)*
+| Player | Character | Ancestry | Class |
+|--------|-----------|----------|-------|
+| Gary | GM | — | — |
+| Braedon | Da Baishan | Orc | Investigator |
+| Oded | Ginkgo | Leshy (Fungus) | Cleric |
+| David | Donkey | Elf | Wizard |
+| Chris | Boone | Dwarf | Fighter |
+| Vic | Littlefinger (TBD) | Halfling | Rogue |
 
 ---
 
