@@ -87,18 +87,30 @@ This deception created factions. Some people secretly blame each other; some wel
 
 | Location | Description |
 |----------|-------------|
-| The Manor | Central compound of the ruling family |
-| The Torii Gate | Traditional gate at the bridge crossing |
-| The Graveyard | Cemetery with small shrine, near the forest edge |
-| The River | Site of strange occurrences; where Ginkgo and Da Baishan witnessed a spirit killing |
+| **The Yeshou Estate** | Former manor of the ruling family; now occupied by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) |
+| **The Torii Gate** | Traditional gate at the bridge crossing |
+| **The Graveyard** | Cemetery with small shrine, near the forest edge |
+| **The River** | Site of strange occurrences; where Ginkgo and Da Baishan witnessed a spirit killing |
+| **Eternal Blaze Ironworks** | Blacksmith shop run by [Yong](../npcs/yong.md), a young kitsune |
+| **Silver Mist Lodge** | Once-grand inn on the riverside; where the ruling family is temporarily staying |
+| **Dew Drop Petals** | Salon and spa run by [Radiant Willow](../npcs/radiant-willow.md) |
+| **Cloud Paper Lodge** | Paper lantern shop; their fireworks were stored in the warehouse |
+| **The Luckless Cod** | Local tavern where workers drink after hours |
+| **The Warehouse** | Dock storage for festival fireworks; partially destroyed by fire |
 
 ---
 
 ## Key Figures
 
+### Oni Regime
+- [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) — Blue-skinned oni sent to prepare for the mayor's arrival
+- [Mayor Masru](../npcs/mayor-masru.md) — The incoming oni mayor (not yet arrived)
+
 ### Residents
 - [The Smiling One](../npcs/the-smiling-one.md) — Ruling family member who "knows the real ending"
 - [Donkey](../pcs/donkey.md) — Ancient elf wizard; village witch
+- [Yong](../npcs/yong.md) — Kitsune blacksmith at Eternal Blaze Ironworks
+- [Radiant Willow](../npcs/radiant-willow.md) — Flower leshy beautician at Dew Drop Petals
 
 ### Visitors
 - [Da Baishan](../pcs/da-baishan.md) — Orc investigator drawn by suspicion of the oni
@@ -116,3 +128,9 @@ This deception created factions. Some people secretly blame each other; some wel
 - The forest story and its forbidden ending established
 - "The Smiling One" created as a mystery NPC
 - The torii gate, bridge, and river featured in character bonds
+
+### Session One (2026-01-30)
+- [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) introduced as the advance guard for the mayor
+- The ruling family displaced from their estate to Silver Mist Lodge
+- A warehouse fire destroyed many festival preparations; children rescued by the party
+- Multiple new locations discovered and visited by the party

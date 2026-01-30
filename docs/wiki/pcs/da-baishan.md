@@ -6,12 +6,21 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Player** | Braedon |
-| **Ancestry** | Orc |
-| **Class** | Investigator |
-| **Background** | Detective among the orc clans |
+<div class="pc-overview">
+  <div class="pc-overview__content">
+    <table>
+      <tbody>
+        <tr><th>Player</th><td>Braedon</td></tr>
+        <tr><th>Ancestry</th><td>Orc</td></tr>
+        <tr><th>Class</th><td>Investigator</td></tr>
+        <tr><th>Background</th><td>Detective among the orc clans</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="pc-overview__image">
+    <img src="/resources/images/da-baishan.png" alt="Da Baishan" width="200" />
+  </div>
+</div>
 
 ---
 
@@ -60,3 +69,13 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Formed alliance with Littlefinger after catching him stealing from oni
 - Witnessed a spirit killing with Ginkgo; helped hide the body
 - Had an encounter with Donkey that left him wary but respectful
+
+### Session One (2026-01-30)
+- Ordered a polearm with pennant rings from [Yong](../npcs/yong.md)
+- Guarded the warehouse exit during the rescue; prepared burn salve for the victims
+- Opened formal investigation: **"The Investigation of the Children's Fire"**
+- Determined the fire was arson (kerosene accelerant, unnatural spread)
+- Deduced the children accidentally triggered sabotaged fireworks
+- Negotiated payment from [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) (50 gold up front, 50 after)
+- Attempted to read the magistrate's motives; detected only extreme confidence
+- Resisted [Radiant Willow's](../npcs/radiant-willow.md) attempts to adorn his tusks with jewels

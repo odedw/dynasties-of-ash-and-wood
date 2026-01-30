@@ -6,12 +6,21 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Player** | Chris |
-| **Ancestry** | Dwarf |
-| **Class** | Fighter |
-| **Background** | Veteran, outsider |
+<div class="pc-overview">
+  <div class="pc-overview__content">
+    <table>
+      <tbody>
+        <tr><th>Player</th><td>Chris</td></tr>
+        <tr><th>Ancestry</th><td>Dwarf</td></tr>
+        <tr><th>Class</th><td>Fighter</td></tr>
+        <tr><th>Background</th><td>Veteran, outsider</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="pc-overview__image">
+    <img src="/resources/images/boone.png" alt="Boone" width="200" />
+  </div>
+</div>
 
 ---
 
@@ -59,3 +68,11 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Established as a rare dwarf outsider in Tian Xia
 - Revealed as a veteran who fought opposite Ginkgo and Donkey in an old war
 - Arrived in Willowshore drawn by curiosity about the oni transition
+
+### Session One (2026-01-30)
+- Recognized the warehouse explosion as deliberate (not just fireworks) using Warfare Lore
+- Used his forge dwarf fire resistance to dive through flames and rescue Kimmy
+- Crashed through a window to deliver the girl to her mother's arms
+- Traded his longsword to [Yong](../npcs/yong.md) as partial payment for a ji-sarm polearm
+- Recruited as a deputy by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)
+- Resisted [Radiant Willow's](../npcs/radiant-willow.md) attempts to braid his beard

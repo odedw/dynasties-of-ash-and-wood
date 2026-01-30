@@ -29,7 +29,8 @@ extra_css:
 nav:
   - Home: index.md
   - Sessions:
-    - Session Zero: sessions/2026-01-16.md
+    - Session Zero (2026-01-16): sessions/2026-01-16.md
+    - Session One (2026-01-30): sessions/2026-01-30.md
   - Wiki:
     - Player Characters:
       - Da Baishan: wiki/pcs/da-baishan.md

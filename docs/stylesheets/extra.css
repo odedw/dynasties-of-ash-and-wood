@@ -91,6 +91,72 @@
 	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 
+/* PC pages - vertically centered portrait beside Overview table */
+.md-typeset .pc-overview {
+	display: flex;
+	gap: 1.5rem;
+	align-items: center; /* vertical centering */
+	justify-content: flex-start;
+}
+
+.md-typeset .pc-overview__content {
+	flex: 1 1 320px;
+	min-width: 260px;
+}
+
+.md-typeset .pc-overview__image {
+	flex: 0 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: auto; /* push portrait to the right edge */
+}
+
+.md-typeset .pc-overview__content > :first-child {
+	margin-top: 0;
+}
+
+.md-typeset .pc-overview__content > :last-child {
+	margin-bottom: 0;
+}
+
+/* Tables can be wrapped in scroll containers; remove their margins too */
+.md-typeset .pc-overview__content table:not([class]) {
+	margin: 0;
+}
+
+.md-typeset .pc-overview__content .md-typeset__scrollwrap {
+	margin: 0;
+}
+
+.md-typeset .pc-overview__image > p {
+	margin: 0;
+}
+
+.md-typeset .pc-overview__image img {
+	display: block;
+	width: 200px;
+	max-width: 200px;
+	height: auto;
+}
+
+@media (max-width: 50em) {
+	.md-typeset .pc-overview {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.md-typeset .pc-overview__image {
+		margin-left: 0;
+		align-self: center;
+	}
+
+	.md-typeset .pc-overview__image img {
+		width: min(200px, 70vw);
+		max-width: 100%;
+	}
+}
+
 /* Cards grid (if using) */
 .md-typeset .grid.cards > ul > li {
 	border: 1px solid #3d3d3d;

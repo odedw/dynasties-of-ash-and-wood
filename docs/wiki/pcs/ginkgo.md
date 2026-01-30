@@ -6,12 +6,21 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Player** | Oded |
-| **Ancestry** | Leshy (Fungus) |
-| **Class** | Cleric |
-| **Background** | Scout and information gatherer |
+<div class="pc-overview">
+  <div class="pc-overview__content">
+    <table>
+      <tbody>
+        <tr><th>Player</th><td>Oded</td></tr>
+        <tr><th>Ancestry</th><td>Leshy (Fungus)</td></tr>
+        <tr><th>Class</th><td>Cleric</td></tr>
+        <tr><th>Background</th><td>Scout and information gatherer</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="pc-overview__image">
+    <img src="/resources/images/ginkgo.png" alt="Ginkgo" width="200" />
+  </div>
+</div>
 
 ---
 
@@ -61,3 +70,11 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Established as a fungus leshy cleric connected to the mycelium
 - Revealed shared war history with Donkey (same side) and Boone (opposing side)
 - Witnessed a spirit killing with Da Baishan; hid the body against local custom
+
+### Session One (2026-01-30)
+- Helped rescue children from the burning warehouse; used Message cantrip to guide Hong to safety
+- Applied Da Baishan's burn salve to the injured boy
+- Provided Guidance to allies throughout the rescue
+- Cast Heal on Littlefinger after the rescue
+- Met [Radiant Willow](../npcs/radiant-willow.md), a fellow leshy; scheduled for a makeover before the festival
+- Recruited as a deputy by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)

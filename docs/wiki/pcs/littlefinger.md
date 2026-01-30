@@ -6,12 +6,21 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Player** | Vic |
-| **Ancestry** | Halfling |
-| **Class** | Rogue |
-| **Background** | Eager Scofflaw; connected to the ruling family |
+<div class="pc-overview">
+  <div class="pc-overview__content">
+    <table>
+      <tbody>
+        <tr><th>Player</th><td>Vic</td></tr>
+        <tr><th>Ancestry</th><td>Halfling</td></tr>
+        <tr><th>Class</th><td>Rogue</td></tr>
+        <tr><th>Background</th><td>Eager Scofflaw; connected to the ruling family</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="pc-overview__image">
+    <img src="/resources/images/littlefinger.png?v=1" alt="Littlefinger" width="200" />
+  </div>
+</div>
 
 ---
 
@@ -64,3 +73,12 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Established as a halfling rogue with ties to the ruling family
 - Caught stealing from oni-related targets by Da Baishan; formed an alliance
 - Expressed interest in Robin Hood-style theft to help Willowshore's common folk
+
+### Session One (2026-01-30)
+- Led the way into the burning warehouse despite misgivings
+- Took damage from exploding fireworks and falling shelves
+- Used Halfling Luck to save Hong; threw himself over the boy to shield him from debris
+- Purchased shuriken from [Yong](../npcs/yong.md); traded dagger to Da Baishan for an orcish sap
+- Recruited as a deputy by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)
+- Booked a room at Silver Mist Lodge under his name
+- Plans to use his connections to investigate the ruling family

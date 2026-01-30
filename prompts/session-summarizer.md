@@ -75,7 +75,24 @@ Highlight standout moments worth remembering:
 
 ---
 
-### 3. Cross-Linking
+### 3. Navigation Update
+
+Add the new session to `mkdocs.yml` under the `Sessions:` nav entry.
+
+Example — if the session is `2026-01-30.md` (Session One), add:
+
+```yaml
+nav:
+  - Sessions:
+    - Session Zero (2026-01-16): sessions/2026-01-16.md
+    - Session One (2026-01-30): sessions/2026-01-30.md   # ← add new session here
+```
+
+Include the date in parentheses after the session name. Use a descriptive title like "Session One", "Session Two", etc., or a thematic title if the session had a clear narrative arc (e.g., "Fire and Favors").
+
+---
+
+### 4. Cross-Linking
 
 Use standard Markdown links to connect content:
 

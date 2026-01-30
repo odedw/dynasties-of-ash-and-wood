@@ -37,6 +37,10 @@ This deception has created factions within Willowshore. Some villagers resent th
 
 The family's refusal to perform the Revival of Friendship is an act of quiet defiance—an unofficial protest against the oni's claim to have "always been here." But their position is precarious. They have lost their monopoly on power, and their old secrets may yet come to light.
 
+With [Magistrate Kurosawa's](../npcs/magistrate-kurosawa.md) arrival, the family has been displaced from their estate entirely. They are now staying at **Silver Mist Lodge**, a faded inn on the riverside, while the magistrate occupies their former home. This public humiliation has only deepened their resentment.
+
+The magistrate considers them the prime suspects for the warehouse fire that destroyed festival preparations—they have "the most to lose" from the oni's arrival. Whether they are actually responsible remains to be investigated.
+
 ---
 
 ## Known Members
@@ -67,3 +71,9 @@ The family's refusal to perform the Revival of Friendship is an act of quiet def
 - Their refusal to participate in the Revival of Friendship established
 - The secret of the "lost heir" and the forest story created
 - Connected to Littlefinger's backstory
+
+### Session One (2026-01-30)
+- Displaced from their estate by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)
+- Now residing at Silver Mist Lodge
+- Named by the magistrate as prime suspects for the warehouse fire
+- The party has been tasked with investigating them
