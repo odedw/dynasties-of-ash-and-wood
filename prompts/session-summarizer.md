@@ -73,6 +73,16 @@ Highlight standout moments worth remembering:
 - Promises made or debts owed
 - Suggested next steps and story hooks
 
+#### Dramatized Scene (Interactive)
+
+After completing the summary, **suggest 3-5 scenes** from the session that could be dramatized as short prose. For each suggestion, provide:
+- A short title
+- A one-sentence description of the moment
+
+**Wait for the user to choose one.** Then write a **3-paragraph dramatization** of that scene—vivid, atmospheric prose that brings the moment to life. Include sensory details, character voice, and tension.
+
+Add the dramatized scene to the session summary under a `## The Scene` heading, placed after the Overview section.
+
 ---
 
 ### 3. Navigation Update
