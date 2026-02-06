@@ -40,6 +40,7 @@ He views the party as useful tools: outsiders without entrenched loyalties who c
 - Establish oni authority over Willowshore with minimal resistance
 - Identify and neutralize potential sources of dissent
 - Prepare for [Mayor Masru's](mayor-masru.md) arrival
+- **Unknown purpose at the Mourndusk Willow** — He has been making repeated visits to an ancient tree in the [Dark Woods](../locations/dark-woods.md); his reasons remain a mystery
 
 ---
 
@@ -74,3 +75,8 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Paid 50 gold up front; promised 50 more upon success
 - Suggested the Yeshou family as the primary suspects for the warehouse fire
 - Departed to prepare the road for Mayor Masru's arrival
+
+### Session Two (2026-02-05)
+- Not directly encountered, but [Migo](migo.md) revealed he has been making **repeated secret visits** to the [Mourndusk Willow](../locations/dark-woods.md) in the Dark Woods north of Willowshore
+- Described by the Yeshou family as "accomplished in the arcane arts" and "not exactly what he seems"
+- His interest in the ancient tree raises questions about his true purpose in Willowshore

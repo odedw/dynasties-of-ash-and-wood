@@ -31,6 +31,7 @@ nav:
   - Sessions:
     - Session Zero (2026-01-16): sessions/2026-01-16.md
     - Session One (2026-01-30): sessions/2026-01-30.md
+    - Session Two (2026-02-05): sessions/2026-02-05.md
   - Wiki:
     - Player Characters:
       - Da Baishan: wiki/pcs/da-baishan.md
@@ -41,11 +42,17 @@ nav:
     - NPCs:
       - The Smiling One: wiki/npcs/the-smiling-one.md
       - Shogun Tsuneni: wiki/npcs/shogun-tsuneni.md
+      - Magistrate Kurosawa: wiki/npcs/magistrate-kurosawa.md
+      - Migo: wiki/npcs/migo.md
+      - Yong: wiki/npcs/yong.md
+      - Hong: wiki/npcs/hong.md
+      - Radiant Willow: wiki/npcs/radiant-willow.md
     - Factions:
       - Willowshore Ruling Family: wiki/factions/willowshore-ruling-family.md
       - Mizu Ki Hikari: wiki/factions/mizu-ki-hikari.md
     - Locations:
       - Willowshore: wiki/locations/willowshore.md
+      - The Dark Woods: wiki/locations/dark-woods.md
   - Player Guide: resources/Player Guide.md
 
 markdown_extensions:

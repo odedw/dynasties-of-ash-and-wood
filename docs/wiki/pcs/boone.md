@@ -76,3 +76,11 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Traded his longsword to [Yong](../npcs/yong.md) as partial payment for a ji-sarm polearm
 - Recruited as a deputy by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)
 - Resisted [Radiant Willow's](../npcs/radiant-willow.md) attempts to braid his beard
+
+### Session Two (2026-02-05)
+- Stayed with [Hong](../npcs/hong.md) at Silver Mist Lodge while the party met with [Migo](../npcs/migo.md); bonded with the boy over stories of distant lands
+- Used **Sudden Charge** in the graveyard combat to close 40 feet and strike in one move
+- Killed the ghoul with a vertical cleave and the zombie with a horizontal slash—establishing a signature fighting style
+- Used **Raise Shield** for +2 AC during combat
+- Took 5 points of bludgeoning damage from the zombie
+- Requested [Yong](../npcs/yong.md) prioritize the party's weapon orders; blades now expected by dusk

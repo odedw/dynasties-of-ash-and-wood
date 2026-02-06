@@ -79,3 +79,12 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Negotiated payment from [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) (50 gold up front, 50 after)
 - Attempted to read the magistrate's motives; detected only extreme confidence
 - Resisted [Radiant Willow's](../npcs/radiant-willow.md) attempts to adorn his tusks with jewels
+
+### Session Two (2026-02-05)
+- Used **Clue In** to help Donkey read [Hong's](../npcs/hong.md) evasions during the interrogation
+- Led the questioning of [Migo](../npcs/migo.md); earned her respect with honest disclosure of the party's dual loyalties
+- Left [Hong's](../npcs/hong.md) satchel with the Yeshou family to be filled with gold
+- Used crossbow and **Devise a Stratagem** in the graveyard combat; killed the undead cat with a precisely planned short sword strike (rolled a 19 on stratagem)
+- Saw the **river spirit** during and after combat—the same body he and Ginkgo hid; it shielded him from the cat's attack
+- Heard the spirit's message: *"Something stolen, something broken"*
+- Spirit lore check (15) found no spirit realm connection to the Mourndusk Willow

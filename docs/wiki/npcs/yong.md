@@ -31,8 +31,10 @@ Yong is hardworking and practical, but clearly stressed by the demands of the on
 
 ## Family
 
-### Hong
+### [Hong](hong.md)
 Yong's young son, described as rambunctious but not troublesome. Hong was caught in the warehouse fire along with Kimmy. Despite his playful nature, he's learning the trade and helps at the forge when he can. Yong had planned to give him a set of shuriken he'd crafted.
+
+It was later revealed that Hong was hired by the [Yeshou family](../factions/willowshore-ruling-family.md) to set the warehouse fire—a "prank" for 100 gold pieces. Yong did not know about this scheme; Hong acted to fund Yong's plan to leave Willowshore.
 
 ---
 
@@ -46,14 +48,20 @@ Yong clearly resents the workload the magistrate has imposed on him, though he's
 
 ---
 
+## Plans to Leave
+
+Yong privately plans to leave Willowshore. He told Hong he "sees dark skies ahead" for the village and wants to relocate somewhere safer to re-establish his forge. The 100 gold Hong brought home could fund this plan, though Yong is cautious about the windfall—he intends to "pray to our elders and spirits" before deciding whether it's a boon or a darker omen.
+
+---
+
 ## Services
 
 Yong crafts various metalwork at Eternal Blaze Ironworks:
 
 | Item | Price | Status |
 |------|-------|--------|
-| Polearm (Da Baishan's) | 7 gold + shortsword | On order |
-| Ji-sarm (Boone's) | 8 gold + longsword | On order |
+| Polearm (Da Baishan's) | 7 gold + shortsword | On order — ready by dusk |
+| Ji-sarm (Boone's) | 8 gold + longsword | On order — ready by dusk |
 | Shuriken (4) | 2 gold | Sold to Littlefinger |
 
 ---
@@ -66,3 +74,10 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 - His son Hong was trapped in the warehouse fire
 - Offered to refund the party's payments as thanks for saving Hong
 - Hurried away with Hong to avoid the magistrate's attention
+
+### Session Two (2026-02-05)
+- Refunded the party's 3 gold deposit for their weapon orders
+- Promised to have both blades ready by dusk (moved up the timeline)
+- Received 100 gold from Hong (earned from the Yeshou family); was bewildered and cautious
+- Put Hong to work at the forge to keep him out of further trouble
+- Revealed (through Hong) that he plans to leave Willowshore—"sees dark skies ahead"

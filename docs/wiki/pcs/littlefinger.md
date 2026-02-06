@@ -82,3 +82,15 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Recruited as a deputy by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)
 - Booked a room at Silver Mist Lodge under his name
 - Plans to use his connections to investigate the ruling family
+
+### Session Two (2026-02-05)
+- Used his street smarts to coax [Hong's](../npcs/hong.md) confession: "We've all done stuff for girls, Hong"
+- Attempted intimidation (rolled 6—"I'm just a little guy")
+- Jokingly tried to reduce Hong's payment ("We'll make sure you get your 90 gold pieces")
+- **Palmed a gold coin** from Hong's bag (Thievery 14)—Donkey and Ginkgo noticed, but the blacksmith family didn't
+- Couldn't bring himself to actually steal from a kid; handed the full satchel back
+- Rolled a **nat 20 on initiative** in the graveyard combat
+- Took 6 damage from the undead cat's pounce attack
+- Struggled with rapier attacks against the cat but **killed it with a shuriken to the hollow eye**
+- Flanked the zombie with a thrown shuriken hit
+- Moved tactically to set up flank positions during combat

@@ -63,3 +63,18 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Established as an ancient elf wizard serving as Willowshore's village witch
 - Revealed shared war history with Ginkgo (same side) and Boone (opposing side)
 - Established as an information source for Da Baishan (with a history of "technically true" misdirection)
+
+### Session One (2026-01-30)
+- Was ill and stayed in his quarters; missed the warehouse fire and recruitment
+
+### Session Two (2026-02-05)
+- Rejoined the party at Silver Mist Lodge after recovering from illness
+- Used **Diplomacy** (23) to stop [Hong](../npcs/hong.md) from fleeing; commanded him with authority as a known local
+- Identified the [Yeshou family](../factions/willowshore-ruling-family.md) as "the most money" in town via Society check
+- Used **Willowshore Lore** (18) to connect the Mourndusk Willow's glen to a tragedy in the Yeshou family's past
+- Cast **Tangle Vine** on the ghoul (success—immobilized with -10 speed)
+- Cast **Ignition** on the zombie (5 fire damage)
+- Learned that **Daze doesn't work on mindless undead**
+- Picked up a **cricket cage** during combat for its defensive bonuses
+- Examined a gold coin from Hong's payment—confirmed standard local currency
+- Confirmed the undead rising is unprecedented for Willowshore

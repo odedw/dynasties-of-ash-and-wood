@@ -78,3 +78,12 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Cast Heal on Littlefinger after the rescue
 - Met [Radiant Willow](../npcs/radiant-willow.md), a fellow leshy; scheduled for a makeover before the festival
 - Recruited as a deputy by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md)
+
+### Session Two (2026-02-05)
+- Cast **Guidance** to help allies during Hong's interrogation
+- Offered to accompany Hong to the Yeshou family; shuffled to block the view when Littlefinger palmed a coin
+- Identified the **Mourndusk Willow** via Nature check (21)—ancient, rare, linked to dark magics but coexisting harmlessly with Willowshore for generations
+- Cast **Bless** during the graveyard combat, providing +1 to attack rolls for the party; sustained and expanded it to 25-foot radius
+- Attempted **Divine Lance** against the undead cat (missed)
+- Saw the **river spirit**—the same body he and Da Baishan hid—reaching out for help
+- Religion check identified the first creature as a ghoul (feeds on recently dead flesh)

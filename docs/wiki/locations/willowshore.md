@@ -89,7 +89,7 @@ This deception created factions. Some people secretly blame each other; some wel
 |----------|-------------|
 | **The Yeshou Estate** | Former manor of the ruling family; now occupied by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) |
 | **The Torii Gate** | Traditional gate at the bridge crossing |
-| **The Graveyard** | Cemetery with small shrine, near the forest edge |
+| **The Graveyard** | Cemetery with family plots, shrines, and cricket cages near the [Dark Woods](dark-woods.md) edge |
 | **The River** | Site of strange occurrences; where Ginkgo and Da Baishan witnessed a spirit killing |
 | **Eternal Blaze Ironworks** | Blacksmith shop run by [Yong](../npcs/yong.md), a young kitsune |
 | **Silver Mist Lodge** | Once-grand inn on the riverside; where the ruling family is temporarily staying |
@@ -97,6 +97,7 @@ This deception created factions. Some people secretly blame each other; some wel
 | **Cloud Paper Lodge** | Paper lantern shop; their fireworks were stored in the warehouse |
 | **The Luckless Cod** | Local tavern where workers drink after hours |
 | **The Warehouse** | Dock storage for festival fireworks; partially destroyed by fire |
+| **[The Dark Woods](dark-woods.md)** | Dense forest to the north; home of the Mourndusk Willow; dangerous at night |
 
 ---
 
@@ -107,9 +108,11 @@ This deception created factions. Some people secretly blame each other; some wel
 - [Mayor Masru](../npcs/mayor-masru.md) — The incoming oni mayor (not yet arrived)
 
 ### Residents
+- [Migo](../npcs/migo.md) — Matriarch of the Yeshou family
 - [The Smiling One](../npcs/the-smiling-one.md) — Ruling family member who "knows the real ending"
 - [Donkey](../pcs/donkey.md) — Ancient elf wizard; village witch
 - [Yong](../npcs/yong.md) — Kitsune blacksmith at Eternal Blaze Ironworks
+- [Hong](../npcs/hong.md) — Yong's son; hired to set the warehouse fire
 - [Radiant Willow](../npcs/radiant-willow.md) — Flower leshy beautician at Dew Drop Petals
 
 ### Visitors
@@ -134,3 +137,12 @@ This deception created factions. Some people secretly blame each other; some wel
 - The ruling family displaced from their estate to Silver Mist Lodge
 - A warehouse fire destroyed many festival preparations; children rescued by the party
 - Multiple new locations discovered and visited by the party
+
+### Session Two (2026-02-05)
+- [Hong](../npcs/hong.md) revealed as the arsonist, hired by the [Yeshou family](../factions/willowshore-ruling-family.md)
+- [Migo](../npcs/migo.md) introduced as the family matriarch; admitted to the sabotage and canceled further plans
+- Kurosawa's secret visits to the [Mourndusk Willow](dark-woods.md) in the [Dark Woods](dark-woods.md) revealed
+- Undead rose in the graveyard for the first time in living memory
+- The party fought a ghoul, a zombie, and an undead cat at the cemetery
+- A spirit connected to Ginkgo and Da Baishan's secret appeared during and after combat
+- [Yong](../npcs/yong.md) planning to leave Willowshore; "sees dark skies ahead"
