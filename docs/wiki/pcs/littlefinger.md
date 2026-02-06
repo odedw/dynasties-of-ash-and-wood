@@ -18,7 +18,7 @@
     </table>
   </div>
   <div class="pc-overview__image">
-    <img src="/resources/images/littlefinger.png?v=1" alt="Littlefinger" width="200" />
+    <img src="../../../resources/images/littlefinger.png?v=1" alt="Littlefinger" width="200" />
   </div>
 </div>
 
