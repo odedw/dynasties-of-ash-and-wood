@@ -6,12 +6,21 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Player** | David |
-| **Ancestry** | Elf (ancient, appears human) |
-| **Class** | Wizard |
-| **Background** | Village witch, herbalist |
+<div class="pc-overview">
+  <div class="pc-overview__content">
+    <table>
+      <tbody>
+        <tr><th>Player</th><td>David</td></tr>
+        <tr><th>Ancestry</th><td>Elf (ancient, appears human)</td></tr>
+        <tr><th>Class</th><td>Wizard</td></tr>
+        <tr><th>Background</th><td>Village witch, herbalist</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="pc-overview__image">
+    <img src="../../../resources/images/donkey.png" alt="Donkey" width="200" />
+  </div>
+</div>
 
 ---
 
