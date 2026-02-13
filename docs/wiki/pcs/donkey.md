@@ -87,3 +87,13 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Picked up a **cricket cage** during combat for its defensive bonuses
 - Examined a gold coin from Hong's payment—confirmed standard local currency
 - Confirmed the undead rising is unprecedented for Willowshore
+
+### Session Three (2026-02-12)
+- Confirmed the Dark Woods felt **different and unnatural**—colder, with a presence that wasn't there before, despite years of familiarity
+- Identified the **river spirit** as **[Cassian Voss](../npcs/cassian-voss.md)** via Willowshore Lore (26)—a religious researcher from Absalom who studied "old gods" and visited Willowshore months before the magistrate
+- Used **Spell Substitution** to swap a spell slot for **Detect Magic** (10-minute preparation)
+- Attempted **Hydraulic Push** with salve to blast the infected bear (missed)
+- Cast **Tangle Vine** on the bear (missed)
+- Went to **0 HP** from squirrel bites and a bear claw; stabilized and healed by Ginkgo
+- Visited [Migo](../npcs/migo.md) with Ginkgo to share findings about the ritual; learned about the **Mother of a Thousand Wings** and the **ley line convergence** beneath Willowshore
+- Learned about **two secret entrances** to the Yeshou estate (stables → wine cellar; koi pond)

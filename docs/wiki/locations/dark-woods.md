@@ -71,6 +71,37 @@ The grave tender and Donkey both confirmed this is unprecedented. Something is d
 
 ---
 
+## The Ley Line Convergence
+
+[Migo](../npcs/migo.md) revealed that Willowshore sits at a convergence of **ley lines**—arcane geomancy paths deep in the earth. Just as five rivers join on the surface, these invisible lines of magical energy cross beneath the village, creating a **focal point** that can be tapped to amplify magical power.
+
+The Mourndusk Willow, with its ancient roots reaching deep into the earth, acts as a **"lightning rod"** for rituals that tap into these ley lines. This convergence is likely the true reason [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) was assigned to Willowshore—not just to oversee a political transition, but to exploit this magical nexus.
+
+---
+
+## The Summoning Ritual
+
+During Session Three, the party discovered evidence of a **dark summoning ritual** performed at the base of the Mourndusk Willow:
+
+### Ritual Components Found
+- **A ceremonial steel dagger** — Curved blade, ornate leather-wrapped handle, inscribed in **Toanin** (oni infernal language): *"Let ancient law be sealed in the hand that guides Willowshore"*
+- **A clay bowl** — Unglazed earthenware containing crushed **moth wings** (bodies removed) and traces of blood
+- **A smooth depression** — Between two roots at the tree's base, approximately two feet deep; the earth unnaturally smooth
+
+### The Yellow Lichen Blight
+The ritual produced a **lichen blight** as a byproduct—a pale yellow, mossy growth that erupted from the east side of the tree in a blast pattern. Ginkgo (Nature 25) identified it as an arcane "bruise"—an after-effect of the energy released during the ritual, not a natural growth. The blight:
+- Was spreading to the tree's bark, roots, and nearby ground
+- Infected local wildlife (a bear and squirrels), giving them yellow eyes and aggressive behavior
+- Released **sulfurous spores** when disturbed (requiring Fortitude saves)
+- Could be **neutralized by Ginkgo's fungal salve**, turning it gray and causing it to flake off
+- The party fully cleansed the tree and surrounding area of the blight
+
+### Identification
+- Da Baishan (Occultism 24) identified the ritual as a **dark sacrificial substitution**—a communion or summoning that was at least partially successful
+- [Migo](../npcs/migo.md) identified the entity being summoned as the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
+
+---
+
 ## Session History
 
 ### Session Two (2026-02-05)
@@ -79,3 +110,12 @@ The grave tender and Donkey both confirmed this is unprecedented. Something is d
 - The graveyard became the site of the party's first combat encounter
 - Undead rising identified as an unprecedented event for Willowshore
 - The party headed into the Dark Woods at mid-afternoon with ~6 hours of daylight remaining
+
+### Session Three (2026-02-12)
+- The party entered the Dark Woods and immediately noticed the forest felt **different**—colder, heavier, with an unnatural presence watching them
+- Reached the Mourndusk Willow clearing; discovered the yellow lichen blight and summoning ritual components
+- Fought **blight-infected wildlife**: a bear and two squirrels with yellow lichen and glowing yellow eyes
+- Ginkgo crafted a **healing salve** from his own body that neutralized the lichen; the party created a **salve bomb** that cured both squirrels
+- Da Baishan investigated the ritual objects; Ginkgo communed with the tree (it was "sad and battered")
+- The party spent the remaining daylight cleansing the tree and surrounding area of all blight
+- [Migo](../npcs/migo.md) later identified the ritual as a summoning of the **Mother of a Thousand Wings** and explained the **ley line convergence** beneath Willowshore

@@ -88,3 +88,15 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Saw the **river spirit** during and after combat—the same body he and Ginkgo hid; it shielded him from the cat's attack
 - Heard the spirit's message: *"Something stolen, something broken"*
 - Spirit lore check (15) found no spirit realm connection to the Mourndusk Willow
+
+### Session Three (2026-02-12)
+- Ventured into the [Dark Woods](../locations/dark-woods.md) to investigate the [Mourndusk Willow](../locations/dark-woods.md)
+- Retrieved the **clay bowl** from the ritual pit between the tree's roots—held it through the entire combat, one-handed
+- Examined the **ceremonial dagger** (Perception 25); identified **Toanin** inscriptions (Occultism 21): *"Let ancient law be sealed in the hand that guides Willowshore"*
+- Used **Imperial Lore** (24) to confirm Toanin is a common oni dialect; "the hand that guides" references the magistrate
+- Investigated the ritual (Occultism 24): identified it as a **dark sacrificial substitution ritual**—a summoning or communion, at least partially successful
+- Assisted Ginkgo in crafting a **salve bomb** using his alchemist toolkit (Crafting 21)
+- **Abandoned his crossbow** after every shot missed; switched to short sword and landed multiple hits on the bear while flanking with Boone
+- **Leapt over his allies** to tackle and restrain an infected squirrel (Athletics success), then detonated the salve bomb to cure both squirrels
+- Visited [Hong](../npcs/hong.md) in the evening; intimidated the boy (23) to confirm no further sabotage was planned
+- Received his **guandao** from [Yong](../npcs/yong.md), bearing a striking rune as a gift of gratitude

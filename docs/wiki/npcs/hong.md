@@ -79,3 +79,10 @@ While the rest of the party met with [Migo](migo.md), Hong stayed behind with Bo
 - Asked by the party to check if other kids were hired for similar pranks
 - Received the full 100 gold payment, escorted safely to Yong's forge by the party
 - Helped Yong at the forge while the party headed north
+
+### Session Three (2026-02-12)
+- Visited by Da Baishan and Boone in the evening at the forge
+- Reported that **none of his friends were hired for sabotage**—all are excited about the festival
+- Confirmed he asked them directly about "pranks" and payments from the Yeshou family; all said no
+- Was intimidated one final time by Da Baishan (Intimidation 23)—stepped back with wide eyes and a quivering voice, but stuck to his story
+- Boone clapped him on the shoulder reassuringly; Hong flinched and scampered off to "help Dad clean up"

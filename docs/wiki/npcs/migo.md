@@ -79,3 +79,14 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 - Revealed Kurosawa's secret visits to the Mourndusk Willow in the Dark Woods
 - Warned the party about Kurosawa's arcane abilities
 - Established a cautious rapport with the party
+
+### Session Three (2026-02-12)
+- Received Ginkgo and Donkey again for a second audience; served tea and rice cakes
+- Praised the party as "the young heroes of Willowshore"
+- Analyzed the ritual findings (dagger, bowl, lichen blight) and identified it as an **old demonic summoning** of the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
+- Explained that Willowshore sits at a convergence of **ley lines**—arcane geomancy paths mirrored by the five rivers—creating a focal point for amplifying magical power
+- Revealed the Mourndusk Willow serves as a **"lightning rod"** for the ritual, reaching into ancient earth through its deep roots
+- Believes Kurosawa knows about the ley lines and that this is the true reason for his assignment to Willowshore
+- Admitted the ritual is beyond her knowledge to counter, but suggested two leads: searching the magistrate's quarters and exploring old mining towns in the southern mountains
+- Disclosed **two secret entrances** to the Yeshou estate: stables → wine cellar, and through the base of the koi pond
+- Mentioned the Festival of Returning Spirits is tomorrow evening; expects to see the party there

@@ -91,3 +91,12 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 - Warned the party about Kurosawa's arcane abilities
 - Established a cautious but cooperative relationship with the party
 - The family's past tragedy connected to the Mourndusk Willow's glen
+
+### Session Three (2026-02-12)
+- [Migo](../npcs/migo.md) received Ginkgo and Donkey for a second audience; analyzed the ritual findings from the Mourndusk Willow
+- Identified the ritual as a summoning of the **"Mother of a Thousand Wings"**—an ancient pestilence demon
+- Revealed that Willowshore sits at a **convergence of ley lines**—explaining the magistrate's true interest in the village
+- Disclosed **two secret entrances** into the Yeshou estate (now occupied by the magistrate): stables → wine cellar, and through the koi pond
+- Acknowledged the ritual is beyond her knowledge to counter, but suggested searching the magistrate's quarters for clues
+- Migo's intelligence network continues to monitor the magistrate's movements
+- The family's cooperation with the party deepens as the threat from the magistrate becomes clearer

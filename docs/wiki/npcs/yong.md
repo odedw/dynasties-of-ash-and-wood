@@ -63,6 +63,8 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 | Polearm (Da Baishan's) | 7 gold + shortsword | On order — ready by dusk |
 | Ji-sarm (Boone's) | 8 gold + longsword | On order — ready by dusk |
 | Shuriken (4) | 2 gold | Sold to Littlefinger |
+| Guandao (Da Baishan's) | — | Delivered with striking rune |
+| Ji-sarm (Boone's) | — | Delivered with striking rune |
 
 ---
 
@@ -81,3 +83,10 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 - Received 100 gold from Hong (earned from the Yeshou family); was bewildered and cautious
 - Put Hong to work at the forge to keep him out of further trouble
 - Revealed (through Hong) that he plans to leave Willowshore—"sees dark skies ahead"
+
+### Session Three (2026-02-12)
+- Delivered the completed **guandao** (Da Baishan) and **ji-sarm** (Boone) to the party at dusk
+- Etched **striking runes** on both weapons as an additional gift of gratitude—providing +1 to hit and damage
+- Expressed heartfelt thanks for the party's service to Willowshore and his family
+- Confirmed plans to **leave Willowshore** after the festival, heading to a **coastal town** so Hong can see the ocean
+- Walked off with Hong, arm around his son, toward the forge

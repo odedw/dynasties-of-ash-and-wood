@@ -84,3 +84,15 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Used **Raise Shield** for +2 AC during combat
 - Took 5 points of bludgeoning damage from the zombie
 - Requested [Yong](../npcs/yong.md) prioritize the party's weapon orders; blades now expected by dusk
+
+### Session Three (2026-02-12)
+- Stood guard while others investigated the Mourndusk Willow ritual pit; spotted the metallic glint of the ceremonial dagger
+- Attempted **Treat Wounds** on himself before the clearing (failed—9)
+- Charged the infected bear with his longsword (27 to hit, 7 damage); spores exploded from the wound (passed Fortitude save 22)
+- **Restrained and mauled by the bear** — pinned, clawed, and bitten; unable to escape across three rounds of attempts
+- **Knocked to 0 HP** by a critical claw attack (12 slashing damage); entered dying condition
+- Healed back to consciousness by Ginkgo's Heal spell (12 HP)
+- Rose and delivered the **killing blow** to the bear (10 damage), slicing deep into its side
+- Visited [Hong](../npcs/hong.md) with Da Baishan in the evening; confirmed no further sabotage was planned by the children
+- Received his **ji-sarm** from [Yong](../npcs/yong.md), bearing a striking rune as a gift of gratitude
+- Reassured the terrified Hong with a clap on the shoulder (Hong flinched)

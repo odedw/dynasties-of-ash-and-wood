@@ -94,3 +94,8 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Struggled with rapier attacks against the cat but **killed it with a shuriken to the hollow eye**
 - Flanked the zombie with a thrown shuriken hit
 - Moved tactically to set up flank positions during combat
+
+### Session Three (2026-02-12)
+- **Stayed behind in Willowshore** while the party ventured into the Dark Woods—scouting the town, watching for the magistrate's return, and protecting the graveyard in case of further undead activity
+- Reunited with the party at Silver Mist Inn in the evening
+- Heard the (embellished) account of the party's adventure: "three bears" and "every crossbow bolt struck true"

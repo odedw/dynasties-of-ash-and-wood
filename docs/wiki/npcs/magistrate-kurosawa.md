@@ -80,3 +80,12 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Not directly encountered, but [Migo](migo.md) revealed he has been making **repeated secret visits** to the [Mourndusk Willow](../locations/dark-woods.md) in the Dark Woods north of Willowshore
 - Described by the Yeshou family as "accomplished in the arcane arts" and "not exactly what he seems"
 - His interest in the ancient tree raises questions about his true purpose in Willowshore
+
+### Session Three (2026-02-12)
+- Not directly encountered, but the party discovered **physical evidence of his ritual** at the Mourndusk Willow:
+    - A ceremonial dagger with Toanin (oni infernal language) inscription: *"Let ancient law be sealed in the hand that guides Willowshore"*
+    - A clay bowl of moth wings and blood stains—components of a summoning ritual
+    - A lichen blight spreading from the ritual site, infecting nearby wildlife
+- Da Baishan's Imperial Lore (24) confirmed "the hand that guides" is a reference to the oni magistrate
+- [Migo](migo.md) identified the ritual as a **summoning of the Mother of a Thousand Wings**—an ancient pestilence demon—and stated Kurosawa is likely "well versed" in ley line magic and chose Willowshore specifically for its arcane convergence point
+- The party now possesses the ritual dagger and bowl as evidence

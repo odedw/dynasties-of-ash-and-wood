@@ -87,3 +87,21 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Attempted **Divine Lance** against the undead cat (missed)
 - Saw the **river spirit**—the same body he and Da Baishan hid—reaching out for help
 - Religion check identified the first creature as a ghoul (feeds on recently dead flesh)
+
+### Session Three (2026-02-12)
+- Tasted the earth upon entering the Dark Woods (Nature 8—failed to gather useful info, but sensed an unnatural presence through his bare feet)
+- Examined the **yellow lichen blight** on the Mourndusk Willow (Nature 25): identified it as an arcane blight—a "bruise" or after-effect of an energy blast, not a natural growth
+- Communed with the tree and felt it was **"sad and battered"**
+- Scraped the lichen and observed spores releasing into the wind; confirmed the blight was surface-level, not deeply infecting the bark
+- **Created a healing salve** from his own body—tearing off a piece of his fungal self, mixing it with healer's toolkit ingredients. Applied it to the tree, turning the lichen gray and neutralizing it
+- Begged Boone not to kill the infected bear: *"Please don't kill it. Please. Just incapacitate it."*
+- Cast **Fear** on the bear (frightened 2, -2 to all checks/saves/AC)
+- Cast **Heal** on Boone twice (11 HP and 12 HP) to bring him back from unconsciousness
+- Cast **Stabilize** on Boone when he was dying
+- Healed **Donkey** with Treat Wounds (Medicine 20, 9 HP)
+- Attempted to grab and cure a squirrel (failed grapple checks)
+- Crafted additional salve during combat for the salve bomb
+- Spoke a **farewell to the fallen bear**: *"The soil welcomes you. By tomorrow the forest will know your name."*
+- Led the effort to **cleanse the entire tree** of blight using the salve
+- Visited [Migo](../npcs/migo.md) with Donkey to share findings; learned about the **Mother of a Thousand Wings** and **ley lines** beneath Willowshore
+- Enjoyed Migo's rice cakes (again)

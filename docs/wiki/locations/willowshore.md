@@ -120,6 +120,7 @@ This deception created factions. Some people secretly blame each other; some wel
 - [Boone](../pcs/boone.md) — Dwarf fighter from distant lands
 - [Ginkgo](../pcs/ginkgo.md) — Fungus leshy cleric gathering information
 - [Littlefinger](../pcs/littlefinger.md) — Halfling rogue with ties to the ruling family
+- [Cassian Voss](../npcs/cassian-voss.md) — (deceased) Researcher from Absalom who studied "old gods"; now an untethered spirit
 
 ---
 
@@ -146,3 +147,14 @@ This deception created factions. Some people secretly blame each other; some wel
 - The party fought a ghoul, a zombie, and an undead cat at the cemetery
 - A spirit connected to Ginkgo and Da Baishan's secret appeared during and after combat
 - [Yong](../npcs/yong.md) planning to leave Willowshore; "sees dark skies ahead"
+
+### Session Three (2026-02-12)
+- The party explored the [Dark Woods](dark-woods.md) and discovered a **dark summoning ritual** at the [Mourndusk Willow](dark-woods.md)
+- The river spirit identified as **[Cassian Voss](../npcs/cassian-voss.md)**, a foreign researcher from Absalom
+- Fought blight-infected wildlife at the Mourndusk Willow; Ginkgo created a salve to cleanse the lichen blight
+- [Migo](../npcs/migo.md) identified the ritual as a summoning of the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
+- Willowshore revealed to sit at a **convergence of ley lines**—arcane geomancy paths that mirror the five rivers on the surface
+- [Migo](../npcs/migo.md) disclosed **secret entrances** into the Yeshou estate (now occupied by the magistrate)
+- [Yong](../npcs/yong.md) delivered runed weapons to the party; confirmed plans to leave for a coastal town after the festival
+- [Hong](../npcs/hong.md) reported no further sabotage plots among the town's children
+- The Festival of Returning Spirits is set for the next evening
