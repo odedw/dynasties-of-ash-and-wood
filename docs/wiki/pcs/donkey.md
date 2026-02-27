@@ -97,3 +97,19 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Went to **0 HP** from squirrel bites and a bear claw; stabilized and healed by Ginkgo
 - Visited [Migo](../npcs/migo.md) with Ginkgo to share findings about the ritual; learned about the **Mother of a Thousand Wings** and the **ley line convergence** beneath Willowshore
 - Learned about **two secret entrances** to the Yeshou estate (stables → wine cellar; koi pond)
+
+### Session Four (2026-02-26)
+- Received a spa treatment from [Radiant Willow](../npcs/radiant-willow.md)—soft skin, leafy hair adornments
+- Casually told Willow he'd be leaving for a foraging trip soon and wouldn't be at the ceremony—establishing his alibi
+- Visited [Liwen](../npcs/liwen.md) the florist; learned that [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) ordered **five dozen white lilies** (funeral flowers), calling it an "oni custom"
+- Used **Spell Substitution** to swap a spell during the morning (10-minute preparation)
+- Received fortune petal: *"Carry hope in your pocket and every path will bloom brighter."*
+- Infiltrated the Yeshou estate by casting **Pest Form** (firefly); flew to the second-floor master bedroom through an open window
+- Searched the bedroom (Perception 7—couldn't find an office; Perception 21—successfully scanned the desk)
+- Found **papers in Chthonic script** (the Devil's tongue)—same language as the Mourndusk Willow dagger—along with diagrams
+- Spotted a **fox construct** (Arcana 9—identified only as "some type of construct") that activated and locked onto him
+- Used **Telekinetic Hand** to grab the fox and fling it out the window (Wizard DC 17 vs. its Athletics—success)
+- The fox **howled a deafening alarm** before clearing the window
+- **Transformed back** from firefly, grabbed the papers from the desk
+- **Currently at the bedroom door** with stolen papers; the magistrate is entering the estate below
+- **Reached Level 2**

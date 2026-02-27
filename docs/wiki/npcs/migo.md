@@ -90,3 +90,9 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 - Admitted the ritual is beyond her knowledge to counter, but suggested two leads: searching the magistrate's quarters and exploring old mining towns in the southern mountains
 - Disclosed **two secret entrances** to the Yeshou estate: stables → wine cellar, and through the base of the koi pond
 - Mentioned the Festival of Returning Spirits is tomorrow evening; expects to see the party there
+
+### Session Four (2026-02-26)
+- Performed the **tea transfer ceremony** with [Mayor Masru](mayor-masru.md) at the Seven Colored Songbird Theater, officially ceding power
+- Sat with her family on the right side of the front row; [The Smiling One](the-smiling-one.md) was present among the family
+- **Locked eyes** with [Magistrate Kurosawa](magistrate-kurosawa.md) for a prolonged moment after the moth swarm destroyed five lanterns—both clearly understood its significance
+- Gathered her family and departed toward Silver Mist Lodge after the incident, slowed by townsfolk wanting to speak with her

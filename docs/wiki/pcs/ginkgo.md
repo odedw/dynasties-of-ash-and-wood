@@ -105,3 +105,19 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Led the effort to **cleanse the entire tree** of blight using the salve
 - Visited [Migo](../npcs/migo.md) with Donkey to share findings; learned about the **Mother of a Thousand Wings** and **ley lines** beneath Willowshore
 - Enjoyed Migo's rice cakes (again)
+
+### Session Four (2026-02-26)
+- Received a **peach petal exfoliation** and makeover from [Radiant Willow](../npcs/radiant-willow.md)—flower petals woven into his fungal exterior, leaving him "glistening in the light of day"
+- Flirted with Willow, telling her about the leshy belief that five successful matches earn a place in heaven; said "maybe you and I are a match" then immediately apologized for being unsubtle
+- Willow agreed to get a drink with him later
+- Recruited by Willow as a **matchmaking accomplice** for Da Baishan, Boone, and Littlefinger
+- Learned from Willow that [Cassian Voss](../npcs/cassian-voss.md) spoke of **"five lines, five fortunes"** and that **"something is being drawn here"**
+- Received fortune petal: *"Even the tiniest bud dreams of becoming a blossom. So should you."*
+- Stayed at the festival during the infiltration; maintained **Message** communication with Da Baishan
+- Watched the ceremonial dance; observed the **moth swarm** destroy five lanterns (Perception 25)
+- Noticed [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) and [Migo](../npcs/migo.md) lock eyes after the moth incident
+- Tapped into the **mycelium network** (Nature 27) to eavesdrop on the magistrate and mayor's conversation—overheard the mayor's complaint about missing food
+- Helped Boone stall [Mayor Masru](../npcs/mayor-masru.md) with food to buy the infiltration team time
+- Cast **Guidance** on Boone's diplomacy attempt (it didn't help—Boone rolled a 3)
+- **Currently at the festival** maintaining Message contact with Da Baishan
+- **Reached Level 2**

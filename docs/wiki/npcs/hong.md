@@ -86,3 +86,11 @@ While the rest of the party met with [Migo](migo.md), Hong stayed behind with Bo
 - Confirmed he asked them directly about "pranks" and payments from the Yeshou family; all said no
 - Was intimidated one final time by Da Baishan (Intimidation 23)—stepped back with wide eyes and a quivering voice, but stuck to his story
 - Boone clapped him on the shoulder reassuringly; Hong flinched and scampered off to "help Dad clean up"
+
+### Session Four (2026-02-26)
+- Fell into an old dry well trying to retrieve [Kimmy's](kimmy.md) broken festival lantern—her "first wish" lantern for the river ceremony
+- Suffered a gash on his leg from a ceremonial dagger buried in the mud
+- Was too embarrassed to tell his father; sent Kimmy to find Boone instead
+- Rescued by Da Baishan, who climbed down and tied a rope around him
+- Blushed visibly through his kitsune fur when Da Baishan suggested he needed "a kiss to feel better"—Kimmy obliged with a peck on the cheek
+- The broken lantern meant Kimmy couldn't make her wish at the festival

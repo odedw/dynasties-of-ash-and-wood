@@ -96,3 +96,16 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Visited [Hong](../npcs/hong.md) with Da Baishan in the evening; confirmed no further sabotage was planned by the children
 - Received his **ji-sarm** from [Yong](../npcs/yong.md), bearing a striking rune as a gift of gratitude
 - Reassured the terrified Hong with a clap on the shoulder (Hong flinched)
+
+### Session Four (2026-02-26)
+- Sensed no deception from [Kimmy](../npcs/kimmy.md) when she reported Hong in the well (Perception 20)
+- Recognized the **Kaizo clan dagger** found with the dwarven skeleton—a veteran from the opposing side of the old war: *"We weren't friends, but I guess we're not enemies anymore."*
+- Compared the Kaizo dagger to his own **Vestri clan dagger**; identified the "endurance" rune as the family motto
+- Helped bury Kaizo's bones at the graveyard
+- Scouted the ceremony route with Da Baishan and Littlefinger (Perception 20—nothing suspicious)
+- Stayed at the Festival of Returning Spirits to observe the ceremony and provide backup
+- Chased down [Mayor Masru](../npcs/mayor-masru.md) with a basket of fish to stall him from returning to the estate—**tripped and scattered food everywhere** (Diplomacy 3)
+- Despite the fumble, Masru liked him; the mayor introduced himself casually and went back to feasting
+- **Currently running toward the Yeshou estate** to assist the infiltration team
+- [Radiant Willow](../npcs/radiant-willow.md) has matchmaking plans for him with **Cloud Ygritte**, a patient yak herder with chin fuzz
+- **Reached Level 2**

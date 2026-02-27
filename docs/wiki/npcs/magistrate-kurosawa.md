@@ -89,3 +89,12 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Da Baishan's Imperial Lore (24) confirmed "the hand that guides" is a reference to the oni magistrate
 - [Migo](migo.md) identified the ritual as a **summoning of the Mother of a Thousand Wings**—an ancient pestilence demon—and stated Kurosawa is likely "well versed" in ley line magic and chose Willowshore specifically for its arcane convergence point
 - The party now possesses the ritual dagger and bowl as evidence
+
+### Session Four (2026-02-26)
+- Ordered **five dozen white lilies** (funeral flowers) from [Liwen](liwen.md) the florist, claiming it was "an oni custom"—refused to elaborate further
+- Sat beside [Mayor Masru](mayor-masru.md) at the Festival of Returning Spirits transfer ceremony
+- Reacted intensely to the **moth swarm** that destroyed five front lanterns: locked eyes with [Migo](migo.md) for a prolonged moment, then spoke urgently to the mayor and rushed back to the estate
+- His bedroom at the Yeshou estate contains **papers written in Chthonic** (an infernal script)—the same language as the Mourndusk Willow dagger—along with diagrams
+- Employs a **fox construct** as a security system—a carved stone-and-wood fox with glowing runes and blue eyes that howls an alarm when intruders are detected
+- Stormed into the estate after the fox alarm sounded, arriving while the party was still inside
+- Appeared frustrated with Mayor Masru's lack of urgency throughout the evening

@@ -100,3 +100,19 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - **Leapt over his allies** to tackle and restrain an infected squirrel (Athletics success), then detonated the salve bomb to cure both squirrels
 - Visited [Hong](../npcs/hong.md) in the evening; intimidated the boy (23) to confirm no further sabotage was planned
 - Received his **guandao** from [Yong](../npcs/yong.md), bearing a striking rune as a gift of gratitude
+
+### Session Four (2026-02-26)
+- Helped rescue [Hong](../npcs/hong.md) from an old well; climbed down, tied the rope, and investigated the scene
+- Discovered a **dwarven skeleton** and **clan dagger** (Kaizo clan, "endurance" rune) in the well's mud
+- Used **Odd Feet** (investigator feat) to notice the body had been stripped of armor—placed deliberately, not a fall
+- Opened a new investigation: **"The Mystery of the Submerged Dwarf"**
+- Collected the bones and buried them properly at the graveyard
+- Played wingman for [Hong](../npcs/hong.md) and [Kimmy](../npcs/kimmy.md): "He needs a kiss to feel better"
+- Scouted the ceremony route with Boone and Littlefinger; nothing suspicious found
+- Infiltrated the Yeshou estate during the festival via the **shed tunnel** (Stealth 12, Athletics 16 to break the latch)
+- Checked for traps on the first floor (Perception 26—none found)
+- Met Littlefinger in the wine cellar; heard the fox alarm from upstairs; heard the front door open (magistrate entering)
+- **Currently trapped on the first floor** with Littlefinger as the magistrate enters the estate
+- Received Message from Ginkgo throughout the infiltration—learned the magistrate was heading back
+- [Radiant Willow](../npcs/radiant-willow.md) has matchmaking plans for him with **Peony Switchstep**, a cheerful seamstress
+- **Reached Level 2**

@@ -75,6 +75,20 @@ Dew Drop Petals offers:
 
 ---
 
+## Matchmaking
+
+Willow considers herself an innate matchmaker—she believes finding love connections is one of her gifts, alongside dance and beauty. She has identified several potential pairings among the party and townsfolk:
+
+| Match | Her Reasoning |
+|-------|---------------|
+| Da Baishan & Peony Switchstep | "He's stern; she sees the best in everyone. Can you imagine the wedding on the bridge?" |
+| Boone & Cloud Ygritte | "She's sweet, patient, likes trading stories. He's from a faraway land. And she's got the most adorable chin fuzz." |
+| Littlefinger & [Meilin](meilin.md) | She noticed Littlefinger spent time helping Meilin at the graveyard and planned to watch his reaction to her dance |
+
+She recruited Ginkgo as her accomplice, planning to arrange "accidental" meetings at the festival feast.
+
+---
+
 ## Session History
 
 ### Session One (2026-01-30)
@@ -83,3 +97,13 @@ Dew Drop Petals offers:
 - Hinted she hears gossip from her customers
 - Mentioned she'll perform a dance at the festival
 - Attempted to recruit the entire party for beauty treatments
+
+### Session Four (2026-02-26)
+- Gave Ginkgo a **peach petal exfoliation** and wove flower petals into his fungal exterior; treated Donkey to a similar session
+- Revealed **matchmaking plans** for Da Baishan, Boone, and Littlefinger with local women
+- Recruited Ginkgo as her matchmaking accomplice for the festival feast
+- Shared information about [Cassian Voss](cassian-voss.md): he told her about **"five lines, five fortunes"** converging at Willowshore and that **"something is being drawn here"**; he planned to head east following the ley lines
+- Gave fortune petals to Ginkgo and Donkey on their way out
+- Performed in the **Festival of Returning Spirits** ceremonial dance—graceful and radiant, a standout among the five dancers
+- Presented chrysanthemum blooms to Mayor Masru and Elder Migo to close the performance
+- Responded warmly to Ginkgo's romantic interest; agreed to get a drink together later

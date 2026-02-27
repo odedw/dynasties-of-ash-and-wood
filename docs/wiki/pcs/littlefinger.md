@@ -99,3 +99,17 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - **Stayed behind in Willowshore** while the party ventured into the Dark Woods—scouting the town, watching for the magistrate's return, and protecting the graveyard in case of further undead activity
 - Reunited with the party at Silver Mist Inn in the evening
 - Heard the (embellished) account of the party's adventure: "three bears" and "every crossbow bolt struck true"
+
+### Session Four (2026-02-26)
+- Helped rescue [Hong](../npcs/hong.md) from an old well; provided the climbing kit and rope for the operation
+- Volunteered to climb down into the well to assess Hong's injuries
+- **Pickpocketed 6 gold** from the festival crowd while scouting the ceremony route (Thievery 22)
+- Infiltrated the Yeshou estate during the festival via the **koi pond tunnel**
+- **Fought a mutated koi fish** underwater—the oversized creature attacked twice but missed against AC 17; Littlefinger swam for his life (Athletics 17) through the narrow tunnel
+- Surfaced in the estate basement, soaking wet and gasping, just as Da Baishan emerged from the shed tunnel
+- Checked for traps with Da Baishan (combined Perception 26 and Thievery 15—clear)
+- Climbed to the first floor; heard the fox alarm from the second floor
+- Heard the estate's front door open—the magistrate entering
+- **Currently trapped on the first floor** with Da Baishan as the magistrate storms inside
+- **Missed [Meilin's](../npcs/meilin.md) transformation** at the festival dance—[Radiant Willow](../npcs/radiant-willow.md) considers Meilin a potential match for him
+- **Reached Level 2**

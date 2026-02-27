@@ -11,7 +11,7 @@
 | **Type** | Village |
 | **Region** | Northern Chu Ye |
 | **River** | Yanzy River |
-| **Government** | De facto rule by [local family](../factions/willowshore-ruling-family.md); oni mayor arriving |
+| **Government** | [Mayor Masru](../npcs/mayor-masru.md) (oni); formerly de facto rule by [local family](../factions/willowshore-ruling-family.md) |
 
 ---
 
@@ -95,6 +95,8 @@ This deception created factions. Some people secretly blame each other; some wel
 | **Silver Mist Lodge** | Once-grand inn on the riverside; where the ruling family is temporarily staying |
 | **Dew Drop Petals** | Salon and spa run by [Radiant Willow](../npcs/radiant-willow.md) |
 | **Cloud Paper Lodge** | Paper lantern shop; their fireworks were stored in the warehouse |
+| **Seven Colored Songbird Theater** | Open-air theater north of the bridge; site of performances, ceremonies, and the Festival of Returning Spirits transfer of power |
+| **Liwen's Flower Cart** | Tiny florist shop (barely more than a cart) run by [Liwen](../npcs/liwen.md) |
 | **The Luckless Cod** | Local tavern where workers drink after hours |
 | **The Warehouse** | Dock storage for festival fireworks; partially destroyed by fire |
 | **[The Dark Woods](dark-woods.md)** | Dense forest to the north; home of the Mourndusk Willow; dangerous at night |
@@ -158,3 +160,15 @@ This deception created factions. Some people secretly blame each other; some wel
 - [Yong](../npcs/yong.md) delivered runed weapons to the party; confirmed plans to leave for a coastal town after the festival
 - [Hong](../npcs/hong.md) reported no further sabotage plots among the town's children
 - The Festival of Returning Spirits is set for the next evening
+
+### Session Four (2026-02-26)
+- The **Festival of Returning Spirits** took place: procession, tea transfer ceremony at the Seven Colored Songbird Theater, ceremonial dance, and feast
+- [Mayor Masru](../npcs/mayor-masru.md) arrived with four red-skinned oni guards—surprisingly unimposing, affable, and food-obsessed
+- [Migo](../npcs/migo.md) formally transferred power to Masru via the tea ceremony
+- A **moth swarm** destroyed five lanterns at the theater, alarming both [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) and Migo
+- [Meilin](../npcs/meilin.md) the gravekeeper stunned the town with her transformation during the dance
+- A **dwarven skeleton** (Kaizo clan) was discovered in an old dry well
+- [Liwen](../npcs/liwen.md) the florist revealed Kurosawa ordered five dozen white lilies (funeral flowers)
+- The party infiltrated the **Yeshou estate** via three routes: firefly through a window, koi pond tunnel, and shed tunnel
+- A **fox construct alarm** triggered in the magistrate's bedroom; Kurosawa rushed back to the estate
+- The Yeshou estate's **koi pond passage** is guarded by a **mutated koi fish**

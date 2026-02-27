@@ -16,8 +16,19 @@
 
 ---
 
-!!! warning "Not Yet Appeared"
-    Mayor Masru has not yet arrived in Willowshore. This entry contains only what is known or rumored about him.
+## Description
+
+Masru is not the imposing figure one might expect from an oni mayor. He is blue-skinned like [Magistrate Kurosawa](magistrate-kurosawa.md), but that is where the resemblance ends. Where the magistrate is seven feet of lean menace, Masru is perhaps five-ten—short for an oni—and enormously round. He wears no armor. Folds of blue skin roll over his waistline. He lumbers rather than walks, and his first instinct upon arriving in Willowshore was to ask about the food.
+
+He is flanked by **four red-skinned oni guards** in full samurai armor, each dwarfing him in size and martial bearing. They seem more like babysitters than bodyguards.
+
+---
+
+## Personality
+
+Masru is affable, approachable, and primarily motivated by appetite. He is easily distracted by food and drink, chatty with commoners, and seemingly unconcerned with the formalities of power. He told Boone and Ginkgo: *"You can call me Mazrou. We don't need to be so formal."*
+
+Whether this is genuine friendliness or a carefully cultivated persona remains to be seen. His relationship with [Magistrate Kurosawa](magistrate-kurosawa.md) appears tense—the magistrate glared at him when he wandered back to the festival to eat, and Masru gave the magistrate a pointed look when speaking about enjoying Willowshore's food and drink.
 
 ---
 
@@ -25,23 +36,37 @@
 
 For generations, [Willowshore](../locations/willowshore.md) was too small and poor to warrant attention from the oni regime. The village governed itself under the [de facto rule of a local family](../factions/willowshore-ruling-family.md). Now, seemingly out of nowhere, an oni mayor has been appointed to take control.
 
-According to oni custom, Mayor Masru will arrive claiming to have "always been here"—the pretense that oni authority is eternal and uninterrupted, even when they've been absent for decades.
+According to oni custom, Mayor Masru arrived claiming to have "always been here"—the pretense that oni authority is eternal and uninterrupted, even when they've been absent for decades.
 
 ---
 
 ## Arrival
 
-Masru is expected to arrive the evening of the Festival of Returning Spirits. [Magistrate Kurosawa](magistrate-kurosawa.md) has been sent ahead to prepare the town and ensure the transfer of power proceeds smoothly.
+Masru arrived the evening of the Festival of Returning Spirits, walking the procession route from the south gate across the bridge to the [Seven Colored Songbird Theater](../locations/willowshore.md). The townspeople averted their eyes per custom until he passed, then followed behind.
 
-The [Willowshore Ruling Family](../factions/willowshore-ruling-family.md) is refusing to participate in the traditional **Revival of Friendship** ceremony—the customary rite where old grudges are publicly put to rest to welcome new leadership. This defiance has created tension throughout the village.
+At the theater, [Migo](migo.md) performed a formal tea transfer ceremony: she poured, they drank, they bowed, and the transfer of power was complete. Masru sat heavily in his front-row seat, his four guards beside him, with the magistrate at his side.
+
+After the ceremonial dance, when moths destroyed five lanterns and the magistrate rushed back to the estate, Masru's priority was clear: *"But I didn't get to eat yet."* He was lured back to the festival by Boone and Ginkgo with a basket of fish, and proceeded to feast enthusiastically—grabbing food, sampling drinks from other people's hands, and complaining about how terrible the travel rations had been.
 
 ---
 
-## Significance
+## Relationships
 
-Masru's arrival represents the first direct oni rule over Willowshore in living memory. Some villagers see this as an opportunity—the oni are the ruling class, and currying favor could raise their station. Others view it as an invasion, a theft of their autonomy by a regime that ignored them for generations.
+### [Magistrate Kurosawa](magistrate-kurosawa.md)
+The dynamic is clearly strained. Kurosawa serves as Masru's advance guard, but appears frustrated by the mayor's lack of urgency. Masru, for his part, seems content to let the magistrate handle security while he enjoys himself.
 
-The timing of the warehouse fire—destroying festival preparations the day before Masru's arrival—has raised suspicions of sabotage.
+### The Party
+Masru responded warmly when Boone and Ginkgo introduced themselves with food. He expressed interest in meeting the citizens of Willowshore: *"We'll be here for some sustained time."*
+
+---
+
+## Notable Quotes
+
+> "But I didn't get to eat yet."
+
+> "You can call me Mazrou. We don't need to be so formal."
+
+> "We'll be here for some sustained time."
 
 ---
 
@@ -50,3 +75,11 @@ The timing of the warehouse fire—destroying festival preparations the day befo
 ### Session One (2026-01-30)
 - Mentioned as the incoming mayor; arrival expected the next evening
 - The party was recruited by [Magistrate Kurosawa](magistrate-kurosawa.md) to ensure his arrival goes smoothly
+
+### Session Four (2026-02-26)
+- **First appearance**: Arrived during the Festival of Returning Spirits with four red-skinned oni guards
+- Physically unimposing—short for an oni, enormously round, unarmored
+- Completed the tea transfer ceremony with [Migo](migo.md), officially assuming power over Willowshore
+- Left the festival when the magistrate insisted after the moth incident, but was lured back by Boone and Ginkgo with food
+- Proved affable and approachable; introduced himself casually to the party
+- Feasted enthusiastically at the post-ceremony meal, sampling everything in sight

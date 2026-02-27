@@ -81,7 +81,7 @@ After completing the summary, **suggest 3-5 scenes** from the session that could
 
 **Wait for the user to choose one.** Then write a **3-paragraph dramatization** of that scene—vivid, atmospheric prose that brings the moment to life. Include sensory details, character voice, and tension.
 
-Add the dramatized scene to the session summary under a `## The Scene` heading, placed after the Overview section.
+Add the dramatized scene to the session summary under a `## The Scene` heading, placed **at the very end** of the file (after the Timeline section).
 
 ---
 

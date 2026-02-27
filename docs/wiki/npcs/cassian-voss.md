@@ -77,3 +77,11 @@ Based on Donkey's memories, Voss was a quiet, studious man who kept mostly to hi
 - Identified by Donkey (Willowshore Lore 26) as **Cassian Voss**, a religious researcher from Absalom
 - His specialty in "old gods" / elder deities established
 - His timeline in Willowshore (arriving ~2 months before the magistrate) raises questions about the ritual's timeline
+
+### Session Four (2026-02-26)
+- [Radiant Willow](radiant-willow.md) shared additional details from her conversations with Voss:
+    - He described **"five lines, five fortunes"** converging at Willowshore—aligning with the ley line convergence [Migo](migo.md) revealed
+    - He said **"something is being drawn here"**—the only thing about his research that seemed to worry him
+    - His last known plans were to **head east**, following the rivers where the ley lines tracked
+    - He had originally wanted to go north into the Dark Woods, but Willow warned him against it
+    - Willow described him as "an amazing researcher" who was "so excited" about his findings—she still believes he simply moved on
