@@ -12,7 +12,7 @@
 | **Title** | Mayor of [Willowshore](../locations/willowshore.md) |
 | **Ancestry** | Oni |
 | **Affiliation** | [Shogun Tsuneni's](shogun-tsuneni.md) regime |
-| **Status** | Expected to arrive during the Festival of Returning Spirits |
+| **Status** | In office; residing at the Yeshou estate |
 
 ---
 
@@ -83,3 +83,12 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 - Left the festival when the magistrate insisted after the moth incident, but was lured back by Boone and Ginkgo with food
 - Proved affable and approachable; introduced himself casually to the party
 - Feasted enthusiastically at the post-ceremony meal, sampling everything in sight
+
+### Session Five (2026-03-12)
+- Continued mingling at the festival after the ceremony—eating, drinking, and charming the townsfolk; described as "one of the crew" by the locals
+- His four guards remained present but silent and detached; they never ate or drank
+- [Magistrate Kurosawa](magistrate-kurosawa.md) arrived at the festival, studied the crowd, then convinced Masru to retire for the evening; Masru was reluctant but acquiesced
+- Gave a brief, warm farewell to the townspeople: *"I'm sure we'll have many more opportunities to get to know each other."*
+- Departed with Kurosawa and guards to the estate
+- **Co-signed the martial law decree** alongside the magistrate—though [Migo](migo.md) suggested Kurosawa is the one driving the investigation
+- Townspeople spoke mostly favorably of him after his departure, though some dismissed his friendliness as "day one of his act"

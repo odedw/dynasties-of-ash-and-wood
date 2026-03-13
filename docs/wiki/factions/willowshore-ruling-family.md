@@ -10,8 +10,8 @@
 |---|---|
 | **Type** | Noble family / Local government |
 | **Location** | [Willowshore](../locations/willowshore.md) |
-| **Status** | Declining; resisting oni takeover |
-| **Notable Members** | [The Smiling One](../npcs/the-smiling-one.md) |
+| **Status** | Displaced but committed to staying; cooperating with the party |
+| **Notable Members** | [Migo](../npcs/migo.md) (matriarch), [Shang Yesho / The Smiling One](../npcs/the-smiling-one.md) |
 
 ---
 
@@ -50,7 +50,7 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 | Member | Role | Notes |
 |--------|------|-------|
 | [Migo](../npcs/migo.md) | Matriarch / Elder | Sharp, pragmatic leader; admitted to the sabotage |
-| [The Smiling One](../npcs/the-smiling-one.md) | Family member | "Knows the real ending" |
+| [Shang Yesho / The Smiling One](../npcs/the-smiling-one.md) | Migo's brother | Decorated military veteran; reads Chthonic; "knows the real ending" |
 | The Patriarch | Head of family | Created the false story about spirits (TBD) |
 | The Lost Heir | Former heir | Disappeared into the forest long ago |
 | Two bodyguards | Retainers | Non-blood family members who serve as guards |
@@ -100,3 +100,12 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 - Acknowledged the ritual is beyond her knowledge to counter, but suggested searching the magistrate's quarters for clues
 - Migo's intelligence network continues to monitor the magistrate's movements
 - The family's cooperation with the party deepens as the threat from the magistrate becomes clearer
+
+### Session Five (2026-03-12)
+- **Voted to stay** in Willowshore permanently after the ceremony; the family refused to abandon their ancestral home
+- [Migo](../npcs/migo.md) revealed the **Gosembiki** (五芒星, Five Pointed Star)—haunted ruins east of town that Kurosawa has named and recently visited
+- [Shang Yesho](../npcs/the-smiling-one.md) identified as Migo's brother and a military veteran; his Chthonic language skills translated the Gosembiki name
+- Littlefinger returned Shang's military medal (stolen from the estate); the family was appreciative
+- **Agreed to provide an alibi** for the party—stating they were present for a family vote during the festival
+- Migo confirmed the pattern of fives (ley lines, lanterns, Gosembiki) and expressed belief that the spirits of the land are unhappy
+- The family's cooperation with the party is now fully established; they share intelligence and provide cover

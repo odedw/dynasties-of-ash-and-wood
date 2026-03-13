@@ -107,3 +107,8 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - Performed in the **Festival of Returning Spirits** ceremonial dance—graceful and radiant, a standout among the five dancers
 - Presented chrysanthemum blooms to Mayor Masru and Elder Migo to close the performance
 - Responded warmly to Ginkgo's romantic interest; agreed to get a drink together later
+
+### Session Five (2026-03-12)
+- Executed her matchmaking plan at the festival feast: placed [Meilin](meilin.md) next to Littlefinger and toasted "to friendship and new beginnings"
+- Attempted to bring [Peony Switchstep](peony-switchstep.md) to meet Da Baishan but met visible resistance
+- Cloud Ygritte (Boone's match) had already retired for the evening before introductions could be made

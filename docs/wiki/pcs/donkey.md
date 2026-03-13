@@ -111,5 +111,18 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Used **Telekinetic Hand** to grab the fox and fling it out the window (Wizard DC 17 vs. its Athletics—success)
 - The fox **howled a deafening alarm** before clearing the window
 - **Transformed back** from firefly, grabbed the papers from the desk
-- **Currently at the bedroom door** with stolen papers; the magistrate is entering the estate below
 - **Reached Level 2**
+
+### Session Five (2026-03-12)
+- Stuffed **three papers** from the magistrate's desk into his backpack (Dexterity check—poor, managed only three)
+- Won initiative (15) and completed **Pest Form** (firefly) just as Kurosawa burst through the bedroom door—escaped through the window with seconds to spare
+- Flew over the estate grounds, saw Kurosawa head to the shed and Da Baishan walk away; transformed back in a copse of trees
+- Identified the stolen papers: a **Chthonic journal entry** with recent date markings (Decipher Writing 19), an **arcane Web scroll** (2nd level), and a **map** with a marking ~10 miles east of Willowshore featuring a diagram resembling the device [Yong](../npcs/yong.md) was building for the magistrate
+- Used **Read Aura** cantrip to confirm [Shang Yesho's](../npcs/the-smiling-one.md) military medal is not magical
+- Spoke with [Luda](../npcs/luda.md), his regular arcane supplier; learned Kurosawa demanded high-volume, specific arcane ingredients from her
+- Asked Luda to track and report future purchases by the magistrate; she agreed
+- Tested the martial law perimeter by walking toward the edge of town; confronted by an oni guard with a drawn sword
+- Used **Conceal Spell** (new wizard feat) to cast **Sleep** without visible components (DC 18; guard rolled 17—failure); the guard toppled unconscious
+- *"Remember to meddle not in the affairs of wizards."*
+- **Level 2 upgrades:** Conceal Spell (class feat—spells gain the Subtle trait), Tattoo Artist (skill feat—can inscribe magical tattoos)
+- **Homebrew hero point:** Improvise Spell—cast any spell in spellbook even if not memorized, once per session

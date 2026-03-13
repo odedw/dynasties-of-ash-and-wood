@@ -36,10 +36,10 @@ She is protective of her family's legacy and deeply opposed to the oni takeover,
 
 ## Goals
 
-- Preserve the Yeshou family's influence in Willowshore during the transition of power
-- Monitor [Magistrate Kurosawa's](magistrate-kurosawa.md) activities, particularly his visits to the Dark Woods
-- Prevent further embarrassment to the family after the botched warehouse sabotage
-- Understand what Kurosawa wants with the [Mourndusk Willow](../locations/dark-woods.md)
+- Preserve the Yeshou family's influence in Willowshore—family has voted to stay permanently
+- Monitor [Magistrate Kurosawa's](magistrate-kurosawa.md) activities, particularly his expeditions to the eastern ruins (Gosembiki)
+- Support the party's investigation while maintaining plausible deniability
+- Understand and counter the magistrate's arcane plans for Willowshore
 
 ---
 
@@ -96,3 +96,16 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 - Sat with her family on the right side of the front row; [The Smiling One](the-smiling-one.md) was present among the family
 - **Locked eyes** with [Magistrate Kurosawa](magistrate-kurosawa.md) for a prolonged moment after the moth swarm destroyed five lanterns—both clearly understood its significance
 - Gathered her family and departed toward Silver Mist Lodge after the incident, slowed by townsfolk wanting to speak with her
+
+### Session Five (2026-03-12)
+- Received the party late at night after martial law was declared; served tea, smoking at her table
+- Revealed the **Gosembiki** (五芒星, the Five Pointed Star)—haunted ruins 10–20 miles east of Willowshore that Kurosawa has named and recently visited; described as a convergence point of arcane or chthonic intent
+- Her brother [Shang](the-smiling-one.md) translated the Chthonic name for her
+- Confirmed the **pattern of fives**: five ley lines, five lanterns destroyed, and the Five Pointed Star; said she does not believe it is coincidence
+- Explained the prolonged eye-lock with Kurosawa at the festival as a mutual acknowledgment—*"He knows that we are aware of his current festivities"*
+- Warned the party that Kurosawa is *"an elusive enigma of arcane energies"*—vastly knowledgeable in the arcane arts
+- **Agreed to provide an alibi** for the party: the family will say they were present for a family vote during the festival, departing only when the alarm sounded
+- Revealed the family **voted to stay** in Willowshore permanently after the ceremony: *"This place, we've been here for generations. We can't leave it to the hands of chance."*
+- Littlefinger returned [Shang's](the-smiling-one.md) military medal; Migo was appreciative but not leveraged by the gesture (Diplomacy 11)
+- Read as forthright and honest by Littlefinger (Perception—good roll)
+- Expressed belief that the land's spirits are unhappy: moths, infestations, and the ghoul uprising are signs of displeasure with the magistrate's activities

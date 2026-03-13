@@ -25,7 +25,7 @@ That changed at the Festival of Returning Spirits, where she performed as one of
 
 ## Personality
 
-Not yet fully established through direct interaction. Based on [Willow's](radiant-willow.md) account, Meilin has been practicing diligently for the ceremonial dance and has shown dedication and grace.
+Meilin is shy, reserved, and cautiously observant. She is grateful without being effusive, and measures her words carefully. When asked about the new mayor, she expressed guarded optimism while noting she "can't ignore the recent peculiarities"—a sign of quiet intelligence beneath her modest demeanor.
 
 ---
 
@@ -45,3 +45,10 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - Performed as one of five dancers at the Festival of Returning Spirits ceremonial dance
 - Her transformation after Willow's makeover was the talk of the town—previously unnoticed, now considered possibly the most beautiful young woman in Willowshore
 - Littlefinger was absent during her performance (he was swimming through a koi pond tunnel at the time)
+
+### Session Five (2026-03-12)
+- [Radiant Willow](radiant-willow.md) arranged for Meilin to stand next to Littlefinger at the festival—she was embarrassed but willing
+- Thanked the party again for helping during the undead crisis and for the graveyard cleanup
+- Spoke about the mayor: cautiously optimistic but reserving judgment—*"I can't ignore some of the recent peculiarities. We had an undead uprising."*
+- Described as having the "classic 80s rom-com glow-up"—her previously matted hair and rough clothes replaced by festival finery
+- Littlefinger expressed regret at missing her dance; she was pleased but still shy about the attention

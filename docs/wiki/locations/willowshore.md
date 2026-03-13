@@ -97,6 +97,7 @@ This deception created factions. Some people secretly blame each other; some wel
 | **Cloud Paper Lodge** | Paper lantern shop; their fireworks were stored in the warehouse |
 | **Seven Colored Songbird Theater** | Open-air theater north of the bridge; site of performances, ceremonies, and the Festival of Returning Spirits transfer of power |
 | **Liwen's Flower Cart** | Tiny florist shop (barely more than a cart) run by [Liwen](../npcs/liwen.md) |
+| **Luda's Shop** | Seamstress and informal arcane supplier run by [Luda](../npcs/luda.md); deals in rare plants, alchemy ingredients, and spell components |
 | **The Luckless Cod** | Local tavern where workers drink after hours |
 | **The Warehouse** | Dock storage for festival fireworks; partially destroyed by fire |
 | **[The Dark Woods](dark-woods.md)** | Dense forest to the north; home of the Mourndusk Willow; dangerous at night |
@@ -106,8 +107,9 @@ This deception created factions. Some people secretly blame each other; some wel
 ## Key Figures
 
 ### Oni Regime
-- [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) — Blue-skinned oni sent to prepare for the mayor's arrival
-- [Mayor Masru](../npcs/mayor-masru.md) — The incoming oni mayor (not yet arrived)
+- [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) — Blue-skinned oni magistrate enforcing martial law
+- [Mayor Masru](../npcs/mayor-masru.md) — The affable blue-skinned oni mayor, now in residence
+- Four red-skinned oni guards in samurai armor
 
 ### Residents
 - [Migo](../npcs/migo.md) — Matriarch of the Yeshou family
@@ -172,3 +174,13 @@ This deception created factions. Some people secretly blame each other; some wel
 - The party infiltrated the **Yeshou estate** via three routes: firefly through a window, koi pond tunnel, and shed tunnel
 - A **fox construct alarm** triggered in the magistrate's bedroom; Kurosawa rushed back to the estate
 - The Yeshou estate's **koi pond passage** is guarded by a **mutated koi fish**
+
+### Session Five (2026-03-12)
+- The party escaped the estate: Donkey as a firefly, Da Baishan through the front door with a bluff, Littlefinger through the shadows after stealing a military medal
+- **Martial law declared** by Mayor Masru and Magistrate Kurosawa—all citizens confined to homes, gatherings criminal, travel forbidden; decrees nailed across both sides of town
+- Oni guards actively patrolled both banks, escorting citizens home and confronting those outside
+- Donkey used **Conceal Spell** to cast Sleep on an oni guard enforcing the lockdown
+- The party was escorted back to Silver Mist Inn under guard
+- [Migo](../npcs/migo.md) revealed the existence of **Gosembiki** (五芒星, the Five Pointed Star)—haunted ruins 10–20 miles east of Willowshore, connected to the ley line convergence
+- [Luda](../npcs/luda.md), a local seamstress and arcane supplier, reported suspicious ingredient purchases by [Kurosawa](../npcs/magistrate-kurosawa.md)
+- The town is now under active lockdown; the magistrate plans to investigate the estate break-in

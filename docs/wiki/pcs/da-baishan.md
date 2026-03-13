@@ -112,7 +112,17 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Infiltrated the Yeshou estate during the festival via the **shed tunnel** (Stealth 12, Athletics 16 to break the latch)
 - Checked for traps on the first floor (Perception 26—none found)
 - Met Littlefinger in the wine cellar; heard the fox alarm from upstairs; heard the front door open (magistrate entering)
-- **Currently trapped on the first floor** with Littlefinger as the magistrate enters the estate
-- Received Message from Ginkgo throughout the infiltration—learned the magistrate was heading back
-- [Radiant Willow](../npcs/radiant-willow.md) has matchmaking plans for him with **Peony Switchstep**, a cheerful seamstress
+- [Radiant Willow](../npcs/radiant-willow.md) has matchmaking plans for him with **[Peony Switchstep](../npcs/peony-switchstep.md)**, a cheerful seamstress
 - **Reached Level 2**
+
+### Session Five (2026-03-12)
+- Whispered to Littlefinger to hide and search, then crept toward the estate's front door at half speed (Stealth 18, 19—one creaky floorboard and a knocked-over object along the way)
+- Emerged outside and bluffed [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) at the front door: *"I heard the alarm—I'm here to help"* (Deception 12—not great, but Kurosawa's grip on his sword loosened)
+- Helpfully pointed out the shed door was ajar, redirecting Kurosawa's attention to investigate there
+- Dismissed by the magistrate; reconvened with the party outside the estate walls
+- During martial law, helped lead the distraction team to confront Kurosawa directly, offering investigative services
+- Kurosawa told him pointedly: *"I believe our criminals are within my sight"*—then said he would summon Da Baishan in the morning for investigative assistance
+- Escorted back to Silver Mist Inn under guard
+- Requested an **alibi** from [Migo](../npcs/migo.md); the Yeshou family agreed to vouch for the party
+- **Level 2 upgrades:** Skill increase in Thievery; Shared Stratagem (class feat—ally also treats target as off-guard when using Devise a Stratagem); Eyes of the City (skill feat—use local citizens to help track people in settlements)
+- **[Peony Switchstep](../npcs/peony-switchstep.md)** gave [Willow](../npcs/radiant-willow.md) visible resistance when she tried to arrange a meeting at the festival

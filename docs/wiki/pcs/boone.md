@@ -106,6 +106,16 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Stayed at the Festival of Returning Spirits to observe the ceremony and provide backup
 - Chased down [Mayor Masru](../npcs/mayor-masru.md) with a basket of fish to stall him from returning to the estate—**tripped and scattered food everywhere** (Diplomacy 3)
 - Despite the fumble, Masru liked him; the mayor introduced himself casually and went back to feasting
-- **Currently running toward the Yeshou estate** to assist the infiltration team
 - [Radiant Willow](../npcs/radiant-willow.md) has matchmaking plans for him with **Cloud Ygritte**, a patient yak herder with chin fuzz
 - **Reached Level 2**
+
+### Session Five (2026-03-12)
+- Reunited with the party outside the estate walls; headed back to the festival
+- Wanted to find [Willow](../npcs/radiant-willow.md) and facilitate the matchmaking; wanted to ask [Migo](../npcs/migo.md) about the moths
+- Gave **Guidance** to Littlefinger during his Diplomacy check with [Meilin](../npcs/meilin.md)
+- During martial law, used a bold deception on oni guards: *"He asked us to come see him. Do you want to be the one to tell him that you denied his explicit order?"* (Deception—good roll); guards escorted the party to Kurosawa instead of arresting them
+- Backed up Da Baishan before Kurosawa: *"As we understand it, he asked us to find any unrest. This is clearly unrest."*
+- Visited Migo; asked about escape routes from town; learned the magistrate's arcane abilities make simple evasion risky
+- Cloud Ygritte, his matchmaking candidate, had retired early from the festival before they could meet
+- **Level 2 upgrades:** Medic Dedication (archetype feat—expertise in Medicine; enhanced Battle Medicine and Treat Wounds; once per day break Battle Medicine immunity); Assurance in Medicine (skill feat—guaranteed success at basic DCs)
+- **Homebrew hero point:** Second Wind—gain temporary HP; immune to fatigued, slowed, and sickened for 10 minutes

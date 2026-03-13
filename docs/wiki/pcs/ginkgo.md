@@ -119,5 +119,16 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Tapped into the **mycelium network** (Nature 27) to eavesdrop on the magistrate and mayor's conversation—overheard the mayor's complaint about missing food
 - Helped Boone stall [Mayor Masru](../npcs/mayor-masru.md) with food to buy the infiltration team time
 - Cast **Guidance** on Boone's diplomacy attempt (it didn't help—Boone rolled a 3)
-- **Currently at the festival** maintaining Message contact with Da Baishan
 - **Reached Level 2**
+
+### Session Five (2026-03-12)
+- Reunited with the party outside the estate walls after the escape; remarked on Da Baishan's sweat and Littlefinger's soaking
+- Proposed splitting up during martial law: go talk to the magistrate as a distraction while Littlefinger hides the contraband
+- Part of the distraction team that confronted [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md): backed up Boone's deception—*"He hired us. He paid us gold. We're reporting back to him."*
+- Escorted back to Silver Mist Inn by oni guards
+- Visited [Migo](../npcs/migo.md) with the party; learned about the **Gosembiki** (Five Pointed Star)—haunted ruins east of Willowshore
+- Responded to Migo's question about the mayor: *"Unbelievably friendly."*
+- Lit his pipe with the martial law decree
+- Rolled poorly on the Society check at the festival (distracted—"very distracted by maybe the drink or other things")
+- **Level 2 upgrades:** Communal Healing (class feat—when healing one character, also heal an adjacent character); skill feat TBD
+- **Homebrew hero point:** Divine Surge—instantly heal self or one ally in range, OR regain a focus point / re-roll a failed save

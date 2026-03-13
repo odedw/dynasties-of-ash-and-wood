@@ -110,6 +110,23 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Checked for traps with Da Baishan (combined Perception 26 and Thievery 15—clear)
 - Climbed to the first floor; heard the fox alarm from the second floor
 - Heard the estate's front door open—the magistrate entering
-- **Currently trapped on the first floor** with Da Baishan as the magistrate storms inside
 - **Missed [Meilin's](../npcs/meilin.md) transformation** at the festival dance—[Radiant Willow](../npcs/radiant-willow.md) considers Meilin a potential match for him
 - **Reached Level 2**
+
+### Session Five (2026-03-12)
+- Spotted a **glass display case** on the first floor while hiding; picked its lock with embarrassing ease (Thievery—high roll)
+- Stole **Shang Yesho's military medal** (gold with gems, ~100 gp) and the accompanying **award citation** from the case
+- Hid in the darkness of the hallway (Stealth—high roll) as Kurosawa descended the stairs without glancing his way
+- Escaped through the front door after the magistrate left; went in the opposite direction
+- At the festival, [Willow](../npcs/radiant-willow.md) placed [Meilin](../npcs/meilin.md) next to him; expressed regret at missing her dance; was cautious and reserved due to carrying stolen goods
+- Asked Meilin about the mayor (Diplomacy with Guidance from Boone); she was cautiously optimistic but wary
+- Took all the party's contraband and attempted to sneak to the graveyard to hide it (Stealth 10—poor)
+- Spotted an oni guard following him (Perception—**nat 20**); bolted
+- Chase went badly: Athletics 22 → 13 (failed) → burned **Halfling's Luck** → rolled 6 (worse); cornered against a building
+- Used **Conceal Object** (25) to wedge the stolen papers into a crevice between boards before the guard grabbed him
+- Lifted into the air by the oni guard; talked his way out by claiming to be drunk and lost (Deception—very high roll); guard put him down and escorted him to the inn
+- Returned **Shang Yesho's medal** to the Yeshou family at Silver Mist Inn; [Shang](../npcs/the-smiling-one.md) took it back with delight; Migo appreciated the gesture but wasn't leveraged (Diplomacy 11)
+- Read Migo as forthright and honest (Perception—good roll)
+- **Stolen papers remain hidden** in a wall crevice on the north side of town; need to be retrieved
+- **Level 2 upgrades:** Minor Magic (class feat—gain ability to cast a cantrip); skill feat TBD
+- **Homebrew hero point:** Parkour—spend hero point + 1 action for 2 extra movement actions; guaranteed sneak attack if adjacent to foe afterward

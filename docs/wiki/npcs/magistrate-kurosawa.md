@@ -36,11 +36,12 @@ He views the party as useful tools: outsiders without entrenched loyalties who c
 
 ## Goals
 
-- Ensure the Festival of Returning Spirits proceeds without incident
 - Establish oni authority over Willowshore with minimal resistance
-- Identify and neutralize potential sources of dissent
-- Prepare for [Mayor Masru's](mayor-masru.md) arrival
-- **Unknown purpose at the Mourndusk Willow** — He has been making repeated visits to an ancient tree in the [Dark Woods](../locations/dark-woods.md); his reasons remain a mystery
+- Identify and neutralize potential sources of dissent—currently suspects the party
+- **The Gosembiki** — Investigating haunted ruins called the Five Pointed Star (五芒星), 10–20 miles east of Willowshore; has recently traveled there
+- **The Mourndusk Willow ritual** — Conducting a summoning of the Mother of a Thousand Wings at the ancient tree in the [Dark Woods](../locations/dark-woods.md)
+- **A device** — Commissioned [Yong](yong.md) to build an apparatus; a diagram matching it was found on a map marking the eastern ruins
+- **Arcane stockpiling** — Purchasing high-volume, specific arcane ingredients from [Luda](luda.md), a local alchemical supplier
 
 ---
 
@@ -98,3 +99,16 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Employs a **fox construct** as a security system—a carved stone-and-wood fox with glowing runes and blue eyes that howls an alarm when intruders are detected
 - Stormed into the estate after the fox alarm sounded, arriving while the party was still inside
 - Appeared frustrated with Mayor Masru's lack of urgency throughout the evening
+
+### Session Five (2026-03-12)
+- Burst into the master bedroom seconds after Donkey escaped as a firefly; noticed the fox alarm missing and papers disturbed on the desk
+- Confronted Da Baishan at the front door—accepted his story about responding to the alarm (Deception 12) but was not fully convinced; dismissed him and inspected the shed (whose door Da Baishan had broken in Session Four)
+- Did not notice Littlefinger hiding in the first-floor hallway or the missing medal from the glass display case
+- Returned to the festival roughly 30 minutes later; stood at the edge studying the crowd before approaching [Mayor Masru](mayor-masru.md) and convincing him to retire for the evening
+- **Declared martial law** across Willowshore—oni guards nailed decrees to buildings and posts: no travel, no gatherings, suspects dealt with harshly
+- Personally patrolled the north side of town during the lockdown
+- Confronted the party when they approached him, saying: *"I believe our criminals are within my sight. I think we'll reach them quickly."*
+- Told Da Baishan he would summon him the following morning for investigative assistance—likely an interrogation
+- Had the party escorted back to Silver Mist Inn under guard
+- [Migo](migo.md) revealed he has been investigating ruins east of town called the **Gosembiki** (Five Pointed Star) and has recently traveled there
+- [Luda](luda.md) reported he demanded high-volume, specific arcane ingredients from her—further evidence of an active ritual or construction project
