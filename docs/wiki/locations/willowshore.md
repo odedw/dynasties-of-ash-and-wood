@@ -112,7 +112,7 @@ This deception created factions. Some people secretly blame each other; some wel
 - Four red-skinned oni guards in samurai armor
 
 ### Residents
-- [Migo](../npcs/migo.md) — Matriarch of the Yeshou family
+- [Mido](../npcs/mido.md) — Matriarch of the Yeshou family
 - [The Smiling One](../npcs/the-smiling-one.md) — Ruling family member who "knows the real ending"
 - [Donkey](../pcs/donkey.md) — Ancient elf wizard; village witch
 - [Yong](../npcs/yong.md) — Kitsune blacksmith at Eternal Blaze Ironworks
@@ -145,7 +145,7 @@ This deception created factions. Some people secretly blame each other; some wel
 
 ### Session Two (2026-02-05)
 - [Hong](../npcs/hong.md) revealed as the arsonist, hired by the [Yeshou family](../factions/willowshore-ruling-family.md)
-- [Migo](../npcs/migo.md) introduced as the family matriarch; admitted to the sabotage and canceled further plans
+- [Mido](../npcs/mido.md) introduced as the family matriarch; admitted to the sabotage and canceled further plans
 - Kurosawa's secret visits to the [Mourndusk Willow](dark-woods.md) in the [Dark Woods](dark-woods.md) revealed
 - Undead rose in the graveyard for the first time in living memory
 - The party fought a ghoul, a zombie, and an undead cat at the cemetery
@@ -156,9 +156,9 @@ This deception created factions. Some people secretly blame each other; some wel
 - The party explored the [Dark Woods](dark-woods.md) and discovered a **dark summoning ritual** at the [Mourndusk Willow](dark-woods.md)
 - The river spirit identified as **[Cassian Voss](../npcs/cassian-voss.md)**, a foreign researcher from Absalom
 - Fought blight-infected wildlife at the Mourndusk Willow; Ginkgo created a salve to cleanse the lichen blight
-- [Migo](../npcs/migo.md) identified the ritual as a summoning of the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
+- [Mido](../npcs/mido.md) identified the ritual as a summoning of the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
 - Willowshore revealed to sit at a **convergence of ley lines**—arcane geomancy paths that mirror the five rivers on the surface
-- [Migo](../npcs/migo.md) disclosed **secret entrances** into the Yeshou estate (now occupied by the magistrate)
+- [Mido](../npcs/mido.md) disclosed **secret entrances** into the Yeshou estate (now occupied by the magistrate)
 - [Yong](../npcs/yong.md) delivered runed weapons to the party; confirmed plans to leave for a coastal town after the festival
 - [Hong](../npcs/hong.md) reported no further sabotage plots among the town's children
 - The Festival of Returning Spirits is set for the next evening
@@ -166,8 +166,8 @@ This deception created factions. Some people secretly blame each other; some wel
 ### Session Four (2026-02-26)
 - The **Festival of Returning Spirits** took place: procession, tea transfer ceremony at the Seven Colored Songbird Theater, ceremonial dance, and feast
 - [Mayor Masru](../npcs/mayor-masru.md) arrived with four red-skinned oni guards—surprisingly unimposing, affable, and food-obsessed
-- [Migo](../npcs/migo.md) formally transferred power to Masru via the tea ceremony
-- A **moth swarm** destroyed five lanterns at the theater, alarming both [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) and Migo
+- [Mido](../npcs/mido.md) formally transferred power to Masru via the tea ceremony
+- A **moth swarm** destroyed five lanterns at the theater, alarming both [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) and Mido
 - [Meilin](../npcs/meilin.md) the gravekeeper stunned the town with her transformation during the dance
 - A **dwarven skeleton** (Kaizo clan) was discovered in an old dry well
 - [Liwen](../npcs/liwen.md) the florist revealed Kurosawa ordered five dozen white lilies (funeral flowers)
@@ -181,6 +181,16 @@ This deception created factions. Some people secretly blame each other; some wel
 - Oni guards actively patrolled both banks, escorting citizens home and confronting those outside
 - Donkey used **Conceal Spell** to cast Sleep on an oni guard enforcing the lockdown
 - The party was escorted back to Silver Mist Inn under guard
-- [Migo](../npcs/migo.md) revealed the existence of **Gosembiki** (五芒星, the Five Pointed Star)—haunted ruins 10–20 miles east of Willowshore, connected to the ley line convergence
+- [Mido](../npcs/mido.md) revealed the existence of **Gosembiki** (五芒星, the Five Pointed Star)—haunted ruins 10–20 miles east of Willowshore, connected to the ley line convergence
 - [Luda](../npcs/luda.md), a local seamstress and arcane supplier, reported suspicious ingredient purchases by [Kurosawa](../npcs/magistrate-kurosawa.md)
 - The town is now under active lockdown; the magistrate plans to investigate the estate break-in
+
+### Session Six (2026-03-19)
+- A **shared dream** spread through the town—multiple residents including the party, [Mayor Masru](../npcs/mayor-masru.md), and [Radiant Willow](../npcs/radiant-willow.md) experienced vivid visions of the land crying out in pain, rivers running black, and ley lines warping under pressure
+- [Kurosawa](../npcs/magistrate-kurosawa.md) ransacked the party's rooms at Silver Mist Inn as part of his investigation
+- [Mayor Masru](../npcs/mayor-masru.md) hired the party as **"Masru's Faithful Five"** with daily stipends and investigative licenses, overriding Kurosawa's authority
+- The Yeshou family was **sentenced to exile** in five days by Kurosawa
+- [Meilin](../npcs/meilin.md) now appears to serve as a personal attendant to the mayor at the estate
+- [Captain Akoto](../npcs/captain-akoto.md) identified as one of the oni guard captains patrolling the town
+- The party tested their credentials, questioned Akoto, visited the Yeshous, [Radiant Willow](../npcs/radiant-willow.md), and the cemetery before leaving town east toward the [Gosembiki ruins](gosembiki-ruins.md)
+- One of [Mido's](../npcs/mido.md) guards was found transformed into an **infected werewolf** 8+ miles east of town and killed by the party

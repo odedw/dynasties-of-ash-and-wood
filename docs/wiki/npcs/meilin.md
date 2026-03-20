@@ -52,3 +52,9 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - Spoke about the mayor: cautiously optimistic but reserving judgment—*"I can't ignore some of the recent peculiarities. We had an undead uprising."*
 - Described as having the "classic 80s rom-com glow-up"—her previously matted hair and rough clothes replaced by festival finery
 - Littlefinger expressed regret at missing her dance; she was pleased but still shy about the attention
+
+### Session Six (2026-03-19)
+- Served [Mayor Masru](../npcs/mayor-masru.md) at the estate in uncomfortable, revealing attire—a short-shorts crop-top style uniform; visibly embarrassed, tugging at the fabric to cover more
+- The mayor openly leered at her and made comments about her beauty and earning potential at a gentleman's club in [Kirahata](../locations/kirahata.md)
+- Brought vellum and ink for the party's contract when summoned by the mayor's bell
+- Her current role appears to be some form of personal attendant to the mayor—an arrangement she seems deeply uncomfortable with

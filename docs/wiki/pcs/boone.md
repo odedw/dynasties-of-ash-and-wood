@@ -78,7 +78,7 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Resisted [Radiant Willow's](../npcs/radiant-willow.md) attempts to braid his beard
 
 ### Session Two (2026-02-05)
-- Stayed with [Hong](../npcs/hong.md) at Silver Mist Lodge while the party met with [Migo](../npcs/migo.md); bonded with the boy over stories of distant lands
+- Stayed with [Hong](../npcs/hong.md) at Silver Mist Lodge while the party met with [Mido](../npcs/mido.md); bonded with the boy over stories of distant lands
 - Used **Sudden Charge** in the graveyard combat to close 40 feet and strike in one move
 - Killed the ghoul with a vertical cleave and the zombie with a horizontal slash—establishing a signature fighting style
 - Used **Raise Shield** for +2 AC during combat
@@ -111,11 +111,20 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 
 ### Session Five (2026-03-12)
 - Reunited with the party outside the estate walls; headed back to the festival
-- Wanted to find [Willow](../npcs/radiant-willow.md) and facilitate the matchmaking; wanted to ask [Migo](../npcs/migo.md) about the moths
+- Wanted to find [Willow](../npcs/radiant-willow.md) and facilitate the matchmaking; wanted to ask [Mido](../npcs/mido.md) about the moths
 - Gave **Guidance** to Littlefinger during his Diplomacy check with [Meilin](../npcs/meilin.md)
 - During martial law, used a bold deception on oni guards: *"He asked us to come see him. Do you want to be the one to tell him that you denied his explicit order?"* (Deception—good roll); guards escorted the party to Kurosawa instead of arresting them
 - Backed up Da Baishan before Kurosawa: *"As we understand it, he asked us to find any unrest. This is clearly unrest."*
-- Visited Migo; asked about escape routes from town; learned the magistrate's arcane abilities make simple evasion risky
+- Visited Mido; asked about escape routes from town; learned the magistrate's arcane abilities make simple evasion risky
 - Cloud Ygritte, his matchmaking candidate, had retired early from the festival before they could meet
 - **Level 2 upgrades:** Medic Dedication (archetype feat—expertise in Medicine; enhanced Battle Medicine and Treat Wounds; once per day break Battle Medicine immunity); Assurance in Medicine (skill feat—guaranteed success at basic DCs)
 - **Homebrew hero point:** Second Wind—gain temporary HP; immune to fatigued, slowed, and sickened for 10 minutes
+
+### Session Six (2026-03-19)
+- Had a **unique dream** different from the rest of the party—a battlefield vision of the **Battle of Five Crows**, a massacre from the old war; saw [Cheng Yesho](../npcs/the-smiling-one.md) performing a chanting ritual that summoned a demonic entity; a voice repeated: *"The artist, the ruler, the sage, the lover, the judge. Five must fall before the world is born anew."*
+- Felt a **chill** upon seeing Cheng's permanent smile again—a visceral flashback to the dream where Cheng's face distorted during the ritual
+- Shared the dream with the party; the prophecy became a central investigation thread
+- **Demoralized the infected werewolf** in combat (Intimidation vs. Will—creature rolled a 1, becoming frightened); helped **trip** the creature prone
+- Dealt **21 damage** with his polearm after the trip, the heaviest single hit of the fight
+- [Radiant Willow](../npcs/radiant-willow.md) attempted to set him up with someone new; politely declined
+- Religion check (18) revealed the old gods had shifting names (one called the "Nameless God"), their domains were chaos, destruction, lust, and blood

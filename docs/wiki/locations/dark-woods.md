@@ -73,7 +73,7 @@ The grave tender and Donkey both confirmed this is unprecedented. Something is d
 
 ## The Ley Line Convergence
 
-[Migo](../npcs/migo.md) revealed that Willowshore sits at a convergence of **ley lines**—arcane geomancy paths deep in the earth. Just as five rivers join on the surface, these invisible lines of magical energy cross beneath the village, creating a **focal point** that can be tapped to amplify magical power.
+[Mido](../npcs/mido.md) revealed that Willowshore sits at a convergence of **ley lines**—arcane geomancy paths deep in the earth. Just as five rivers join on the surface, these invisible lines of magical energy cross beneath the village, creating a **focal point** that can be tapped to amplify magical power.
 
 The Mourndusk Willow, with its ancient roots reaching deep into the earth, acts as a **"lightning rod"** for rituals that tap into these ley lines. This convergence is likely the true reason [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) was assigned to Willowshore—not just to oversee a political transition, but to exploit this magical nexus.
 
@@ -98,14 +98,14 @@ The ritual produced a **lichen blight** as a byproduct—a pale yellow, mossy gr
 
 ### Identification
 - Da Baishan (Occultism 24) identified the ritual as a **dark sacrificial substitution**—a communion or summoning that was at least partially successful
-- [Migo](../npcs/migo.md) identified the entity being summoned as the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
+- [Mido](../npcs/mido.md) identified the entity being summoned as the **"Mother of a Thousand Wings"**—an ancient demon of pestilence
 
 ---
 
 ## Session History
 
 ### Session Two (2026-02-05)
-- The Dark Woods and Mourndusk Willow described by [Migo](../npcs/migo.md) and identified by Ginkgo
+- The Dark Woods and Mourndusk Willow described by [Mido](../npcs/mido.md) and identified by Ginkgo
 - Kurosawa's secret visits to the Mourndusk Willow revealed
 - The graveyard became the site of the party's first combat encounter
 - Undead rising identified as an unprecedented event for Willowshore
@@ -118,4 +118,4 @@ The ritual produced a **lichen blight** as a byproduct—a pale yellow, mossy gr
 - Ginkgo crafted a **healing salve** from his own body that neutralized the lichen; the party created a **salve bomb** that cured both squirrels
 - Da Baishan investigated the ritual objects; Ginkgo communed with the tree (it was "sad and battered")
 - The party spent the remaining daylight cleansing the tree and surrounding area of all blight
-- [Migo](../npcs/migo.md) later identified the ritual as a summoning of the **Mother of a Thousand Wings** and explained the **ley line convergence** beneath Willowshore
+- [Mido](../npcs/mido.md) later identified the ritual as a summoning of the **Mother of a Thousand Wings** and explained the **ley line convergence** beneath Willowshore

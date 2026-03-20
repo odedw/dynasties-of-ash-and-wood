@@ -103,8 +103,8 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Crafted additional salve during combat for the salve bomb
 - Spoke a **farewell to the fallen bear**: *"The soil welcomes you. By tomorrow the forest will know your name."*
 - Led the effort to **cleanse the entire tree** of blight using the salve
-- Visited [Migo](../npcs/migo.md) with Donkey to share findings; learned about the **Mother of a Thousand Wings** and **ley lines** beneath Willowshore
-- Enjoyed Migo's rice cakes (again)
+- Visited [Mido](../npcs/mido.md) with Donkey to share findings; learned about the **Mother of a Thousand Wings** and **ley lines** beneath Willowshore
+- Enjoyed Mido's rice cakes (again)
 
 ### Session Four (2026-02-26)
 - Received a **peach petal exfoliation** and makeover from [Radiant Willow](../npcs/radiant-willow.md)—flower petals woven into his fungal exterior, leaving him "glistening in the light of day"
@@ -115,7 +115,7 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Received fortune petal: *"Even the tiniest bud dreams of becoming a blossom. So should you."*
 - Stayed at the festival during the infiltration; maintained **Message** communication with Da Baishan
 - Watched the ceremonial dance; observed the **moth swarm** destroy five lanterns (Perception 25)
-- Noticed [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) and [Migo](../npcs/migo.md) lock eyes after the moth incident
+- Noticed [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) and [Mido](../npcs/mido.md) lock eyes after the moth incident
 - Tapped into the **mycelium network** (Nature 27) to eavesdrop on the magistrate and mayor's conversation—overheard the mayor's complaint about missing food
 - Helped Boone stall [Mayor Masru](../npcs/mayor-masru.md) with food to buy the infiltration team time
 - Cast **Guidance** on Boone's diplomacy attempt (it didn't help—Boone rolled a 3)
@@ -126,9 +126,20 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Proposed splitting up during martial law: go talk to the magistrate as a distraction while Littlefinger hides the contraband
 - Part of the distraction team that confronted [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md): backed up Boone's deception—*"He hired us. He paid us gold. We're reporting back to him."*
 - Escorted back to Silver Mist Inn by oni guards
-- Visited [Migo](../npcs/migo.md) with the party; learned about the **Gosembiki** (Five Pointed Star)—haunted ruins east of Willowshore
-- Responded to Migo's question about the mayor: *"Unbelievably friendly."*
+- Visited [Mido](../npcs/mido.md) with the party; learned about the **Gosembiki** (Five Pointed Star)—haunted ruins east of Willowshore
+- Responded to Mido's question about the mayor: *"Unbelievably friendly."*
 - Lit his pipe with the martial law decree
 - Rolled poorly on the Society check at the festival (distracted—"very distracted by maybe the drink or other things")
 - **Level 2 upgrades:** Communal Healing (class feat—when healing one character, also heal an adjacent character); skill feat TBD
 - **Homebrew hero point:** Divine Surge—instantly heal self or one ally in range, OR regain a focus point / re-roll a failed save
+
+### Session Six (2026-03-19)
+- Had the **shared dream** of the wounded land; interpreted it as the spirits calling for help
+- Used **Message** cantrip to warn [Mido](../npcs/mido.md) that [Kurosawa](../npcs/magistrate-kurosawa.md) was heading to confront her about stolen items
+- **Demanded name and rank** from [Captain Akoto](../npcs/captain-akoto.md) during a martial law encounter—*"Not so fast. Name and rank, please."*—establishing authority with their new credentials
+- Caught [Cheng's](../npcs/the-smiling-one.md) **loaded glance at Mido** before answering (Perception 20); said "the old gods" aloud when Cheng wrote "the old ones," prompting a direct look from Cheng
+- Asked key questions during the séance and to [Mido](../npcs/mido.md) about the old gods and dreams
+- Hit the werewolf's leg with **Divine Lance** (spirit damage), inflicting the **clumsy condition**—slowing the creature and reducing its AC; asked GM if he was "allowed to hurt" given his pacifist inclinations
+- Cast **Shield** on himself during combat
+- Signed the mayor's contract without reading it; Littlefinger noted his signature "looks like a mushroom"
+- Visited [Radiant Willow](../npcs/radiant-willow.md); received a spritz of new perfume; asked about her dream and the land's health

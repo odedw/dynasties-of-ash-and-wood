@@ -82,7 +82,7 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 
 ### Session Two (2026-02-05)
 - Used **Clue In** to help Donkey read [Hong's](../npcs/hong.md) evasions during the interrogation
-- Led the questioning of [Migo](../npcs/migo.md); earned her respect with honest disclosure of the party's dual loyalties
+- Led the questioning of [Mido](../npcs/mido.md); earned her respect with honest disclosure of the party's dual loyalties
 - Left [Hong's](../npcs/hong.md) satchel with the Yeshou family to be filled with gold
 - Used crossbow and **Devise a Stratagem** in the graveyard combat; killed the undead cat with a precisely planned short sword strike (rolled a 19 on stratagem)
 - Saw the **river spirit** during and after combat—the same body he and Ginkgo hid; it shielded him from the cat's attack
@@ -123,6 +123,15 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - During martial law, helped lead the distraction team to confront Kurosawa directly, offering investigative services
 - Kurosawa told him pointedly: *"I believe our criminals are within my sight"*—then said he would summon Da Baishan in the morning for investigative assistance
 - Escorted back to Silver Mist Inn under guard
-- Requested an **alibi** from [Migo](../npcs/migo.md); the Yeshou family agreed to vouch for the party
+- Requested an **alibi** from [Mido](../npcs/mido.md); the Yeshou family agreed to vouch for the party
 - **Level 2 upgrades:** Skill increase in Thievery; Shared Stratagem (class feat—ally also treats target as off-guard when using Devise a Stratagem); Eyes of the City (skill feat—use local citizens to help track people in settlements)
 - **[Peony Switchstep](../npcs/peony-switchstep.md)** gave [Willow](../npcs/radiant-willow.md) visible resistance when she tried to arrange a meeting at the festival
+
+### Session Six (2026-03-19)
+- Had the **shared dream** of the wounded land with the rest of the party
+- **Channeled [Cassian Voss's](../npcs/cassian-voss.md) spirit** during a cemetery séance (Spirit Lore 18, Diplomacy check)—his body and voice taken over by the spirit while he could hear but not control himself; described the experience as "deeply unsettling"
+- Voss's spirit revealed critical information through him: the old gods are closer than believed, the prophecy is a ritual for "the Unspeakable One," and five must be sacrificed
+- Spirit lore (17) confirmed the old gods were banished to a pocket dimension, not destroyed; communing requires a medium with cross-planar reach—suggested the **ancient willow tree** in the Dark Woods
+- Spirit lore (20) identified that communing with old gods generally requires a proxy medium; ley lines have cross-planar reach; five ley lines would be especially powerful
+- Missed **three consecutive crossbow shots** during the werewolf combat; switched to his **Guan Dao** and landed a hit for 8 damage in melee while flanking
+- Devise a Stratagem rolls were poor both rounds—low D20 results

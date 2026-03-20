@@ -1,4 +1,4 @@
-# Migo
+# Mido
 
 *The old woman smokes, drinks, and runs Willowshore's most powerful family from a borrowed room in a faded inn.*
 
@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Name** | Migo |
+| **Name** | Mido |
 | **Title** | Matriarch / Elder |
 | **Ancestry** | Human (elderly) |
 | **Affiliation** | [Willowshore Ruling Family](../factions/willowshore-ruling-family.md) (Yeshou family) |
@@ -18,7 +18,7 @@
 
 ## Description
 
-Migo is the matriarch of the Yeshou family—the de facto ruling family of [Willowshore](../locations/willowshore.md). She is elderly, possibly ancient, having been alive during the family's founding era. She holds court in a darkened suite at Silver Mist Lodge, curtains drawn, wreathed in tobacco smoke, flanked by two guards who are family retainers rather than blood relatives.
+Mido is the matriarch of the Yeshou family—the de facto ruling family of [Willowshore](../locations/willowshore.md). She is elderly, possibly ancient, having been alive during the family's founding era. She holds court in a darkened suite at Silver Mist Lodge, curtains drawn, wreathed in tobacco smoke, flanked by two guards who are family retainers rather than blood relatives.
 
 She has a piercing gaze and projects quiet, absolute authority. She drinks and smokes with the unhurried ease of someone who has outlasted most of her problems.
 
@@ -26,7 +26,7 @@ She has a piercing gaze and projects quiet, absolute authority. She drinks and s
 
 ## Personality
 
-Migo is sharp, pragmatic, and honest when it serves her interests. She does not posture or waste words. When confronted with the party's evidence of her family's sabotage, she admitted it immediately—calling it a "foolish endeavor" by "more brash" members—rather than wasting time on denials.
+Mido is sharp, pragmatic, and honest when it serves her interests. She does not posture or waste words. When confronted with the party's evidence of her family's sabotage, she admitted it immediately—calling it a "foolish endeavor" by "more brash" members—rather than wasting time on denials.
 
 She values honesty in return. Da Baishan's straightforward admission that the party was working under the magistrate's orders, but unwillingly, earned her respect and cooperation.
 
@@ -46,7 +46,7 @@ She is protective of her family's legacy and deeply opposed to the oni takeover,
 ## Relationships
 
 ### The Party
-Migo was impressed by the party's honesty and directness. She shared intelligence about Kurosawa's movements and honored the 100 gold payment to [Hong](hong.md) as promised. She expressed hope for "further conversations and a deeper understanding" with the group.
+Mido was impressed by the party's honesty and directness. She shared intelligence about Kurosawa's movements and honored the 100 gold payment to [Hong](hong.md) as promised. She expressed hope for "further conversations and a deeper understanding" with the group.
 
 ### [Magistrate Kurosawa](magistrate-kurosawa.md)
 She views him with deep suspicion. Her family has been tracking his movements and discovered his repeated visits to the Mourndusk Willow in the Dark Woods. She warned the party that he is "accomplished in the arcane arts" and "not exactly what he seems."
@@ -100,12 +100,22 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 ### Session Five (2026-03-12)
 - Received the party late at night after martial law was declared; served tea, smoking at her table
 - Revealed the **Gosembiki** (五芒星, the Five Pointed Star)—haunted ruins 10–20 miles east of Willowshore that Kurosawa has named and recently visited; described as a convergence point of arcane or chthonic intent
-- Her brother [Shang](the-smiling-one.md) translated the Chthonic name for her
+- Her brother [Cheng](the-smiling-one.md) translated the Chthonic name for her
 - Confirmed the **pattern of fives**: five ley lines, five lanterns destroyed, and the Five Pointed Star; said she does not believe it is coincidence
 - Explained the prolonged eye-lock with Kurosawa at the festival as a mutual acknowledgment—*"He knows that we are aware of his current festivities"*
 - Warned the party that Kurosawa is *"an elusive enigma of arcane energies"*—vastly knowledgeable in the arcane arts
 - **Agreed to provide an alibi** for the party: the family will say they were present for a family vote during the festival, departing only when the alarm sounded
 - Revealed the family **voted to stay** in Willowshore permanently after the ceremony: *"This place, we've been here for generations. We can't leave it to the hands of chance."*
-- Littlefinger returned [Shang's](the-smiling-one.md) military medal; Migo was appreciative but not leveraged by the gesture (Diplomacy 11)
+- Littlefinger returned [Cheng's](the-smiling-one.md) military medal; Mido was appreciative but not leveraged by the gesture (Diplomacy 11)
 - Read as forthright and honest by Littlefinger (Perception—good roll)
 - Expressed belief that the land's spirits are unhappy: moths, infestations, and the ghoul uprising are signs of displeasure with the magistrate's activities
+
+### Session Six (2026-03-19)
+- Received Ginkgo's **Message** cantrip warning that Kurosawa was coming to confront her about the stolen items
+- Only **one of her two guards** was present—the other was later found 8+ miles east of town, transformed into an infected werewolf
+- Called [Cheng](the-smiling-one.md) in to speak with the party; exchanged a **loaded glance** with him before he answered about the old gods
+- Explained that **five old gods** existed before the current pantheon—overthrown but not destroyed, banished to a pocket dimension; their names are lost to history
+- Revealed the family has been **sentenced to exile in five days** by [Kurosawa](magistrate-kurosawa.md), who claims they stole items vital to the Imperium and the Council of the Magi
+- Smiled dryly when asked about escape plans, saying the family has discussed "contingency plans"
+- Said she slept peacefully and did **not** have the shared dream
+- Continues to provide the party's **alibi** at personal risk

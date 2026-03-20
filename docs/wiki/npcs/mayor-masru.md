@@ -44,7 +44,7 @@ According to oni custom, Mayor Masru arrived claiming to have "always been here"
 
 Masru arrived the evening of the Festival of Returning Spirits, walking the procession route from the south gate across the bridge to the [Seven Colored Songbird Theater](../locations/willowshore.md). The townspeople averted their eyes per custom until he passed, then followed behind.
 
-At the theater, [Migo](migo.md) performed a formal tea transfer ceremony: she poured, they drank, they bowed, and the transfer of power was complete. Masru sat heavily in his front-row seat, his four guards beside him, with the magistrate at his side.
+At the theater, [Mido](mido.md) performed a formal tea transfer ceremony: she poured, they drank, they bowed, and the transfer of power was complete. Masru sat heavily in his front-row seat, his four guards beside him, with the magistrate at his side.
 
 After the ceremonial dance, when moths destroyed five lanterns and the magistrate rushed back to the estate, Masru's priority was clear: *"But I didn't get to eat yet."* He was lured back to the festival by Boone and Ginkgo with a basket of fish, and proceeded to feast enthusiastically—grabbing food, sampling drinks from other people's hands, and complaining about how terrible the travel rations had been.
 
@@ -79,7 +79,7 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 ### Session Four (2026-02-26)
 - **First appearance**: Arrived during the Festival of Returning Spirits with four red-skinned oni guards
 - Physically unimposing—short for an oni, enormously round, unarmored
-- Completed the tea transfer ceremony with [Migo](migo.md), officially assuming power over Willowshore
+- Completed the tea transfer ceremony with [Mido](mido.md), officially assuming power over Willowshore
 - Left the festival when the magistrate insisted after the moth incident, but was lured back by Boone and Ginkgo with food
 - Proved affable and approachable; introduced himself casually to the party
 - Feasted enthusiastically at the post-ceremony meal, sampling everything in sight
@@ -90,5 +90,15 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 - [Magistrate Kurosawa](magistrate-kurosawa.md) arrived at the festival, studied the crowd, then convinced Masru to retire for the evening; Masru was reluctant but acquiesced
 - Gave a brief, warm farewell to the townspeople: *"I'm sure we'll have many more opportunities to get to know each other."*
 - Departed with Kurosawa and guards to the estate
-- **Co-signed the martial law decree** alongside the magistrate—though [Migo](migo.md) suggested Kurosawa is the one driving the investigation
+- **Co-signed the martial law decree** alongside the magistrate—though [Mido](mido.md) suggested Kurosawa is the one driving the investigation
 - Townspeople spoke mostly favorably of him after his departure, though some dismissed his friendliness as "day one of his act"
+
+### Session Six (2026-03-19)
+- Had the **shared dream** about the wounded land—described it identically to the party's experience; was "disturbed greatly" by it
+- Overrode [Magistrate Kurosawa](magistrate-kurosawa.md) when a trooper summoned the party—pulled rank and insisted on meeting them despite the magistrate's ongoing investigation
+- **Hired the party as "Masru's Faithful Five"** with a formal contract: 10 gp daily stipend per person, incidentals by approval, and individual investigative licenses granting authority to act on his behalf
+- Their mission: investigate the dream, determine if the land is ailing, and report directly to him
+- Openly **leered at [Meilin](meilin.md)**, who was serving him in uncomfortably revealing attire; remarked that she could "make herself and myself very, very wealthy" working at **the Orchid** in [Kirahata](../locations/kirahata.md)
+- Revealed his background from **[Kirahata](../locations/kirahata.md)**—the "Vegas" of Chu Ye; former sumo competitor (nickname: "Sumo of Smiles"); ran several businesses there
+- Ate bread by biting loaves and putting them back on the shared plate; drank from a pitcher with two hands
+- Told the party the dream investigation is theirs to lead: *"I'm really, you know, a manager."*

@@ -95,7 +95,7 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Attempted **Hydraulic Push** with salve to blast the infected bear (missed)
 - Cast **Tangle Vine** on the bear (missed)
 - Went to **0 HP** from squirrel bites and a bear claw; stabilized and healed by Ginkgo
-- Visited [Migo](../npcs/migo.md) with Ginkgo to share findings about the ritual; learned about the **Mother of a Thousand Wings** and the **ley line convergence** beneath Willowshore
+- Visited [Mido](../npcs/mido.md) with Ginkgo to share findings about the ritual; learned about the **Mother of a Thousand Wings** and the **ley line convergence** beneath Willowshore
 - Learned about **two secret entrances** to the Yeshou estate (stables → wine cellar; koi pond)
 
 ### Session Four (2026-02-26)
@@ -118,7 +118,7 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Won initiative (15) and completed **Pest Form** (firefly) just as Kurosawa burst through the bedroom door—escaped through the window with seconds to spare
 - Flew over the estate grounds, saw Kurosawa head to the shed and Da Baishan walk away; transformed back in a copse of trees
 - Identified the stolen papers: a **Chthonic journal entry** with recent date markings (Decipher Writing 19), an **arcane Web scroll** (2nd level), and a **map** with a marking ~10 miles east of Willowshore featuring a diagram resembling the device [Yong](../npcs/yong.md) was building for the magistrate
-- Used **Read Aura** cantrip to confirm [Shang Yesho's](../npcs/the-smiling-one.md) military medal is not magical
+- Used **Read Aura** cantrip to confirm [Cheng Yesho's](../npcs/the-smiling-one.md) military medal is not magical
 - Spoke with [Luda](../npcs/luda.md), his regular arcane supplier; learned Kurosawa demanded high-volume, specific arcane ingredients from her
 - Asked Luda to track and report future purchases by the magistrate; she agreed
 - Tested the martial law perimeter by walking toward the edge of town; confronted by an oni guard with a drawn sword
@@ -126,3 +126,13 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - *"Remember to meddle not in the affairs of wizards."*
 - **Level 2 upgrades:** Conceal Spell (class feat—spells gain the Subtle trait), Tattoo Artist (skill feat—can inscribe magical tattoos)
 - **Homebrew hero point:** Improvise Spell—cast any spell in spellbook even if not memorized, once per session
+
+### Session Six (2026-03-19)
+- Had the **shared dream** of the wounded land
+- Deflected [Kurosawa's](../npcs/magistrate-kurosawa.md) pointed questions about the Yeshou family during the interrogation: *"My business is usually restricted to the preparation or finding of herbs and other forest objects of interest"*
+- Requested **investigative licenses** from [Mayor Masru](../npcs/mayor-masru.md) and reviewed the contract for hidden clauses (Society check—found it straightforward and honest)
+- Cautioned the mayor: *"My investigations tend to be very thorough and you might not like what we turn up"*—asked whether to investigate the magistrate; the mayor deferred pending evidence
+- Started a **notebook** documenting Kurosawa's contradictions and leading questions
+- **Tangle Vine** failed against the werewolf (spell attack 14 vs. AC 17)
+- Used **Battle Medicine** to heal Littlefinger for **13 HP** during combat (Medicine 18—success, 2D8 healing)
+- Suggested the party should not explore the ruins at night: *"I don't think we should explore the spooky temple at night"*

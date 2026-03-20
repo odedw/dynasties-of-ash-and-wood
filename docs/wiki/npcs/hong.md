@@ -59,7 +59,7 @@ Hong idolizes his father and took the dangerous job specifically to help him. Yo
 Hong is grateful to the party for rescuing him from the fire and for securing his payment from the Yeshou family. He trusts them, particularly Boone, with whom he had an extended conversation about life beyond Willowshore—open seas, wide skies, places far from forests.
 
 ### Boone
-While the rest of the party met with [Migo](migo.md), Hong stayed behind with Boone at Silver Mist Lodge. He was fascinated by the dwarf's stories of distant lands and showed little interest in mountains or forests, preferring tales of open coastlines and wide horizons.
+While the rest of the party met with [Mido](mido.md), Hong stayed behind with Boone at Silver Mist Lodge. He was fascinated by the dwarf's stories of distant lands and showed little interest in mountains or forests, preferring tales of open coastlines and wide horizons.
 
 ---
 

@@ -35,6 +35,7 @@ nav:
     - Session Three (2026-02-12): sessions/2026-02-12.md
     - Session Four (2026-02-26): sessions/2026-02-26.md
     - Session Five (2026-03-12): sessions/2026-03-12.md
+    - Session Six (2026-03-19): sessions/2026-03-19.md
   - Wiki:
     - Player Characters:
       - Da Baishan: wiki/pcs/da-baishan.md
@@ -47,7 +48,7 @@ nav:
       - Shogun Tsuneni: wiki/npcs/shogun-tsuneni.md
       - Magistrate Kurosawa: wiki/npcs/magistrate-kurosawa.md
       - Mayor Masru: wiki/npcs/mayor-masru.md
-      - Migo: wiki/npcs/migo.md
+      - Mido: wiki/npcs/mido.md
       - Yong: wiki/npcs/yong.md
       - Hong: wiki/npcs/hong.md
       - Radiant Willow: wiki/npcs/radiant-willow.md
@@ -57,12 +58,15 @@ nav:
       - Liwen: wiki/npcs/liwen.md
       - Luda: wiki/npcs/luda.md
       - Peony Switchstep: wiki/npcs/peony-switchstep.md
+      - Captain Akoto: wiki/npcs/captain-akoto.md
     - Factions:
       - Willowshore Ruling Family: wiki/factions/willowshore-ruling-family.md
       - Mizu Ki Hikari: wiki/factions/mizu-ki-hikari.md
     - Locations:
       - Willowshore: wiki/locations/willowshore.md
       - The Dark Woods: wiki/locations/dark-woods.md
+      - Gosembiki Ruins: wiki/locations/gosembiki-ruins.md
+      - Kirahata: wiki/locations/kirahata.md
   - Player Guide: resources/Player Guide.md
 
 markdown_extensions:

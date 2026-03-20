@@ -31,7 +31,7 @@ Voss specialized in what he called **"old gods"**—elder deities that predated 
 
 He came to Tian Xia specifically because its pantheon was unfamiliar to Absalom's scholars, and he hoped to find histories, oral traditions, or other links to these elder gods among the local religious practices. Very little is known about these entities, and Voss's work represented a rare scholarly effort to catalog them.
 
-His research interests align disturbingly well with the **dark summoning ritual** later discovered at the [Mourndusk Willow](../locations/dark-woods.md)—a ritual that [Migo](migo.md) identified as an invocation of the **"Mother of a Thousand Wings"**, an ancient demon of pestilence.
+His research interests align disturbingly well with the **dark summoning ritual** later discovered at the [Mourndusk Willow](../locations/dark-woods.md)—a ritual that [Mido](mido.md) identified as an invocation of the **"Mother of a Thousand Wings"**, an ancient demon of pestilence.
 
 ---
 
@@ -80,8 +80,17 @@ Based on Donkey's memories, Voss was a quiet, studious man who kept mostly to hi
 
 ### Session Four (2026-02-26)
 - [Radiant Willow](radiant-willow.md) shared additional details from her conversations with Voss:
-    - He described **"five lines, five fortunes"** converging at Willowshore—aligning with the ley line convergence [Migo](migo.md) revealed
+    - He described **"five lines, five fortunes"** converging at Willowshore—aligning with the ley line convergence [Mido](mido.md) revealed
     - He said **"something is being drawn here"**—the only thing about his research that seemed to worry him
     - His last known plans were to **head east**, following the rivers where the ley lines tracked
     - He had originally wanted to go north into the Dark Woods, but Willow warned him against it
     - Willow described him as "an amazing researcher" who was "so excited" about his findings—she still believes he simply moved on
+
+### Session Six (2026-03-19)
+- His spirit was **channeled through Da Baishan** during a cemetery séance led by the party (Spirit Lore 18, Diplomacy check); spoke through Da Baishan's body while Da Baishan could hear but not control himself
+- The spirit was taxing and could answer only a few questions before fading:
+    - **On the old gods:** *"There were five. Despite the current understanding, they are much closer than the legends would like us to believe. It is not very difficult to commune with them."* Also: *"They are clever manipulators and to be seriously concerned."*
+    - **On who benefits from bringing them back:** *"Foolish ones seeking power."*
+    - **On the prophecy (artist, ruler, sage, lover, judge):** *"That is the ritual for the Unspeakable One. Five must be sacrificed to bring—"* (cut off mid-sentence; the spirit was pulled away)
+- The **Unspeakable One** — a new entity identified by Voss's spirit as the target of a sacrifice ritual involving the five archetypes from the prophecy
+- His knowledge of the old gods continues to prove critical to the party's investigation even in death

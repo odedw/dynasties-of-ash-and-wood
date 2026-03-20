@@ -115,7 +115,7 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 
 ### Session Five (2026-03-12)
 - Spotted a **glass display case** on the first floor while hiding; picked its lock with embarrassing ease (Thievery—high roll)
-- Stole **Shang Yesho's military medal** (gold with gems, ~100 gp) and the accompanying **award citation** from the case
+- Stole **Cheng Yesho's military medal** (gold with gems, ~100 gp) and the accompanying **award citation** from the case
 - Hid in the darkness of the hallway (Stealth—high roll) as Kurosawa descended the stairs without glancing his way
 - Escaped through the front door after the magistrate left; went in the opposite direction
 - At the festival, [Willow](../npcs/radiant-willow.md) placed [Meilin](../npcs/meilin.md) next to him; expressed regret at missing her dance; was cautious and reserved due to carrying stolen goods
@@ -125,8 +125,18 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Chase went badly: Athletics 22 → 13 (failed) → burned **Halfling's Luck** → rolled 6 (worse); cornered against a building
 - Used **Conceal Object** (25) to wedge the stolen papers into a crevice between boards before the guard grabbed him
 - Lifted into the air by the oni guard; talked his way out by claiming to be drunk and lost (Deception—very high roll); guard put him down and escorted him to the inn
-- Returned **Shang Yesho's medal** to the Yeshou family at Silver Mist Inn; [Shang](../npcs/the-smiling-one.md) took it back with delight; Migo appreciated the gesture but wasn't leveraged (Diplomacy 11)
-- Read Migo as forthright and honest (Perception—good roll)
+- Returned **Cheng Yesho's medal** to the Yeshou family at Silver Mist Inn; [Cheng](../npcs/the-smiling-one.md) took it back with delight; Mido appreciated the gesture but wasn't leveraged (Diplomacy 11)
+- Read Mido as forthright and honest (Perception—good roll)
 - **Stolen papers remain hidden** in a wall crevice on the north side of town; need to be retrieved
 - **Level 2 upgrades:** Minor Magic (class feat—gain ability to cast a cantrip); skill feat TBD
 - **Homebrew hero point:** Parkour—spend hero point + 1 action for 2 extra movement actions; guaranteed sneak attack if adjacent to foe afterward
+
+### Session Six (2026-03-19)
+- Had the **shared dream** of the wounded land
+- Took **25 damage** from the werewolf's opening attacks (claw 10 + bite 15), dropping to **1 HP** before anyone could react
+- **Hid** (Stealth 22) behind cover after retreating; threw shurikens from concealment
+- Drew **first blood** with a shuriken hit; later landed the **killing blow**—a sneak-attack shuriken to the creature's throat (5 damage total including 1D6 sneak attack)
+- Volunteered information to [Cheng](../npcs/the-smiling-one.md) about the Battle of Five Crows and the prophecy from Boone's dream
+- Shared details of the contract negotiations with [Mayor Masru](../npcs/mayor-masru.md): *"He refused to pay us the rest of what he should have paid us... I think this job could be an ongoing thing"*
+- Flashed investigative licenses at guards: *"Uno reverse"*
+- Argued the party should leave the hidden papers in place while Kurosawa is actively searching

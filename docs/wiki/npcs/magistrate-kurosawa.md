@@ -78,7 +78,7 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Departed to prepare the road for Mayor Masru's arrival
 
 ### Session Two (2026-02-05)
-- Not directly encountered, but [Migo](migo.md) revealed he has been making **repeated secret visits** to the [Mourndusk Willow](../locations/dark-woods.md) in the Dark Woods north of Willowshore
+- Not directly encountered, but [Mido](mido.md) revealed he has been making **repeated secret visits** to the [Mourndusk Willow](../locations/dark-woods.md) in the Dark Woods north of Willowshore
 - Described by the Yeshou family as "accomplished in the arcane arts" and "not exactly what he seems"
 - His interest in the ancient tree raises questions about his true purpose in Willowshore
 
@@ -88,13 +88,13 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
     - A clay bowl of moth wings and blood stains—components of a summoning ritual
     - A lichen blight spreading from the ritual site, infecting nearby wildlife
 - Da Baishan's Imperial Lore (24) confirmed "the hand that guides" is a reference to the oni magistrate
-- [Migo](migo.md) identified the ritual as a **summoning of the Mother of a Thousand Wings**—an ancient pestilence demon—and stated Kurosawa is likely "well versed" in ley line magic and chose Willowshore specifically for its arcane convergence point
+- [Mido](mido.md) identified the ritual as a **summoning of the Mother of a Thousand Wings**—an ancient pestilence demon—and stated Kurosawa is likely "well versed" in ley line magic and chose Willowshore specifically for its arcane convergence point
 - The party now possesses the ritual dagger and bowl as evidence
 
 ### Session Four (2026-02-26)
 - Ordered **five dozen white lilies** (funeral flowers) from [Liwen](liwen.md) the florist, claiming it was "an oni custom"—refused to elaborate further
 - Sat beside [Mayor Masru](mayor-masru.md) at the Festival of Returning Spirits transfer ceremony
-- Reacted intensely to the **moth swarm** that destroyed five front lanterns: locked eyes with [Migo](migo.md) for a prolonged moment, then spoke urgently to the mayor and rushed back to the estate
+- Reacted intensely to the **moth swarm** that destroyed five front lanterns: locked eyes with [Mido](mido.md) for a prolonged moment, then spoke urgently to the mayor and rushed back to the estate
 - His bedroom at the Yeshou estate contains **papers written in Chthonic** (an infernal script)—the same language as the Mourndusk Willow dagger—along with diagrams
 - Employs a **fox construct** as a security system—a carved stone-and-wood fox with glowing runes and blue eyes that howls an alarm when intruders are detected
 - Stormed into the estate after the fox alarm sounded, arriving while the party was still inside
@@ -110,5 +110,16 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Confronted the party when they approached him, saying: *"I believe our criminals are within my sight. I think we'll reach them quickly."*
 - Told Da Baishan he would summon him the following morning for investigative assistance—likely an interrogation
 - Had the party escorted back to Silver Mist Inn under guard
-- [Migo](migo.md) revealed he has been investigating ruins east of town called the **Gosembiki** (Five Pointed Star) and has recently traveled there
+- [Mido](mido.md) revealed he has been investigating ruins east of town called the **Gosembiki** (Five Pointed Star) and has recently traveled there
 - [Luda](luda.md) reported he demanded high-volume, specific arcane ingredients from her—further evidence of an active ritual or construction project
+
+### Session Six (2026-03-19)
+- Interrogated the party at Silver Mist Inn about the Yeshou family and the estate break-in; looked directly at Donkey when suggesting "folks with unique arcane abilities" could bypass physical limitations
+- Revealed that "a few things" were missing from the estate; claimed his investigation pointed to the Yeshou family
+- Warned that treason would be "dealt with harshly"
+- Was overridden by [Mayor Masru](mayor-masru.md) when a trooper summoned the party to the mayor; Kurosawa argued but was forced to comply
+- **Voided the party's contract**: *"You failed to have the event without incident. You will not receive any payment."*
+- **Sentenced the Yeshou family to exile** in five days, claiming they stole items vital to the Imperium and the **Council of the Magi** (which he appears to belong to)
+- Searched the party's rooms at Silver Mist Inn—beds flipped, drawers emptied, floorboards pried up
+- Visited [Radiant Willow](radiant-willow.md) at Dew Drop Petals, aggressively questioning her about the party (especially Ginkgo, Littlefinger, and Donkey)—she described him as "an angry person" whose questions felt like leading accusations
+- Told his own troops ([Captain Akoto](captain-akoto.md)) very little about the investigation; ordered them only to enforce the lockdown

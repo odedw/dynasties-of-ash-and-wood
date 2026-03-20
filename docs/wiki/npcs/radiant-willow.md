@@ -105,10 +105,19 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - Shared information about [Cassian Voss](cassian-voss.md): he told her about **"five lines, five fortunes"** converging at Willowshore and that **"something is being drawn here"**; he planned to head east following the ley lines
 - Gave fortune petals to Ginkgo and Donkey on their way out
 - Performed in the **Festival of Returning Spirits** ceremonial dance—graceful and radiant, a standout among the five dancers
-- Presented chrysanthemum blooms to Mayor Masru and Elder Migo to close the performance
+- Presented chrysanthemum blooms to Mayor Masru and Elder Mido to close the performance
 - Responded warmly to Ginkgo's romantic interest; agreed to get a drink together later
 
 ### Session Five (2026-03-12)
 - Executed her matchmaking plan at the festival feast: placed [Meilin](meilin.md) next to Littlefinger and toasted "to friendship and new beginnings"
 - Attempted to bring [Peony Switchstep](peony-switchstep.md) to meet Da Baishan but met visible resistance
 - Cloud Ygritte (Boone's match) had already retired for the evening before introductions could be made
+
+### Session Six (2026-03-19)
+- [Kurosawa](magistrate-kurosawa.md) visited her shop that morning, aggressively questioning her about the party—especially Ginkgo, Littlefinger, and Donkey; she described him as "an angry person" who is "beginning to get me to question that most people are good"
+- Confirmed she had the **shared dream**: vivid, intense, with the taste of earth and river water; she normally has "very mild happy dreams" and was disturbed
+- Interpreted the dream as Willowshore being sick—*"The spirits of Willowshore are damaged. They're calling out for help."*
+- Noted the dream's five lines reminded her of the **rivers near Willowshore**; said the river "doesn't seem to sing as loudly as it did before" and the ground is "matted and tired"
+- Spritzed Ginkgo and Donkey with a new perfume
+- Attempted to match Boone with someone new; Boone politely declined
+- Business is slow under the lockdown; she appreciated the party's visit and asked them to return
