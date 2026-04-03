@@ -29,14 +29,14 @@ extra_css:
 nav:
   - Home: index.md
   - Sessions:
-    - Session Zero (2026-01-16): sessions/2026-01-16.md
-    - Session One (2026-01-30): sessions/2026-01-30.md
-    - Session Two (2026-02-05): sessions/2026-02-05.md
-    - Session Three (2026-02-12): sessions/2026-02-12.md
-    - Session Four (2026-02-26): sessions/2026-02-26.md
-    - Session Five (2026-03-12): sessions/2026-03-12.md
-    - Session Six (2026-03-19): sessions/2026-03-19.md
-    - Altered Streams (2026-04-02): sessions/2026-04-02.md
+    - 0. The Founding - 2026-01-16: sessions/2026-01-16.md
+    - 1. Fire and Favors - 2026-01-30: sessions/2026-01-30.md
+    - 2. Skin a Cat - 2026-02-05: sessions/2026-02-05.md
+    - 3. Mystery at the Mourndusk Willow - 2026-02-12: sessions/2026-02-12.md
+    - 4. Petals, Wings and Hidden Truths - 2026-02-26: sessions/2026-02-26.md
+    - 5. Martial Law - 2026-03-12: sessions/2026-03-12.md
+    - 6. Roots Forgotten, Roots Remembered - 2026-03-19: sessions/2026-03-19.md
+    - 7. Altered Streams - 2026-04-02: sessions/2026-04-02.md
   - Wiki:
     - Player Characters:
       - Da Baishan: wiki/pcs/da-baishan.md
