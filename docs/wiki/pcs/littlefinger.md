@@ -140,3 +140,17 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Shared details of the contract negotiations with [Mayor Masru](../npcs/mayor-masru.md): *"He refused to pay us the rest of what he should have paid us... I think this job could be an ongoing thing"*
 - Flashed investigative licenses at guards: *"Uno reverse"*
 - Argued the party should leave the hidden papers in place while Kurosawa is actively searching
+
+### Session Seven (2026-04-02)
+- **Two critical hits** with shurikens during the wolf fight—the first dealing 5 damage (new crit rule: max + roll), the second a devastating **sneak attack** that severed the wolf's throat ear to ear (14 damage total with 1D6 sneak attack, 7 + 7)
+- Used **Trap Finder** ability to detect the hidden entrance to the [Gosembiki ruins](../locations/gosembiki-ruins.md)—found a nearly invisible filament tripwire across the threshold; identified it as an **alarm** (not a damage trap)
+- **Disarmed the alarm** (Thievery check—success), preventing it from alerting anyone within earshot
+- Hid in the tree line and went stealth during the wolf fight (Stealth—high roll)
+- Threw shurikens at the stone guardians—first missed, second hit; moved tactically to avoid the front line
+- **Scouted the subterranean chamber** alone via the spiral staircase (Stealth 23)—described the device, the dense air, and the blue glow to the party before they descended
+- Became **frightened 2** from the spectral guardian's howl (failed Will save); burned **Halfling Luck** to reroll and got *worse*
+- Took **12 cold damage** from the spirit's phase-through attack
+- Drew his **rapier** using **Quick Draw** and stabbed the spirit—non-magical weapon did reduced but real damage
+- Used **Stealth** to move away from the spirit (22); escaped the death explosion radius
+- Expressed concern about the party's lack of **healing potions and gear**: *"When we finish up here, we need to definitely hit a store for some healing potions"*
+- Reminded the party about his near-death in the last encounter: *"I came pretty close to dying... so I do plan to hang back a little bit"*

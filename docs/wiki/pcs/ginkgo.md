@@ -143,3 +143,16 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Cast **Shield** on himself during combat
 - Signed the mayor's contract without reading it; Littlefinger noted his signature "looks like a mushroom"
 - Visited [Radiant Willow](../npcs/radiant-willow.md); received a spritz of new perfume; asked about her dream and the land's health
+
+### Session Seven (2026-04-02)
+- **Felt the land's wound** through his feet as the party approached the [Gosembiki ruins](../locations/gosembiki-ruins.md)—not dead or blighted, but wounded by something unnatural; the sensation intensified with every step
+- Cast **Sanctuary** on Boone during the wolf fight—the surviving wolf failed its Will save and froze mid-bite, unable to attack
+- Failed a **Treat Wounds** check on Boone (11, even with Guidance); the wounds were too severe for natural remedies
+- Prepared a **salve** and gave it to Littlefinger as a precaution
+- Cast **Divine Lance** on a stone guardian construct—"I'm not going to enjoy this... but maybe just a bit." The party: *"Who the fuck are you?"*
+- Reached through the **mycelium network** (Nature 20) to check the corrupted leshies—confirmed **consciousness still exists** beneath the corruption; they can potentially be saved
+- Cast a **3-action Heal** (30-foot emanation) against the spectral undead—healed all allies for 5 HP and dealt 5 vitality damage to the spirit
+- Used **Perception** to locate the invisible spirit (success), then cast **Healer's Blessing** + **Heal** for 7 vitality damage
+- Took **6 cold damage** from the spirit's invisible slash attack
+- Rolled a **zero** on his arcana check to analyze the device—"Ginkgo probably thinks it's divine in some way"
+- Prepared **Message** for scouting communication when Littlefinger descended the staircase

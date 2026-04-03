@@ -128,3 +128,17 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Dealt **21 damage** with his polearm after the trip, the heaviest single hit of the fight
 - [Radiant Willow](../npcs/radiant-willow.md) attempted to set him up with someone new; politely declined
 - Religion check (18) revealed the old gods had shifting names (one called the "Nameless God"), their domains were chaos, destruction, lust, and blood
+
+### Session Seven (2026-04-02)
+- Healed himself with **Assurance (Medicine)** for 7 HP during the rest period
+- Used the **Scout** exploration activity while approaching the ruins—granting +1 initiative to the entire party
+- **Critically hit** the first stone guardian with his polearm for **30 damage** (using the new crit rule: max 24 + 14 rolled), then struck again for **16 damage**—shattering it to dust in two swings
+- Killed the second stone guardian alongside Da Baishan in the "**Predator handshake**"—clasping hands across the crumbling stone as both weapons pierced it
+- Used **Battle Medicine** on Da Baishan for 7 HP after the guardian fight
+- **Recall Knowledge** (Nature 22) on the corrupted wolves: learned they are pack hunters, much less effective alone; no special resistances
+- **Recall Knowledge** (Religion 14) on the spectral guardian: learned it's resistant to non-magical weapons, immune to poison/bleed, and **weak to vitality damage**
+- First attack on the spirit missed (12), but second attack struck for **20 damage**—arcing through its form with his magical polearm
+- Landed the **killing blow** on the invisible spirit—struck for **20 damage**, shattering its tether to the world; the spirit exploded in a cold shockwave
+- Took **12 cold damage** from the spirit's phase-through attack and **7 cold damage** from the death explosion (successful Reflex save)
+- Carries the **alabaster dial piece** removed by Donkey from the "Mother" symbol
+- Discovered that his polearm has the **reach trait**—allowing him to strike from 10 feet away without adjacent positioning

@@ -90,3 +90,6 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 - Expressed heartfelt thanks for the party's service to Willowshore and his family
 - Confirmed plans to **leave Willowshore** after the festival, heading to a **coastal town** so Hong can see the ocean
 - Walked off with Hong, arm around his son, toward the forge
+
+### Session Seven (2026-04-02)
+- Not directly encountered, but the **device he was commissioned to build** was found installed and active in the subterranean chamber of the [Gosembiki ruins](../locations/gosembiki-ruins.md)—a metallic flower-petal mechanism inside a gear track, warping the ley line beneath Willowshore counterclockwise; the party recognized it from [Kurosawa's](magistrate-kurosawa.md) diagram

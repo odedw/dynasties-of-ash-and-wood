@@ -37,6 +37,36 @@ The journey from Willowshore takes several hours on foot, following the river ea
 
 Near the ruins, a bridge crosses the river. The surrounding area has scattered tree outcroppings along the riverbank but is otherwise open ground.
 
+As one approaches, the land itself deteriorates. Green grass gives way to patchy, darkened undergrowth. The earth becomes damp and squishy. Trees have blackened, split bark weeping dark sap. Insects buzz with what sounds like pain. A sweet, decayed smell—cinnamon and death—hangs in the air. Those attuned to nature can feel the land is **wounded by something unnatural**.
+
+---
+
+## Structure
+
+From above, the ruin is clearly a **five-pointed star** shape, though partially collapsed and overgrown with moss, vines, and grass. The walls are highly carved stone—precise, linear patterns cover every visible surface, too mathematical to be random and too precise to be ornamental. Their purpose is unknown.
+
+### Entrance
+A hidden opening (~4 feet wide) behind a mossy vine curtain, protected by an **alarm tripwire** (a filament that triggers a bell, not a damage trap). Disarmed by the party.
+
+### Entry Hall
+A 20x20 rectangular room with collapsed pillars, empty pedestals, and overgrown vines. Two **stone guardian constructs** (dog-shaped, similar to the fox alarm at [Kurosawa's](../npcs/magistrate-kurosawa.md) estate) were stationed here—recently placed, not original to the ruin. Both destroyed by the party.
+
+### Ritual Chamber
+A room containing a circular **alabaster dial** in the floor—white stone, distinct from the surrounding gray rock. The dial bears the symbol for **"Mother"**—connecting it to the **Mother of a Thousand Wings**. The dial was broken and scattered for ages, but **someone recently reassembled the pieces** like a puzzle. The party removed one piece to prevent full reassembly.
+
+### Subterranean Chamber
+Accessed via a **spiral staircase** from a vine-choked corridor. The air grows dense and oppressive descending. A 30x30 stone chamber with geomantic patterns on walls and floor. At its heart: **the device**.
+
+---
+
+## The Device
+
+A metallic **flower-petal mechanism** suspended inside a slowly turning gear track at the center of the subterranean chamber. The petals have carved fins that redirect energy as the mechanism rotates counterclockwise—very slowly, glacially. The device matches the diagram from [Kurosawa's](../npcs/magistrate-kurosawa.md) stolen map and the apparatus [Yong](../npcs/yong.md) was commissioned to build.
+
+**Function:** The device warps the ley line beneath the ruins, redirecting its natural flow several degrees counterclockwise. This redirection is the source of the **geomantic sickening** that radiates outward—corrupting wolves, possessing leshies, blackening trees, and wounding the land. The school of magic is **alteration/transformation**, not necromancy.
+
+**Current status:** Frozen in place by Donkey's **Tangle Vine** spell. Vines near the device's center burned away from the energy, but the outer bindings hold. A spectral guardian that defended the device has been destroyed.
+
 ---
 
 ## Session History
@@ -50,3 +80,13 @@ Near the ruins, a bridge crosses the river. The surrounding area has scattered t
 - Spotted the ruins from several miles away: a series of dilapidated buildings in the grasslands
 - **Ambushed by an infected werewolf** about a mile from the ruins—later revealed to be one of [Mido's](../npcs/mido.md) missing guards, riddled with cancerous pustules
 - The party camped approximately one mile from the ruins at dusk, planning to enter after resting
+
+### Session Seven (2026-04-02)
+- Party entered the ruins after defeating two corrupted wolves outside
+- Littlefinger found the hidden entrance and disarmed the alarm tripwire
+- Two **stone guardian constructs** (dog-shaped) animated and attacked; destroyed by the party
+- Discovered the **"Mother" dial** in the ritual chamber—recently reassembled by an unknown person; Donkey removed a piece
+- Two **corrupted leshies** (zombie-like, still conscious beneath the corruption) appeared and were put to Sleep by Donkey
+- Descended to the subterranean chamber and discovered **the device**—[Yong's](../npcs/yong.md) apparatus, actively warping the ley line
+- A **spectral undead guardian** attacked the party; destroyed by Boone after Donkey vine-wrapped the device to stop it
+- The party remains in the chamber, wounded but alive, with the device frozen

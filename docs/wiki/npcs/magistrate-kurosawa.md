@@ -123,3 +123,10 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - Searched the party's rooms at Silver Mist Inn—beds flipped, drawers emptied, floorboards pried up
 - Visited [Radiant Willow](radiant-willow.md) at Dew Drop Petals, aggressively questioning her about the party (especially Ginkgo, Littlefinger, and Donkey)—she described him as "an angry person" whose questions felt like leading accusations
 - Told his own troops ([Captain Akoto](captain-akoto.md)) very little about the investigation; ordered them only to enforce the lockdown
+
+### Session Seven (2026-04-02)
+- Not directly encountered, but the party discovered his **device** installed and active in the subterranean chamber of the [Gosembiki ruins](../locations/gosembiki-ruins.md)—the apparatus [Yong](yong.md) built, now warping the ley line counterclockwise
+- **Stone guardian constructs** (dog-shaped, similar to the fox alarm in his estate) were placed at the entrance to the ruins—likely his security measures
+- An **alarm tripwire** was set at the hidden entrance—further evidence of his active presence at the site
+- The **"Mother" dial** in the ritual chamber had been **recently reassembled**—someone gathered broken pieces and placed them back together; likely Kurosawa or someone working for him
+- The device is now frozen by Donkey's Tangle Vine; its spectral guardian has been destroyed; Kurosawa does not yet know

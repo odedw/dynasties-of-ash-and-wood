@@ -136,3 +136,18 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - **Tangle Vine** failed against the werewolf (spell attack 14 vs. AC 17)
 - Used **Battle Medicine** to heal Littlefinger for **13 HP** during combat (Medicine 18—success, 2D8 healing)
 - Suggested the party should not explore the ruins at night: *"I don't think we should explore the spooky temple at night"*
+
+### Session Seven (2026-04-02)
+- **Critical hit** with **Treat Wounds** on Boone (rolled 19—critical success, healed 4D8)
+- **Critical hit** with **Ignition** on the first corrupted wolf—the creature burst into flames, yelped, ran toward the water, and collapsed smoldering and burning (13 fire damage, killing it)
+- Used **Read Aura** on the dead wolves—identified the school of magic as **alteration/transformation**, not necromancy; the infection is arcane in origin
+- Scored **two consecutive natural 20s** on **Tangle Vine** against the same stone guardian—critically immobilizing it twice in a row, wrapping it in vines like a mummy
+- Put **both corrupted leshies** to Sleep with a single casting—both **critically failed** their Will saves and collapsed instantly
+- Suggested trying to **treat the corrupted wolves** using Ginkgo's salve, showing concern for the infected creatures
+- Identified the **"Mother" symbol** on the alabaster dial through arcana knowledge and prior research—connecting it to the Mother of a Thousand Wings
+- **Removed a piece of the dial** to prevent full reassembly; gave it to Boone to carry
+- Cast **Tangle Vine on the device** in the subterranean chamber, wrapping vines around the gear mechanism and **freezing it in place**—some vines burned near the center from the energy, but the outer bindings held
+- Called out to the spectral guardian mid-combat: *"We mean you no harm. We've come to heal this place."* No response.
+- Used **Mage Hand** concept to propose extracting the device (it may be light enough to carry)
+- Took **15 cold damage** from the spirit's death explosion (failed Reflex save)
+- Suggested investigating whether the ruins might be **repairing themselves**, checking for inanimate golems before proceeding

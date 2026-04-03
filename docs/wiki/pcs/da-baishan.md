@@ -135,3 +135,17 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Spirit lore (20) identified that communing with old gods generally requires a proxy medium; ley lines have cross-planar reach; five ley lines would be especially powerful
 - Missed **three consecutive crossbow shots** during the werewolf combat; switched to his **Guan Dao** and landed a hit for 8 damage in melee while flanking
 - Devise a Stratagem rolls were poor both rounds—low D20 results
+
+### Session Seven (2026-04-02)
+- Missed **three more crossbow shots** against the wolves—one went to the river, one was "not even close," and one "fell off the crossbow"
+- Entered the [Gosembiki ruins](../locations/gosembiki-ruins.md) first using **That's Odd** (investigator feat)—noticed two statues that looked **relatively new** compared to everything else in the ruin; pointed them out to the party before they animated
+- **That's Odd** (second use) in the ritual chamber—noticed the broken alabaster dial had been **recently reassembled**; dust impressions showed where pieces had lain for ages before being moved
+- **Finally hit with the crossbow** for the first time in the campaign—7 damage against the immobilized stone guardian: *"The crossbow wasn't broken. It was building suspense."*
+- Killed the second stone guardian alongside Boone in the **Predator handshake**—plunging his Guan Dao through it while clasping hands with Boone across the crumbling stone
+- Rolled a **critical miss** (natural 1) on a Guan Dao attack against the second guardian
+- **Devise a Stratagem** continues to produce poor results—rolled a 1 on the D20, used Skill Stratagem instead for +1 circumstance bonus
+- Became **frightened 2** from the spectral guardian's howl (failed Will save); penalized on all checks for the encounter
+- Missed the spectral guardian with his Guan Dao attack
+- Took **15 cold damage** from the spirit's death explosion (failed Reflex save)
+- Discovered his Guan Dao has the **reach trait**—can attack from 10 feet, same as Boone's polearm
+- Noted he needs to "get rid of that damn crossbow" (again)
