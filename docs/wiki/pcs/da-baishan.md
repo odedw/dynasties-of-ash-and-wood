@@ -149,3 +149,13 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Took **15 cold damage** from the spirit's death explosion (failed Reflex save)
 - Discovered his Guan Dao has the **reach trait**—can attack from 10 feet, same as Boone's polearm
 - Noted he needs to "get rid of that damn crossbow" (again)
+
+### Session Eight (2026-04-22)
+- **Pulled the device** free from the gear cradle, triggering the collapse and the chasm; dropped to 0 HP (4 damage on 4 HP) from the falling ruin and entered dying condition—stabilized by Boone's Assurance (Medicine)
+- Received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment of the collapse
+- Took possession of **[Judgement's Edge](../locations/gosembiki-ruins.md#items-recovered)**, a magical longsword recovered from the rubble; once wielded by the legendary oni [Shen Takashi](../npcs/shen-takashi.md): *"Only criminals would be afraid of such a person."*
+- **Felled the first demon** in the street fight with a 13-damage longsword blow—its eyes blackened and it tumbled at his feet (after missing the first swing with the new weapon)
+- Took **13 damage** from a demon's claw—half his HP in one exchange
+- During the trial: opened the party's defense with *"You haven't asked where we've been, what we've been doing, or whose mission we've been on."*
+- Attempted to belittle the farmer's testimony; [Kurosawa](../npcs/magistrate-kurosawa.md) turned it around, accusing him of belittling the farmer himself
+- **Confiscated:** Judgement's Edge, the Guan Dao, and the alabaster dial piece (via Boone) were taken by oni guards at the end of the session

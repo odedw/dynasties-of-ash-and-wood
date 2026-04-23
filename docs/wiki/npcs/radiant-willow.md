@@ -121,3 +121,11 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - Spritzed Ginkgo and Donkey with a new perfume
 - Attempted to match Boone with someone new; Boone politely declined
 - Business is slow under the lockdown; she appreciated the party's visit and asked them to return
+
+### Session Eight (2026-04-22)
+- Present in the crowd during the Rite of Open Reckoning
+- [Boone](../pcs/boone.md) appealed to the whole town: *"Who had the dream?"*
+- In a square full of silent, nervous townsfolk who looked around at one another and did nothing, **Willow was the only person to raise her hand**
+- Spoke briefly about the dream: the land sick, the rivers silent, a wound in the earth
+- Her testimony was dismissed by [Kurosawa](magistrate-kurosawa.md) as *"visions and dreams on trial"*, but her courage stood alone and was noticed
+- Retroactively her quiet flower-leshy instinct for beauty and care (*"the spirits of Willowshore are calling out for help"*) aligns her firmly with [Gujravati's](gujravati.md) dream-voice, the same voice the party has now met directly

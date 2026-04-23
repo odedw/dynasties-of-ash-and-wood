@@ -156,3 +156,13 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Took **6 cold damage** from the spirit's invisible slash attack
 - Rolled a **zero** on his arcana check to analyze the device—"Ginkgo probably thinks it's divine in some way"
 - Prepared **Message** for scouting communication when Littlefinger descended the staircase
+
+### Session Eight (2026-04-22)
+- Spent the opening of the session on **Arcana** (14) trying to read the device; concluded it was winding potential energy, not merely redirecting
+- Knocked unconscious by the ruin collapse; received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment
+- Performed a **leshy burial rite** for the four crushed leshies Donkey recovered from the rubble: *"Go back to the soil, my brothers. The mycelium will carry you home."*
+- Cast **Bane** in the demon street fight and sustained it—two demons failed Will saves and took −1 on attacks
+- During the trial: called **[Meilin](../npcs/meilin.md)** as the party's first defense witness; her quiet testimony was the cleanest defense they got
+- Demanded an **impartial expert** when [Kurosawa](../npcs/magistrate-kurosawa.md) claimed authority over device's meaning; the demand was crushed with *"I am the Council of the Magi"*
+- Cast **Guidance** on Boone for his closing appeal to the townspeople
+- Ended the session disarmed and under guard

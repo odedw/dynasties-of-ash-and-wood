@@ -58,3 +58,9 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - The mayor openly leered at her and made comments about her beauty and earning potential at a gentleman's club in [Kirahata](../locations/kirahata.md)
 - Brought vellum and ink for the party's contract when summoned by the mayor's bell
 - Her current role appears to be some form of personal attendant to the mayor—an arrangement she seems deeply uncomfortable with
+
+### Session Eight (2026-04-22)
+- Called as the **party's first defense witness** during the Rite of Open Reckoning by [Ginkgo](../pcs/ginkgo.md)
+- Testified quietly but clearly: the party had been *"nothing but positive"* in Willowshore; they did **not** cause the cemetery's undead uprising and in fact ran *toward* the undead to help the town
+- Admitted honestly that she could not speak to the cause of the chasm
+- Her testimony was the strongest unalloyed defense the party received all evening—measured, unflashy, and impossible for Kurosawa to dismantle without attacking a sympathetic local

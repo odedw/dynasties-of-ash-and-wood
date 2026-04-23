@@ -93,3 +93,10 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 
 ### Session Seven (2026-04-02)
 - Not directly encountered, but the **device he was commissioned to build** was found installed and active in the subterranean chamber of the [Gosembiki ruins](../locations/gosembiki-ruins.md)—a metallic flower-petal mechanism inside a gear track, warping the ley line beneath Willowshore counterclockwise; the party recognized it from [Kurosawa's](magistrate-kurosawa.md) diagram
+
+### Session Eight (2026-04-22)
+- Called as a **defense witness** by Littlefinger during the Rite of Open Reckoning
+- Confirmed [Kurosawa](magistrate-kurosawa.md) commissioned him to build the device and provided rigorous tolerances; Yong turned it over completed
+- Critical disclosure: revealed Kurosawa once spoke of *"devices"* (**plural**)—suggesting the Gosembiki apparatus may not be the only one
+- Was cut off by Kurosawa before he could speculate on the device's purpose: *"An expert craftsman cannot speak on what the device is designed for"*
+- Put into an uncomfortable position—testifying honestly in support of the party who saved his son's life, while keeping his head down in front of the magistrate who still holds power over him

@@ -154,3 +154,14 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Used **Stealth** to move away from the spirit (22); escaped the death explosion radius
 - Expressed concern about the party's lack of **healing potions and gear**: *"When we finish up here, we need to definitely hit a store for some healing potions"*
 - Reminded the party about his near-death in the last encounter: *"I came pretty close to dying... so I do plan to hang back a little bit"*
+
+### Session Eight (2026-04-22)
+- **Natural 20** on Perception checking the device for traps (+2 from Trap Finder)—confirmed it was safe to pull, immediately before everything went wrong
+- Survived the ruin collapse (6 bludgeoning damage) but his **healer's kit** was partly destroyed—couldn't stabilize Da Baishan
+- Received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment
+- Crafted **four level-one snares** at the overnight camp; caught two rabbits
+- Opened the demon street fight by hiding behind a building, then **sneak-attacked** a demon with his rapier from behind—deep wounds under the arm and ribs
+- **During the trial:** called **[Yong](../npcs/yong.md)** as a defense witness; Yong's testimony revealed Kurosawa once spoke of *"devices"* (plural)
+- Argued the conspiracy / inside-job angle—quashed by Kurosawa: *"Could we stop with the conspiracy theories?"*
+- Ended the session disarmed; rapier and shuriken confiscated with the rest of the party's gear
+- The hidden papers on the north side of town remain un-retrieved

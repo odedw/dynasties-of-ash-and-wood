@@ -130,3 +130,15 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - An **alarm tripwire** was set at the hidden entrance—further evidence of his active presence at the site
 - The **"Mother" dial** in the ritual chamber had been **recently reassembled**—someone gathered broken pieces and placed them back together; likely Kurosawa or someone working for him
 - The device is now frozen by Donkey's Tangle Vine; its spectral guardian has been destroyed; Kurosawa does not yet know
+
+### Session Eight (2026-04-22)
+- Arrived in [Willowshore](../locations/willowshore.md) during the demon attack; **killed a frenzied demon in a single 20-damage nodachi swing**—a reminder of his personal combat capability
+- Publicly invoked the **Rite of Open Reckoning**, an ancient Chu Ye legal procedure for open court hearings; charged the party with unlawful interference with ancient infrastructure, reckless endangerment, unauthorized ritual manipulation, desecration of spiritually sensitive ground, destruction of property, and endangerment of life
+- Called [Captain Akoto](captain-akoto.md), a farmer, and [Luda](luda.md) as prosecution witnesses
+- **Slip under cross-examination:** When Donkey asked *"How did you know it was a magical artifact?"*, Kurosawa answered *"Because I commissioned it."*—publicly admitting the device's commission; recovered by re-framing it as a *"lawful measuring device"* built to precise tolerances and blaming the party for *"what you turned it into"*
+- Cut off [Yong](yong.md) mid-testimony: *"An expert craftsman cannot speak on what the device is designed for."*
+- Claimed sole arcane authority: *"I am the Council of the Magi"*—blocking the party's demand for an impartial expert (see [Council of the Magi](../factions/council-of-the-magi.md))
+- Dismissed [Radiant Willow's](radiant-willow.md) dream testimony: *"Oh, so we're going to put visions and dreams on trial now?"*
+- **Won the verdict:** [Mayor Masru](mayor-masru.md) ruled the party guilty of unlawful interference, reckless endangerment, and spiritual disruption
+- Ordered the party disarmed and held pending decision; his guards marched them to a warehouse
+- [Yong's](yong.md) testimony inadvertently revealed Kurosawa once spoke of *"devices"* (plural)—a detail Kurosawa did not correct

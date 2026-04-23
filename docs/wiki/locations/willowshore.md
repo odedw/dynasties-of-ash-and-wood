@@ -59,6 +59,14 @@ The [ruling family](../factions/willowshore-ruling-family.md) is refusing to par
 
 An ancient festival held on the eve of autumn, meant to protect Willowshore from whatever haunts the dark woods beyond. The whole town gathers as lanterns flicker and drums thrum. Participants are chosen to lead a ceremonial play, walking in the shadows as the founders once did—acting out the fragile bargain that keeps the unknown at bay.
 
+### The Rite of Open Reckoning
+
+Not a Willowshore tradition but a **Chu Ye imperial legal procedure** that was invoked here by [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) during Session 8. It is an **open court hearing**: the accused are tried publicly in front of the whole town. Anyone holding public office may invoke the Rite. A **judge**—typically the highest local authority—hears the evidence, and the judge's ruling is final. The crowd does **not** vote; they witness.
+
+Both prosecution and defense may call witnesses. The accused may speak in their own defense. The Rite is rarely invoked in modern practice, and carries weight precisely because of its severity.
+
+In the party's case, the mayor served as judge. The verdict was **guilty**.
+
 ---
 
 ## The Forest Story
@@ -194,3 +202,12 @@ This deception created factions. Some people secretly blame each other; some wel
 - [Captain Akoto](../npcs/captain-akoto.md) identified as one of the oni guard captains patrolling the town
 - The party tested their credentials, questioned Akoto, visited the Yeshous, [Radiant Willow](../npcs/radiant-willow.md), and the cemetery before leaving town east toward the [Gosembiki ruins](gosembiki-ruins.md)
 - One of [Mido's](../npcs/mido.md) guards was found transformed into an **infected werewolf** 8+ miles east of town and killed by the party
+
+### Session Eight (2026-04-22)
+- A **chasm** tore through town from the east, splitting farmland and buildings along a line parallel to the river—an aftershock of the party pulling [Kurosawa's](../npcs/magistrate-kurosawa.md) device from the [Gosembiki ruins](gosembiki-ruins.md)
+- **Demons** began climbing out of the chasm—three emerged on the first night; one was killed by the party, one by [Kurosawa](../npcs/magistrate-kurosawa.md) in a single nodachi swing, and one dove back into the rift
+- At least one commoner was killed in the street; livestock and river-fish were killed by the chasm's heat
+- [Kurosawa](../npcs/magistrate-kurosawa.md) invoked the **[Rite of Open Reckoning](#the-rite-of-open-reckoning)**—an ancient Chu Ye legal procedure—against the party; [Mayor Masru](../npcs/mayor-masru.md) served as judge
+- **Verdict:** guilty of unlawful interference, reckless endangerment, and spiritual disruption. The party was disarmed and marched to a warehouse.
+- [Radiant Willow](../npcs/radiant-willow.md) was the **only** townsperson to raise her hand when Boone asked the crowd who had shared the dream
+- The [Seven Colored Songbird Theater](#notable-locations) and the square around it served as the trial site

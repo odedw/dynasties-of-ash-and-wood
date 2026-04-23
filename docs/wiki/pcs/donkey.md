@@ -151,3 +151,14 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Used **Mage Hand** concept to propose extracting the device (it may be light enough to carry)
 - Took **15 cold damage** from the spirit's death explosion (failed Reflex save)
 - Suggested investigating whether the ruins might be **repairing themselves**, checking for inanimate golems before proceeding
+
+### Session Eight (2026-04-22)
+- Used **Detect Magic** to analyze the device; helped confirm (with Ginkgo's arcana) that the device was winding **potential energy** rather than simply redirecting flow
+- Knocked unconscious by the ruin collapse; received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment
+- Tirelessly dug through the rubble afterward; recovered **four leshy bodies** for burial rites and the unblemished **[Judgement's Edge](../locations/gosembiki-ruins.md#items-recovered)** sword
+- Identified Judgement's Edge as a **+1 longsword with a Rune of Striking**
+- Cast **Tangle Vine** twice on demons during the Willowshore battle—one success, one **natural 20 critical immobilization** (vines wrapped a demon like a mummy)
+- Summoned a **root-and-bark construct** ("basically if Groot were a dog")—used as a hit-point sponge through the fight
+- **During the trial:** produced the writs of investigation from [Mayor Masru](../npcs/mayor-masru.md) as the party's first defense
+- **Landed the one clean hit on Kurosawa's testimony:** *"How did you know it was a magical artifact?"* → Kurosawa: *"Because I commissioned it."* (he recovered within seconds, but it was the only crack all evening)
+- Ended the session disarmed and under guard

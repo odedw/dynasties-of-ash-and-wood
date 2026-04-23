@@ -102,3 +102,12 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 - Revealed his background from **[Kirahata](../locations/kirahata.md)**—the "Vegas" of Chu Ye; former sumo competitor (nickname: "Sumo of Smiles"); ran several businesses there
 - Ate bread by biting loaves and putting them back on the shared plate; drank from a pitcher with two hands
 - Told the party the dream investigation is theirs to lead: *"I'm really, you know, a manager."*
+
+### Session Eight (2026-04-22)
+- Emerged from the estate after the demon attack; did not fight
+- Served as **judge** in the [Rite of Open Reckoning](../locations/willowshore.md) invoked by [Kurosawa](magistrate-kurosawa.md)
+- Heard prosecution and defense testimony; appeared reluctant throughout—openly uncomfortable watching [Luda](luda.md) give her testimony, and visibly tired by the end
+- Did not intervene when [Kurosawa](magistrate-kurosawa.md) cut off [Yong's](yong.md) testimony mid-answer
+- **Delivered the verdict:** found the party **guilty** of unlawful interference, reckless endangerment, and spiritual disruption; ordered them held *"until we can decide what to do"*
+- His own investigative writs (the "Masru's Faithful Five" contract) did **not** shield the party from the verdict under his own rule
+- Kurosawa's closing compliment—*"Wise Mayor"*—felt less like praise and more like confirmation of who had actually won the room

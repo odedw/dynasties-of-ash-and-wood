@@ -55,3 +55,10 @@ Kurosawa demanded arcane ingredients from Luda in high volume with extreme speci
 - Believes the oni presence is a facade for a nefarious arcane purpose
 - Holds an extremely low opinion of all the oni, especially Kurosawa
 - Agreed to track and report any future purchases by the magistrate to Donkey
+
+### Session Eight (2026-04-22)
+- Called as a **prosecution witness** during the Rite of Open Reckoning—visibly reluctant to testify at all
+- Admitted under [Kurosawa's](magistrate-kurosawa.md) questioning that she had **never trusted him personally**
+- Kurosawa then turned the questioning: Luda confirmed that **Donkey had asked her to spy on the magistrate** and report his purchases; she said she *"didn't feel she had a choice"*
+- Refused to condemn the party outright: *"I don't think they can be seen as deceiving."* — not a defense, but not the condemnation Kurosawa was hoping for either
+- Her testimony was the most awkward for both sides: it damaged both the magistrate's impartiality and the party's deniability about surveilling him

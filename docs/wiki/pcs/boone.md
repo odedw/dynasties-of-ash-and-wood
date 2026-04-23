@@ -142,3 +142,13 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Took **12 cold damage** from the spirit's phase-through attack and **7 cold damage** from the death explosion (successful Reflex save)
 - Carries the **alabaster dial piece** removed by Donkey from the "Mother" symbol
 - Discovered that his polearm has the **reach trait**—allowing him to strike from 10 feet away without adjacent positioning
+
+### Session Eight (2026-04-22)
+- Survived the ruin collapse mostly intact (3 bludgeoning damage); received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment—the echo of the voice from his Battle of Five Crows dream
+- **Stabilized Da Baishan** using **Assurance (Medicine)** after Littlefinger's kit was damaged in the collapse and couldn't stabilize him
+- **Identified the name "Shen Takashi"** through warfare lore (25)—the *Silent Duelist*, a legendary oni ronin who broke from the oni leadership; hadn't been seen in ~20 years
+- Landed a 15-damage polearm hit on a demon in the Willowshore street fight, gutting it across the belly
+- Performed the **"Predator handshake"** again with Da Baishan over a finishing blow (locked in as a permanent move)
+- **During the trial:** argued the mayor should hear *all* evidence, not Kurosawa's accusations; called to the crowd to address the accusation pattern
+- **Delivered the session-defining appeal:** asked the whole town *"Who had the dream?"* (Diplomacy 13 with Ginkgo's Guidance); only [Radiant Willow](../npcs/radiant-willow.md) raised her hand
+- Still carried the **alabaster dial piece**—confiscated with his other gear at the end of the session

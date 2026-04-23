@@ -90,3 +90,20 @@ A metallic **flower-petal mechanism** suspended inside a slowly turning gear tra
 - Descended to the subterranean chamber and discovered **the device**—[Yong's](../npcs/yong.md) apparatus, actively warping the ley line
 - A **spectral undead guardian** attacked the party; destroyed by Boone after Donkey vine-wrapped the device to stop it
 - The party remains in the chamber, wounded but alive, with the device frozen
+
+### Session Eight (2026-04-22)
+- [Da Baishan](../pcs/da-baishan.md) pulled the device free from its gear cradle after [Littlefinger](../pcs/littlefinger.md) cleared it of traps (natural 20 Perception)
+- **Catastrophic release:** the device's slow ley-line warping had actually been **winding potential energy like a spring**; removing it unleashed all of it at once
+- Blinding light; birds in the surrounding sky exploded from heat venting; roof collapsed; party took bludgeoning damage (Da Baishan dropped to 0 and went dying; Donkey also went unconscious)
+- A **chasm** tore out of the ruin and arced across the countryside toward [Willowshore](willowshore.md)—parallel to the river, still venting sulfurous steam and growing
+- Time froze in the collapsing chamber. **[Gujravati](../npcs/gujravati.md), a golden dragon**, manifested, named itself as the voice of the shared dream, and gave each PC a personal mark/gift against *"the falling darkness"*
+- After time resumed, [Donkey](../pcs/donkey.md) dug through the rubble and recovered **four leshy bodies**; [Ginkgo](../pcs/ginkgo.md) performed a burial rite
+- Donkey also recovered an **unblemished longsword** in a sheath buried in the rubble: **Judgement's Edge** (see below), once wielded by the legendary oni [Shen Takashi](../npcs/shen-takashi.md)
+- The ruin is now functionally destroyed—a cratered collapse. The subterranean chamber is gone.
+
+---
+
+## Items Recovered
+
+### Judgement's Edge
+A magical longsword found buried in the rubble, entirely unblemished despite the collapse. **+1 magical longsword with a Rune of Striking.** Once wielded by **[Shen Takashi](../npcs/shen-takashi.md)**, the *Silent Duelist*—a legendary oni ronin who broke from the oni leadership and dispensed his own justice across Chu Ye. Shen has not been seen in roughly twenty years; how his sword came to be in this ruin is unknown. Currently carried by [Da Baishan](../pcs/da-baishan.md) *(confiscated at the end of Session 8)*.
