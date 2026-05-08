@@ -38,10 +38,47 @@ He views the party as useful tools: outsiders without entrenched loyalties who c
 
 - Establish oni authority over Willowshore with minimal resistance
 - Identify and neutralize potential sources of dissent—currently suspects the party
-- **The Gosembiki** — Investigating haunted ruins called the Five Pointed Star (五芒星), 10–20 miles east of Willowshore; has recently traveled there
-- **The Mourndusk Willow ritual** — Conducting a summoning of the Mother of a Thousand Wings at the ancient tree in the [Dark Woods](../locations/dark-woods.md)
-- **A device** — Commissioned [Yong](yong.md) to build an apparatus; a diagram matching it was found on a map marking the eastern ruins
+- **The Confluence (the Five Keys)** — A multi-site geomantic ritual to harmonize five ley-line "veins" (Willow, Root, Stone, Water, Ash) so the **[Mother of a Thousand Wings](#the-note-of-five-keys)** resonance passes through Willowshore and **transforms the city into a chrysalis** (see [the recovered note](#the-note-of-five-keys))
+- **The Gosembiki** — The first device, "the star beneath Gosembiki," is awakened (Session 7–8)
+- **The Mourndusk Willow ritual** — Earlier summoning groundwork at the ancient tree in the [Dark Woods](../locations/dark-woods.md)
+- **A device** — Commissioned [Yong](yong.md) to build the apparatus; the recovered note confirms **multiple devices** in series, one per key
 - **Arcane stockpiling** — Purchasing high-volume, specific arcane ingredients from [Luda](luda.md), a local alchemical supplier
+
+---
+
+## The Note of Five Keys
+
+A planning note in Kurosawa's own hand, signed *— Kurosawa* and recovered by [Littlefinger](../pcs/littlefinger.md) from the graveyard wall crevice in Session Nine. It is the single most damning piece of physical evidence the party has ever held against him.
+
+**Excerpts:**
+
+> *"The confluence is upon us. Five veins. Five keys. Willow. Root. Stone. Water. Ash. Each must be forced into accord. Each must be corrected. Each must sing the same note."*
+
+> *"The first device has awakened the star beneath Gosembiki. Four remain."*
+
+> *"The old lovers' grove, now called the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), must be opened at the root next. Memory can be cut, grafted, and made to grow in a new direction."*
+
+> *"[Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md) must be made to bow. Even stone yields when proper law is spoken with sufficient force."*
+
+> *"The drowned markers of the [River's Lantern Spine](../locations/rivers-lantern-spine.md) must be turned with the current. Water carries every name."*
+
+> *"The [Terrace of Whispering Clay](../locations/terrace-of-whispering-clay.md) must be sealed last. Clay receives the hand. Clay remembers the shape."*
+
+> *"When all five lines flow as one, the Mother's resonance will pass through Willowshore. Not death. Not ruin. Transformation. The city will become chrysalis. Its history will soften. Its old loyalties will dissolve."*
+
+> *"Let the weak call it corruption. Let the sentimental call it loss. When the lines are harmonized, the Mother's reign begins."*
+
+> *"And if I must die beneath her wings, then I will at least die moving the world."*
+
+| Key | Site | Action | Status |
+|---|---|---|---|
+| Willow | [Gosembiki ruins](../locations/gosembiki-ruins.md) | "Awakened the star" | **Done** (Session 7–8) — though the device was pulled, not seated as planned |
+| Root | [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) (Lovers' Grove) | "Opened at the root" — memory cut, grafted, regrown | Next |
+| Stone | [Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md) | "Made to bow" — proper law spoken with sufficient force | Pending |
+| Water | [River's Lantern Spine](../locations/rivers-lantern-spine.md) | "Turned with the current" — drowned markers realigned | Pending |
+| Ash | [Terrace of Whispering Clay](../locations/terrace-of-whispering-clay.md) | "Sealed last" — clay holds the new shape | Final |
+
+The note frames Willowshore as a **chrysalis**, not a target — the city's history *softens*, its loyalties *dissolve*, and what emerges is the dominion of the Mother. Kurosawa is also explicit that he expects to **die in the doing** of it.
 
 ---
 
@@ -142,3 +179,16 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - **Won the verdict:** [Mayor Masru](mayor-masru.md) ruled the party guilty of unlawful interference, reckless endangerment, and spiritual disruption
 - Ordered the party disarmed and held pending decision; his guards marched them to a warehouse
 - [Yong's](yong.md) testimony inadvertently revealed Kurosawa once spoke of *"devices"* (plural)—a detail Kurosawa did not correct
+
+### Session Nine (2026-05-07)
+- **Pursued the fleeing party into the grasslands west of Willowshore.** Demonstrated his geomantic combat abilities for the first time openly:
+    - Called an **earthen-grasp** (mound and stone hands) up around Boone — *"Don't run off now, warrior"* — pinning him in place
+    - Sliced Littlefinger across the back with his **nodachi** for 19 slashing + 6 bludgeoning, the bludgeoning carried as a *"hammer-globe"* of force on the blade
+    - Critically struck Boone twice with the nodachi, dropping him to **0 HP** (24-damage crit + 18-damage follow-up); afterward, casually licked Boone's blood from his finger and the blade's edge
+    - Raised a **5 ft × 10 ft earthen wall** across the party's escape line; one of his oni climbed over while the wall held
+- **Hesitated** when [Radiant Willow](radiant-willow.md) walked, unarmed and pleading, between the party and his blade. Lowered the nodachi. Dropped the earthen wall. Took the surrender peacefully.
+- **Honor framing.** Publicly declared: *"I am nothing but honorable for my word. I said I would not attack. But the party has decided to prove their guilt beyond any reasonable doubt by fleeing. If they turn themselves over now, I will uphold my word."*
+- Allowed the party to be marched (still alive) to a warehouse near the river under his **four oni guards**, where they would be held *"until we can decide what to do."* Did not personally interrogate them that night
+- **The note in his own hand** (see *[The Note of Five Keys](#the-note-of-five-keys)*) was recovered by Littlefinger from the graveyard while he slept on his certainty that the party was contained
+- Publicly addressed the town as the party were marched away: that *"the reckless intruders have been confined"*, that *"the town is now in a good place"*, that he had *"shown mercy"* and was glad the town had as well
+- **He does not yet know the party escaped.** As of session end, the warehouse appears to him to still hold its prisoners

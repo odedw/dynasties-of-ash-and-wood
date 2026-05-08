@@ -152,10 +152,24 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 
 ### Session Eight (2026-04-22)
 - **Pulled the device** free from the gear cradle, triggering the collapse and the chasm; dropped to 0 HP (4 damage on 4 HP) from the falling ruin and entered dying condition—stabilized by Boone's Assurance (Medicine)
-- Received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment of the collapse
+- Received his personal mark from [Vujravati](../npcs/vujravati.md) in the frozen moment of the collapse
 - Took possession of **[Judgement's Edge](../locations/gosembiki-ruins.md#items-recovered)**, a magical longsword recovered from the rubble; once wielded by the legendary oni [Shen Takashi](../npcs/shen-takashi.md): *"Only criminals would be afraid of such a person."*
 - **Felled the first demon** in the street fight with a 13-damage longsword blow—its eyes blackened and it tumbled at his feet (after missing the first swing with the new weapon)
 - Took **13 damage** from a demon's claw—half his HP in one exchange
 - During the trial: opened the party's defense with *"You haven't asked where we've been, what we've been doing, or whose mission we've been on."*
 - Attempted to belittle the farmer's testimony; [Kurosawa](../npcs/magistrate-kurosawa.md) turned it around, accusing him of belittling the farmer himself
 - **Confiscated:** Judgement's Edge, the Guan Dao, and the alabaster dial piece (via Boone) were taken by oni guards at the end of the session
+
+### Session Nine (2026-05-07)
+- Already running at the open of session — took all three actions to **dash west** out of town, pulling away from Kurosawa's grasp on the way past
+- **Parkoured Kurosawa's earthen wall.** Combat Climber + Terrain Expertise made the climb routine: Athletics 23 then 17 — to the top in two motions. Flipped off Kurosawa from the parapet
+- **Used the Guan Dao like a fireman's pole** to pull Donkey and Ginkgo up over the wall (+2 assist, both made it)
+- Avoided being grappled at the top of the wall by an oni who critically failed his climb (DC 9 vs. acrobatics 18)
+- Stalled the parley with: *"Your kangaroo court charges, Kurosawa, do not prove our guilt. But this battle serves no good."* Argued for a **fair trial** with the recovered evidence; was rebuffed
+- Smuggled a **crowbar** past the oni weapon-search (Thievery 16) — *"You wouldn't want me to have that in confinement, so I'm gonna keep it"*
+- Used the crowbar on the back wall of the warehouse to **pry old planks loose** (Athletics 27 with crowbar +2 and assist +2) — opened the way for Littlefinger's exfiltration
+- Hours later, the **Perception roll that turned the night** (19) — heard the floor-hatch lift open at the back of the warehouse and saw [Kuji Yasho](../npcs/kuji-yasho.md) climb up out of the family's smuggling tunnel
+- **Made the Occultism check (21) on his Vujravati gift** — at last understood it: a token tied to the **[Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md)**, an extinct legendary occult-investigator order with a known location ~40–50 miles south in the mountains. *"There may be allies there, or something useful there for fighting Kurosawa if they know these lost dark arts."*
+- Explained the mark — and the cryptic phrase *"When the town closes its hand against you, seek the eye that opens"* — to the party; **advocated heading south first** to the Order before the Hollow. The party agreed
+- Recovered Judgement's Edge, the guan dao, and the alabaster dial piece from Mido's stash; took one of the **healing potions** for the road
+- Crossed the river south at moonrise; Littlefinger climbed onto his back when Vic dropped from the call. **Reached Level 3**

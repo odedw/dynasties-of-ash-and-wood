@@ -128,4 +128,12 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - In a square full of silent, nervous townsfolk who looked around at one another and did nothing, **Willow was the only person to raise her hand**
 - Spoke briefly about the dream: the land sick, the rivers silent, a wound in the earth
 - Her testimony was dismissed by [Kurosawa](magistrate-kurosawa.md) as *"visions and dreams on trial"*, but her courage stood alone and was noticed
-- Retroactively her quiet flower-leshy instinct for beauty and care (*"the spirits of Willowshore are calling out for help"*) aligns her firmly with [Gujravati's](gujravati.md) dream-voice, the same voice the party has now met directly
+- Retroactively her quiet flower-leshy instinct for beauty and care (*"the spirits of Willowshore are calling out for help"*) aligns her firmly with [Vujravati's](vujravati.md) dream-voice, the same voice the party has now met directly
+
+### Session Nine (2026-05-07)
+- **Stopped a battle with words.** As [Kurosawa](magistrate-kurosawa.md) and his oni were finishing the party off — Boone at 0 HP, Littlefinger dying on the ground, an earthen wall pinning the rest — Willow ran out of town toward the fight, hands open, calling: *"No, stop the ugliness. No more bloodshed. Please. Our town has sacrificed enough. No more killing."*
+- Kurosawa raised his sword toward her, then **lowered it**. He hesitated for her where he had hesitated for no one else. The party survived because she walked into a battlefield unarmed and asked them to stop.
+- Knelt beside the wounded party and held her hand on Boone: *"No more. Just please, everybody stop. We need beauty here. We need peace."*
+- Was implicitly the moral cover Kurosawa needed to **take the party alive** rather than execute them — Mido and Boone both understood her courage as the reason none of the party died that night
+- Boone, before agreeing to surrender: *"Willow, you showed bravery during our trial. Out of respect for you, I will talk peacefully."*
+- Walked back into Willowshore with the party as they were escorted to confinement; she remains in town, unarmed, and is now **the closest thing to a moral conscience** Kurosawa has been seen to acknowledge

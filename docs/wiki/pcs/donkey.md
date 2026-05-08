@@ -154,7 +154,7 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 
 ### Session Eight (2026-04-22)
 - Used **Detect Magic** to analyze the device; helped confirm (with Ginkgo's arcana) that the device was winding **potential energy** rather than simply redirecting flow
-- Knocked unconscious by the ruin collapse; received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment
+- Knocked unconscious by the ruin collapse; received his personal mark from [Vujravati](../npcs/vujravati.md) in the frozen moment
 - Tirelessly dug through the rubble afterward; recovered **four leshy bodies** for burial rites and the unblemished **[Judgement's Edge](../locations/gosembiki-ruins.md#items-recovered)** sword
 - Identified Judgement's Edge as a **+1 longsword with a Rune of Striking**
 - Cast **Tangle Vine** twice on demons during the Willowshore battle—one success, one **natural 20 critical immobilization** (vines wrapped a demon like a mummy)
@@ -162,3 +162,10 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - **During the trial:** produced the writs of investigation from [Mayor Masru](../npcs/mayor-masru.md) as the party's first defense
 - **Landed the one clean hit on Kurosawa's testimony:** *"How did you know it was a magical artifact?"* → Kurosawa: *"Because I commissioned it."* (he recovered within seconds, but it was the only crack all evening)
 - Ended the session disarmed and under guard
+
+### Session Nine (2026-05-07)
+- *David was absent for this session. Donkey ran with the party through the chase, the wall, the warehouse, and the tunnel — flagged as "running with the group" through the GM's narration*
+- Donkey ran along with the party as they fled west; tried to climb Kurosawa's earthen wall, failed badly (Athletics +0 → 5 ft up only), got pulled to the top by Da Baishan's guandao on the next round
+- **Smuggled his spell book** through the weapon-search by hiding it on his person (DM-rolled; the oni took his dagger but missed the book — they knew he was a wizard and were specifically looking for it)
+- His healer's toolkit was the one Da Baishan borrowed during the warehouse clinic
+- Kept his lent toolkit and his potion share through the southern crossing. **Reached Level 3**

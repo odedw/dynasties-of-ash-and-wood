@@ -119,3 +119,14 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 - Smiled dryly when asked about escape plans, saying the family has discussed "contingency plans"
 - Said she slept peacefully and did **not** have the shared dream
 - Continues to provide the party's **alibi** at personal risk
+
+### Session Nine (2026-05-07)
+- Did **not** wait for Kurosawa's exile escort. Quietly relocated the family to a network of **hideouts around Willowshore** rather than the increasingly unsafe Silver Mist Inn
+- Sent her son **[Kuji](kuji-yasho.md)** to extract the imprisoned party through the family's old **smuggling tunnels** beneath the warehouses; greeted them at a hidden cave outcropping west of town from a rickshaw, blanket across her legs, with her surviving guard, Kuji, and her daughter
+- Read [Kurosawa's](magistrate-kurosawa.md) recovered note (*[The Note of Five Keys](magistrate-kurosawa.md#the-note-of-five-keys)*); confirmed her long-held suspicion that he was *"a geomancer by studies, by arts, and very interested in the Gosembiki ley line"*, and admitted *"it's even worse than I may have thought"*
+- Provided the lore on the **[Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md)** (the old Lovers' Grove) — the dream-eater spirit, the seven cedars, the trinkets, and the pool — and explained Kurosawa's likely intent to **invert** the spirit's function and rewrite the surviving townspeople's memory
+- Confirmed her own knowledge has limits: she could not interpret all five sites in the note, and could not advise the party on how to face the magistrate's geomancy directly
+- **Refused to flee Willowshore entirely.** *"We do not want to stray far. Willowshore is still our home, and we will look to find ways of usurping this Kurosawa before he can do more damage."*
+- Provisioned the party out of the family's stashes — two healer's kits, a sized **full plate** for Boone, a sling and five healing potions; said the family could not provide a heavy plate for Da Baishan's frame on short notice, but offered to try
+- Pledged the **family's spy and tunnel network** to keep watching Kurosawa from the shadows while the party traveled south to the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md)
+- Wished them luck; her smile was small, and she did not stand

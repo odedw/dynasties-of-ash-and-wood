@@ -144,7 +144,7 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Discovered that his polearm has the **reach trait**—allowing him to strike from 10 feet away without adjacent positioning
 
 ### Session Eight (2026-04-22)
-- Survived the ruin collapse mostly intact (3 bludgeoning damage); received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment—the echo of the voice from his Battle of Five Crows dream
+- Survived the ruin collapse mostly intact (3 bludgeoning damage); received his personal mark from [Vujravati](../npcs/vujravati.md) in the frozen moment—the echo of the voice from his Battle of Five Crows dream
 - **Stabilized Da Baishan** using **Assurance (Medicine)** after Littlefinger's kit was damaged in the collapse and couldn't stabilize him
 - **Identified the name "Shen Takashi"** through warfare lore (25)—the *Silent Duelist*, a legendary oni ronin who broke from the oni leadership; hadn't been seen in ~20 years
 - Landed a 15-damage polearm hit on a demon in the Willowshore street fight, gutting it across the belly
@@ -152,3 +152,18 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - **During the trial:** argued the mayor should hear *all* evidence, not Kurosawa's accusations; called to the crowd to address the accusation pattern
 - **Delivered the session-defining appeal:** asked the whole town *"Who had the dream?"* (Diplomacy 13 with Ginkgo's Guidance); only [Radiant Willow](../npcs/radiant-willow.md) raised her hand
 - Still carried the **alabaster dial piece**—confiscated with his other gear at the end of the session
+
+### Session Nine (2026-05-07)
+- Caught in [Kurosawa's](../npcs/magistrate-kurosawa.md) opening **earthen-grasp** as the chase began — earth and rock closed around him *"like a python"*. Failed reflex save 17 (vs. DC unknown but high)
+- **Athletics 30** to escape the grasp — ripped his arms through, pulled his legs out, broke free; took two of his three actions and ran
+- Critically struck twice by Kurosawa at the wall — **24-damage crit + 18 follow-up** — dropped to **0 HP** and died on his feet
+- Saved from death twice in two minutes:
+    - First by Ginkgo's **[Vujravati](../npcs/vujravati.md) gift** stabilizing him (1 HP, no longer dying) — Kurosawa stood over him tasting his blood as it happened
+    - Then by Boone's own **battle medicine** crawl-over to revive Littlefinger, plus **a second battle medicine on himself**
+- Crawled with the **Step action** (no reactive strikes) to reach Littlefinger across the open ground
+- **Surrendered to honor Willow.** *"Willow, you showed bravery during our trial. Out of respect for you, I will talk peacefully."* Boone was the one who turned the room
+- Smuggled his **clan dagger** past the weapon-search (Thievery 19)
+- In the warehouse, ran the **treat-wounds clinic** for the entire party — 11 to Littlefinger, 11 to Da Baishan, 7+8 to himself, 10 to Ginkgo, with healer's tools borrowed from Donkey
+- Asked Mido for **heavier armor** — finally **[full plate sized for him](../npcs/mido.md)**, +2 AC, "where it's supposed to be." His new baseline armor for the chapters ahead
+- Took one of the five healing potions
+- Stripped the plate to wade across the river south of Willowshore at moonrise; redonned on the far bank. **Reached Level 3**

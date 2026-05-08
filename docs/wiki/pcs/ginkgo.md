@@ -159,10 +159,24 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 
 ### Session Eight (2026-04-22)
 - Spent the opening of the session on **Arcana** (14) trying to read the device; concluded it was winding potential energy, not merely redirecting
-- Knocked unconscious by the ruin collapse; received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment
+- Knocked unconscious by the ruin collapse; received his personal mark from [Vujravati](../npcs/vujravati.md) in the frozen moment
 - Performed a **leshy burial rite** for the four crushed leshies Donkey recovered from the rubble: *"Go back to the soil, my brothers. The mycelium will carry you home."*
 - Cast **Bane** in the demon street fight and sustained it—two demons failed Will saves and took −1 on attacks
 - During the trial: called **[Meilin](../npcs/meilin.md)** as the party's first defense witness; her quiet testimony was the cleanest defense they got
 - Demanded an **impartial expert** when [Kurosawa](../npcs/magistrate-kurosawa.md) claimed authority over device's meaning; the demand was crushed with *"I am the Council of the Magi"*
 - Cast **Guidance** on Boone for his closing appeal to the townspeople
 - Ended the session disarmed and under guard
+
+### Session Nine (2026-05-07)
+- Used all three actions to **flee** at the chase opening; pacifist instinct held even under direct pursuit
+- Tried to **burrow** through Kurosawa's earthen wall — discovered the rules-as-written that he needs an actual burrow speed; pivoted to climbing instead. *"He's a mushroom."*
+- Failed his climb (Athletics 7) and fell back to the base of the wall as Kurosawa's nodachi arrived
+- After [Da Baishan](da-baishan.md) helped pull him to the top with the guandao (Athletics 10 → 21 with assistance), used **[Vujravati's](../npcs/vujravati.md) gift** for the first time — his **once-per-day stabilize** — to bring [Boone](boone.md) back from dying as Kurosawa stood over him tasting blood from the blade
+- Argued for **bolting** rather than surrendering, when [Radiant Willow](../npcs/radiant-willow.md) intervened: *"Let's keep running."* Was overruled, agreed to surrender
+- His **scale gift** from Vujravati was searched by oni guards and **not recognized as a weapon**; he was allowed to keep it
+- In the warehouse, cast a **3-action area Heal** (1d8 = 3 to everyone), used as a top-up after Boone's medicine work
+- Healed Littlefinger directly with a follow-up **Heal**
+- Voted to **leave town** and try to **blackmail or out-strategize** Kurosawa with the recovered papers rather than fight him head-on: *"He probably will assume we will go [to the Hollow] at some point. We need to have a plan to deal with him."*
+- Backed Da Baishan's recommendation to head **south** to the Order of the Palatine Eye first
+- Asked Mido for **healing supplies / kits** in the resupply; collected one of the healing potions
+- Crossed the river south of Willowshore in the night with the rest of the party; **reached Level 3**

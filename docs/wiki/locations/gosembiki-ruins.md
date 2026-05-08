@@ -96,7 +96,7 @@ A metallic **flower-petal mechanism** suspended inside a slowly turning gear tra
 - **Catastrophic release:** the device's slow ley-line warping had actually been **winding potential energy like a spring**; removing it unleashed all of it at once
 - Blinding light; birds in the surrounding sky exploded from heat venting; roof collapsed; party took bludgeoning damage (Da Baishan dropped to 0 and went dying; Donkey also went unconscious)
 - A **chasm** tore out of the ruin and arced across the countryside toward [Willowshore](willowshore.md)—parallel to the river, still venting sulfurous steam and growing
-- Time froze in the collapsing chamber. **[Gujravati](../npcs/gujravati.md), a golden dragon**, manifested, named itself as the voice of the shared dream, and gave each PC a personal mark/gift against *"the falling darkness"*
+- Time froze in the collapsing chamber. **[Vujravati](../npcs/vujravati.md), a golden dragon**, manifested, named itself as the voice of the shared dream, and gave each PC a personal mark/gift against *"the falling darkness"*
 - After time resumed, [Donkey](../pcs/donkey.md) dug through the rubble and recovered **four leshy bodies**; [Ginkgo](../pcs/ginkgo.md) performed a burial rite
 - Donkey also recovered an **unblemished longsword** in a sheath buried in the rubble: **Judgement's Edge** (see below), once wielded by the legendary oni [Shen Takashi](../npcs/shen-takashi.md)
 - The ruin is now functionally destroyed—a cratered collapse. The subterranean chamber is gone.

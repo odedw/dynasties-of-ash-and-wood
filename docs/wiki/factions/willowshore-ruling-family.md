@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | **Type** | Noble family / Local government |
-| **Location** | [Willowshore](../locations/willowshore.md) |
-| **Status** | Displaced but committed to staying; cooperating with the party |
-| **Notable Members** | [Mido](../npcs/mido.md) (matriarch), [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md) |
+| **Location** | [Willowshore](../locations/willowshore.md) (now in **hidden refuges** around the town rather than Silver Mist Lodge) |
+| **Status** | Refused exile; gone underground; actively cooperating with the party via tunnels and stashes |
+| **Notable Members** | [Mido](../npcs/mido.md) (matriarch), [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md), [Kuji Yasho](../npcs/kuji-yasho.md) (son), Mido's daughter |
 
 ---
 
@@ -51,9 +51,11 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 |--------|------|-------|
 | [Mido](../npcs/mido.md) | Matriarch / Elder | Sharp, pragmatic leader; admitted to the sabotage |
 | [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md) | Mido's brother | Decorated military veteran; reads Chthonic; "knows the real ending" |
+| [Kuji Yasho](../npcs/kuji-yasho.md) | Mido's son | Tunnel and quartermaster operator; led the party's extraction in Session 9 |
+| Mido's daughter | Family | Present beside Mido at the cave hideout; not yet named |
 | The Patriarch | Head of family | Created the false story about spirits (TBD) |
 | The Lost Heir | Former heir | Disappeared into the forest long ago |
-| Two bodyguards | Retainers | Non-blood family members who serve as guards |
+| Two bodyguards | Retainers | Non-blood family members who serve as guards. **One was killed and infected as a werewolf (Session 6); only one remains.** |
 
 ---
 
@@ -118,3 +120,12 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 - One of the family's two **bodyguards was found dead**—transformed into an infected werewolf ~8 miles east of Willowshore; the cause of his infection is unknown
 - The family continues to provide the party's **alibi** at personal risk, despite their own precarious situation
 - The party promised to petition [Mayor Masru](../npcs/mayor-masru.md) to intervene in the exile
+
+### Session Nine (2026-05-07)
+- The family **did not wait** for Kurosawa's exile escort (due in three days). Mido relocated everyone out of Silver Mist Lodge into a series of **hidden refuges** scattered around Willowshore
+- [Kuji Yasho](../npcs/kuji-yasho.md) — Mido's son — revealed and named for the first time. Led the rescue of the imprisoned party through the family's **smuggling-tunnel network** under the town
+- The smuggling tunnels predate the family's recent troubles by **generations** — Mido: *"In our early ascent to the ruling family, they were used by many a Yeshou back in the day. Every once in a while they come in very handy."* The network includes routes under several warehouses and the family's former estate
+- The family's surviving guard accompanied Mido at the cave outcropping west of town
+- **Provisioned the party** for the southern journey — full plate, healer's kits, sling, five healing potions, and information on the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md)
+- Pledged to **stay close** to Willowshore and use the tunnel network and the family's spy contacts to monitor [Kurosawa](../npcs/magistrate-kurosawa.md) while the party travels to the [Order of the Palatine Eye](order-of-the-palatine-eye.md)
+- The family is now **fully aligned with the party** in opposing Kurosawa's confluence ritual; they have moved from passive intelligence-sharing to direct operational support

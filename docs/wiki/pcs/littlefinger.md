@@ -158,10 +158,23 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 ### Session Eight (2026-04-22)
 - **Natural 20** on Perception checking the device for traps (+2 from Trap Finder)—confirmed it was safe to pull, immediately before everything went wrong
 - Survived the ruin collapse (6 bludgeoning damage) but his **healer's kit** was partly destroyed—couldn't stabilize Da Baishan
-- Received his personal mark from [Gujravati](../npcs/gujravati.md) in the frozen moment
+- Received his personal mark from [Vujravati](../npcs/vujravati.md) in the frozen moment
 - Crafted **four level-one snares** at the overnight camp; caught two rabbits
 - Opened the demon street fight by hiding behind a building, then **sneak-attacked** a demon with his rapier from behind—deep wounds under the arm and ribs
 - **During the trial:** called **[Yong](../npcs/yong.md)** as a defense witness; Yong's testimony revealed Kurosawa once spoke of *"devices"* (plural)
 - Argued the conspiracy / inside-job angle—quashed by Kurosawa: *"Could we stop with the conspiracy theories?"*
 - Ended the session disarmed; rapier and shuriken confiscated with the rest of the party's gear
 - The hidden papers on the north side of town remain un-retrieved
+
+### Session Nine (2026-05-07)
+- Sliced **across the back** by an oni's sword early in the chase — 19 slashing + 6 bludgeoning, force-imbued blade — and dropped to **negative 7 HP**, then knocked unconscious by a follow-up 8-damage strike at the wall
+- **Failed his first death save** (10 — *"10 and below is failure"*); rolled to **dying 3** before the wall came down. *"Not gonna make it."*
+- Stabilized at the bottom of the wall by Boone's **battle medicine** (9 HP from Boone crawling over to him under cover); revived just in time for [Radiant Willow's](../npcs/radiant-willow.md) intervention
+- **Smuggled a brace of daggers** past the weapon-search by tucking one into a boot (Thievery — clean roll); kept them through confinement
+- After several hours of treat-wounds work in the warehouse, used **Administer First Aid** on himself for top-up
+- **The exfiltration.** Stealth 22 (with Ginkgo's Guidance) past the warehouse guard; reached the graveyard wall crevice on the north side of town; **recovered the hidden papers** (Kurosawa's note among them) exactly where he had wedged them in Session Five; Stealth back in (high roll, easy)
+- Realized only after re-entry that the most damning of the recovered pages was Kurosawa's own planning note — read it aloud to the party (*"That feels pretty damning"*)
+- Argued initially for taking the note **straight to Willow** as their best non-lethal route out of confinement; was overruled in favor of leaving with the Yeshous
+- After [Mido's](../npcs/mido.md) gear cache: claimed a **sling** (no upgraded leather armor was available) and one of the five healing potions
+- Forced to drop early in the second half of session due to an AWS outage at his job; piggybacked **on Da Baishan's back** for the rest of the night, gripping for dear life as the party crossed the river south
+- **Reached Level 3**

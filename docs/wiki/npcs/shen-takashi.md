@@ -50,7 +50,7 @@ Known to the party through [Boone's](../pcs/boone.md) warfare lore (25) and a mo
 
 - **Why was his sword in the Gosembiki ruins?** The ruin is an arcane site—older than Shen Takashi by orders of magnitude—yet his weapon was buried there in a location a falling ruin could reveal. Did he go there to fight someone? To hide the sword? Is he still there, somewhere, unburied?
 - **Is he dead?** Twenty years of absence is not proof. But nothing has been heard.
-- **Did he know [Gujravati](gujravati.md)?** A good oni who fought against his own for the sake of the common people. A dragon who calls itself a witness against the rot. The parallel is striking. Connection unconfirmed.
+- **Did he know [Vujravati](vujravati.md)?** A good oni who fought against his own for the sake of the common people. A dragon who calls itself a witness against the rot. The parallel is striking. Connection unconfirmed.
 - **Does Da Baishan now carry his legacy?** Intentionally or otherwise, the sword has chosen a new wielder.
 
 ---

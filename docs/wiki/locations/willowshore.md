@@ -211,3 +211,13 @@ This deception created factions. Some people secretly blame each other; some wel
 - **Verdict:** guilty of unlawful interference, reckless endangerment, and spiritual disruption. The party was disarmed and marched to a warehouse.
 - [Radiant Willow](../npcs/radiant-willow.md) was the **only** townsperson to raise her hand when Boone asked the crowd who had shared the dream
 - The [Seven Colored Songbird Theater](#notable-locations) and the square around it served as the trial site
+
+### Session Nine (2026-05-07)
+- The party **fled west** along the riverside out of town immediately at session start; [Kurosawa](../npcs/magistrate-kurosawa.md) and two oni gave chase across the grasslands beyond the town edge
+- Kurosawa demonstrated open **geomantic combat** in the chase: an **earthen-grasp** that pinned Boone, a **5 ft × 10 ft earthen wall** raised across the party's escape line. Kurosawa critically struck Boone twice, dropping him to 0 HP, and sliced Littlefinger near to death
+- [Radiant Willow](../npcs/radiant-willow.md) ran out of town toward the fight unarmed and pleading. Kurosawa hesitated, lowered his nodachi, and dropped the wall. The party surrendered out of respect for her
+- Marched back into town and held in a **fishy warehouse near the river** (~40 ft × 50 ft, no windows, double doors barred) under one oni guard at a time, four oni in shifts
+- The Yeshou family extracted the party at night through a **floor-hatch into a smuggling tunnel** under the warehouse — part of a much older network beneath Willowshore that the party had no idea existed
+- The **hidden papers** (including a damning planning note in [Kurosawa's hand](../npcs/magistrate-kurosawa.md#the-note-of-five-keys)) were retrieved from the wall crevice north of town by [Littlefinger](../pcs/littlefinger.md), still where he hid them
+- Townspeople — [Yong](../npcs/yong.md) among them, who *"shook his head, disappointed"* — stood at street-edges and watched the party marched in, and stayed silent
+- After the escape the party crossed the river south of town and **left Willowshore**, headed for the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md). The Yeshous remain inside, watching from hideouts
