@@ -105,6 +105,26 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 
 ---
 
+## Kurosawa's Error
+
+The Order of the Palatine Eye's **[Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony)** opened to [Boone's](../pcs/boone.md) hand in Session Ten. The second of two truths it revealed names Kurosawa's mistake outright:
+
+> *A tyrant believes law can replace loyalty.*
+>
+> *A geomancer believes lines can replace roots.*
+>
+> *Both are wrong until the roots are made to forget themselves.*
+
+The Order's reading is theoretical and devastating. Geomancy alone is **insufficient** to invoke the Mother of a Thousand Wings — the *Confluence rite* described in [the note](#the-note-of-five-keys) cannot harmonize five ley-line keys into the Mother's resonance unless **the roots themselves forget what they are**.
+
+That is precisely what the **second key — Root** — is for. The [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) is not just one site of five; it is the **conditional joint** of the entire ritual. Without it, the other four keys are inert. The Dream Eater's inversion isn't an *enhancement* to the rite — it is the **prerequisite** that makes the rest of it work.
+
+This is the Order's actual gift to the party in Session Ten: not a weapon, but a **theoretical objection**. Stop the Hollow and the Confluence is broken regardless of what happens at Cloudbreaker, the Lantern Spine, or the Whispering Clay. The line *"both are wrong until the roots are made to forget themselves"* is the campaign's first explicit statement that **Kurosawa's plan has a single point of failure**, and the party already knows where it is.
+
+It is also, read against the man himself, a deeper indictment. The Order's framing reduces him to *one of two parallel errors* — the tyrant *and* the geomancer — and says **both are wrong**. He has built a Confluence on the assumption that what he can draw on a map can replace what grows in the soil. The town's loyalty cannot be replaced with law. The land's roots cannot be replaced with lines. He has misjudged the substrate of both.
+
+---
+
 ## Session History
 
 ### Session One (2026-01-30)
@@ -192,3 +212,8 @@ Kurosawa serves as the advance guard for the incoming mayor. His role is to prep
 - **The note in his own hand** (see *[The Note of Five Keys](#the-note-of-five-keys)*) was recovered by Littlefinger from the graveyard while he slept on his certainty that the party was contained
 - Publicly addressed the town as the party were marched away: that *"the reckless intruders have been confined"*, that *"the town is now in a good place"*, that he had *"shown mercy"* and was glad the town had as well
 - **He does not yet know the party escaped.** As of session end, the warehouse appears to him to still hold its prisoners
+
+### Session Ten (2026-05-14)
+- *Did not appear in person.* Indicted from a distance: the [Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony) named him in the first of its eight reveals — see *[Kurosawa's Error](#kurosawa-s-error)* above
+- The party now knows, with the Order's authority behind it, that **his Confluence rite has a single point of failure** — the Root key at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md). His other four keys are inert without it
+- He still does not know the party have escaped Willowshore. He still does not know they have read his note. He does not know an extant member of the Order of the Palatine Eye now exists in the world for the first time in his lifetime — and he does not know that member is [Boone](../pcs/boone.md)

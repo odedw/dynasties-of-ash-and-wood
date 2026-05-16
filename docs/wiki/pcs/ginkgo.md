@@ -180,3 +180,13 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Backed Da Baishan's recommendation to head **south** to the Order of the Palatine Eye first
 - Asked Mido for **healing supplies / kits** in the resupply; collected one of the healing potions
 - Crossed the river south of Willowshore in the night with the rest of the party; **reached Level 3**
+
+### Session Ten (2026-05-14)
+- **Surveyed the wildlife** on the trail south — 10-minute Survival check on nests, scat, and broken vegetation. Confirmed the southern woods are *not* carrying the *wounded-land* sickness from the Dark Woods. Picked up the bipedal tracks that would turn out to be the [Glutton Ogre](../locations/palatine-eye-vault.md#approach-glutton-s-bridge); read the stride correctly
+- Camped **up in a tree** during the rest hour while Littlefinger scouted forward — Perception 13 + **Guidance** self-cast for the watch. *"He's a mushroom"* applies; he is also a mushroom that prefers branches to soil
+- **Pacifist's role in the ogre encounter** — flatly refused the alchemist's-toolkit poison plan; held to it. The party pivoted to the ham trebuchet because of him. He found the **bamboo grove** on Nature 1 (lucky terrain ruled in his favor) for the trebuchet's flexible spar
+- Read [Cliché](../npcs/cliche.md) carefully — the only PC to ask outright *"is Cliché your real name?"* and got the smiling non-answer. Took a warm hand-stone with thanks
+- Inside the [Hall of Divided Testimony](../locations/palatine-eye-vault.md#the-hall-of-divided-testimony), drove most of the experimentation: tried to **burn the scrolls** in the lantern (no light), **overlay them** to look for hidden text, **hold one up under the lantern's blue flame** to look for warmth or watermarks. None worked, but the shadows reacted to the held scroll, which became the breadcrumb to the actual unlock
+- Suggested *"voicing the words, blow on the lantern somehow"* — Donkey's arcana hint plus this guess crystallized as **read the scrolls aloud**, which is what the puzzle wanted
+- Read the **Pale Witness scroll** aloud first, opening the answer chain that solved all four dials
+- Took a warm stone, did not take a tattoo — *"I do not have 30 gold coins, sorry"*

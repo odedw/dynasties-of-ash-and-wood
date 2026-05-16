@@ -173,3 +173,15 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Explained the mark — and the cryptic phrase *"When the town closes its hand against you, seek the eye that opens"* — to the party; **advocated heading south first** to the Order before the Hollow. The party agreed
 - Recovered Judgement's Edge, the guan dao, and the alabaster dial piece from Mido's stash; took one of the **healing potions** for the road
 - Crossed the river south at moonrise; Littlefinger climbed onto his back when Vic dropped from the call. **Reached Level 3**
+
+### Session Ten (2026-05-14)
+- **Survival check on the trail south** — picked up the bipedal tracks of what would turn out to be a [Glutton Ogre](../locations/palatine-eye-vault.md#approach-glutton-s-bridge); estimated stride length at 8–12 feet
+- Hauled the bamboo tree down for the **ham trebuchet** at one shot — *"I'll grab that tree"* — hand over hand, bent it into an arch, latched it, and went on overwatch with **Perception 22** on Seek action while the ogre repositioned. Spotted the rush early
+- Climbed the switchbacks with the team to [Cliché](../npcs/cliche.md)'s fire. Did not get an explicit name from the hermit — *"What's your name? You are standing… one small scan."* Asked the hermit about *"a giant friendly dragon who gives gifts"* — Cliché answered with the *"celestial one"* line, confirming [Vujravati](../npcs/vujravati.md) by epithet
+- Took a warm hand-stone from the fire and pocketed it — *"Forge dwarf loves hot rocks"*
+- At the cliff, the only one who **felt the magnetic pull** of [the door](../locations/palatine-eye-vault.md#the-cliffside-door); his Vujravati gift had been homing on this point the whole way. Two raps on stone produced the deeper, metallic-toned answer; an **eye drew itself in henna ink on the back of his hand** as the door drew the matching eye in the cliff and opened
+- **Recall Knowledge (Intelligence)** on the eye-mark — recalled, with a jolt, that **[Cassian Voss](../npcs/cassian-voss.md) had carried the same mark on the back of his hand**
+- Inside the [Hall of Divided Testimony](../locations/palatine-eye-vault.md#the-hall-of-divided-testimony), held the *"That's Odd"* clue from the dissonant lantern shadows the entire puzzle — *"the shadows are wrong"* was his standing read; eventually paired it with Donkey's verbal-component arcana hint to land on **read the scrolls aloud** as the unlock
+- After the inner door opened, kept watch in the sanctum — the kneeling [Stone Witness](../locations/palatine-eye-vault.md#the-sanctum-and-the-stone-witness) was standing at attention while Boone took the book
+- **Dropped his eye-tattoo** voluntarily on exit — *"I'll drop the tattoo. Let Donkey be the ink master here"* — handing the Order's bearer-mark to Boone, who is now the named member
+- Carrying the warm stone, walked out onto the cliff path knowing the next leg is **west** to the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), per Cliché and per the Book

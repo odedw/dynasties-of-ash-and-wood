@@ -169,3 +169,16 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - **Smuggled his spell book** through the weapon-search by hiding it on his person (DM-rolled; the oni took his dagger but missed the book — they knew he was a wizard and were specifically looking for it)
 - His healer's toolkit was the one Da Baishan borrowed during the warehouse clinic
 - Kept his lent toolkit and his potion share through the southern crossing. **Reached Level 3**
+
+### Session Ten (2026-05-14)
+- Recognized the [Glutton Ogre](../locations/palatine-eye-vault.md#approach-glutton-s-bridge) species from Littlefinger's description of the kill — Nature check; flagged its low intelligence, ambush style, and the **gluttons-rush** burst-speed ability that would have caught the party on the path
+- Argued in favor of the ham-trebuchet plan over Boone's poison-deer plan — *"Ogres aren't particularly bright. If we got his attention with the ham and put it somewhere out of reach, would that distract him for a while?"* (yes)
+- Volunteered to **mage hand the ham** as a backup deployment plan; not needed once the trebuchet worked
+- Climbed the switchbacks with the party and rolled **Society 26** on [Cliché](../npcs/cliche.md) — confirmed he is **not** anyone in any Willowshore-area description, and noted that he knows things he should not (*the smiling one*, [Vujravati](../npcs/vujravati.md), the existence of the Order without ever naming it). The hermit named him personally: **"the one who makes sparks"**
+- Did the *itinerant-old-man-meets-itinerant-old-man* probing-questions routine on Cliché — confirmed the hermit's land-knowledge was real, but his other-knowledge ran far past it
+- Took a warm hand-stone from the fire
+- At the [cliff door](../locations/palatine-eye-vault.md#the-cliffside-door), worked out *"the hand that doubts"* logic-puzzle style — *"my hand doubts that knocking on rock will work, therefore my hand is the doubting hand"* — and was the first to knock. The cliff stayed solid for him; Da Baishan's knock was the answer the door wanted
+- Inside the [Hall of Divided Testimony](../locations/palatine-eye-vault.md#the-hall-of-divided-testimony), drove **80% of the puzzle reasoning** — read the dial-mappings off the scrolls, asked the GM the questions that found the broken parts of the lies (where is the moon hanging? which hand do the monks raise their torches with?), and called the verbal-component / *"reading aloud"* hint after his **Arcana 18** check on the lantern. *That* unlocked the puzzle
+- Read the scrolls aloud one by one as the others set the dials — Pale Witness, Weeping Root, Loyal Crossing, Devout Flame
+- Took the **Frost Walker** and **Bewitching Bloom** tattoos he'd had stocked, plus picked up **Navigator Star** as a backup since "it gives you a compass on your body"
+- Did not knock again. Followed Boone into the sanctum at *"a reasonable distance"*

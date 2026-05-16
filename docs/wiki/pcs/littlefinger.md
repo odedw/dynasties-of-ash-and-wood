@@ -178,3 +178,15 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - After [Mido's](../npcs/mido.md) gear cache: claimed a **sling** (no upgraded leather armor was available) and one of the five healing potions
 - Forced to drop early in the second half of session due to an AWS outage at his job; piggybacked **on Da Baishan's back** for the rest of the night, gripping for dear life as the party crossed the river south
 - **Reached Level 3**
+
+### Session Ten (2026-05-14)
+- **Twilight halfling night vision saved the road south** — at 2–3 AM, picked up the bipedal tracks again on Survival, locating the [Glutton Ogre](../locations/palatine-eye-vault.md#approach-glutton-s-bridge) ahead before the party caught up to it
+- **Solo recon** to the bridge while the rest of the party rested — watched the ogre ambush and dismember an elk by hand, kept Stealth, returned with detailed intel: stride, hiding spot, behavior, ambush range
+- Proposed the **shuriken-stuffed ham** — *"He'll swallow that hole. They will be in his stomach, and if we have to fight him, those will help us"* — turned a distraction into a hidden retaliation. Sacrificed his old **shuriken** stock (he had the sling now from Mido's stash) into the bait
+- Volunteered to be the **trigger man** on the ham trebuchet — Stealth 15 hidden in the shrubbery near the rope; the party handed him the rope because *"he hides much better."* Pulled the latch on a clean **Initiative 18**, sending the ham over treetop. The ogre chased it, swallowed it whole, and ran from the pain
+- Crossed [Glutton's Bridge](../locations/palatine-eye-vault.md#approach-glutton-s-bridge) safely with the party; declined to look back
+- At [Cliché's](../npcs/cliche.md) fire — quiet, watching, took a warm hand-stone. The hermit did not give him a label aloud the way he did Boone or Donkey, which Vic noted dryly and let pass
+- **Trap Finder** check (Perception 17 with the +1 trap-bonus) inside the [Hall of Divided Testimony](../locations/palatine-eye-vault.md#the-hall-of-divided-testimony) — confirmed *no mechanical traps* on the dials, the door, the lantern, or the scrolls. Cleared the room as a non-mechanical puzzle, freeing the rest of the party to focus on it as an arcane one
+- Watched the puzzle from the side of the room; did not roll the unlock himself, but credited the verbal-component reveal — *"reading it out loud ended up being the big kind of reveal move there at the end"*
+- Took the warm stone; declined a tattoo
+- Followed Boone into the sanctum; did not interfere with the lectern or the book

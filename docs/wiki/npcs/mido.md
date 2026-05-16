@@ -69,6 +69,32 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 
 ---
 
+## Mido's Half-Truth
+
+The Order of the Palatine Eye's **[Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony)** opened to the party's hand in Session Ten. The first of two book-truths it revealed concerned Mido directly:
+
+> *Beware the elder who lies by subtraction.*
+>
+> *She does not hide the road because she serves the dark.*
+>
+> *She hides the road because she knows what followed the last traveler home.*
+>
+> *A tyrant believes law can replace loyalty.*
+>
+> *A geomancer believes lines can replace roots.*
+
+The reading is sharp and specific. Mido is **not** a collaborator. The Order does not accuse her of treachery; it accuses her of *omission* — of withholding information not because she favors [Kurosawa's](magistrate-kurosawa.md) side but because the **last person who was told whatever she has not told the party did not survive being told**, and something *followed them home*.
+
+The Order's testimony does not say who that traveler was. The party's working theories — none confirmed:
+
+- [Cassian Voss](cassian-voss.md), who was Order-marked, who is dead in Willowshore's graveyard, and who Mido *did not warn* in time
+- One of [Cheng Yesho's](the-smiling-one.md) prior comrades from the war that produced the *smile* he now wears
+- A previous head of the Yeshou family, whose disappearance might be exactly the reason the smuggling tunnels were dug in the first place
+
+Until the party can ask Mido directly **what she knows that the last traveler died for**, the Order's reading of her stays where it is: a half-truth, lied by subtraction, lied for love.
+
+---
+
 ## Session History
 
 ### Session Two (2026-02-05)
@@ -130,3 +156,8 @@ She took advantage of Hong's desperation, hiring a child to do dangerous work. S
 - Provisioned the party out of the family's stashes — two healer's kits, a sized **full plate** for Boone, a sling and five healing potions; said the family could not provide a heavy plate for Da Baishan's frame on short notice, but offered to try
 - Pledged the **family's spy and tunnel network** to keep watching Kurosawa from the shadows while the party traveled south to the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md)
 - Wished them luck; her smile was small, and she did not stand
+
+### Session Ten (2026-05-14)
+- *Did not appear in person.* Implicated by the Order from a distance: the [Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony) named her in the second of its eight reveals as **the elder who lies by subtraction**, hiding the road *"because she knows what followed the last traveler home"*
+- The party — particularly [Boone](../pcs/boone.md), the only one who can read the book — now reads her past helpfulness through this lens: not duplicity, but cautious omission against a danger she would not name aloud
+- The next time the party returns to Willowshore is now scheduled to include **a direct question to Mido about what she has not been telling them, and who paid the price the last time it *was* told**

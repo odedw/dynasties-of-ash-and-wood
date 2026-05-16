@@ -66,3 +66,34 @@ The Order of the Palatine Eye is, in effect, the campaign's only present lead on
 - The vision-location was confirmed: ~40–50 miles south of Willowshore, in the mountains; the path is *"ingrained in his brain"*
 - Da Baishan re-interpreted the cryptic phrase *"When the town closes its hand against you, seek the eye that opens"* in light of the trial verdict and the chasm
 - The party voted to head **south** to the Order **first**, ahead of the Hollow of Seven Cedars, on the reasoning that any counter-knowledge they can recover there will inform every fight that follows
+
+### Session Ten (2026-05-14)
+- The party reached the location ingrained in [Da Baishan's](../pcs/da-baishan.md) Vujravati vision: a sheer cliff face in the mountains, ~40–50 miles south of Willowshore, with **no door, no carving, no gate**
+- On the route in, encountered the blind mountain hermit **[Cliché](../npcs/cliche.md)**, who knew the Order without naming it (*"the eye"*), framed the campaign's three quest lines as a triage problem (*"which wound can you bear?"*), and gave them the riddle that solved the door: *"Seek the cliff that has no door. Knock with the hand that doubts."*
+- Da Baishan's two-knock pattern drew **a closed eye in the cliff face**, and **the same eye, in henna-style ink, on the back of his hand**. The cliff opened along the line of the eye, revealing the [Palatine Eye Vault](../locations/palatine-eye-vault.md)
+- Da Baishan recalled, mid-knock, that **[Cassian Voss](../npcs/cassian-voss.md) had carried the same eye-mark on the back of his hand** — the first hard evidence that Voss was Order, or Order-adjacent
+- Inside, the party solved the **Hall of Divided Testimony** — four scrolls + four dials + a heatless lantern + a panoramic mural — by reading the scrolls aloud to the lantern; the cast shadows reshaped the mural to show where each lie was wounded
+- The inner sanctum's **Stone Witness** rose at [Boone's](../pcs/boone.md) eye-marked approach, walked to the inscription, and opened the lectern alcove
+- Boone took the **[Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony)** off the lectern. The book is **blank to anyone but its keeper**. Boone elected the **Palatine Detective** dedication — he is now the first formally inducted member of the Order in the campaign
+- Two of eight book-truths revealed themselves on first reading: **[Mido's Half-Truth](../npcs/mido.md#mido-s-half-truth)** and **[Kurosawa's Error](../npcs/magistrate-kurosawa.md#kurosawa-s-error)**
+- Da Baishan **dropped his eye-tattoo** on exit, ceding the bearer-mark to Boone. The cliff sealed seamlessly behind them
+
+---
+
+## Items and Doctrines Recovered (Session 10)
+
+### The Book of Divided Testimony
+- Locked tome on a lectern in the inner sanctum; latch released to Boone's eye-mark with no keyhole. **Blank to all but the keeper.**
+- Catechism of the Order (first page): *"Truth does not rescue. Truth is responsibility."*
+- Acts as a class-style **dedication** for the Palatine Detective archetype. Carries fragments of testimony from past members, available as the bearer earns them. **Eight possible reveals on first read; the party rolled and received two. Six remain.**
+
+### The Two Truths Revealed
+- **[Mido's Half-Truth](../npcs/mido.md#mido-s-half-truth)** — the elder lies *by subtraction*; she hides the road because of *what followed the last traveler home*; the tyrant believes law replaces loyalty, the geomancer believes lines replace roots
+- **[Kurosawa's Error](../npcs/magistrate-kurosawa.md#kurosawa-s-error)** — both the tyrant and the geomancer are wrong *until the roots are made to forget themselves.* This identifies the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) as the **conditional joint** of the entire Confluence rite
+
+### The Order's Standing Doctrine (Cliché's framing)
+> *"Truth is not a lantern. Truth is a knife. It cuts rope, yes — and also the hand of those who uncovered too much."*
+
+> *"A thing buried is not always buried by cowards. Sometimes buried by the wise."*
+
+> *"When truth speaks kindly, distrust it most."*
