@@ -107,3 +107,6 @@ He gave one to Da Baishan as he stood and tossed the rest. Then the party looked
 - Spoke the riddle that solved the door of the [Palatine Eye Vault](../locations/palatine-eye-vault.md): *"Seek the cliff that has no door. Knock with the hand that doubts."*
 - Gifted each PC who would take one a **warm hand-stone** from his fire
 - Vanished without footprints while the party was still standing on the landing
+
+### Session Eleven (2026-06-04)
+- Did not appear, but his **warm hand-stones** earned their keep: the party used them to **heat food at a cold, fireless camp** on the road northwest to the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), avoiding a campfire that would have given away their position. The stones still hold heat hours later, as advertised — and the open question of whether they do *more* than warm hands remains open

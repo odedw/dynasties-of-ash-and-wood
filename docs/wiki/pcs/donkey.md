@@ -182,3 +182,9 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Read the scrolls aloud one by one as the others set the dials — Pale Witness, Weeping Root, Loyal Crossing, Devout Flame
 - Took the **Frost Walker** and **Bewitching Bloom** tattoos he'd had stocked, plus picked up **Navigator Star** as a backup since "it gives you a compass on your body"
 - Did not knock again. Followed Boone into the sanctum at *"a reasonable distance"*
+
+### Session Eleven (2026-06-04)
+- *David was absent for this session. Donkey traveled and fought with the party, run by the GM as a companion — *"I'm not good at this though,"* the GM noted, moving him through combat*
+- Spotted the **odd, three-toed bipedal footprints** in the marshy grass during the spider ambush — alerting the party to the **web lurker** lurking nearby, directly south of his position
+- Took swings at the tree spiders during the fight (and fled one that was put down beside him); [Littlefinger](littlefinger.md) suggested he drop a **tangle spell** on the web lurker to pin it, though the lurker fled before it came to that
+- Took a small amount of damage in the fight and was patched up afterward; crossed to the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) with the party and was present (in narration) for the discovery of the corruption and the rousing of the [Warden](../npcs/warden-of-the-grove.md)

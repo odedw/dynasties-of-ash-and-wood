@@ -60,3 +60,6 @@ Willow is one of Liwen's primary customers, purchasing flowers for Dew Drop Peta
 - Revealed that [Magistrate Kurosawa](magistrate-kurosawa.md) ordered **five dozen white lilies** (funeral flowers), claiming it was an "oni custom"
 - Expressed cautious worry about the change in leadership
 - Asked Donkey to bring back new buds from his next foraging trip
+
+### Session Eleven (2026-06-04)
+- Appeared in the **memory-corruption vision** the party witnessed in the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) pool — shown **looking at the party without recognition**, one of the projected effects of Kurosawa's Root rite flowing into Willowshore. (A vision of a *possible* future, not a confirmed present.)

@@ -178,3 +178,12 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Took the **[Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony)** off the lectern. The book is **blank to everyone except him.** First page: *"Truth does not rescue. Truth is responsibility."* Two of eight book-truths rolled on first reading: **[Mido's Half-Truth](../npcs/mido.md#mido-s-half-truth)** and **[Kurosawa's Error](../npcs/magistrate-kurosawa.md#kurosawa-s-error)**. Six remain
 - Took the **Palatine Detective** dedication offered by the book — Boone is now formally a **junior member of the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md)**. Dropped the eye-tattoo from the cliff knock and let Da Baishan keep his
 - The cliff sealed seamlessly behind the party as they left; only Boone's hand and his copy of the book can open it again
+
+*(Continuity: the eye-mark, the Palatine Detective archetype, and the role of Order-reader sit with [Da Baishan](da-baishan.md) as of Session Eleven — see the [Order's continuity note](../factions/order-of-the-palatine-eye.md#session-eleven-2026-06-04).)*
+
+### Session Eleven (2026-06-04)
+- **Carried the spider fight.** Killed the first hunter spider through the chest with his polearm, then **freed the immobilized [Ginkgo](ginkgo.md)** from the web-pit with an assisted Athletics yank — *"reaching in and forcefully picking up Ginkgo and giving him a good shake"*
+- Got **snared upside-down** in a tree by a hidden web-snare while advancing on movement he'd spotted; chose to **keep swinging at the spiders while inverted** (*"I can attack upside down, sure. Why not?"*) and killed one before cutting at the snare line
+- Ran the post-fight clinic again with **Battle Medicine** — and reminded the table his **Robust Health** feat gives bonus healing and only a **one-hour** immunity instead of a day
+- **Ripped the master graft root out of the basin** — the moment Ginkgo and Da Baishan couldn't manage, Boone jumped into the dry basin and tore it free on **Athletics 25**, black ichor splattering as it writhed and died in his hand
+- That single act **roused the [Warden of the Grove](../npcs/warden-of-the-grove.md)**; ended the session musing about whether next time opens with a fight or a conversation — *"maybe it knows we're on the same side"*

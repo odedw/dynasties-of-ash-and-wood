@@ -100,3 +100,6 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 - Critical disclosure: revealed Kurosawa once spoke of *"devices"* (**plural**)—suggesting the Gosembiki apparatus may not be the only one
 - Was cut off by Kurosawa before he could speculate on the device's purpose: *"An expert craftsman cannot speak on what the device is designed for"*
 - Put into an uncomfortable position—testifying honestly in support of the party who saved his son's life, while keeping his head down in front of the magistrate who still holds power over him
+
+### Session Eleven (2026-06-04)
+- Appeared in the **memory-corruption vision** at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) — shown still holding the memory of the son the party rescued, but **fixating instead on the belief that the party caused the danger** in the first place. The cruelest of the vision's images: not forgetting, but having a true memory soured into resentment. (A *threatened* future under Kurosawa's Root rite, not a confirmed present.)

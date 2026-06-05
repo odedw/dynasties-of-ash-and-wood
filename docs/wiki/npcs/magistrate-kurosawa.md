@@ -73,7 +73,7 @@ A planning note in Kurosawa's own hand, signed *— Kurosawa* and recovered by [
 | Key | Site | Action | Status |
 |---|---|---|---|
 | Willow | [Gosembiki ruins](../locations/gosembiki-ruins.md) | "Awakened the star" | **Done** (Session 7–8) — though the device was pulled, not seated as planned |
-| Root | [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) (Lovers' Grove) | "Opened at the root" — memory cut, grafted, regrown | Next |
+| Root | [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) (Lovers' Grove) | "Opened at the root" — memory cut, grafted, regrown | **Done — and witnessed** (Session 11). Grafted months ago; party arrived to a fully corrupted grove and tore out the master graft |
 | Stone | [Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md) | "Made to bow" — proper law spoken with sufficient force | Pending |
 | Water | [River's Lantern Spine](../locations/rivers-lantern-spine.md) | "Turned with the current" — drowned markers realigned | Pending |
 | Ash | [Terrace of Whispering Clay](../locations/terrace-of-whispering-clay.md) | "Sealed last" — clay holds the new shape | Final |
@@ -122,6 +122,20 @@ That is precisely what the **second key — Root** — is for. The [Hollow of Se
 This is the Order's actual gift to the party in Session Ten: not a weapon, but a **theoretical objection**. Stop the Hollow and the Confluence is broken regardless of what happens at Cloudbreaker, the Lantern Spine, or the Whispering Clay. The line *"both are wrong until the roots are made to forget themselves"* is the campaign's first explicit statement that **Kurosawa's plan has a single point of failure**, and the party already knows where it is.
 
 It is also, read against the man himself, a deeper indictment. The Order's framing reduces him to *one of two parallel errors* — the tyrant *and* the geomancer — and says **both are wrong**. He has built a Confluence on the assumption that what he can draw on a map can replace what grows in the soil. The town's loyalty cannot be replaced with law. The land's roots cannot be replaced with lines. He has misjudged the substrate of both.
+
+---
+
+## The Root Rite (witnessed, Session Eleven)
+
+At the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), the corrupted pool replayed Kurosawa's own work to [Da Baishan](../pcs/da-baishan.md) when he touched the water. It is the **first time the party has watched him perform a Confluence key with their own (borrowed) eyes** — and it confirms the Root key was completed **months ago**, not pending.
+
+He worked **alone**, by moonlight: soil-blackened hands, a sledge-mallet and a pouch of long copper nails at his side. He held a **severed, blackened root** that squirmed toward the water as he chanted, then pressed it into the pool, where it **grafted onto the cedars' shared root system** and bled its corruption outward. The mumbled incantation the vision carried up:
+
+> *"Memory is not sacred. It is only precedent. And precedent can be overturned."*
+
+This single line is the clearest statement of his philosophy the campaign has produced. The whole Confluence — softening Willowshore's history, dissolving its loyalties — follows from it. He does not see memory as a thing owed reverence; he sees it as **case law**, a ruling that a sufficiently strong authority is entitled to **overturn.** The grove's old gift (*eat the dark, keep the good*) he has inverted into a machine that makes a town remember only its grievances — Willowshore forgetting kindnesses, [Liwen](liwen.md) forgetting the party's faces, [Radiant Willow](radiant-willow.md) forgetting why she ever trusted them, [Yong](yong.md) re-remembering the party as the cause of his son's danger rather than its cure.
+
+He has, characteristically, left no evidence to *confront* and a problem with **no clean solution**: the only known cure is to kill the grove, which raises a [Warden](warden-of-the-grove.md) and ends the Dream Eater's gift for good.
 
 ---
 
@@ -216,4 +230,11 @@ It is also, read against the man himself, a deeper indictment. The Order's frami
 ### Session Ten (2026-05-14)
 - *Did not appear in person.* Indicted from a distance: the [Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony) named him in the first of its eight reveals — see *[Kurosawa's Error](#kurosawa-s-error)* above
 - The party now knows, with the Order's authority behind it, that **his Confluence rite has a single point of failure** — the Root key at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md). His other four keys are inert without it
-- He still does not know the party have escaped Willowshore. He still does not know they have read his note. He does not know an extant member of the Order of the Palatine Eye now exists in the world for the first time in his lifetime — and he does not know that member is [Boone](../pcs/boone.md)
+- He still does not know the party have escaped Willowshore. He still does not know they have read his note. He does not know an extant member of the Order of the Palatine Eye now exists in the world for the first time in his lifetime
+
+### Session Eleven (2026-06-04)
+- *Did not appear in person* — but the party **watched him work** for the first time, via the pool's vision at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md). See *[The Root Rite](#the-root-rite-witnessed-session-eleven)* above
+- Confirmed the **Root key is already complete** — he grafted the corrupting root into the cedars **months ago**, predating the party's arrival in Willowshore; the Order's "single point of failure" was *already turned* by the time the party learned to look for it
+- His incantation — *"Memory is not sacred. It is only precedent. And precedent can be overturned."* — gives the campaign its sharpest articulation of his worldview
+- The vision tied him directly to the **moth-wing motif** again (ground moth-carapace powder appeared in the [Cassian Voss](cassian-voss.md) carving at the grove) and to the corruption signature first seen at the [Mourndusk Willow](../locations/dark-woods.md)
+- Still does not know the party are at the grove, or that they have torn out his master graft and roused its [Warden](warden-of-the-grove.md)

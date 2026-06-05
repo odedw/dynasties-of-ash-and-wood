@@ -221,3 +221,7 @@ This deception created factions. Some people secretly blame each other; some wel
 - The **hidden papers** (including a damning planning note in [Kurosawa's hand](../npcs/magistrate-kurosawa.md#the-note-of-five-keys)) were retrieved from the wall crevice north of town by [Littlefinger](../pcs/littlefinger.md), still where he hid them
 - Townspeople — [Yong](../npcs/yong.md) among them, who *"shook his head, disappointed"* — stood at street-edges and watched the party marched in, and stayed silent
 - After the escape the party crossed the river south of town and **left Willowshore**, headed for the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md). The Yeshous remain inside, watching from hideouts
+
+### Session Eleven (2026-06-04)
+- The town did not appear directly, but the party learned the **shape of the threat against it.** The pool at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) showed Kurosawa's Root rite **already corrupting Willowshore's memory** — neighbors forgetting kindnesses, [Liwen](../npcs/liwen.md) not recognizing the party, [Radiant Willow](../npcs/radiant-willow.md) forgetting why she trusted them, [Yong](../npcs/yong.md) re-remembering the party as the cause of his son's danger. The corruption **flows from the cedars into the town**
+- The party's fight to save Willowshore is now explicitly a fight for the town's **memory of itself**, not just its safety — and the only known cure (killing the grove) carries its own heavy cost

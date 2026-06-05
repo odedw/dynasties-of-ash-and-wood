@@ -78,6 +78,15 @@ The Order of the Palatine Eye is, in effect, the campaign's only present lead on
 - Two of eight book-truths revealed themselves on first reading: **[Mido's Half-Truth](../npcs/mido.md#mido-s-half-truth)** and **[Kurosawa's Error](../npcs/magistrate-kurosawa.md#kurosawa-s-error)**
 - Da Baishan **dropped his eye-tattoo** on exit, ceding the bearer-mark to Boone. The cliff sealed seamlessly behind them
 
+### Session Eleven (2026-06-04)
+- **The Order's bearer-mark and archetype now sit with [Da Baishan](../pcs/da-baishan.md)** — see the continuity note below. Da Baishan is the active **Palatine Detective** (an investigator archetype), carrying the **eye-mark on the back of his hand**
+- The eye-mark **reacted to corrupted occult ground for the first time**: at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) it warmed and pulled Da Baishan's hand toward the poisoned pool (the same magnetic tug he felt at the cliff door), and let him **read the rite written into the water** — the vision of Kurosawa performing the Root key
+- Da Baishan debuted the archetype's **Divine Lance**, a beam of divine energy fired *from the eye on his palm* (*"very Iron Man-ish"*)
+- The Order's reach extended to a **second dead investigator**: [Cassian Voss's](../npcs/cassian-voss.md) name was found defaced at the grove, placing an Order member at the Root-key site **months before Kurosawa**
+
+!!! note "Continuity — who carries the eye"
+    Session Ten's notes recorded **Boone** taking the Book of Divided Testimony and the Palatine Detective dedication, with Da Baishan dropping his mark. In play at the start of Session Eleven, the GM worked through **Da Baishan's** character sheet for the new investigator subclass, and it is **Da Baishan** who carries the eye-mark, casts Divine Lance, and acts as the Order's reader for the rest of the session. Going forward this wiki treats **Da Baishan as the active Palatine Detective / eye-bearer.** (Ownership of the physical *Book* was not raised in Session Eleven and is left open.)
+
 ---
 
 ## Items and Doctrines Recovered (Session 10)

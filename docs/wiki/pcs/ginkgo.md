@@ -190,3 +190,13 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Suggested *"voicing the words, blow on the lantern somehow"* — Donkey's arcana hint plus this guess crystallized as **read the scrolls aloud**, which is what the puzzle wanted
 - Read the **Pale Witness scroll** aloud first, opening the answer chain that solved all four dials
 - Took a warm stone, did not take a tattoo — *"I do not have 30 gold coins, sorry"*
+
+### Session Eleven (2026-06-04)
+- Gathered **widow's lanterns** (night-blooming bioluminescent flowers) on Nature checks to make a glowing purple **dye**; suggested coating [Littlefinger's](littlefinger.md) sling ammo with it to leave **traces** on targets
+- **Stepped into a hunter-spider web trap** and was immobilized; recall-knowledge'd the ambush, naming both the **hunter spiders** and the far more dangerous **web lurker** that runs them, and quietly warned the party. Freed by Boone yanking him out
+- Cast **Daze** on the first spider for mental damage; later **turned the whole fight** with a single **Calm** — both nearby spiders failed their Will saves (one critically), going passive long enough for the party to kill them safely
+- Harvested **hunter spider poison** from a carcass (Nature 26) — **two applications**, a two-stage poison for coating a weapon
+- At the grove, cast **Augury** on pulling the copper nails (*"no positive outcome"*) and **Surveyed the wildlife** (nothing agitated — the corruption is *localized*, not spreading like the Dark Woods)
+- Consulted the **mycelium** (ecology 21): confirmed all seven cedars' roots are interconnected and poisoned, **no cure and no extraction** — the trees must die. As a leshy, found this nearly unbearable: *"these are old trees, older than all of us."*
+- **Jumped into the pool anyway** to try. Got the basin's *"who would you save?"* test — answered his **childhood friend from the village he left behind** — and rode the draining water to the dry basin floor and the heartbeat-alive master graft
+- Tried to rip the graft out with Da Baishan (failed Athletics) before Boone wrenched it free

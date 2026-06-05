@@ -137,3 +137,7 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - Was implicitly the moral cover Kurosawa needed to **take the party alive** rather than execute them — Mido and Boone both understood her courage as the reason none of the party died that night
 - Boone, before agreeing to surrender: *"Willow, you showed bravery during our trial. Out of respect for you, I will talk peacefully."*
 - Walked back into Willowshore with the party as they were escorted to confinement; she remains in town, unarmed, and is now **the closest thing to a moral conscience** Kurosawa has been seen to acknowledge
+
+### Session Eleven (2026-06-04)
+- Appeared in the **memory-corruption vision** at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) — shown **lowering a hand she had once raised** for the party, *no longer able to remember why she trusted them.* A pointed image: the one person who raised her hand for the party at the trial, made to forget she ever did
+- The vision is of a *threatened* future under Kurosawa's Root rite, not a confirmed present — but it sharpens the stakes of what the corruption flowing into Willowshore would cost the party's only public ally

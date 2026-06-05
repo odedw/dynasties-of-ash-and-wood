@@ -190,3 +190,11 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Watched the puzzle from the side of the room; did not roll the unlock himself, but credited the verbal-component reveal — *"reading it out loud ended up being the big kind of reveal move there at the end"*
 - Took the warm stone; declined a tattoo
 - Followed Boone into the sanctum; did not interfere with the lectern or the book
+
+### Session Eleven (2026-06-04)
+- Now fighting with the **sling** from Mido's cache (his shuriken stock having gone into the ogre's ham last session) — landed repeated stone hits on the tree spiders, picking his line so as not to bean the upside-down Boone
+- **Webbed and immobilized** by the [web lurker's](../locations/hollow-of-seven-cedars.md) saliva-glob; squirmed free on an Acrobatics check (*"something stuck in my throat"*)
+- Bitten by a spider and **failed his Fortitude save vs. poison** — then spent **Halfling Luck** to reroll and made it, the fangs glancing off a **lucky coin** instead of a vein
+- Drove his **rapier into a calmed spider's eye** for a **critical hit with a flourish**, the **deadly d8** adding an extra die — *"that should be a dead spider"* (it was)
+- Recalled the grove's history (Society 23): the **Lovers' Grove / Dream Eater (the Grandmother)**, the memento-and-memory bargain, and that the scattered grave-tokens on the trail meant something was badly wrong
+- At the corrupted grove, eyed the copper nails covetously and **didn't take one** once Ginkgo's augury said no good would come of it — *"I didn't want one until I knew I shouldn't take one"* — and half-recognized the **handwriting** in the defaced [Cassian Voss](../npcs/cassian-voss.md) carving without being able to place it

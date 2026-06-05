@@ -33,6 +33,8 @@ He came to Tian Xia specifically because its pantheon was unfamiliar to Absalom'
 
 His research interests align disturbingly well with the **dark summoning ritual** later discovered at the [Mourndusk Willow](../locations/dark-woods.md)—a ritual that [Mido](mido.md) identified as an invocation of the **"Mother of a Thousand Wings"**, an ancient demon of pestilence.
 
+Session Ten established that Voss carried the **eye-mark of the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md)** on the back of his hand — the same mark the cliff drew on [Da Baishan](../pcs/da-baishan.md). Session Eleven added the rest of the picture: Voss was at the **[Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md)**, investigating the leyline that runs through it, **six months to a year ago** — *months before Kurosawa drove his nails.* He was, in other words, an Order investigator who found the grove **before it was corrupted**, and did not survive the finding.
+
 ---
 
 ## Death and Spirit
@@ -53,10 +55,22 @@ Based on Donkey's memories, Voss was a quiet, studious man who kept mostly to hi
 
 ---
 
+## The Carving at the Grove (Session Eleven)
+
+On the **third cedar** of the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), about 20 inches off the ground, [Boone's](../pcs/boone.md) *"That's Odd"* turned up a name that had been carved and then **frantically scratched out** with a blade — leaving only **·S·S·I·N·V·O·S·S**. Da Baishan's recall pieced it into **Cassian Voss**. Around the gouges was a fine, mustard-khaki powder that Da Baishan identified (Occultism) as **finely-ground moth-wing carapace** — the same signature as the inauguration moths and the [Mourndusk Willow](../locations/dark-woods.md) wings.
+
+Da Baishan's quick magic-identification placed the **carving and powder at six months to a year old** — *faintly* magical, **older** than Kurosawa's recent nail-and-graft work (which dates within a month of the party's arrival in Willowshore). Cross-referenced against the party's belief that **Voss died ~6 months ago**, the timeline lines up: Voss was at the grove, investigating its leyline, **before Kurosawa got there**, and his name was defaced around the time he died. The handwriting also looked *familiar* to Littlefinger — not Kurosawa's, but something he'd seen before and couldn't place.
+
+This reframes Voss from a Willowshore curiosity into a **predecessor**: an Order investigator working the exact site that has now become Kurosawa's Root key, who got close enough to be killed and *scrubbed* from the tree.
+
+---
+
 ## Open Questions
 
-- **How did he actually die?** — He was killed by a spirit, but what drew the spirit to him? Was his research into old gods the cause?
-- **Is his death connected to the ritual?** — His arrival predates the magistrate's, and his research into elder gods overlaps with the summoning of the Mother of a Thousand Wings
+- **How did he actually die?** — He was killed by a spirit at the river; the grove sits on that leyline. Was the grove (or its [Warden](warden-of-the-grove.md), or the Dream Eater) what killed him — or did whatever Kurosawa later weaponized already stir there?
+- **Who scratched out his name** on the third cedar, and why? Kurosawa, to erase a predecessor? The grove itself? Voss, defacing his own mark?
+- **Whose handwriting did Littlefinger half-recognize** in the carving?
+- **Is his death connected to the ritual?** — He was Order, he was on the leyline, and he predates Kurosawa at the very site that is now the rite's keystone
 - **What was "stolen" and "broken"?** — His spirit's cryptic message suggests something was taken from him and something was violated or destroyed
 - **Did someone else benefit from his death?** — Could the ritual have required a sacrifice, and was Voss that sacrifice?
 
@@ -94,3 +108,11 @@ Based on Donkey's memories, Voss was a quiet, studious man who kept mostly to hi
     - **On the prophecy (artist, ruler, sage, lover, judge):** *"That is the ritual for the Unspeakable One. Five must be sacrificed to bring—"* (cut off mid-sentence; the spirit was pulled away)
 - The **Unspeakable One** — a new entity identified by Voss's spirit as the target of a sacrifice ritual involving the five archetypes from the prophecy
 - His knowledge of the old gods continues to prove critical to the party's investigation even in death
+
+### Session Ten (2026-05-14)
+- Recalled by [Da Baishan](../pcs/da-baishan.md) at the [Palatine Eye Vault](../locations/palatine-eye-vault.md): Voss carried the **same eye-mark** on the back of his hand that the cliff door drew — first hard evidence he was **Order, or Order-marked**
+
+### Session Eleven (2026-06-04)
+- His name was found **carved and scratched out** on the third cedar of the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), packed with ground **moth-wing powder** — see *[The Carving at the Grove](#the-carving-at-the-grove-session-eleven)* above
+- The carving dated **6 months to a year old**, *months before* Kurosawa's corruption of the grove — establishing Voss as an Order investigator who reached the site **first** and died there
+- Littlefinger found the **handwriting familiar** but could not place it — explicitly *not* Kurosawa's
