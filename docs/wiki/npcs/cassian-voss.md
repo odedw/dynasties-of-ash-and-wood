@@ -116,3 +116,9 @@ This reframes Voss from a Willowshore curiosity into a **predecessor**: an Order
 - His name was found **carved and scratched out** on the third cedar of the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), packed with ground **moth-wing powder** — see *[The Carving at the Grove](#the-carving-at-the-grove-session-eleven)* above
 - The carving dated **6 months to a year old**, *months before* Kurosawa's corruption of the grove — establishing Voss as an Order investigator who reached the site **first** and died there
 - Littlefinger found the **handwriting familiar** but could not place it — explicitly *not* Kurosawa's
+
+### Session Twelve (2026-07-16)
+- The erasure of his name was confirmed to be a **second, separate seal** on the grove — see [the two seals](../locations/hollow-of-seven-cedars.md#the-two-seals). [Kurosawa's stolen lockbox note](magistrate-kurosawa.md#the-lockbox-note-the-second-seal) admits: *"The name was taken before I came to the cedars. The powder is not mine."* Even the magistrate does not know whose hand it was
+- The party's camp analysis characterized the erasure as done in *"haste, emotion, emotional removal"* — nothing like geomancy — in a script Donkey half-recognizes and cannot place
+- Ginkgo floated Voss himself as the second seal's author (*"Who else would it be? Could it be Cassian Voss?"*); Da Baishan: *"He's all over this... I knew we should have buried him"*
+- The [Grandmother's](the-grandmother.md) reversal instructions — *"give back the name and undo the seals"* — may point directly at his scratched-out name

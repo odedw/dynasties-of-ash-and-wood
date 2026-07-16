@@ -84,6 +84,11 @@ The Order of the Palatine Eye is, in effect, the campaign's only present lead on
 - Da Baishan debuted the archetype's **Divine Lance**, a beam of divine energy fired *from the eye on his palm* (*"very Iron Man-ish"*)
 - The Order's reach extended to a **second dead investigator**: [Cassian Voss's](../npcs/cassian-voss.md) name was found defaced at the grove, placing an Order member at the Root-key site **months before Kurosawa**
 
+### Session Twelve (2026-07-16)
+- [Da Baishan's](../pcs/da-baishan.md) eye-mark manifested a new trick: his **Shield spell** now emerges *from the eye tattoo* — a plain wooden orc-style shield that floats before him. It ate a 17-damage claw from the [Warden of the Grove](../npcs/warden-of-the-grove.md) before shattering
+- The Order's investigative discipline delivered the session's two decisive moments: Da Baishan's **Devise a Stratagem** (built on his ongoing investigation of the corrupted pool) killed the Warden, and his **esoterica quick-identification** at camp cracked the **[two-seals](../locations/hollow-of-seven-cedars.md#the-two-seals)** analysis of the stolen ritual papers
+- The trail of [Cassian Voss](../npcs/cassian-voss.md) — the Order's dead investigator — deepened: even [Kurosawa](../npcs/magistrate-kurosawa.md) is investigating who erased Voss's name, per the [stolen lockbox note](../npcs/magistrate-kurosawa.md#the-lockbox-note-the-second-seal)
+
 !!! note "Continuity — who carries the eye"
     Session Ten's notes recorded **Boone** taking the Book of Divided Testimony and the Palatine Detective dedication, with Da Baishan dropping his mark. In play at the start of Session Eleven, the GM worked through **Da Baishan's** character sheet for the new investigator subclass, and it is **Da Baishan** who carries the eye-mark, casts Divine Lance, and acts as the Order's reader for the rest of the session. Going forward this wiki treats **Da Baishan as the active Palatine Detective / eye-bearer.** (Ownership of the physical *Book* was not raised in Session Eleven and is left open.)
 

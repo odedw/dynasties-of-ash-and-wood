@@ -139,6 +139,27 @@ He has, characteristically, left no evidence to *confront* and a problem with **
 
 ---
 
+## The Lockbox Note (the Second Seal)
+
+Recovered in Session Twelve from a small locked box inside the lacquered chest in his estate chambers, alongside a **vial of the mustard moth-wing powder** — a collected sample. The note, in his own hand:
+
+> *"The name was taken before I came to the cedars. The powder is not mine. Someone opened this vein ahead of me, and I do not know what they left in it.*
+>
+> *The graft seated deeper than it should. The mouth was already shut when I found it — held by an erasure, an undoing. My nails hold on top of another hand's work. Useful. But it means my diagram alone will not open what it alone did not close."*
+
+It is the most disorienting document the party has taken from him, because it reframes Kurosawa as **an investigator too.** Cross-referenced with the stolen ritual pages ([Da Baishan's](../pcs/da-baishan.md) esoterica + [Donkey's](../pcs/donkey.md) arcana), the party's analysis:
+
+- There are **two seals** at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), and they do not match
+- **Seal one is his**: orderly geomantic lines, diagrams, transformation — the nails, the graft, the Root Correction. Everything Kurosawa does is *orderly transformation*
+- **Seal two is not**: the frantic **erasure** of [Cassian Voss's](cassian-voss.md) name, packed with moth-wing paste — done in *"haste, emotion, emotional removal,"* in a script Donkey half-recognizes. Not a geomancer's work. Not his intent. **Not the same originator**
+- By his own notes, Kurosawa **found the grove's "mouth" already shut** when he arrived — held by the erasure — and grafted his working *on top of* it. He is actively researching whose hand it was, and **does not know**
+
+The implications cut both ways. His plan may be *"half-cocked"* — built on a substrate he doesn't understand (Da Baishan: *"he's playing with things he doesn't fully understand"*). And the party's own plan inherits his warning: if his diagram alone couldn't open what the erasure closed, **reversing his diagram alone may not fully undo the binding** on the [Grandmother](the-grandmother.md).
+
+The party also debated whether the note itself can be trusted — a private research memo, or bait left atop a lockbox behind an *"average to good"* lock? [Donkey's](../pcs/donkey.md) counterpoint: *"Who sticks notes on lockboxes?"*
+
+---
+
 ## Session History
 
 ### Session One (2026-01-30)
@@ -238,3 +259,10 @@ He has, characteristically, left no evidence to *confront* and a problem with **
 - His incantation — *"Memory is not sacred. It is only precedent. And precedent can be overturned."* — gives the campaign its sharpest articulation of his worldview
 - The vision tied him directly to the **moth-wing motif** again (ground moth-carapace powder appeared in the [Cassian Voss](cassian-voss.md) carving at the grove) and to the corruption signature first seen at the [Mourndusk Willow](../locations/dark-woods.md)
 - Still does not know the party are at the grove, or that they have torn out his master graft and roused its [Warden](warden-of-the-grove.md)
+
+### Session Twelve (2026-07-16)
+- **Conspicuously absent.** The party surveilled [Willowshore](../locations/willowshore.md) for hours from the tree line and never saw him — while the garrison had **doubled** (~8 red-skinned guards) and a **[new blue-skinned oni administrator](oni-administrator.md)** issued orders from his estate. His whereabouts are unknown
+- **His chambers were robbed.** The party's night heist took, from the locked lacquered chest in his room: the **seven-page Root Correction ritual** (his own custom rite, in his handwriting — the only copy known to exist), a pouch of **five spare copper nails**, and the **lockbox with his investigation note and powder sample** (see *[The Lockbox Note](#the-lockbox-note-the-second-seal)* above). His fox construct patrolled past the room moments too late; **no alarm sounded**
+- The [Grandmother](the-grandmother.md) named his rite to Ginkgo — the **Root Correction, the Second Key** — and confirmed it can be **reversed** by performing its steps backwards, *without* the originator
+- The recovered note revealed that he **built his Root key on top of someone else's older seal** — the erasure over Voss's name — and is investigating that unknown hand himself
+- The stolen desk papers from Session Five are gone from his desk; whether he moved them or the new administrator has them is unknown

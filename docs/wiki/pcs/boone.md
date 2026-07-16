@@ -187,3 +187,11 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Ran the post-fight clinic again with **Battle Medicine** — and reminded the table his **Robust Health** feat gives bonus healing and only a **one-hour** immunity instead of a day
 - **Ripped the master graft root out of the basin** — the moment Ginkgo and Da Baishan couldn't manage, Boone jumped into the dry basin and tore it free on **Athletics 25**, black ichor splattering as it writhed and died in his hand
 - That single act **roused the [Warden of the Grove](../npcs/warden-of-the-grove.md)**; ended the session musing about whether next time opens with a fight or a conversation — *"maybe it knows we're on the same side"*
+
+### Session Twelve (2026-07-16)
+- Opened the [Warden](../npcs/warden-of-the-grove.md) fight in character: *"Ginkgo, is this a friend of yours?"* — then spent it discovering that blades barely work on bark (his glaive *clanked* off its hide repeatedly)
+- Landed the **reactive strike** as the Warden charged past (22 to hit, 15 damage) — the first blade hit to take real chunks out of it — and made the fight's tactical play: announcing *"We don't want to hurt you — talk to the mushroom"* while **tripping it prone** (29 vs. reflex)
+- Ran the post-fight **Treat Wounds clinic** again on the road east — 5 HP to Ginkgo, 9 to Da Baishan, Assurance (Medicine) auto-succeeding as always
+- Took one look at the [new blue-skinned oni administrator](../npcs/oni-administrator.md) through the tree line and declared: *"I think she's a potential ally, guys. I feel it. I think she's a good one."* (Da Baishan: *"You just think she's pretty."* Boone: *"Often go hand in hand."*)
+- Pointed out **Follow the Expert** to the infiltration team — the +2 that carried Ginkgo over the wall cleanly
+- Held the outer perimeter with Da Baishan during the heist — dark vision, Perception +9, and a dead-serious best-three-of-five tournament of **boulder-parchment-shears**

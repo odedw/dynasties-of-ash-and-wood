@@ -11,12 +11,15 @@
 | **Name** | The Hollow of Seven Cedars (formerly *Lovers' Grove*) |
 | **Type** | Ancient ritual site / sacred grove |
 | **Location** | A few days' travel **northwest** of the [Palatine Eye Vault](palatine-eye-vault.md); roughly **west** of [Willowshore](willowshore.md), across the river |
-| **Status** | **CORRUPTED.** Kurosawa already completed the **Root key** here — the party arrived to find the rite *done*, not pending. Ginkgo and Boone tore out the master graft; a **[Warden of the Grove](../npcs/warden-of-the-grove.md)** rose in answer |
+| **Status** | **CORRUPTED — but salvageable.** The [Warden](../npcs/warden-of-the-grove.md) is dead, the [Grandmother](../npcs/the-grandmother.md) has spoken, and the party holds the stolen **Root Correction ritual** that can unbind her. **Two seals** lie on the grove — Kurosawa's, and an older unknown hand's — and 2–3 hostile presences still linger |
 
 ---
 
 !!! danger "Session Eleven — the key was already turned"
     The party reached the Hollow expecting to *prevent* the Root rite. They were too late. [Kurosawa](../npcs/magistrate-kurosawa.md) performed the grafting **months ago** — the cedars are already bleeding, the basin already inverted, the corruption already reaching toward [Willowshore](willowshore.md). What the party did here was not prevention but **triage**, and the cost of stopping it appears to be the **death of the grove itself.**
+
+!!! success "Session Twelve — a door out of the death sentence"
+    The verdict was overturned. With the [Warden](../npcs/warden-of-the-grove.md) dead and the basin cracked open, the **[Grandmother](../npcs/the-grandmother.md)** spoke to [Ginkgo](../pcs/ginkgo.md): the grove **need not die** if [Kurosawa's](../npcs/magistrate-kurosawa.md) binding rite — the **Root Correction, the Second Key** — is performed **in reverse**, by voice and by action. The party stole the only copy of the ritual from his estate that same night. The catch: Kurosawa's own notes reveal a **second, older seal** on the grove that his diagram *"alone did not close"* — and reversing his rite alone may not be enough.
 
 ---
 
@@ -130,7 +133,36 @@ Ginkgo answered: his **childhood friend from the village he left behind.** The v
 
 The instant [Boone](../pcs/boone.md) ripped the master graft free (Athletics 25) — black ichor splattering, the root writhing for fifteen seconds before going limp and ashen — the trees *outside* the ring swayed and a **horned creature tore out of the treeline, howling at the sky.** Da Baishan's Occultism identified it: a **[Warden of the Grove](../npcs/warden-of-the-grove.md)**, the grove's protector, and it looked **angry.**
 
-The session ended on its arrival. The party's dilemma is sharp: the only known way to save Willowshore's memory is to **kill the grove the Warden exists to protect.** Whether the next session opens in combat or in a desperate attempt at diplomacy is unresolved.
+In Session Twelve the party fought it — trying and failing to subdue it — and killed it. It proved to be a **puppet**: [Ginkgo's](../pcs/ginkgo.md) mid-combat ecology read found **two, maybe three opposed, unnatural presences** crowding the grove and pulling on the creature, *"like a city of chattering voices."* Those presences **survived its death** and still linger in the Hollow.
+
+---
+
+## The Grandmother Unbound — Almost (Session Twelve)
+
+After the Warden fell, the drained basin **cracked and vented** — an exhale of air and mist — revealing through the fissures the vast **root-lattice interconnecting all seven cedars.** From beneath it, the **[Grandmother](../npcs/the-grandmother.md)** spoke to Ginkgo (and only Ginkgo — as the pool's speaker):
+
+- She has been **bound nearly a year**, inverted, forced to eat Willowshore's *good* memories down the ley line
+- **The grove does not have to die.** Reverse the binding rite — the **Root Correction, the Second Key**, Kurosawa's custom geomantic ritual — and she can *"open my mouth again... and eat the darkness,"* stopping any further corruption
+- The reversal requires the ritual's **steps performed in reverse order, by voice and by actions** — *"give back the name and undo the seals."* The **originator is not required**
+- **What's already lost stays lost**: *"what went downhill must remain downhill."* Willowshore's eaten memories cannot be restored
+
+The party stole the ritual — the only copy, in Kurosawa's own hand — from his estate chambers that night, along with **five spare copper nails** and [his lockbox note](../npcs/magistrate-kurosawa.md#the-lockbox-note-the-second-seal).
+
+---
+
+## The Two Seals
+
+The stolen papers, analyzed at camp against everything the party knows, revealed that the Hollow carries **two distinct seals from two different hands**:
+
+| | Seal One — the Root Correction | Seal Two — the Erasure |
+|---|---|---|
+| **Hand** | [Kurosawa](../npcs/magistrate-kurosawa.md) — confirmed by his own papers | **Unknown** — explicitly *not* Kurosawa; he is investigating it himself |
+| **Character** | Orderly geomantic lines, diagrams, *transformation* | Frantic knife-work — *"haste, emotion, emotional removal"* |
+| **Physical trace** | The copper nails, the grafted root, the inverted pool | The scratched-out [Cassian Voss](../npcs/cassian-voss.md) name, packed with **moth-wing powder** |
+| **Age** | Recent — within months of the party's arrival | **Older** — 6 months to a year; before Kurosawa's nails |
+| **Effect** | Inverted the Grandmother's gift; aimed it at Willowshore | *"Shut the mouth"* of the grove — an undoing that Kurosawa found already in place and built on top of |
+
+Kurosawa's note is blunt about the dependency: *"My nails hold on top of another hand's work. Useful. But it means my diagram alone will not open what it alone did not close."* The party's open worry is the mirror image: whether reversing **his** ritual alone can free the Grandmother from a binding that partially predates him. Her *"nearly a year"* timeline matches the **erasure**, not the nails.
 
 ---
 
@@ -142,12 +174,11 @@ Roughly 10 miles west of [Willowshore](willowshore.md). The trail passes through
 
 ## Open Questions
 
-- **Will the party actually kill the grove?** It is the only known cure, but it ends the Dream Eater's gift forever — and a [Warden](../npcs/warden-of-the-grove.md) now stands in the way
-- **Can the Warden be reasoned with?** The party's goal (destroy the corruption) and its goal (protect the grove) point in opposite directions — unless the grove's death *is* the mercy
-- **Is the Dream Eater / Grandmother still alive inside the corruption** the way the corrupted leshies were? If she is a hostage, killing the trees may also kill her
-- **What killed [Cassian Voss](../npcs/cassian-voss.md) here?** His name was carved into the third cedar and then *scratched out*, with moth-wing powder in the gouges, six months to a year ago — *months before Kurosawa's nails.* He came to investigate the leyline and never left
-- **Who scratched out his name, and why** — and does the older, fainter magic in that carving belong to Voss or to whatever killed him?
-- **Reversibility.** The pool itself suggested two impossibilities — *know the originating ritual* or *go back before it was done.* Is either actually reachable?
+- **Will the reversal work?** The party holds the Root Correction and the Grandmother's instructions — but Kurosawa's own note warns his diagram sits *on top of* a seal it did not create. Does the reversal need to address **both seals**?
+- **What is "the name" that must be given back?** [Voss's](../npcs/cassian-voss.md) scratched-out name is the obvious candidate, but unconfirmed
+- **What are the lingering presences?** Two or three, mutually opposed, still in the grove after the [Warden's](../npcs/warden-of-the-grove.md) death. Will they resist a ritual performed in their midst — and will the grove raise another Warden?
+- **Whose is the second seal?** Voss's own work, the work of whatever killed him, or *"some ancient power"*? Kurosawa himself doesn't know
+- **What killed [Cassian Voss](../npcs/cassian-voss.md) here**, and whose handwriting did Littlefinger and Donkey each half-recognize?
 
 ---
 
@@ -168,3 +199,9 @@ Roughly 10 miles west of [Willowshore](willowshore.md). The trail passes through
 - The pool's final truth + Ginkgo's mycelium check confirmed **the trees must die** — no cure, no extraction
 - **Ginkgo jumped into the pool**, answered its *"who would you save?"* test (his childhood friend), and drained the basin
 - **Boone tore out the master graft root** (Athletics 25) — and a **[Warden of the Grove](../npcs/warden-of-the-grove.md)** erupted from the treeline, howling. *Session ended on its arrival.*
+
+### Session Twelve (2026-07-16)
+- The party fought and **killed the [Warden](../npcs/warden-of-the-grove.md)** after failed attempts to subdue and communicate with it; fire proved its weakness, blades nearly useless
+- Ginkgo's mid-combat reads revealed the Warden was **puppeted** by **2–3 opposed, unnatural presences** crowding the grove — presences that remained after its death
+- The basin **cracked and vented**, exposing the interlinked root system; the **[Grandmother](../npcs/the-grandmother.md)** spoke to Ginkgo for the first time — see *[The Grandmother Unbound — Almost](#the-grandmother-unbound-almost-session-twelve)* above
+- The path forward was set: **steal and reverse the Root Correction.** The party marched to [Willowshore](willowshore.md), robbed Kurosawa's chambers, and returned west with the ritual, five spare nails, and the lockbox note revealing the **[two seals](#the-two-seals)**

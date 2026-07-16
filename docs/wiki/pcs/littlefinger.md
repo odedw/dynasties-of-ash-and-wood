@@ -198,3 +198,12 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Drove his **rapier into a calmed spider's eye** for a **critical hit with a flourish**, the **deadly d8** adding an extra die — *"that should be a dead spider"* (it was)
 - Recalled the grove's history (Society 23): the **Lovers' Grove / Dream Eater (the Grandmother)**, the memento-and-memory bargain, and that the scattered grave-tokens on the trail meant something was badly wrong
 - At the corrupted grove, eyed the copper nails covetously and **didn't take one** once Ginkgo's augury said no good would come of it — *"I didn't want one until I knew I shouldn't take one"* — and half-recognized the **handwriting** in the defaced [Cassian Voss](../npcs/cassian-voss.md) carving without being able to place it
+
+### Session Twelve (2026-07-16)
+- Opened the [Warden](../npcs/warden-of-the-grove.md) fight with a **natural 1 on Stealth** (*"that's some powerful stuff — it's a good start"*) — and still got his **sneak-attack sling stone** in later by virtue of being hidden when he loosed it
+- Called his shot on the whole encounter beforehand: hide by the trees, let *"Mr. Green Jeans"* charge past after Ginkgo, strike from behind. It half-worked; his rapier found only bark
+- Out-of-character gem after watching Ginkgo negotiate and Donkey plan document theft: *"I love how differently all of you approach things... I would have never thought to try to talk to the swamp creature."* (Da Baishan: *"Vic's like — it's ugly, kill it."*)
+- **Ran the heist's inside game**: led the wall-crossing with Follow the Expert, climbed the estate wall by rope to the second-floor window, **Trap Finder** cleared the lacquered chest (no wires, no pressure plates), and **picked its lock on Thievery 19** — his professional assessment afterward: *"average to good... not a lock intended to be easily broken"*
+- Cleaned out the chest — the **seven ritual pages**, the pouch of **five copper nails** (*"nails like the ones in the cedar trees — yep"*), and the noted **lockbox** — and, warned of the fox construct, **dove out the second-story window** with the goods: 4 falling damage, *"worth it,"* claiming he moved so fast he left *"an outline of a halfling"* behind
+- Waited below the window to cover Donkey's escape rather than run — *"I don't want to leave Donkey"* — then went over the wall with Ginkgo on Da Baishan's rope
+- Asked mid-planning the question that will matter later: *"You think it's a setup?"*
