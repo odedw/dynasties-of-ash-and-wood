@@ -10,8 +10,8 @@
 |---|---|
 | **Type** | Imperial arcane authority |
 | **Jurisdiction** | Arcane ruins, artifacts, and geomancy within the oni Imperium |
-| **Known Members** | [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) |
-| **Status** | Active; little direct contact with the party so far |
+| **Known Members** | [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md), [Otsuru](../npcs/otsuru.md) |
+| **Status** | Active; a second magistrate now operates in [Willowshore](../locations/willowshore.md) |
 
 ---
 
@@ -60,3 +60,8 @@ The Council is cited often and seen never. Everything known is secondhand:
 - Kurosawa publicly invoked the Council's jurisdiction during the **Rite of Open Reckoning**: arcane ruins fall under the Council, not the municipality
 - Kurosawa claimed sole expert authority: *"I am the Council of the Magi"*
 - Under cross-examination, Yong revealed Kurosawa had once mentioned **"devices"** (plural)—implying the Council's infrastructure work extends beyond this one site
+
+### Session Thirteen (2026-08-13)
+- **A second member surfaced**: [Mido](../npcs/mido.md) identified the new arrival in Willowshore — the blue-skinned administrator the party observed in Session Twelve — as **[Otsuru](../npcs/otsuru.md)**, a young tiefling oni **magistrate of the Council**
+- Kurosawa's Session Eight boast — *"I am the Council of the Magi"* — is now demonstrably false in at least the singular sense: the Council has a second magistrate on site, and even the town's oni leadership defers to her
+- Whether Otsuru is here to **assist Kurosawa's work or to investigate him** is unknown; Mido reports her *"studying things in the estate"* and questioning [Masru](../npcs/mayor-masru.md)

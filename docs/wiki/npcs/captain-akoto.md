@@ -47,4 +47,4 @@ Akoto is professional and measured. When the party presented their investigative
 - Professional and measured in tone; offered no personal animosity, but delivered testimony that supported Kurosawa's framing of the party as unsanctioned operators
 
 ### Session Twelve (2026-07-16)
-- Observed from a distance during the party's surveillance of [Willowshore](../locations/willowshore.md): still on duty amid a garrison **doubled to ~8 guards**, and now **following the orders** of the [new blue-skinned oni administrator](oni-administrator.md) operating from the estate in [Kurosawa's](magistrate-kurosawa.md) absence
+- Observed from a distance during the party's surveillance of [Willowshore](../locations/willowshore.md): still on duty amid a garrison **doubled to ~8 guards**, and now **following the orders** of the [new blue-skinned oni administrator](otsuru.md) operating from the estate in [Kurosawa's](magistrate-kurosawa.md) absence

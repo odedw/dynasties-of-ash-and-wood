@@ -161,3 +161,15 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 - *Did not appear in person.* Implicated by the Order from a distance: the [Book of Divided Testimony](../locations/palatine-eye-vault.md#the-book-of-divided-testimony) named her in the second of its eight reveals as **the elder who lies by subtraction**, hiding the road *"because she knows what followed the last traveler home"*
 - The party — particularly [Boone](../pcs/boone.md), the only one who can read the book — now reads her past helpfulness through this lens: not duplicity, but cautious omission against a danger she would not name aloud
 - The next time the party returns to Willowshore is now scheduled to include **a direct question to Mido about what she has not been telling them, and who paid the price the last time it *was* told**
+
+### Session Thirteen (2026-08-13)
+- **Found the party's camp** outside Willowshore after hours of searching — arrived at night in a rickshaw pulled by her surviving guard, blanket over her legs: *"These old bones are not used to sleeping out under the stars"*
+- Delivered fresh intelligence from her network:
+    - **[Otsuru](otsuru.md)** — a young tiefling oni magistrate of the [Council of the Magi](../factions/council-of-the-magi.md) — has arrived leading a new group; Mido first feared the exile escort, now believes otherwise. *"Yet another either possible adversary or ally amongst our midst"*
+    - **[Kurosawa](magistrate-kurosawa.md) left town** the previous night with guards, northwest to **[Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md)**
+    - Her people finally returned from [Kirahata](../locations/kirahata.md) with **[Masru's](mayor-masru.md) past**: a disgraced businessman (a gambling house and a brothel) whose Willowshore commission was **signed by Kurosawa**
+- Heard the party's full account of the grove and the [Grandmother](the-grandmother.md); judged the reversal **the most urgent priority** — if the curse runs on, Willowshore becomes uninhabitable. Notably, she **never shared** the other piece of research she had brought: *"I believe your discovery is even more important than mine today"*
+- Confirmed the curse's signature (the afflicted keep grudges, lose kindnesses) and showed **no signs of it herself**
+- Proposed the party call their **own Rite of Open Reckoning** on Kurosawa's return: under the old law the judge must have *no kin, no graves, no land, no stake* — and since **leshys have no standing** in the old laws, [Boone](../pcs/boone.md) is the only eligible judge. Weathered Littlefinger's *"blatant Leshyism"* objection with diplomacy
+- Distributed **five gifts** from the rickshaw: a jade **Monkey Pin** (Littlefinger), a **False Life scroll** (Donkey), an **Infiltrator's Elixir** (Da Baishan — *"you have the eye of the order"*), **two lesser healing potions** (Ginkgo), and an **Owlbear's Claw** (Boone — *"the crown of the ruler might be heavy"*)
+- Departed into the dark unpickpocketed — Littlefinger resisted *"a strong urge"* — with a promise: *"Good luck, my friends. We'll meet back in Willowshore"*

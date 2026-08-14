@@ -69,3 +69,8 @@ Ginkgo probed her for deception (Perception 23) and found **none** — only the 
 - Named the binding rite: the **Root Correction, the Second Key** — and the terms of its reversal (steps in reverse, voice and action, give back the name, undo the seals; originator not required)
 - Confirmed the grove **need not die** — overturning Session Eleven's verdict — but that Willowshore's stolen memories are gone for good
 - Denied sending the Warden; passed Ginkgo's deception read; promised eyes and ears in the woods once freed
+
+### Session Thirteen (2026-08-13)
+- **Her unbinding began.** [Donkey's](../pcs/donkey.md) analysis of the stolen ritual produced the full five-step reversal, ending with her release: once the seals unlock, *"she will start eating things backwards"* — consuming the black ichor back in
+- [Da Baishan's](../pcs/da-baishan.md) Arcana (24) confirmed a requirement her conversation with Ginkgo implied: **someone must stand in the pool** for the final step, and it should be the one who entered the water originally — **[Ginkgo](../pcs/ginkgo.md), her speaker**, volunteered without hesitation
+- At session's end, [Littlefinger's](../pcs/littlefinger.md) third counterclockwise circuit of the seal raised the ichor as smoke, **coalescing into a shadowy shape** above her basin — whether her, her jailers, or something else entirely is next session's first question

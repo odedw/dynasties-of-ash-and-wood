@@ -192,6 +192,13 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Opened the [Warden](../npcs/warden-of-the-grove.md) fight in character: *"Ginkgo, is this a friend of yours?"* — then spent it discovering that blades barely work on bark (his glaive *clanked* off its hide repeatedly)
 - Landed the **reactive strike** as the Warden charged past (22 to hit, 15 damage) — the first blade hit to take real chunks out of it — and made the fight's tactical play: announcing *"We don't want to hurt you — talk to the mushroom"* while **tripping it prone** (29 vs. reflex)
 - Ran the post-fight **Treat Wounds clinic** again on the road east — 5 HP to Ginkgo, 9 to Da Baishan, Assurance (Medicine) auto-succeeding as always
-- Took one look at the [new blue-skinned oni administrator](../npcs/oni-administrator.md) through the tree line and declared: *"I think she's a potential ally, guys. I feel it. I think she's a good one."* (Da Baishan: *"You just think she's pretty."* Boone: *"Often go hand in hand."*)
+- Took one look at the [new blue-skinned oni administrator](../npcs/otsuru.md) through the tree line and declared: *"I think she's a potential ally, guys. I feel it. I think she's a good one."* (Da Baishan: *"You just think she's pretty."* Boone: *"Often go hand in hand."*)
 - Pointed out **Follow the Expert** to the infiltration team — the +2 that carried Ginkgo over the wall cleanly
 - Held the outer perimeter with Da Baishan during the heist — dark vision, Perception +9, and a dead-serious best-three-of-five tournament of **boulder-parchment-shears**
+
+### Session Thirteen (2026-08-13)
+- **Named the judge.** Under the old law's requirements for a Rite of Open Reckoning — *no kin, no graves, no land, no stake* — [Mido](../npcs/mido.md) identified Boone as the party's **only eligible judge** (leshys have no standing, everyone else has local ties). He would take [Masru's](../npcs/mayor-masru.md) seat and deliver a ruling **binding on [Kurosawa](../npcs/magistrate-kurosawa.md)**
+- Fielded Littlefinger's due-diligence question about whether judging means trial-by-combat with a period reference: *"Star Trek. Old Star Trek, one-on-one."*
+- Took the **talk to Masru first** action item with Da Baishan — probe the mayor about his Kurosawa-signed commission before calling the new Reckoning
+- Received the **Owlbear's Claw** from Mido — *"the crown of the ruler might be heavy, but this may help in times of action"* — a weapon talisman that triggers his polearm's critical specialty (knockdown) on any crit
+- Volunteered for reversal **step two** with characteristic self-knowledge: *"More of a nail puller."* Will draw the copper nails from the cedars in reverse order

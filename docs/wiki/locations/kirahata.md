@@ -37,3 +37,7 @@ Kirahata (also rendered as Purahata) is a large coastal city on the southern sho
 - Mentioned by [Mayor Masru](../npcs/mayor-masru.md) as his hometown; he described it as a place of shows, singers, wealthy patrons, and entertainment
 - [Radiant Willow](../npcs/radiant-willow.md) repeated Masru's festival stories about his life in Kirahata
 - The party noted it would be several days' journey from Willowshore and may have fortune tellers or other specialists not available locally
+
+### Session Thirteen (2026-08-13)
+- [Mido's](../npcs/mido.md) agents returned from Kirahata with **[Masru's](../npcs/mayor-masru.md) real history**: he ran two very popular establishments there — **a gambling house and a brothel** — and was a reputable businessman until *"bad luck and some other elements"* pushed him out of favor with the city's business class
+- His posting to [Willowshore](willowshore.md) was a **commission he did not seek**, signed by [Kurosawa](../npcs/magistrate-kurosawa.md) — see [The Kirahata Fall](../npcs/mayor-masru.md#the-kirahata-fall-revealed-session-thirteen)

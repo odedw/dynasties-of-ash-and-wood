@@ -38,6 +38,12 @@ For generations, [Willowshore](../locations/willowshore.md) was too small and po
 
 According to oni custom, Mayor Masru arrived claiming to have "always been here"—the pretense that oni authority is eternal and uninterrupted, even when they've been absent for decades.
 
+### The Kirahata Fall (revealed Session Thirteen)
+
+[Mido's](mido.md) agents in [Kirahata](../locations/kirahata.md) filled in the story he doesn't tell. Masru was a **reputable businessman** there, running two very popular establishments — **a gambling house and a brothel** — until *"bad luck and some other elements"* thrust him out of favor with the city's business class. Disgraced, he **did not volunteer** for the Willowshore posting. He was **commissioned** — and the commission was **signed by [Kurosawa](magistrate-kurosawa.md).**
+
+Why would a magistrate hand-pick one disgraced pleasure-house owner to be a small-town mayor? Mido's read: nothing in Kurosawa's Willowshore is random. With a debtor-mayor holding the municipality and himself holding the magistracy, Kurosawa controls **both houses** of local authority — which reframes Masru's guilty verdict against the party as a foregone conclusion. Whether Masru is in Kurosawa's *debt*, under his *thumb*, or something else is the open question the party intends to put to him directly.
+
 ---
 
 ## Arrival
@@ -111,3 +117,9 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 - **Delivered the verdict:** found the party **guilty** of unlawful interference, reckless endangerment, and spiritual disruption; ordered them held *"until we can decide what to do"*
 - His own investigative writs (the "Masru's Faithful Five" contract) did **not** shield the party from the verdict under his own rule
 - Kurosawa's closing compliment—*"Wise Mayor"*—felt less like praise and more like confirmation of who had actually won the room
+
+### Session Thirteen (2026-08-13)
+- *Did not appear in person.* [Mido's](mido.md) Kirahata research exposed his past — see *[The Kirahata Fall](#the-kirahata-fall-revealed-session-thirteen)* above: a disgraced businessman **commissioned to Willowshore by Kurosawa's own signature**
+- Reported to be among those [Otsuru](otsuru.md), the newly-arrived Council magistrate, has been questioning at the estate
+- Mido believes he could be **swayed to the party's side** in a new Rite of Open Reckoning — *"not that he's in our pockets... but I believe we have Masru as well"* — if someone asks him directly whether the first ruling was ever going to be fair
+- **Talking to Masru first** is now on the party's docket ([Boone](../pcs/boone.md) and [Da Baishan](../pcs/da-baishan.md)) before they call their own Reckoning

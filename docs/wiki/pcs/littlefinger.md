@@ -207,3 +207,12 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Cleaned out the chest — the **seven ritual pages**, the pouch of **five copper nails** (*"nails like the ones in the cedar trees — yep"*), and the noted **lockbox** — and, warned of the fox construct, **dove out the second-story window** with the goods: 4 falling damage, *"worth it,"* claiming he moved so fast he left *"an outline of a halfling"* behind
 - Waited below the window to cover Donkey's escape rather than run — *"I don't want to leave Donkey"* — then went over the wall with Ginkgo on Da Baishan's rope
 - Asked mid-planning the question that will matter later: *"You think it's a setup?"*
+
+### Session Thirteen (2026-08-13)
+- **Lodged the session's formal objection** when [Mido](../npcs/mido.md) explained leshys have no standing under the old laws: *"Ma'am, I must tell you, this is blatant Leshyism. And it's unacceptable"*
+- Did the due diligence nobody else thought of on the Rite of Open Reckoning: *"Is a judge going to make a decision we abide by, or is this signing up our friend Boone for some type of fight to the death, to be ruled on by the gods?"* — and confirmed the party could use the new Reckoning to **appeal the exile verdict**
+- Asked the sharp follow-up on Masru: *"Has he indicated to you that he would accept?"* (Mido hadn't spoken to him directly — leverage, not commitment)
+- Received the **Monkey Pin** from Mido — a green jade monkey emblem: dexterity, climbing, *"when you need it, you will always land on your feet"* — thematically perfect for someone who just dove out a second-story window
+- **Resisted the urge.** The GM openly offered a pickpocket roll on Mido as she handed out gifts. Growth: *"I got us in trouble with thievery stuff last time... I'm not going to do it this time. There was a strong urge"*
+- Claimed reversal **step one** on the strength of one qualification: *"I know what counterclockwise means"*
+- **Began the reversal** — etched the hard-angled octagon counterclockwise around the dry basin: circuit one, circuit two (trees leaning in, light dimming), circuit three — **the ichor smoked up into a shadowy shape** and the session cut to black. His verdict: *"Cliffhanger achieved"*

@@ -129,3 +129,10 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 - **Provisioned the party** for the southern journey — full plate, healer's kits, sling, five healing potions, and information on the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md)
 - Pledged to **stay close** to Willowshore and use the tunnel network and the family's spy contacts to monitor [Kurosawa](../npcs/magistrate-kurosawa.md) while the party travels to the [Order of the Palatine Eye](order-of-the-palatine-eye.md)
 - The family is now **fully aligned with the party** in opposing Kurosawa's confluence ritual; they have moved from passive intelligence-sharing to direct operational support
+
+### Session Thirteen (2026-08-13)
+- [Mido](../npcs/mido.md) personally tracked the party to their camp outside Willowshore by rickshaw, escorted only by her surviving guard — the family's intelligence network still functions in the field
+- The network produced three finds: the identity of **[Otsuru](../npcs/otsuru.md)** (a new Council magistrate in town), **[Kurosawa's](../npcs/magistrate-kurosawa.md) departure** for [Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md), and — via agents sent to [Kirahata](../locations/kirahata.md) — **[Masru's](../npcs/mayor-masru.md) disgraced past and Kurosawa-signed commission**
+- Mido researched the **Rite of Open Reckoning** in the old law and proposed the party call their own, with [Boone](../pcs/boone.md) as the outsider judge, to strike down the exile verdict
+- The family **provisioned the party again**: a Monkey Pin, a False Life scroll, an Infiltrator's Elixir, two healing potions, and an Owlbear's Claw
+- Mido departed with a rendezvous promise: *"We'll meet back in Willowshore"*

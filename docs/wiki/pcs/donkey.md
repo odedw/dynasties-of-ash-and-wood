@@ -197,3 +197,11 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Spotted the **fox construct** padding down the hall with ~30 seconds to spare — *"we got company"* / *"the jig is up"* over Message — latched the chest shut behind Littlefinger (*"he's got the goods"*), attempted a windowsill dismount on **Athletics +0**, clanged his knee off the bedpost, and escaped as a dragonfly with the fox watching the room. **No alarm sounded**
 - Floated the campaign's worst/best infiltration plan for a town that now hates them: *"We could be clowns that are specifically mocking us... It'll be my greatest role yet: playing myself"*
 - At camp, poked the load-bearing hole in trusting the lockbox note: *"Are you sure? Who sticks notes on lockboxes?"* — then the counter-theory: *"Maybe he is earnestly here to fix things, he just doesn't know how"*
+
+### Session Thirteen (2026-08-13)
+- *David was absent for this session. Donkey ran with the party via the GM's narration — and still did most of the intellectual heavy lifting*
+- **Delivered the [Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md) lore** (Willowshore Lore): the stone circles in the northwest mountains, the never-seen **ancient avian people** they're said to have belonged to, and the pilgrims who still climb for spiritual awakening
+- **Cracked the stolen ritual** — spent the night at camp analyzing Kurosawa's draconic script and diagrams, and laid out the complete **five-step reversal** for the party, including the documented order of the copper nails
+- Assigned **step three**: composing the **answer** to Kurosawa's incantation — *"Memory is not sacred. It is only precedent"* cannot be repeated, it must be answered. The GM left the phrasing as David's homework (with a fallback if he passes)
+- Received the **Scroll of False Life** from [Mido](../npcs/mido.md) for his spell library — temporary hit points *"when he needs it most"*
+- Mido invoked his judgment in absentia to seal the ritual-first decision: *"Donkey would agree, I think, if he was here"*

@@ -11,7 +11,7 @@
 | **Name** | The Hollow of Seven Cedars (formerly *Lovers' Grove*) |
 | **Type** | Ancient ritual site / sacred grove |
 | **Location** | A few days' travel **northwest** of the [Palatine Eye Vault](palatine-eye-vault.md); roughly **west** of [Willowshore](willowshore.md), across the river |
-| **Status** | **CORRUPTED — but salvageable.** The [Warden](../npcs/warden-of-the-grove.md) is dead, the [Grandmother](../npcs/the-grandmother.md) has spoken, and the party holds the stolen **Root Correction ritual** that can unbind her. **Two seals** lie on the grove — Kurosawa's, and an older unknown hand's — and 2–3 hostile presences still linger |
+| **Status** | **REVERSAL IN PROGRESS.** The party began undoing the Root Correction (Session Thirteen) — three counterclockwise circuits of the seal drawn, and a **shadowy shape** coalescing from the ichor. **Two seals** lie on the grove — Kurosawa's, and an older unknown hand's — and 2–3 hostile presences still linger |
 
 ---
 
@@ -205,3 +205,13 @@ Roughly 10 miles west of [Willowshore](willowshore.md). The trail passes through
 - Ginkgo's mid-combat reads revealed the Warden was **puppeted** by **2–3 opposed, unnatural presences** crowding the grove — presences that remained after its death
 - The basin **cracked and vented**, exposing the interlinked root system; the **[Grandmother](../npcs/the-grandmother.md)** spoke to Ginkgo for the first time — see *[The Grandmother Unbound — Almost](#the-grandmother-unbound-almost-session-twelve)* above
 - The path forward was set: **steal and reverse the Root Correction.** The party marched to [Willowshore](willowshore.md), robbed Kurosawa's chambers, and returned west with the ritual, five spare nails, and the lockbox note revealing the **[two seals](#the-two-seals)**
+
+### Session Thirteen (2026-08-13)
+- **The reversal began.** Donkey's analysis of the stolen pages (written in draconic script with full diagrams) produced the five steps, in order:
+    1. **Draw the seal** — the octagonal pattern etched **counterclockwise around the pool five times** → [Littlefinger](../pcs/littlefinger.md)
+    2. **Draw the nails** — pulled from the cedars in the **reverse of the order driven** (the order is documented in the ritual) → [Boone](../pcs/boone.md)
+    3. **Answer the phrase** — Kurosawa's *"Memory is not sacred. It is only precedent"* must be **answered**, not repeated → [Donkey](../pcs/donkey.md), composition pending
+    4. **Return the name** — [Cassian Voss's](../npcs/cassian-voss.md) name etched back into the third cedar → [Da Baishan](../pcs/da-baishan.md)
+    5. **The unbinding** — all seals unlock; the [Grandmother](../npcs/the-grandmother.md) eats the ichor back in; **someone must stand in the pool** (Da Baishan, Arcana 24) → [Ginkgo](../pcs/ginkgo.md), the original enterer
+- After a long rest at the camp near Willowshore, the party returned on a bright morning to find the grove unchanged — cedars gray, nails in, basin dry
+- **Littlefinger began the counterclockwise octagon**: circuit one, nothing; circuit two, the trees *leaned in* and the light dimmed; **circuit three — the black ichor smoked upward and began coalescing into a shadowy shape.** *Session ended mid-ritual*

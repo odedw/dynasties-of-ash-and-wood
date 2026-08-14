@@ -207,5 +207,14 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - As the **speaker of the pool**, became the sole conduit for the **[Grandmother](../npcs/the-grandmother.md)** when the basin cracked open — conducted the entire negotiation: her binding, the **Root Correction (the Second Key)**, the reversal terms, the permanence of Willowshore's losses. Probed her for deception (**Perception 23**) and found none; asked her for allies (*"we met the man that started all this — he's too strong"*)
 - Relayed everything to the party and called the destination: *"I think we're gonna have to head back to Willowshore"* — while warning *"I think it's also likely that we're walking into a trap"*
 - On the heist: followed [Littlefinger](littlefinger.md) over the estate wall with **Follow the Expert** (Stealth 24 — *"don't step there"*), held **Message** concentration as the relay between Donkey inside and the team outside, caught Donkey's *"the jig is up"*, and was the landing pad Littlefinger nearly flattened diving out the window (*"thud — right next to you comes a halfling"*)
-- Landed the town-surveillance **Perception 26** that mapped the new Willowshore: eight guards, no Kurosawa, the [blue-skinned administrator](../npcs/oni-administrator.md)
+- Landed the town-surveillance **Perception 26** that mapped the new Willowshore: eight guards, no Kurosawa, the [blue-skinned administrator](../npcs/otsuru.md)
 - At camp, cut to the second seal's likeliest author: *"Who else would it be, though? Could it be, like, Cassian Voss?"*
+
+### Session Thirteen (2026-08-13)
+- **Called the decision of the night**: *"I think we should prioritize the ritual. We should undo the ritual first"* — reversal before Reckoning, so the townsfolk judge the party un-cursed. Mido, Da Baishan, and (in absentia) Donkey all fell in behind it
+- Asked [Mido](../npcs/mido.md) the right questions about [Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md) — *"Is it like a holy place? Do we know any history?"* — prompting Donkey's lore on the avian stone circles
+- Learned the old law's cost: **leshys have no legal standing** in Chu Ye's ancient rites, disqualifying him from the judge's seat despite being an eligible outsider. Littlefinger objected on his behalf (*"blatant Leshyism"*); Ginkgo let it pass
+- Tried to peer-pressure an ancient matriarch back into fieldwork — Mido: *"My days of venturing into arcane rituals are long since passed."* Ginkgo: *"Don't you miss it, though?"*
+- Received **two lesser healing potions** from Mido: *"Your heart is warm and you care for others"*
+- Volunteered for the reversal's final step — standing **in the pool** as the seals unlock and the [Grandmother](../npcs/the-grandmother.md) begins eating the darkness back in. Da Baishan's Arcana confirmed it should be the one who entered the water originally. *"I'll do it."*
+- Blessed the plan with famous last words: *"Let's do it. Nothing can go wrong"* — three counterclockwise circuits later, a shadowy shape was rising from the ichor

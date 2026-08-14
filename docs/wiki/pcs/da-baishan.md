@@ -200,3 +200,13 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - On the heist: outside man with Boone — hung the **escape rope** over the estate wall (reducing the exit climb to a trivial DC 8) and played boulder-parchment-shears on overwatch
 - At camp, ran the session's decisive analysis: **That's Odd** plus his **esoterica quick-identification** on the stolen papers, the note, and the powder — concluding there are **[two seals from two hands](../locations/hollow-of-seven-cedars.md#the-two-seals)**: Kurosawa's orderly geomantic work sitting *on top of* a hastier, *emotional* erasure that even Kurosawa can't attribute. Verdict: *"He's playing with things he doesn't fully understand"* — and the note might make him *"an unreliable narrator"* rather than a liar
 - Proposed the next investigative steps: consult the Grandmother, and *"maybe go see Littlefinger's relatives as well"*
+
+### Session Thirteen (2026-08-13)
+- Played the skeptic on [Mido's](../npcs/mido.md) Rite of Open Reckoning plan — flagged that some of the stolen papers are **ambiguous** about how much of a hand [Kurosawa](../npcs/magistrate-kurosawa.md) truly had, and asked the sharper question: legal sufficiency aside, *"do we have enough proof for the townspeople to understand and agree?"*
+- **Completed Mido's dramatic reveal before she could**: asked who signed [Masru's](../npcs/mayor-masru.md) commission to Willowshore — *"Was it Kurosawa?"* It was. Took the **talk-to-Masru** action item with Boone
+- Reasoned out why Mido couldn't vouch for the town's memories — she wasn't in Willowshore for the *"before times"* — and confirmed with the GM that she shows no signs of the curse
+- Received the **Infiltrator's Elixir** from Mido — *"you have the eye of the order, and this will allow you to infiltrate secretly"* — a drinkable disguise
+- Pushed the party to **long rest and assign every reversal step before starting** — the session's quiet tactical win
+- **Arcana 24** on the stolen ritual (readable via his Order of the Palatine Eye training) — established that step five requires someone **in the pool**, and that it should be the original enterer (Ginkgo)
+- Claimed **step four**, returning [Cassian Voss's](../npcs/cassian-voss.md) name to the third cedar: *"I feel like I owe a debt to Cassian Voss, after what the Leshy made me do"* — the Session Six séance, where Voss's spirit rode his body, still unsettles him
+- Ran the step-one job interview: *"Who has the best handwriting and knows what counterclockwise means?"*
