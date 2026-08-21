@@ -11,7 +11,7 @@
 | **Name** | The Hollow of Seven Cedars (formerly *Lovers' Grove*) |
 | **Type** | Ancient ritual site / sacred grove |
 | **Location** | A few days' travel **northwest** of the [Palatine Eye Vault](palatine-eye-vault.md); roughly **west** of [Willowshore](willowshore.md), across the river |
-| **Status** | **REVERSAL IN PROGRESS.** The party began undoing the Root Correction (Session Thirteen) — three counterclockwise circuits of the seal drawn, and a **shadowy shape** coalescing from the ichor. **Two seals** lie on the grove — Kurosawa's, and an older unknown hand's — and 2–3 hostile presences still linger |
+| **Status** | **HEALED.** The Root Correction was fully reversed (Session Fourteen): all five steps completed, the [Grandmother](../npcs/the-grandmother.md) freed and departed, clean water returned to the basin, the corruption ended. The Dream Eater no longer dwells here — the Hollow is a living grove again, though the mystery of the **second seal's author** survives it |
 
 ---
 
@@ -20,6 +20,9 @@
 
 !!! success "Session Twelve — a door out of the death sentence"
     The verdict was overturned. With the [Warden](../npcs/warden-of-the-grove.md) dead and the basin cracked open, the **[Grandmother](../npcs/the-grandmother.md)** spoke to [Ginkgo](../pcs/ginkgo.md): the grove **need not die** if [Kurosawa's](../npcs/magistrate-kurosawa.md) binding rite — the **Root Correction, the Second Key** — is performed **in reverse**, by voice and by action. The party stole the only copy of the ritual from his estate that same night. The catch: Kurosawa's own notes reveal a **second, older seal** on the grove that his diagram *"alone did not close"* — and reversing his rite alone may not be enough.
+
+!!! success "Session Fourteen — the grove lives"
+    It was enough. The party fought through the seal's defenses (shadow figments from the ichor, a sand creature from the erasure's powder), completed all five steps, and **unbound the [Grandmother](../npcs/the-grandmother.md)** — who asked to be struck in the trees' place, handed [Ginkgo](../pcs/ginkgo.md) a curse-cleansing **seed**, and dissipated. The grove healed **in minutes**: bark brightened, leaves greened, and clear drinkable water refilled the basin. The Dream Eater's gift is ended, but the Hollow itself stands *"as if untouched by anything that happened before."*
 
 ---
 
@@ -215,3 +218,12 @@ Roughly 10 miles west of [Willowshore](willowshore.md). The trail passes through
     5. **The unbinding** — all seals unlock; the [Grandmother](../npcs/the-grandmother.md) eats the ichor back in; **someone must stand in the pool** (Da Baishan, Arcana 24) → [Ginkgo](../pcs/ginkgo.md), the original enterer
 - After a long rest at the camp near Willowshore, the party returned on a bright morning to find the grove unchanged — cedars gray, nails in, basin dry
 - **Littlefinger began the counterclockwise octagon**: circuit one, nothing; circuit two, the trees *leaned in* and the light dimmed; **circuit three — the black ichor smoked upward and began coalescing into a shadowy shape.** *Session ended mid-ritual*
+
+### Session Fourteen (2026-08-20)
+- **The reversal was completed — all five steps.** The ichor-smoke's **shadow figments** (life-draining, fire-weak, gliding polygonal silhouettes) were destroyed while Littlefinger kept etching; circuits three through five closed the octagon and a **pulse of energy** ran the full pattern
+- [Boone](../pcs/boone.md) drew the **seven copper nails** in reverse order — each resisting like a magnet, each flashing a **stolen pilgrim memory** into his mind. He kept all seven cursed nails
+- [Donkey](../pcs/donkey.md) answered Kurosawa's phrase: *"Every action leaves a scar, and it can never be fully overwritten. It can only be amended"* — the trees echoed it back
+- [Da Baishan](../pcs/da-baishan.md) carved **[Cassian Voss's](../npcs/cassian-voss.md) name** back into the third cedar. Mid-carving, the erasure's **moth-wing powder rose as a screaming sand creature** — a genuinely dangerous fight (acid that dissolved a shield spell, resistances that shrugged off stones and blades) ended by Da Baishan's Devise a Stratagem finding its shifting core and Boone's Owlbear's-Claw crit. The finished name earned Voss's whisper: *"Tell the Order — it was not the oni"*
+- **The unbinding**: the [Grandmother](../npcs/the-grandmother.md) rose from the basin, pulled the corruption back from the ley line, asked Ginkgo to strike *her* (*"Do not cut the trees. Cut me. It is the same kindness, only smaller"*), handed him the **[seed](../npcs/the-grandmother.md#the-seed-the-plum)**, and dissipated
+- **The grove healed in minutes** — and the basin refilled with clear, potable water. The Hollow is whole; its spirit is gone
+- *Post-session GM retcon*: the Grandmother was a **nature spirit cast into service long ago** — by whom, and whether the same hand made the second seal, are the threads the Hollow leaves behind

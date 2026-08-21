@@ -122,3 +122,13 @@ This reframes Voss from a Willowshore curiosity into a **predecessor**: an Order
 - The party's camp analysis characterized the erasure as done in *"haste, emotion, emotional removal"* — nothing like geomancy — in a script Donkey half-recognizes and cannot place
 - Ginkgo floated Voss himself as the second seal's author (*"Who else would it be? Could it be Cassian Voss?"*); Da Baishan: *"He's all over this... I knew we should have buried him"*
 - The [Grandmother's](the-grandmother.md) reversal instructions — *"give back the name and undo the seals"* — may point directly at his scratched-out name
+
+### Session Fourteen (2026-08-20)
+- **His name was given back.** [Da Baishan](../pcs/da-baishan.md) carved *Cassian Voss* into the third cedar in his best handwriting, directly above the frantic erasure — step four of the reversal at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md)
+- The erasure **fought back**: at the second *S*, the moth-wing powder spun off the tree into a **screaming creature of sand and dust** — the second seal's residue given form, intent solely on stopping the carving. The party destroyed it, and Da Baishan finished the letters
+- With the name restored, his voice reached Da Baishan one more time — raspy, fainter and weaker than before, but unmistakable:
+
+    > *"Tell the Order — it was not the oni."*
+
+- The message lands as his clearest testimony yet on his own death and on the **second hand** at the cedars: whoever erased his name — and likely whoever killed him — **was not [Kurosawa](magistrate-kurosawa.md)** and not the oni. The GM's closing recap tied it together: a second ritual, linked to Voss and the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md), predates everything Kurosawa built at the grove
+- Whether returning his name (and freeing the [Grandmother](the-grandmother.md)) is enough to finally untether his spirit remains to be seen — his voice was *weaker* than before, not stronger

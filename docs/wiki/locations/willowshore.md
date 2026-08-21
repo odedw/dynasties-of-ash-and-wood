@@ -91,6 +91,17 @@ This deception created factions. Some people secretly blame each other; some wel
 
 ---
 
+## The Spirit of Willowshore
+
+!!! warning "GM retcon (post–Session Fourteen)"
+    Established by Gary's post-session note: **Tian Xia has an active spirit realm**, and the folk of Chu Ye know it. Spirits are real, present, and interacted with — a fisherman may seek help from the river spirit as a matter of course. The *characters* have always known this, even where the players didn't.
+
+Willowshore, like the grove and the river, **has a spirit of its own**. The [Grandmother](../npcs/the-grandmother.md) — herself a nature spirit of the [Hollow of Seven Cedars](hollow-of-seven-cedars.md), cast into service long ago — left the party a **[seed](../npcs/the-grandmother.md#the-seed-the-plum)** that clears the memory-curse from whoever consumes it. Fed to one person, it cures one person (half went to [Radiant Willow](../npcs/radiant-willow.md)). But offered to **the town spirit of Willowshore** — if the party can learn to commune with it and earn its favor — the spirit could consume the seed and **cleanse the entire town**.
+
+How to reach it, what it wants, and what favor costs are all unknown. The alternatives on the table: do nothing, or a darker *transfusion* through a living nature spirit (likely a leshy), which multiplies the cure at the cost of the vessel's life.
+
+---
+
 ## Notable Locations
 
 | Location | Description |
@@ -231,3 +242,12 @@ This deception created factions. Some people secretly blame each other; some wel
 - The party returned and **surveilled the town from the northwest tree line**: life looked outwardly normal (the eastern chasm scar still visible), but the oni garrison has **doubled to ~8 red-skinned guards**, [Kurosawa](../npcs/magistrate-kurosawa.md) was **nowhere to be seen**, and a **[new blue-skinned oni administrator](../npcs/otsuru.md)** now issues orders from the Yeshou estate — obeyed even by [Captain Akoto](../npcs/captain-akoto.md)
 - Under cover of night, the party executed a **clean heist of the estate** — Donkey as a dragonfly through Kurosawa's office window, Littlefinger picking the lacquered chest's lock — stealing the **Root Correction ritual**, five copper nails, and Kurosawa's lockbox note. The fox construct arrived moments too late; **no alarm was raised**
 - The party withdrew west into the forest the same night; as far as they know, the town is unaware they were ever there
+
+### Session Fourteen (2026-08-20)
+- **The curse's spread is over** — the party completed the reversal at the [Hollow of Seven Cedars](hollow-of-seven-cedars.md), freeing the [Grandmother](../npcs/the-grandmother.md) and permanently stopping the corruption flowing down the ley line into town. The damage already done remains
+- The party walked back in and saw what the curse has made of the town (Donkey, Society 21): outwardly normal, inwardly **cold** — no banter, no clusters of conversation, people transactional and standoffish, *"siloish."* The community that made Willowshore itself is missing
+- **[Hong](../npcs/hong.md) and [Yong](../npcs/yong.md) are in open feud** — a shouting, public rift; Hong left the forge with a packed bag, heading south, his father calling *good riddance* behind him. Nobody in town intervened
+- **The curse's pattern confirmed** (GM): those most affected are the people who **interacted most with the party or Kurosawa** — Hong and Yong worst of all; [Radiant Willow](../npcs/radiant-willow.md) heavily tainted but bent toward self-doubt by her optimism
+- **The first cure**: Willow ate half the [Grandmother's seed](../npcs/the-grandmother.md#the-seed-the-plum) at Dew Drop Petals and was restored completely — the party's one public ally is back, *"You've saved our town. Or at least me"*
+- **[Kurosawa](../npcs/magistrate-kurosawa.md) returned** from [Cloudbreaker Cairn](cloudbreaker-cairn.md), audibly displeased — and walked alone into Dew Drop Petals to demand the party *"quietly, civilly surrender"* for violating their exile. The party is leaning toward answering with their own **Rite of Open Reckoning**
+- *Post-session GM retcon*: the town **has a spirit of its own** that could consume the seed and cleanse everyone — see *[The Spirit of Willowshore](#the-spirit-of-willowshore)* above

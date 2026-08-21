@@ -202,3 +202,12 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Took the **talk to Masru first** action item with Da Baishan — probe the mayor about his Kurosawa-signed commission before calling the new Reckoning
 - Received the **Owlbear's Claw** from Mido — *"the crown of the ruler might be heavy, but this may help in times of action"* — a weapon talisman that triggers his polearm's critical specialty (knockdown) on any crit
 - Volunteered for reversal **step two** with characteristic self-knowledge: *"More of a nail puller."* Will draw the copper nails from the cedars in reverse order
+
+### Session Fourteen (2026-08-20)
+- **Killed both of the ritual's guardians.** Ended the shadow-figment fight with a **natural 20** (35 damage under the crit rule) and his own kill-cam: *"I would like to swing through it, and it catches on this polyhedral mess, and Boone breaks it — like a sound of shattering glass."* Then **burned the Owlbear's Claw** from Mido for a guaranteed crit on the sand creature (32 damage, shoved 5 feet) and landed the finishing blow a round later
+- **Proved to be exactly a nail puller.** Drew all seven copper nails in the documented reverse order, each one clinging like a magnet, each pull flashing a **stranger's stolen memory** through his mind — grief, shame, the grove's centuries of swallowed dark. **Kept all seven cursed nails** and immediately started scheming (*"if you sling them at somebody, they get implanted with the bad memory... we curse a new tree accidentally"*; Da Baishan's addendum: *"if we battle Kurosawa and win, I would love to nail him to a wall with four of those"*)
+- Asked the practical question that shaped the cure plan — *"If they hate us, how do we get them to a tea party?"* — and then answered it himself, pointing the party at the one townsperson everyone still loves: *"Don't they all like, you know, what's-her-name who did the dance? She's really popular"* — [Radiant Willow](../npcs/radiant-willow.md), cured within the hour
+- Contributed to Ginkgo's pre-Willow pep talk with characteristic dwarven directness: *"Tell her you love her"*
+- Ran the post-fight healing check-in as usual, and kept the party honest on action economy through both combats
+- Weighed the Kurosawa endgame like the judge he's about to become: *"Better than surrendering, I guess"* (the Reckoning) — *"and better than dying trying to kill him."* The judge's seat from Session Thirteen's plan is now one refused surrender away
+- **Level 4** at the start of chapter 15; possibly out next session

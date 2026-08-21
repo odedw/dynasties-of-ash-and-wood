@@ -205,3 +205,13 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Assigned **step three**: composing the **answer** to Kurosawa's incantation — *"Memory is not sacred. It is only precedent"* cannot be repeated, it must be answered. The GM left the phrasing as David's homework (with a fallback if he passes)
 - Received the **Scroll of False Life** from [Mido](../npcs/mido.md) for his spell library — temporary hit points *"when he needs it most"*
 - Mido invoked his judgment in absentia to seal the ritual-first decision: *"Donkey would agree, I think, if he was here"*
+
+### Session Fourteen (2026-08-20)
+- **Delivered the answer** — the reversal's step three, composed on the spot and spoken with full confidence into the pool as the trees echoed it back: *"Every action leaves a scar, and it can never be fully overwritten. It can only be amended."* The GM's on-air review: *"I think it's actually better than what I came up with"*
+- Supported both guardian fights: **Dizzy Colors** dazzled the sand creature (concealing the whole party from it), and he drew its attention off the ritual-critical Da Baishan — eating 6 piercing in the aura for his trouble. Also supplied the fight's soundtrack: *"Enter Sandman"*
+- **Identified the [Grandmother's seed](../npcs/the-grandmother.md#the-seed-the-plum)** (Nature 23, +1 from his sacred-forest-sites gift): shaped like a **Mourndusk Willow** seed but larger and softer — *"think of it more like a plum"* — arcane/divine in essence, and *not* something that would grow if planted
+- Asked the question everyone was dancing around, with maximum elf bluntness: *"Wait — Kurosawa. Feed the nut. Is Kurosawa that guy?"*
+- His **Society 21** read the returning party's first impression of town: outwardly normal, inwardly cold — transactional, siloed, the banter gone. *"Sounds like New York City"* (Da Baishan). His **Willowshore Lore** also confirmed the town has no organized underworld left for Da Baishan's streetwise plan to find
+- Rolled hot all day (*"Donkey's rolling awesome today"* — the GM) and assisted Da Baishan's Occultism 27 on the transfusion research
+- Proposed disguising himself with **Prestidigitation** (denied — *"maybe a monocle"*) and offered **Pest Form** for the approach into town
+- **Level 4** at the start of chapter 15

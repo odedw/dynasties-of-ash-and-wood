@@ -103,3 +103,9 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 
 ### Session Eleven (2026-06-04)
 - Appeared in the **memory-corruption vision** at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) — shown still holding the memory of the son the party rescued, but **fixating instead on the belief that the party caused the danger** in the first place. The cruelest of the vision's images: not forgetting, but having a true memory soured into resentment. (A *threatened* future under Kurosawa's Root rite, not a confirmed present.)
+
+### Session Fourteen (2026-08-20)
+- **The vision's future arrived.** The party returned to town to find Yong and [Hong](hong.md) in an open, shouting **feud in the street** — Hong leaving with a packed bag, Yong hammering in hand, calling *good riddance* after his own son. The pair who once planned to leave for the coast *together* have been curse-split into blame and grudge
+- The GM confirmed the mechanism: the memory curse hit hardest those who **interacted most with the party or [Kurosawa](magistrate-kurosawa.md)** — and *"Yong and Hong had the most passionate reaction"* of anyone in Willowshore
+- The curse's *spread* is now stopped (the party reversed the Root Correction this session), but the damage to Yong's memories stands — the debt he owed the party for Hong's life is exactly the kind of kindness the curse eats
+- A cure exists in very limited supply — the remaining half of the [Grandmother's seed](the-grandmother.md#the-seed-the-plum) — alongside the longer-shot **town spirit** path (see [Willowshore](../locations/willowshore.md#the-spirit-of-willowshore))

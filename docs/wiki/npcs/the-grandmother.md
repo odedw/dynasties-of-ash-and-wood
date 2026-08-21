@@ -9,9 +9,12 @@
 | | |
 |---|---|
 | **Name** | Unknown — called **the Grandmother**, the **Memory Eater of the Seven Cedars**, the **Dream Eater** |
-| **Type** | Ancient grove spirit (occult); gender traditionally held unknown and unimportant |
-| **Location** | Beneath the basin of the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), in the interwoven root system of all seven trees |
-| **Status** | **Alive — and bound.** Sealed for nearly a year; can speak only to [Ginkgo](../pcs/ginkgo.md), the pool's speaker |
+| **Type** | **Nature spirit** — the spirit of the grove, **cast into service long ago** by parties unknown *(GM retcon after Session Fourteen — see note below)* |
+| **Location** | Formerly beneath the basin of the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md), in the interwoven root system of all seven trees |
+| **Status** | **Freed — and departed.** Unbound by the party's reversal (Session Fourteen); struck at her own request, she handed [Ginkgo](../pcs/ginkgo.md) a curse-cleansing **seed** and dissipated entirely |
+
+!!! warning "GM retcon (post–Session Fourteen)"
+    Gary's post-session note corrected her nature: the Grandmother was a **nature spirit** of Tian Xia's active spirit realm — *the spirit of the grove*, **cast into service long ago. By whom and why, the party may yet find out.** This supersedes the vaguer "ancient grove spirit (occult)" framing, and it reframes her seed: a spirit's gift that another spirit can receive. The seed can be offered to **the spirit of Willowshore** to cleanse the whole town — see [Willowshore](../locations/willowshore.md#the-spirit-of-willowshore).
 
 ---
 
@@ -48,12 +51,22 @@ Ginkgo probed her for deception (Perception 23) and found **none** — only the 
 
 ---
 
+## The Seed (the Plum)
+
+Her parting gift, pressed warm into [Ginkgo's](../pcs/ginkgo.md) hand as she faded (Session Fourteen): a black, walnut-like seed **shaped like a Mourndusk Willow seed** but larger and softer — the party immediately dubbed it *the plum*. It is not natural at all (occult/divine essence in a seed's shape; planted, it grows nothing). Her instruction:
+
+> *"This seed will clear the curse of one in Willowshore. They must consume it, but it will return their mind unblemished."*
+
+**Half was fed to [Radiant Willow](radiant-willow.md)**, curing her completely and instantly. Per the GM's retcon, the seed could also be **given to the spirit of Willowshore** — commune, earn its favor, and the town spirit consumes it and cleanses everyone. Half remains, and the party's choice stands between one more person and the harder, larger road.
+
+---
+
 ## Open Questions
 
-- **Which seal actually binds her?** She has been bound *"nearly a year"* — a timeline that matches the **older erasure** over [Cassian Voss's](cassian-voss.md) name better than Kurosawa's recent nails. Kurosawa's own note admits his diagram *"alone will not open what it alone did not close"* — see [the two seals](magistrate-kurosawa.md#the-lockbox-note-the-second-seal). Will reversing *his* rite alone be enough to free her?
-- **What is "the name" that must be given back?** Voss's scratched-out name is the obvious candidate — but not the confirmed one
-- **What are the other presences** still crowding her grove after the Warden's death — and will they permit a reversal to be performed?
-- **Is her account complete?** She is honest as far as Ginkgo can tell — but she is also bound, and *"there are barriers to my speech and what I can do."*
+- **Who cast her into service, and why?** The retcon dangles this explicitly: she was a nature spirit *pressed* into the Dream Eater's role long ago. Her jailer — and their purpose — is an open thread
+- **Where did she go?** Her presence dissipated entirely when the grove healed. Destroyed, released, or returned to the spirit realm?
+- **Was the strike she asked for a mercy or a necessity?** *"Do not cut the trees. Cut me. It is the same kindness, only smaller"* — the ritual required it, but her phrasing suggests she understood it as the same gift she once gave pilgrims
+- **The second seal remains unexplained.** Her *"nearly a year"* binding matched the **older erasure** over [Cassian Voss's](cassian-voss.md) name better than Kurosawa's nails — yet reversing Kurosawa's rite alone freed her. Voss's parting message (*"it was not the oni"*) says the other hand is still out there
 
 ---
 
@@ -74,3 +87,10 @@ Ginkgo probed her for deception (Perception 23) and found **none** — only the 
 - **Her unbinding began.** [Donkey's](../pcs/donkey.md) analysis of the stolen ritual produced the full five-step reversal, ending with her release: once the seals unlock, *"she will start eating things backwards"* — consuming the black ichor back in
 - [Da Baishan's](../pcs/da-baishan.md) Arcana (24) confirmed a requirement her conversation with Ginkgo implied: **someone must stand in the pool** for the final step, and it should be the one who entered the water originally — **[Ginkgo](../pcs/ginkgo.md), her speaker**, volunteered without hesitation
 - At session's end, [Littlefinger's](../pcs/littlefinger.md) third counterclockwise circuit of the seal raised the ichor as smoke, **coalescing into a shadowy shape** above her basin — whether her, her jailers, or something else entirely is next session's first question
+
+### Session Fourteen (2026-08-20)
+- **Freed.** With all five reversal steps complete, she rose from the basin as a rough, blackened-marble silhouette of an elderly woman, **pulling the corruption back in** — the ley line's poison reeled away from [Willowshore](../locations/willowshore.md) in a tug-of-war she was winning
+- Asked [Ginkgo](../pcs/ginkgo.md), the pacifist standing in her pool, to finish the ritual by striking **her**: *"Do not cut the trees. Cut me. It is the same kindness, only smaller."* He did — a Divine Lance of *"life force,"* accepting *"the consequences of my deity"*
+- As she faded, she reached out an open hand with the **seed** — see *[The Seed (the Plum)](#the-seed-the-plum)* above — warm to the touch, with her instruction to feed it to one of Willowshore's cursed
+- **The grove healed in minutes** — bark brightening, leaves greening, clean water refilling her basin — and her presence vanished entirely. The Dream Eater no longer lives at the Hollow of Seven Cedars
+- *Post-session retcon*: reclassified as a **nature spirit cast into service long ago** — see the note at the top of this page

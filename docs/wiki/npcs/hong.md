@@ -94,3 +94,9 @@ While the rest of the party met with [Mido](mido.md), Hong stayed behind with Bo
 - Rescued by Da Baishan, who climbed down and tied a rope around him
 - Blushed visibly through his kitsune fur when Da Baishan suggested he needed "a kiss to feel better"—Kimmy obliged with a peck on the cheek
 - The broken lantern meant Kimmy couldn't make her wish at the festival
+
+### Session Fourteen (2026-08-20)
+- **Left home.** The party returned to [Willowshore](../locations/willowshore.md) to find Hong and [Yong](yong.md) in a **full public feud** — Hong blaming his father, Yong blaming Hong, neither being discreet about it. Hong shouldered a packed bag and walked south alone, toward the inn or out of town entirely, while his father shouted *good riddance* behind him
+- This is the **memory curse at its cruelest**: the father and son who had planned to leave Willowshore *together* — bonded by the rescue, the windfall, and the dream of open coastlines — can now recall only their grudges. The GM confirmed those who interacted most with the party took the strongest dose, and *"Yong and Hong had the most passionate reaction"*
+- The townsfolk watched the argument, mumbled, and went back to work; no one consoled either of them
+- The cure exists — the remaining half of the [Grandmother's seed](the-grandmother.md#the-seed-the-plum), or the town-spirit path — but supply is short and Hong is walking

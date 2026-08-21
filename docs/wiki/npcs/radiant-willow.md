@@ -141,3 +141,13 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 ### Session Eleven (2026-06-04)
 - Appeared in the **memory-corruption vision** at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) — shown **lowering a hand she had once raised** for the party, *no longer able to remember why she trusted them.* A pointed image: the one person who raised her hand for the party at the trial, made to forget she ever did
 - The vision is of a *threatened* future under Kurosawa's Root rite, not a confirmed present — but it sharpens the stakes of what the corruption flowing into Willowshore would cost the party's only public ally
+
+### Session Fourteen (2026-08-20)
+- **The vision came true — and was undone.** [Ginkgo](../pcs/ginkgo.md) found her slumped in her own styling chair at a dimmed, neglected Dew Drop Petals, curse-hollowed: *"I know you're my friends... but I only see darkness all the time. But I know it's not true"*
+- Her anchor against the curse was her own **journal** — margin doodles of flowers and bunnies, entries recording kindnesses she could no longer feel: *"I know this is my handwriting. I don't remember writing these, but I feel that it's true."* Even cursed, her optimism bent the corruption into self-doubt and conspiracies (*"maybe they learned my handwriting"*) rather than hatred — the GM confirmed her nature changed how the curse expressed in her
+- Held onto one uncorrupted memory: raising her hand for the party at the trial. *"I know I stood up for you. Was I wrong?"* Ginkgo: *"No. And I'm here to repay that debt"*
+- **Ate half of the [Grandmother's seed](the-grandmother.md#the-seed-the-plum)** at Ginkgo's urging — *"take a leap of faith... eat this"* — and was cured completely within seconds: color, warmth, and the old exuberance restored
+- Her account from inside the curse: *"There was a cloud in my mind. I knew in my heart it wasn't true... lots of conspiracies just started consuming me. You've saved our town. Or at least me"*
+- Immediately re-enlisted: greeted the whole party by name, made spa water, and joined the research into stretching the cure — she and Ginkgo tested the seed together while the party debated who else gets the plum
+- As a **flower leshy**, she is one of the beings who *could* serve as the transfusion vessel to multiply the cure — at the cost of being tainted by the Dream Eater forever and dying. The party refused to consider it (*"You want to sacrifice Willow? That's not on the table"* — Littlefinger)
+- Was present, mid-planning, when [Kurosawa](magistrate-kurosawa.md) walked into her salon, took a chair, and demanded the party's surrender
