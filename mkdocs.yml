@@ -44,6 +44,7 @@ nav:
     - 12. A Hand That Answers: sessions/2026-07-16.md
     - 13. The Breaking of Two Seals: sessions/2026-08-13.md
     - 14. The Grandmother's Gift: sessions/2026-08-20.md
+    - 15. Second Reckoning: sessions/2026-09-03.md
   - Wiki:
     - Player Characters:
       - Da Baishan: wiki/pcs/da-baishan.md
@@ -73,7 +74,8 @@ nav:
       - Cliché: wiki/npcs/cliche.md
       - Warden of the Grove: wiki/npcs/warden-of-the-grove.md
       - The Grandmother: wiki/npcs/the-grandmother.md
-      - Otsuru: wiki/npcs/otsuru.md
+      - Magistrate Atsura: wiki/npcs/atsura.md
+      - Old Amber: wiki/npcs/old-amber.md
     - Factions:
       - Willowshore Ruling Family: wiki/factions/willowshore-ruling-family.md
       - Mizu Ki Hikari: wiki/factions/mizu-ki-hikari.md
@@ -89,6 +91,7 @@ nav:
       - Terrace of Whispering Clay: wiki/locations/terrace-of-whispering-clay.md
       - Palatine Eye Vault: wiki/locations/palatine-eye-vault.md
       - Kirahata: wiki/locations/kirahata.md
+      - The Land of Dreams: wiki/locations/land-of-dreams.md
   - Player Guide: resources/Player Guide.md
 
 markdown_extensions:

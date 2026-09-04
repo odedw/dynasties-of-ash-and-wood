@@ -165,7 +165,7 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 ### Session Thirteen (2026-08-13)
 - **Found the party's camp** outside Willowshore after hours of searching — arrived at night in a rickshaw pulled by her surviving guard, blanket over her legs: *"These old bones are not used to sleeping out under the stars"*
 - Delivered fresh intelligence from her network:
-    - **[Otsuru](otsuru.md)** — a young tiefling oni magistrate of the [Council of the Magi](../factions/council-of-the-magi.md) — has arrived leading a new group; Mido first feared the exile escort, now believes otherwise. *"Yet another either possible adversary or ally amongst our midst"*
+    - **[Otsuru](atsura.md)** — a young tiefling oni magistrate of the [Council of the Magi](../factions/council-of-the-magi.md) — has arrived leading a new group; Mido first feared the exile escort, now believes otherwise. *"Yet another either possible adversary or ally amongst our midst"*
     - **[Kurosawa](magistrate-kurosawa.md) left town** the previous night with guards, northwest to **[Cloudbreaker Cairn](../locations/cloudbreaker-cairn.md)**
     - Her people finally returned from [Kirahata](../locations/kirahata.md) with **[Masru's](mayor-masru.md) past**: a disgraced businessman (a gambling house and a brothel) whose Willowshore commission was **signed by Kurosawa**
 - Heard the party's full account of the grove and the [Grandmother](the-grandmother.md); judged the reversal **the most urgent priority** — if the curse runs on, Willowshore becomes uninhabitable. Notably, she **never shared** the other piece of research she had brought: *"I believe your discovery is even more important than mine today"*
@@ -173,3 +173,11 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 - Proposed the party call their **own Rite of Open Reckoning** on Kurosawa's return: under the old law the judge must have *no kin, no graves, no land, no stake* — and since **leshys have no standing** in the old laws, [Boone](../pcs/boone.md) is the only eligible judge. Weathered Littlefinger's *"blatant Leshyism"* objection with diplomacy
 - Distributed **five gifts** from the rickshaw: a jade **Monkey Pin** (Littlefinger), a **False Life scroll** (Donkey), an **Infiltrator's Elixir** (Da Baishan — *"you have the eye of the order"*), **two lesser healing potions** (Ginkgo), and an **Owlbear's Claw** (Boone — *"the crown of the ruler might be heavy"*)
 - Departed into the dark unpickpocketed — Littlefinger resisted *"a strong urge"* — with a promise: *"Good luck, my friends. We'll meet back in Willowshore"*
+
+### Session Fifteen (2026-09-03)
+- **Back in her old suite** at the Silver Mist Inn on the south side of town — dark room, low table, a cup of something, one guard at the door — resettled after the party's grove ritual stopped her curse from progressing
+- Greeted the freed party with a matriarch's resignation: *"While I'm surprised to see you free, perhaps I should stop being surprised by all the things this group has accomplished in their short time here"*
+- **Delivered the [Old Amber](old-amber.md) lore**: the golden-koi river spirit, the rice tributes on full moons and festival nights, the ~two-year silence that began *before the oni came* — and the town's grim consensus that the spirit abandoned them
+- **Named the road**: *"Where the veil is thinnest is in the deepest sleep"* — the [Land of Dreams](../locations/land-of-dreams.md), reached via a nightshade-and-poppy brew ([Luda](luda.md) cultivates the nightshade), with the cheerful caveat that *nightmares there are actual things*. Asked how to find Old Amber once inside, she shrugged: *"That's the journey"*
+- Gave the party her plainest gratitude yet — no more gifts to give, only thanks *"beyond the words I can say"* to Da Baishan, Boone, and Ginkgo, *"those who don't have strong ties here but obviously have the best in values,"* for risking themselves for her town yet again
+- Her network's intel got its first correction: the magistrate she reported as "Otsuru" introduced herself to the party as **[Atsura](atsura.md)**

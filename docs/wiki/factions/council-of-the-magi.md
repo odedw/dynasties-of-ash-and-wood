@@ -10,8 +10,8 @@
 |---|---|
 | **Type** | Imperial arcane authority |
 | **Jurisdiction** | Arcane ruins, artifacts, and geomancy within the oni Imperium |
-| **Known Members** | [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md), [Otsuru](../npcs/otsuru.md) |
-| **Status** | Active; a second magistrate now operates in [Willowshore](../locations/willowshore.md) |
+| **Known Members** | [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md), [Magistrate Atsura](../npcs/atsura.md) (Mirror Tribunal) |
+| **Status** | Active; its internal-affairs arm is now investigating Kurosawa in [Willowshore](../locations/willowshore.md) |
 
 ---
 
@@ -34,6 +34,21 @@ From Kurosawa's statements (public and in open court):
 - **The right to deem an expert "not an expert"** for courtroom purposes—e.g., disqualifying the device's own builder from speaking to its purpose
 
 During the Rite of Open Reckoning in Session 8, when the party demanded an **impartial arcane expert**, Kurosawa simply said *"I am the Council of the Magi"*—asserting himself as the only expert whose testimony counted.
+
+---
+
+## The Mirror Tribunal
+
+The Council polices its own. The **Mirror Tribunal** is its internal-affairs arm — [Boone](../pcs/boone.md) recognized the name (lore check, Session Fifteen) from an arcane incident in the old war: they are the body that investigates **the Magi themselves**.
+
+What [Atsura](../npcs/atsura.md) — the Tribunal's agent in Willowshore — has stated directly:
+
+- The Tribunal's office exists to *"police those in this Council who may be using their station, or the learned elements from it, in a way that is not in accordance to our credo"*
+- **They do not wander.** *"The Mirror Tribunal does not go wandering around aimlessly. We are sent out for these types of things"* — and a magistrate who sees one arrive knows precisely why
+- She was dispatched over **"disturbing echoes and reverberations"** — ley-line energy spikes — from the Willowshore area, with *"the full authority of the Council of the Magi and the Mirror Tribunal"* to investigate and **strike a verdict**
+- *"There's been evidence that [Kurosawa](../npcs/magistrate-kurosawa.md) may be doing just that"* — abusing his station — **before** the party added their documents to the pile
+
+The Tribunal's existence rewrites the campaign's power map: Kurosawa's *"I am the Council of the Magi"* now has an answer standing in his borrowed courtyard, holding his guards' keys.
 
 ---
 
@@ -62,6 +77,12 @@ The Council is cited often and seen never. Everything known is secondhand:
 - Under cross-examination, Yong revealed Kurosawa had once mentioned **"devices"** (plural)—implying the Council's infrastructure work extends beyond this one site
 
 ### Session Thirteen (2026-08-13)
-- **A second member surfaced**: [Mido](../npcs/mido.md) identified the new arrival in Willowshore — the blue-skinned administrator the party observed in Session Twelve — as **[Otsuru](../npcs/otsuru.md)**, a young tiefling oni **magistrate of the Council**
+- **A second member surfaced**: [Mido](../npcs/mido.md) identified the new arrival in Willowshore — the blue-skinned administrator the party observed in Session Twelve — as **[Otsuru](../npcs/atsura.md)**, a young tiefling oni **magistrate of the Council**
 - Kurosawa's Session Eight boast — *"I am the Council of the Magi"* — is now demonstrably false in at least the singular sense: the Council has a second magistrate on site, and even the town's oni leadership defers to her
 - Whether Otsuru is here to **assist Kurosawa's work or to investigate him** is unknown; Mido reports her *"studying things in the estate"* and questioning [Masru](../npcs/mayor-masru.md)
+
+### Session Fifteen (2026-09-03)
+- The second magistrate **introduced herself as [Atsura](../npcs/atsura.md)** (Mido's network had reported "Otsuru") — and answered the open question: she is here to **investigate Kurosawa**, not assist him
+- The **Mirror Tribunal** entered the campaign by name: the Council's internal affairs, identified by [Boone's](../pcs/boone.md) war-era lore, dispatched over the ley-line disturbances radiating from Willowshore
+- Atsura confirmed the Council had **pre-existing evidence** of Kurosawa abusing his station; she authenticated the party's documents (his signed device commission) and a cursed copper nail with her arcane tattoos and called them *"further proof that he has been planning something for a while"*
+- Demonstrated the Tribunal's practical rank: unlocked the party's cage over the guards' hesitation, **overruled Kurosawa to his face** with a raised hand, and ruled the Open Reckoning sentence satisfied by confinement to the town's borders

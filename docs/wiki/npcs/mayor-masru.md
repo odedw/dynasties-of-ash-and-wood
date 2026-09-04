@@ -120,6 +120,12 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 
 ### Session Thirteen (2026-08-13)
 - *Did not appear in person.* [Mido's](mido.md) Kirahata research exposed his past — see *[The Kirahata Fall](#the-kirahata-fall-revealed-session-thirteen)* above: a disgraced businessman **commissioned to Willowshore by Kurosawa's own signature**
-- Reported to be among those [Otsuru](otsuru.md), the newly-arrived Council magistrate, has been questioning at the estate
+- Reported to be among those [Otsuru](atsura.md), the newly-arrived Council magistrate, has been questioning at the estate
 - Mido believes he could be **swayed to the party's side** in a new Rite of Open Reckoning — *"not that he's in our pockets... but I believe we have Masru as well"* — if someone asks him directly whether the first ruling was ever going to be fair
 - **Talking to Masru first** is now on the party's docket ([Boone](../pcs/boone.md) and [Da Baishan](../pcs/da-baishan.md)) before they call their own Reckoning
+
+### Session Fifteen (2026-09-03)
+- Observed twice from the courtyard, both times eating: first breakfasting on the estate porch, feet up, being served by [Meilin](meilin.md) — until he spotted the two magistrates approaching, dropped his feet, straightened up, and hurried inside *"like he had things to do"*
+- Later seen through the estate window eating (again) and drinking while gesturing at and apparently **scolding Meilin** over something unknown
+- His significance grew in absentia: the party confirmed with the GM that their **deputization as "Masru's Faithful Five" still stands** — known only to them and the mayor — and under the old law it is exactly the municipal authority needed to call their own [Rite of Open Reckoning](../locations/willowshore.md#the-rite-of-open-reckoning). Also confirmed: [Kurosawa](magistrate-kurosawa.md) **hand-picked him** for Willowshore; the selection was not random
+- His **daily stipend** to the party remains canceled; [Da Baishan](../pcs/da-baishan.md) is keeping the tab open — *"that'll come back around when we put him in jail. With interest"*

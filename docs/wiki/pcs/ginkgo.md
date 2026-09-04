@@ -207,7 +207,7 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - As the **speaker of the pool**, became the sole conduit for the **[Grandmother](../npcs/the-grandmother.md)** when the basin cracked open — conducted the entire negotiation: her binding, the **Root Correction (the Second Key)**, the reversal terms, the permanence of Willowshore's losses. Probed her for deception (**Perception 23**) and found none; asked her for allies (*"we met the man that started all this — he's too strong"*)
 - Relayed everything to the party and called the destination: *"I think we're gonna have to head back to Willowshore"* — while warning *"I think it's also likely that we're walking into a trap"*
 - On the heist: followed [Littlefinger](littlefinger.md) over the estate wall with **Follow the Expert** (Stealth 24 — *"don't step there"*), held **Message** concentration as the relay between Donkey inside and the team outside, caught Donkey's *"the jig is up"*, and was the landing pad Littlefinger nearly flattened diving out the window (*"thud — right next to you comes a halfling"*)
-- Landed the town-surveillance **Perception 26** that mapped the new Willowshore: eight guards, no Kurosawa, the [blue-skinned administrator](../npcs/otsuru.md)
+- Landed the town-surveillance **Perception 26** that mapped the new Willowshore: eight guards, no Kurosawa, the [blue-skinned administrator](../npcs/atsura.md)
 - At camp, cut to the second seal's likeliest author: *"Who else would it be, though? Could it be, like, Cassian Voss?"*
 
 ### Session Thirteen (2026-08-13)
@@ -228,3 +228,12 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - Drew his ethical lines in permanent ink: refused the transfusion outright for any living thing (*"All life is sacred"*), floated distributing the burden across the mycelium so every leshy absorbs *"a minuscule amount"* — then heard [Kurosawa](../npcs/magistrate-kurosawa.md) demand their surrender and amended the doctrine: *"F*** that guy,"* turning his back so the party could act freely
 - Briefly, catastrophically mixed up his teas — *"We can get Willow to brew some tea for him"* / *"Oh, no. Sorry. I mixed it up. No. Absolutely not"* — nearly proposing to spend the last of the cure on the magistrate
 - **Level 4** at the start of chapter 15
+
+### Session Fifteen (2026-09-03)
+- **Opened the Kurosawa negotiation on pure exhaustion**: *"It's time to stop this game. We're all on the same side... we will get out of another cell again and keep doing the same things over and over"* — and drew out the magistrate's real face: the *"personal vision"* speech and *"I don't care about the people of Willowshore"*
+- Ran **Message** like a switchboard all session: kept a line open for [Mido](../npcs/mido.md) during the surrender (no answer — 120 ft range, she was across town; noted the heightened-cast range for later levels), and later held the **only working channel into the [Land of Dreams](../locations/land-of-dreams.md)** — his whisper reaching the sleeping Donkey *"like the voice of God, with a little giggle"*
+- Conducted rigorous dream-science on the sleeping [Donkey](donkey.md): squeezed his hand, poked his ear, picked his nose. No sensation crossed the veil. *"Okay, good to know"*
+- Proposed the session's two best force-multipliers: **cure more of the town before any second trial**, and **bring [Atsura](../npcs/atsura.md) into the ritual's orbit** — *"maybe it'll help her catch Kurosawa red-handed if he comes knocking"*
+- **Co-brewed the concoction** with Boone in [Willow's](../npcs/radiant-willow.md) back rooms — Nature +11, rolled **31 with his own Guidance** — insisting on the venue with suspicious conviction (*"there's probably incense, calming music... the perfect scenery"*; Da Baishan: *"Ginkgo's been trying to get into Willow's back rooms for a while now"*)
+- Set up Boone's future with a whisper to Willow: *"I think it's time to give Boone the makeover, if you know what I mean"* — she took it from there (*"head to toe... irresistible"*)
+- Meta-note: still **Level 3** (missed the level-up window); will design the level-4 build with the GM before next session — Oded flagged that combat currently feels *"pretty useless"* and wants options with more punch

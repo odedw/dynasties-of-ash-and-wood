@@ -62,3 +62,10 @@ Kurosawa demanded arcane ingredients from Luda in high volume with extreme speci
 - Kurosawa then turned the questioning: Luda confirmed that **Donkey had asked her to spy on the magistrate** and report his purchases; she said she *"didn't feel she had a choice"*
 - Refused to condemn the party outright: *"I don't think they can be seen as deceiving."* — not a defense, but not the condemnation Kurosawa was hoping for either
 - Her testimony was the most awkward for both sides: it damaged both the magistrate's impartiality and the party's deniability about surveilling him
+
+### Session Fifteen (2026-09-03)
+- Met [Donkey](../pcs/donkey.md) at her door with a scowl and a ledger: *"I think you still owe me seven gold pieces"* (the true figure may have been four; she stood at seven; he paid). *"Excellent. The counts are settled. How can I help you today?"*
+- **Supplied the [Land of Dreams](../locations/land-of-dreams.md) expedition**: three doses of **nightshade and pressed poppy petals** for 9 gold — cut with the proper instruments, prepared in her back room in fifteen minutes, potency preserved. She knew exactly what the brew was for and asked no questions beyond *"how many doses?"*
+- Handled the transaction with professional discretion: *"Please don't loiter around and look obvious"*
+- Sent Donkey off with the campaign's most on-brand herbalist blessing: *"Thank you, my old friend — and I hope you have powerful dreams"*
+- Was **pickpocketed for 6 of the 9 gold** by [Littlefinger](../pcs/littlefinger.md) on the way out (a 29; she didn't notice). The party's net cost for the entire expedition: three gold

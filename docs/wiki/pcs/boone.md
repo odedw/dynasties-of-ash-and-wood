@@ -192,7 +192,7 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Opened the [Warden](../npcs/warden-of-the-grove.md) fight in character: *"Ginkgo, is this a friend of yours?"* — then spent it discovering that blades barely work on bark (his glaive *clanked* off its hide repeatedly)
 - Landed the **reactive strike** as the Warden charged past (22 to hit, 15 damage) — the first blade hit to take real chunks out of it — and made the fight's tactical play: announcing *"We don't want to hurt you — talk to the mushroom"* while **tripping it prone** (29 vs. reflex)
 - Ran the post-fight **Treat Wounds clinic** again on the road east — 5 HP to Ginkgo, 9 to Da Baishan, Assurance (Medicine) auto-succeeding as always
-- Took one look at the [new blue-skinned oni administrator](../npcs/otsuru.md) through the tree line and declared: *"I think she's a potential ally, guys. I feel it. I think she's a good one."* (Da Baishan: *"You just think she's pretty."* Boone: *"Often go hand in hand."*)
+- Took one look at the [new blue-skinned oni administrator](../npcs/atsura.md) through the tree line and declared: *"I think she's a potential ally, guys. I feel it. I think she's a good one."* (Da Baishan: *"You just think she's pretty."* Boone: *"Often go hand in hand."*)
 - Pointed out **Follow the Expert** to the infiltration team — the +2 that carried Ginkgo over the wall cleanly
 - Held the outer perimeter with Da Baishan during the heist — dark vision, Perception +9, and a dead-serious best-three-of-five tournament of **boulder-parchment-shears**
 
@@ -211,3 +211,12 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Ran the post-fight healing check-in as usual, and kept the party honest on action economy through both combats
 - Weighed the Kurosawa endgame like the judge he's about to become: *"Better than surrendering, I guess"* (the Reckoning) — *"and better than dying trying to kill him."* The judge's seat from Session Thirteen's plan is now one refused surrender away
 - **Level 4** at the start of chapter 15; possibly out next session
+
+### Session Fifteen (2026-09-03)
+- **His session with [Atsura](../npcs/atsura.md), start to finish.** Caught the tell nobody else saw (Perception 22): [Kurosawa's](../npcs/magistrate-kurosawa.md) beat of genuine surprise on seeing her at the salon door — surprise sliding into *recalculation* — proving she wasn't part of his plan
+- **Placed the "Mirror Tribunal"** on a lore check (19 flat on the die, intelligence confirmed): the [Council of the Magi's](../factions/council-of-the-magi.md) internal affairs, remembered from an arcane incident in his old war — meaning Kurosawa is under investigation *by his own institution*
+- Opened diplomatic relations via the **Zoolander protocol**: attempted to *"psychically convey that we may be on the same side"* through pure eye contact (Performance; she smirked and shook her head — *"Are you flirting with her?" "Even I don't know"*)
+- **Won the party's freedom at a garden table.** Asked to speak with her privately, opened with *"Is your boyfriend also a magistrate?"* (no boyfriend; long hours), then presented the case: Kurosawa's **signed device-commission note**, a **cursed copper nail**, and the memory-curse's effect on the town's testimony. Her tattoo authenticated everything; her verdict: **"You have honest eyes. I believe you're telling the truth here"** — and she unlocked the cage on his word plus paper
+- Landed the exit **smolder** (Performance 13 — *"13's not bad"*): a smile *and a wink*. *"He is just shot through the heart. Boone is walking away on clouds"* — and [Willow](../npcs/radiant-willow.md) has already booked him the full irresistibility treatment, on the house
+- **Co-brewed the deep-sleep concoction** with Ginkgo (Medicine +10, rolled 30; Ginkgo's 31 with Guidance took it) — his Medic training carrying the dosage math: two to four hours under, depending on potency and body size
+- Asked Atsura for the mission-critical favor — help lifting the curse — and stood watch with Ginkgo over the sleepers as [Donkey](donkey.md) and [Littlefinger](littlefinger.md) went under

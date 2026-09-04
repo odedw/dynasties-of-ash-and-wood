@@ -226,3 +226,11 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Arrived with **AI-generated leshy slurs** in support of his plan to lurk in shadows hurling abuse (*"Spore Bag is one of my favorites"*; *"evidently the culinary-based ones are the worst"* — *"Garnish"*)
 - Pre-positioned for the Kurosawa endgame — *"I'd like to pre-hide before the fight starts, like a shadow in the corner, where I might sneak around behind him and stab him in the back"* — while providing the legal analysis: *"If you kill him, it's like Highlander. You become the only one"*
 - **Level 4** at the start of chapter 15 — which he'll take from a cruise ship: out until September 10th (*"$19.95 per minute"* Wi-Fi notwithstanding)
+
+### Session Fifteen (2026-09-03)
+- *Vic still at sea — and the party gave his character the fullest session an absent player has ever had:*
+- **Smuggled the seven cursed nails through the surrender** — stealthed them on his person (Stealth +9) before walking into [Kurosawa's](../npcs/magistrate-kurosawa.md) courtyard cage; they were never found, and one later served as evidence for [Atsura](../npcs/atsura.md)
+- **Outed as the party treasury.** When the herb bill came due and nobody could scrape nine gold, the GM revealed Littlefinger has been quietly pickpocketing his way to **35 gold pieces**. *"Why do we have a thief?!"* The whole party turned and looked at him at once; he "volunteered" to pay
+- **Stole 6 of the 9 gold back** out of [Luda's](../npcs/luda.md) pouch while she talked (the GM rolled him a 20 — 29 total), despite [Da Baishan](da-baishan.md) keeping a literal hand on his shoulder. Squirreled it away without telling anyone. Current war chest: ~32 gp
+- **Drank the nightshade brew** (*"he won't object"*) and crossed into the [Land of Dreams](../locations/land-of-dreams.md) with [Donkey](donkey.md) — first onto the glass-water floor, staring around *"astonished"* at the mirrored painted town
+- Ended the session asleep in [Willow's](../npcs/radiant-willow.md) back room, standing a few feet from the descending **Mother of a Thousand Wings** — a situation he entered unconscious, unconsulted, and *self-funded*. The table's message to Vic: *"Not only did you do it — you also paid for it"*

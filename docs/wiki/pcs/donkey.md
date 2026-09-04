@@ -215,3 +215,13 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Rolled hot all day (*"Donkey's rolling awesome today"* — the GM) and assisted Da Baishan's Occultism 27 on the transfusion research
 - Proposed disguising himself with **Prestidigitation** (denied — *"maybe a monocle"*) and offered **Pest Form** for the approach into town
 - **Level 4** at the start of chapter 15
+
+### Session Fifteen (2026-09-03)
+- *David was absent; Braedon ran Donkey — into the single most dangerous place the campaign has ever sent a character*
+- **Carried the session's lore**: Willowshore Lore 29 surfaced **[Old Amber](../npcs/old-amber.md)** (the golden-koi river spirit, the rice tributes, the abandonment); Society 27 recalled that **[Luda](../npcs/luda.md) cultivates nightshade** and connected her to the deep-sleep brew; Arcana 22 in the dream placed **"the veil"** in [Willow's](../npcs/radiant-willow.md) festival dance — the founders' pageant whose five lanterns the moths destroyed
+- Settled his accounts with Luda: paid the disputed **seven-gold debt** (his own recollection: four) from his last fifteen — *"the needs of the wizards are many and hard to decipher"*
+- **Chosen for the crossing** on merit: knows the land, closest of the party to the spirit of Willowshore. Drank the nightshade brew in Willow's back room and went under with [Littlefinger](littlefinger.md)
+- **First explorer of the [Land of Dreams](../locations/land-of-dreams.md)**: the glass-over-water footing, the warped painted Willowshore folded overhead, the purple sourceless light. His call — *"Spirit of Willowshore, we seek your aid"* — came back as an echo chorus in the town's voices
+- **Refused the obvious bait** when five lanterns kindled in the distance (*"I don't walk toward the lights. This feels like a trap"*) and called out again instead (Diplomacy 22) — earning the whisper that wasn't an echo: *"You must tear the veil. The veil must be broken"*
+- Approached a lantern at last — it drifted from his reach — and **looked up into the Mother of a Thousand Wings**: fly-eyes, a body of thousands of moths, tethered to all five lanterns. The session ended with him standing under her
+- Confirmed the cross-veil comms protocol with Ginkgo beforehand: *"I'll try to message you from inside the dream world, and you try to message me from outside, and we'll see what happens"* (it works; the outside voice arrives *"like the voice of God"*)

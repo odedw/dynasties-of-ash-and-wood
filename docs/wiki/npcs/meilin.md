@@ -64,3 +64,7 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - Testified quietly but clearly: the party had been *"nothing but positive"* in Willowshore; they did **not** cause the cemetery's undead uprising and in fact ran *toward* the undead to help the town
 - Admitted honestly that she could not speak to the cause of the chasm
 - Her testimony was the strongest unalloyed defense the party received all evening—measured, unflashy, and impossible for Kurosawa to dismantle without attacking a sympathetic local
+
+### Session Fifteen (2026-09-03)
+- Seen twice by the caged/visiting party at the Yeshou estate, still serving [Mayor Masru](mayor-masru.md) in the revealing attire he requires: feeding him at his porch breakfast, and later being **gestured at and scolded** by him through the estate window over something the party couldn't hear
+- Her situation remains an open sore the party has noticed every time they pass through the estate — and has not yet acted on
