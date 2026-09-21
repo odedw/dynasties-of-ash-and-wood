@@ -12,7 +12,7 @@
 | **Title** | Mayor of [Willowshore](../locations/willowshore.md) |
 | **Ancestry** | Oni |
 | **Affiliation** | [Shogun Tsuneni's](shogun-tsuneni.md) regime |
-| **Status** | In office; residing at the Yeshou estate |
+| **Status** | In office; residing at the Yeshou estate; **turned on Kurosawa** (Session Sixteen) — surrendered the magistrate's handwritten trial script and is lobbying to have his commission voided |
 
 ---
 
@@ -43,6 +43,14 @@ According to oni custom, Mayor Masru arrived claiming to have "always been here"
 [Mido's](mido.md) agents in [Kirahata](../locations/kirahata.md) filled in the story he doesn't tell. Masru was a **reputable businessman** there, running two very popular establishments — **a gambling house and a brothel** — until *"bad luck and some other elements"* thrust him out of favor with the city's business class. Disgraced, he **did not volunteer** for the Willowshore posting. He was **commissioned** — and the commission was **signed by [Kurosawa](magistrate-kurosawa.md).**
 
 Why would a magistrate hand-pick one disgraced pleasure-house owner to be a small-town mayor? Mido's read: nothing in Kurosawa's Willowshore is random. With a debtor-mayor holding the municipality and himself holding the magistracy, Kurosawa controls **both houses** of local authority — which reframes Masru's guilty verdict against the party as a foregone conclusion. Whether Masru is in Kurosawa's *debt*, under his *thumb*, or something else is the open question the party intends to put to him directly.
+
+### The Verdict Script (revealed Session Sixteen)
+
+The foregone conclusion turned out to be **literal**. The moment the memory curse lifted, Masru approached the party — ahead of Atsura — and apologized: *"Kurosawa has been affecting and manipulating a lot of the players here, not just the townsfolk, but myself included."* From his pouch he produced a small parchment in **Kurosawa's handwriting**: the words the mayor was to speak and the verdict he was to deliver at the first Rite of Open Reckoning.
+
+He had **kept it** — *"because I thought I might need it for my own defense"* — and handed it to Da Baishan (Request 19) with his eyes on Atsura: *"If it'll help clear the wrongs that I've been a part of, if it allows me to get favor with the Magi and possibly get back to Kirahata and my established business, I'm happy to hand it over."*
+
+Masru's price is plain: he wants his Willowshore commission and *"any obligations therein"* declared **null and void**, and passage home to Kirahata — **with [Meilin](meilin.md)** — to reopen his businesses. The party has not forgotten what those businesses are, or what they have seen of how he treats her.
 
 ---
 
@@ -129,3 +137,9 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 - Later seen through the estate window eating (again) and drinking while gesturing at and apparently **scolding Meilin** over something unknown
 - His significance grew in absentia: the party confirmed with the GM that their **deputization as "Masru's Faithful Five" still stands** — known only to them and the mayor — and under the old law it is exactly the municipal authority needed to call their own [Rite of Open Reckoning](../locations/willowshore.md#the-rite-of-open-reckoning). Also confirmed: [Kurosawa](magistrate-kurosawa.md) **hand-picked him** for Willowshore; the selection was not random
 - His **daily stipend** to the party remains canceled; [Da Baishan](../pcs/da-baishan.md) is keeping the tab open — *"that'll come back around when we put him in jail. With interest"*
+
+### Session Sixteen (2026-09-17)
+- **Walked out with Atsura and Kurosawa** into a town whose curse had just lifted; stood by as Kurosawa demanded he explain why the *"fugitives"* were free, and let [Atsura](atsura.md) answer for him
+- **Apologized to the party** — *"I also owe you an apology"* — and revealed he had been manipulated along with the town. Produced **Kurosawa's handwritten verdict script** for the first trial and, after Da Baishan's request (Diplomacy 19), **handed it over** in hope of favor with the Magi. See *[The Verdict Script](#the-verdict-script-revealed-session-sixteen)* above
+- **Lobbied Atsura** as they walked off: his commission should be void, his obligations gone, and he should be free to return to [Kirahata](../locations/kirahata.md) *with [Meilin](meilin.md)* as *"the upstanding businessman and entertainer that he was."* Boone: *"What is this with Meilin?"*
+- **Off-screen**, per Littlefinger's visit to the estate: eating in anxious excess (a table of picked-over plates and bones), and Meilin — who has not left the grounds since the festival — clearing up after him with **bruises on both upper arms**

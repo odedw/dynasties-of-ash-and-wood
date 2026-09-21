@@ -109,3 +109,8 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 - The GM confirmed the mechanism: the memory curse hit hardest those who **interacted most with the party or [Kurosawa](magistrate-kurosawa.md)** — and *"Yong and Hong had the most passionate reaction"* of anyone in Willowshore
 - The curse's *spread* is now stopped (the party reversed the Root Correction this session), but the damage to Yong's memories stands — the debt he owed the party for Hong's life is exactly the kind of kindness the curse eats
 - A cure exists in very limited supply — the remaining half of the [Grandmother's seed](the-grandmother.md#the-seed-the-plum) — alongside the longer-shot **town spirit** path (see [Willowshore](../locations/willowshore.md#the-spirit-of-willowshore))
+
+### Session Sixteen (2026-09-17)
+- **Cured.** [Old Amber](old-amber.md) ate the seed in the [Land of Dreams](../locations/land-of-dreams.md) and the memory curse lifted from all of Willowshore. The party stepped out of Dew Drop Petals to find Yong and [Hong](hong.md) **embracing** in the square where they had been screaming at each other the day before — the GM's marker for the whole town's change
+- **Remembers everything** — the argument included — but his feelings about it are his own again; like the rest of the town he understands he was enchanted
+- **Apologized to the party in person**: *"I'm sorry that I wasn't brave enough, or didn't understand enough, to raise my hand in your defense. I regret that now. But hopefully you can forgive me. I wasn't in my normal state of mind at the time."* The first townsperson besides Willow to own his silence at the trial

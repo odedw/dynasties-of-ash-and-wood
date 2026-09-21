@@ -93,6 +93,8 @@ The Order's testimony does not say who that traveler was. The party's working th
 
 Until the party can ask Mido directly **what she knows that the last traveler died for**, the Order's reading of her stays where it is: a half-truth, lied by subtraction, lied for love.
 
+**Session Sixteen sharpened the picture.** Asked point-blank about the *older* curse and the moth-powder erasure of Voss's name, Mido answered smoothly — *"I don't know anything about it... I did not travel to the Seven Cedars"* — and assumed aloud that the erasure was Kurosawa's work. She stayed composed through all of it. She became **visibly nervous** only when [Littlefinger](../pcs/littlefinger.md) turned the same questions on her son [Cheng](the-smiling-one.md). Whatever she is subtracting, it lives in her own family — and *"lied for love"* now reads as literal.
+
 ---
 
 ## Session History
@@ -181,3 +183,11 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 - **Named the road**: *"Where the veil is thinnest is in the deepest sleep"* — the [Land of Dreams](../locations/land-of-dreams.md), reached via a nightshade-and-poppy brew ([Luda](luda.md) cultivates the nightshade), with the cheerful caveat that *nightmares there are actual things*. Asked how to find Old Amber once inside, she shrugged: *"That's the journey"*
 - Gave the party her plainest gratitude yet — no more gifts to give, only thanks *"beyond the words I can say"* to Da Baishan, Boone, and Ginkgo, *"those who don't have strong ties here but obviously have the best in values,"* for risking themselves for her town yet again
 - Her network's intel got its first correction: the magistrate she reported as "Otsuru" introduced herself to the party as **[Atsura](atsura.md)**
+
+### Session Sixteen (2026-09-17)
+- **Received the party in a transformed inn** — the lobby full and loud for the first time in memory — cross-legged at her low table with a bowl of dates and hot tea: *"Dear friends, you've obviously been successful. This town has not been like this in many a moon."* Thanked the three outsiders again for putting their lives on the line; *"I've given all that I could last time... How can I help you now? Please sit, friends"*
+- **Questioned about [Old Amber's](old-amber.md) second curse.** Littlefinger, fresh from reading every prior session, put it to her directly: Old Amber went silent two years ago, *before* Kurosawa; who used **mustard moth-wing powder** to erase [Voss's](cassian-voss.md) name at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md) *before* the nails were driven? Her answer: *"This curse that you speak of, I don't know anything about it... I did not travel to the Seven Cedars. I've been here in Willowshore. My assumption is that that's what caused the curse that Kurosawa created"*
+- **Called "Grandmother" by Littlefinger** in passing — the closest the campaign has come to naming his tie to the family
+- **Cheng reclassified as her son** (GM: *"It's her son"*). Her account of him: *"a good, honorable boy, fighting a war he probably shouldn't have been at, and he came back from it like this. Harmless... a happy, might I say, dull young man."* Withheld his treats — *"those are for the festival"* — and was *"a little bit confused how Chang can help"*
+- **The tell.** Through the curse questions she was composed. When Littlefinger began grilling Cheng about Voss's name and the moth powder, **she was the one in the room who looked nervous** (party-wide Perception). Session ended on it
+- Still expected at [Willow's](radiant-willow.md) **festival** that evening

@@ -86,3 +86,10 @@ The Council is cited often and seen never. Everything known is secondhand:
 - The **Mirror Tribunal** entered the campaign by name: the Council's internal affairs, identified by [Boone's](../pcs/boone.md) war-era lore, dispatched over the ley-line disturbances radiating from Willowshore
 - Atsura confirmed the Council had **pre-existing evidence** of Kurosawa abusing his station; she authenticated the party's documents (his signed device commission) and a cursed copper nail with her arcane tattoos and called them *"further proof that he has been planning something for a while"*
 - Demonstrated the Tribunal's practical rank: unlocked the party's cage over the guards' hesitation, **overruled Kurosawa to his face** with a raised hand, and ruled the Open Reckoning sentence satisfied by confinement to the town's borders
+
+### Session Sixteen (2026-09-17)
+- **Atsura's investigation is "nearly complete."** With the memory curse lifted and [Masru's](../npcs/mayor-masru.md) surrender of **Kurosawa's handwritten verdict script** for the first Reckoning, she told the party: *"I have found all the evidence I believe I need to cast my verdict"* — and that the original trial was *"a sham, a kangaroo court"* she cannot defend
+- **Jurisdiction stated plainly**: the Tribunal judges *Kurosawa* — *"his stance with the Order and Council of the Magi"* — not the party's conviction; *"I am not part of the municipality that can free your name."* Clearing the party remains municipal business — i.e., a **Second Rite of Open Reckoning**
+- **The choice offered**: her verdict on Kurosawa now, or after the party's own Reckoning — with the warning that once she rules, the party may not get another chance. What a Tribunal verdict *does* to a magistrate — and whether it removes him from Willowshore, or worse — is still unknown. See *[The Offer](../npcs/atsura.md#the-offer-session-sixteen)*
+- **Overruled Kurosawa publicly for a second time** — *"they are abiding by the ruling"* — while standing beside him in the square
+- Masru is now openly courting the Council's favor, hoping it will void the commission Kurosawa signed to install him

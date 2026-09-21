@@ -13,7 +13,7 @@
 | **Role** | Magistrate of the [Council of the Magi](../factions/council-of-the-magi.md); agent of the **[Mirror Tribunal](../factions/council-of-the-magi.md#the-mirror-tribunal)** |
 | **Affiliation** | The Council of the Magi — sent to **investigate [Kurosawa](magistrate-kurosawa.md)**, not to assist him |
 | **Location** | [Willowshore](../locations/willowshore.md), operating out of the occupied Yeshou estate |
-| **Status** | Active ally-in-practice; freed the party from their cage (Session Fifteen) |
+| **Status** | Active ally-in-practice; freed the party from their cage (Session Fifteen); investigation of Kurosawa **"nearly complete"** — verdict pending the party's choice (Session Sixteen) |
 
 ---
 
@@ -54,6 +54,24 @@ She smiles more than any oni official the party has met. She winked at [Boone](.
 - **Kurosawa has been planning something for a while** — her words — and she believes the energy spike from the area is *his* influence
 - The party told her about the **memory curse** on the town (so she knows testimony from townsfolk is compromised) and their plan to lift it
 - She has *not* been told about the plum, the [Grandmother](the-grandmother.md), or the Land of Dreams expedition — only that the party needs *"a few hours without Kurosawa snooping around,"* which she agreed to provide
+- **She has seen [Masru's](mayor-masru.md) trial script** — Kurosawa's handwritten instructions for the first Reckoning's verdict — and heard the mayor's public apology (Session Sixteen). Her assessment: the original trial was *"a sham, a kangaroo court"* that she *"cannot defend in any of my verdict"*
+
+---
+
+## The Offer (Session Sixteen)
+
+With the memory curse lifted and the mayor's script in hand, Atsura told the party her investigation was **nearly complete** — *"I have found all the evidence I believe I need to cast my verdict"* — and drew the jurisdictional line carefully: *"I am not part of the municipality that can free your name. My investigation is on Kurosawa himself and his stance with the Order and Council of the Magi."*
+
+Then she gave them a choice:
+
+1. **She casts her verdict on Kurosawa now.** *"I don't know exactly what that outcome would be"* — though she believes the party has *"a good intuition"* of it
+2. **The party holds its Second Rite of Open Reckoning first**, and she casts her verdict afterward
+
+> *"The reason I'm giving you this opportunity is I'm not exactly sure you will have an opportunity afterward once my verdict is cast."*
+
+The party asked for time to consult. She agreed and walked off with Masru lobbying at her elbow. Beforehand she made a muttered aside about **"5,000 gold pieces"** that went unexplained — the price of Masru's commission, a bounty, a fine, or something else entirely.
+
+The party is split on her. [Boone](../pcs/boone.md): *"I think she's great."* [Donkey](../pcs/donkey.md): *"She hands us our freedom on a silver platter, and there's this other curse Kurosawa was investigating... she's up to something. We need to know more about this old curse before we do any deals with her."*
 
 ---
 
@@ -100,3 +118,10 @@ Colleagues in title, adversaries in fact. He did not know she was in town; his b
 - **Faced down Kurosawa publicly** when he emerged shouting at the sight of the party walking free — one raised hand, a quiet exchange, and he went back inside
 - Agreed to **keep Kurosawa occupied for several hours** while the party worked on lifting the curse: *"He and I have a few things to discuss anyway"*
 - Answered Boone's *"Is your boyfriend also a magistrate?"* with a chuckle and a workaholic's lament; answered his parting smolder (Performance 13) with a smile and **a wink**
+
+### Session Sixteen (2026-09-17)
+- **Walked out of the estate three abreast with [Masru](mayor-masru.md) and [Kurosawa](magistrate-kurosawa.md)** as the lifted curse rippled through town; was **hugged by [Willow](radiant-willow.md)** — surprised, didn't push her off, smirked
+- **Shut Kurosawa down publicly a second time.** When he demanded of Masru why convicted *"fugitives"* were free to roam, she answered for the mayor: *"They haven't broken any of the rulings cast down on them from the Rite of Open Reckoning. They haven't left the city limits and they will not. They are abiding by the ruling"*
+- **Witnessed Masru's confession and the handover of Kurosawa's verdict script** to [Da Baishan](../pcs/da-baishan.md); the mayor visibly played to her while surrendering it
+- **Declared her investigation "nearly complete"** and laid out *[the offer](#the-offer-session-sixteen)*: her verdict now, or the party's Second Reckoning first — warning that the window may close once she rules. Granted the party time to consult: *"Very well"*
+- Left with Masru pleading for his commission to be voided so he can return to [Kirahata](../locations/kirahata.md) with [Meilin](meilin.md); her answer, if any, was not heard

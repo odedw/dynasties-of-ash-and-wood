@@ -100,3 +100,7 @@ While the rest of the party met with [Mido](mido.md), Hong stayed behind with Bo
 - This is the **memory curse at its cruelest**: the father and son who had planned to leave Willowshore *together* — bonded by the rescue, the windfall, and the dream of open coastlines — can now recall only their grudges. The GM confirmed those who interacted most with the party took the strongest dose, and *"Yong and Hong had the most passionate reaction"*
 - The townsfolk watched the argument, mumbled, and went back to work; no one consoled either of them
 - The cure exists — the remaining half of the [Grandmother's seed](the-grandmother.md#the-seed-the-plum), or the town-spirit path — but supply is short and Hong is walking
+
+### Session Sixteen (2026-09-17)
+- **He didn't get far — and he came back.** When [Old Amber](old-amber.md) consumed the seed and the curse lifted from the whole town, the first thing the party saw outside Dew Drop Petals was Hong and [Yong](yong.md) **embracing** in the square. Father and son remember the fight; neither feels it anymore
+- Came with his father to thank the party in the street, and stood by as Yong apologized for staying silent at the trial

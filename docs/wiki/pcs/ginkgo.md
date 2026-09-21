@@ -237,3 +237,11 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - **Co-brewed the concoction** with Boone in [Willow's](../npcs/radiant-willow.md) back rooms — Nature +11, rolled **31 with his own Guidance** — insisting on the venue with suspicious conviction (*"there's probably incense, calming music... the perfect scenery"*; Da Baishan: *"Ginkgo's been trying to get into Willow's back rooms for a while now"*)
 - Set up Boone's future with a whisper to Willow: *"I think it's time to give Boone the makeover, if you know what I mean"* — she took it from there (*"head to toe... irresistible"*)
 - Meta-note: still **Level 3** (missed the level-up window); will design the level-4 build with the GM before next session — Oded flagged that combat currently feels *"pretty useless"* and wants options with more punch
+
+### Session Sixteen (2026-09-17)
+- *Oded was out; the table ran Ginkgo as the waking world's relay and healer*
+- **Held the Message line** into the [Land of Dreams](../locations/land-of-dreams.md) for the whole fight — the dreamers' *"play by play"* to Boone came through him, and Donkey's decoding of the lantern-prison was relayed out the same way
+- **Healed Donkey for 9** when the dreamers woke drained and carrying the dream's wounds
+- **Hugged first.** When [Willow](../npcs/radiant-willow.md) skipped across the square screaming *"You did it!"*, she embraced Ginkgo before anyone else — and the GM noted *"I know Ginkgo wants to"* when she invited the party to the festival
+- Named by [Mido](../npcs/mido.md), again, among the three outsiders who *"put your lives on the line"* for a town that isn't theirs
+- Stands to level up to 4 before next session, per the Session Fifteen plan

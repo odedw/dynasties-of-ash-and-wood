@@ -10,8 +10,8 @@
 |---|---|
 | **Type** | Noble family / Local government |
 | **Location** | [Willowshore](../locations/willowshore.md) (now in **hidden refuges** around the town rather than Silver Mist Lodge) |
-| **Status** | Refused exile; gone underground; actively cooperating with the party via tunnels and stashes |
-| **Notable Members** | [Mido](../npcs/mido.md) (matriarch), [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md), [Kuji Yasho](../npcs/kuji-yasho.md) (son), Mido's daughter |
+| **Status** | Back in their Silver Mist Inn suite; allies of the party — and, as of Session Sixteen, **under the party's suspicion** regarding the town's older, second curse |
+| **Notable Members** | [Mido](../npcs/mido.md) (matriarch), [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md) (her son, per Session Sixteen), [Kuji Yasho](../npcs/kuji-yasho.md) (son), Mido's daughter |
 
 ---
 
@@ -50,7 +50,7 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 | Member | Role | Notes |
 |--------|------|-------|
 | [Mido](../npcs/mido.md) | Matriarch / Elder | Sharp, pragmatic leader; admitted to the sabotage |
-| [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md) | Mido's brother | Decorated military veteran; reads Chthonic; "knows the real ending" |
+| [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md) | Mido's son (earlier: brother) | Decorated military veteran; reads Chthonic; "knows the real ending"; came back from the war *"like this"* |
 | [Kuji Yasho](../npcs/kuji-yasho.md) | Mido's son | Tunnel and quartermaster operator; led the party's extraction in Session 9 |
 | Mido's daughter | Family | Present beside Mido at the cave hideout; not yet named |
 | The Patriarch | Head of family | Created the false story about spirits (TBD) |
@@ -62,7 +62,10 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 ## Relationships
 
 ### Party Connections
-- [Littlefinger](../pcs/littlefinger.md) has ties to the family (nature unclear)
+- [Littlefinger](../pcs/littlefinger.md) has ties to the family (nature unclear) — he addressed Mido as *"Grandmother"* in Session Sixteen, and she calls him *"like family"*
+
+### The Second Curse (Session Sixteen)
+[Old Amber](../npcs/old-amber.md), freed, described an older curse on Willowshore that *"moves the way grief moves through a family that stops speaking of it... has learned to keep a door for itself, and to smile from behind it."* Every clue the party holds about the *second hand* — the moth-powder erasure of [Voss's](../npcs/cassian-voss.md) name, the two-year silence of the spirit, the Book of Divided Testimony's *"elder who lies by subtraction"* — now points at this house. The Smiling One chanted at a demon on a battlefield and came home wearing the smile; the matriarch went nervous the moment her son was questioned. Whether the family is the curse's **victim**, its **keeper**, or its **author** is the question the party fell asleep on.
 
 ### Opposition
 - The new oni mayor
@@ -136,3 +139,10 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 - Mido researched the **Rite of Open Reckoning** in the old law and proposed the party call their own, with [Boone](../pcs/boone.md) as the outsider judge, to strike down the exile verdict
 - The family **provisioned the party again**: a Monkey Pin, a False Life scroll, an Infiltrator's Elixir, two healing potions, and an Owlbear's Claw
 - Mido departed with a rendezvous promise: *"We'll meet back in Willowshore"*
+
+### Session Sixteen (2026-09-17)
+- **Received the party as heroes** in the Yeshou suite at the Silver Mist Inn — the inn itself full and celebratory for the first time since the party arrived, the memory curse lifted from the whole town
+- **Questioned about the older curse.** [Littlefinger](../pcs/littlefinger.md) asked [Mido](../npcs/mido.md) directly what happened two years ago and who packed moth-wing powder into Voss's erased name at the Hollow; she denied any knowledge and said she had never traveled to the Seven Cedars
+- **[Cheng](../npcs/the-smiling-one.md) reclassified as Mido's son** (GM ruling), fetched from the north side of town by [Da Baishan](../pcs/da-baishan.md) with the promise of treats; Mido described him as a good boy who came back from the war *"like this... harmless"*
+- **The family flinched.** Cheng gave nothing under Littlefinger's questioning — *"Treats"* — but Mido grew visibly nervous. The session ended with the party's suspicion moving from *who in this town* to *who in this family* — see *[The Second Curse](#the-second-curse-session-sixteen)*
+- Expected at [Willow's](../npcs/radiant-willow.md) festival that evening

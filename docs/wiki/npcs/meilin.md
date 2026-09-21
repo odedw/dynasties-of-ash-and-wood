@@ -10,8 +10,9 @@
 |---|---|
 | **Name** | Meilin |
 | **Ancestry** | Unknown |
-| **Occupation** | Gravekeeper |
-| **Location** | Graveyard, [Willowshore](../locations/willowshore.md) |
+| **Occupation** | Gravekeeper; currently personal attendant to [Mayor Masru](mayor-masru.md) |
+| **Location** | The Yeshou estate, [Willowshore](../locations/willowshore.md) — has not left the grounds since the Festival of Returning Spirits |
+| **Status** | **In danger.** Bruised, frightened, and denying it (Session Sixteen); Masru intends to take her to [Kirahata](../locations/kirahata.md) |
 
 ---
 
@@ -33,6 +34,11 @@ Meilin is shy, reserved, and cautiously observant. She is grateful without being
 
 ### Littlefinger
 Littlefinger helped Meilin at the graveyard during Session Two, assisting with the cricket cages after the undead encounter. [Radiant Willow](radiant-willow.md) noticed their interaction and considers them a potential match. Sadly, Littlefinger was infiltrating the Yeshou estate during Meilin's dance performance and missed her transformation entirely.
+
+In Session Sixteen he was the one who **snuck into the estate to ask if she was safe**. She said she was. Her body — and her arms — said otherwise. She declined his offer to get her out, but left a door open: *"If I'm allowed to come, maybe I'll see you at the festival tonight."*
+
+### [Mayor Masru](mayor-masru.md)
+Her employer, in the loosest sense of the word. He keeps her at the estate in revealing attire, rarely lets her out of his sight, has been seen scolding her, and now speaks openly of taking her *back to his businesses* in Kirahata — a gambling house and a brothel. The bruising on her upper arms has no other obvious source.
 
 ### [Radiant Willow](radiant-willow.md)
 Willow gave Meilin her makeover for the festival and is clearly proud of the result. She considers the gravekeeper one of her finest works.
@@ -68,3 +74,10 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 ### Session Fifteen (2026-09-03)
 - Seen twice by the caged/visiting party at the Yeshou estate, still serving [Mayor Masru](mayor-masru.md) in the revealing attire he requires: feeding him at his porch breakfast, and later being **gestured at and scolded** by him through the estate window over something the party couldn't hear
 - Her situation remains an open sore the party has noticed every time they pass through the estate — and has not yet acted on
+
+### Session Sixteen (2026-09-17)
+- **Confirmed confined**: per the GM, she has not been outside the estate grounds since [Masru](mayor-masru.md) spotted her dancing at the festival; she is rarely out of his sight when he is present
+- **Visited by [Littlefinger](../pcs/littlefinger.md)**, who slipped into the estate gardens (Stealth 28) while the town celebrated and found her alone, clearing a table of Masru's picked-over plates. *"Are you safe? Do you feel in danger?"* — she dropped a cup, eyes darting for watchers: *"No. I'm fine. I'm very comfortable. I'm very happy. Thanks for asking"*
+- **Littlefinger's Perception said otherwise**: every non-verbal cue read *terrified, scared, nervous* — and as she reached for the dishes he saw **bruising around both upper arms**, bicep-high. Nothing on her face
+- **Declined rescue** (Diplomacy 15): *"I don't think that would be a good idea — to come in without an invitation — for anybody involved. But thank you. If I'm allowed to come, maybe I'll see you at the festival tonight"*
+- **Masru's plans for her** surfaced separately: he is lobbying [Atsura](atsura.md) to void his commission so he can return to [Kirahata](../locations/kirahata.md) *with Meilin* and reopen his businesses. The party — Boone first — is alarmed; getting her out is now on the docket
