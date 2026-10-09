@@ -67,6 +67,8 @@ Both prosecution and defense may call witnesses. The accused may speak in their 
 
 In the party's case, the mayor served as judge. The verdict was **guilty**.
 
+**The Second Rite (Session Seventeen).** Using their standing deputization as *"Masru's Faithful Five,"* the party called their own Rite at the festival for Old Amber. [Boone](../pcs/boone.md) was judge, as the only one with no kin, no graves, no land, and no stake. The other four were accusers, and [Kurosawa](../npcs/magistrate-kurosawa.md) was the accused. Unlike the first trial, the crowd voted with raised hands, and every hand went up. Boone **nullified the party's conviction**, ruled the first Rite tainted, and sentenced Kurosawa to pay reparations and leave the town alone. As he spoke, five unseen bells rang.
+
 ---
 
 ## The Forest Story
@@ -139,7 +141,8 @@ Old Amber's parting words established that the town's trouble is not over. Benea
 ## Key Figures
 
 ### Oni Regime
-- [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) — Blue-skinned oni magistrate enforcing martial law
+- [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md) — Former magistrate; stripped of his seat and vanished (Session Seventeen)
+- [Magistrate Atsura](../npcs/atsura.md) — Mirror Tribunal agent; now a resident at the Silver Mist Inn without formal authority
 - [Mayor Masru](../npcs/mayor-masru.md) — The affable blue-skinned oni mayor, now in residence
 - Four red-skinned oni guards in samurai armor
 
@@ -280,3 +283,11 @@ Old Amber's parting words established that the town's trouble is not over. Benea
 - **A festival was called for sundown** to celebrate Old Amber's return and the sudden bounty of fish; the town spent the afternoon hanging decorations and preparing food
 - **[Meilin](../npcs/meilin.md)** remains confined to the **Yeshou estate** with Masru — bruised, frightened, and denying it — while the mayor lobbies to take her back to [Kirahata](kirahata.md)
 - **The second curse** entered the record via Old Amber's warning; the party took the question straight to the Yeshou suite at the Silver Mist Inn, where [Cheng](../npcs/the-smiling-one.md) said *"Treats"* and [Mido](../npcs/mido.md) looked nervous
+
+### Session Seventeen (2026-10-08)
+- **At the Silver Mist Inn**, [Cheng's](../npcs/the-smiling-one.md) room yielded [Cassian Voss's field journal](../npcs/cassian-voss.md#the-field-journal-session-seventeen). Voss describes Willowshore as a **"shoreline"**, a convergence bordering *"a lake that lies beneath every lake,"* across which lies **Carcosa**, reachable from the town square when all five veins open together. Cheng's addition: *"THE LAKE IS UNDER THE RIVER"*
+- **The festival for Old Amber** filled the north-side courtyard by the theater with lanterns, music, banquet food, and dancing. Willow matched Boone with [Atsura](../npcs/atsura.md) and Littlefinger with [Meilin](../npcs/meilin.md)
+- **The Second Rite of Open Reckoning** was held in the square (see *[The Rite of Open Reckoning](#the-rite-of-open-reckoning)*). The party's names were cleared, and Atsura stripped Kurosawa of his seat in the Magi
+- **Kurosawa vanished into the earth** and left a magnetic construct in the square. The crowd scattered, the party destroyed it, and a swarm of flies and locusts poured out of the wreck
+- **The east river gate**: guard [Ren](../npcs/ren.md) saw Kurosawa pass through it the night before the cataclysm, contradicting the estate log
+- Night falls under a **full moon**. Masru is carried home drunk, and Meilin's escape from the estate is planned for tonight

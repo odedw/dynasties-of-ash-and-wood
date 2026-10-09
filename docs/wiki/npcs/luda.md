@@ -69,3 +69,6 @@ Kurosawa demanded arcane ingredients from Luda in high volume with extreme speci
 - Handled the transaction with professional discretion: *"Please don't loiter around and look obvious"*
 - Sent Donkey off with the campaign's most on-brand herbalist blessing: *"Thank you, my old friend — and I hope you have powerful dreams"*
 - Was **pickpocketed for 6 of the 9 gold** by [Littlefinger](../pcs/littlefinger.md) on the way out (a 29; she didn't notice). The party's net cost for the entire expedition: three gold
+
+### Session Seventeen (2026-10-08)
+- **Called as a witness by [Kurosawa](magistrate-kurosawa.md) again**, this time at the party's Second Rite of Open Reckoning, to describe the tonic she sold them. It puts a person into a deep slumber, *near death*, if properly applied. Kurosawa used it to paint the party as having *"conferred with the dead"* a second time. It didn't help him

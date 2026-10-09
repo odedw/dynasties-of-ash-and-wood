@@ -245,3 +245,13 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - **Chugged a stranger's cider** at the Silver Mist Inn (handed over by Littlefinger, two-fingered)
 - **Found [Cheng](../npcs/the-smiling-one.md)** with Eyes of the City + Leveraging Connections — north side, watching decorations go up — and bribed him back to the inn with treats (Request 11: *"Okay"*). Endured Cheng walking *behind* him the whole way, copying his gait: *"This guy's starting to creep me out a little bit"*
 - Post-session verdict on the Smiling One: *"I was coming into this like, hey, he's probably not the cause of all this — he's probably just affected by it. And then Vic started grilling him, and now I'm changing my tune"*
+
+### Session Seventeen (2026-10-08)
+- Told Mido the two kinds of magic in the mystery are *"very, very different ones"*: geomancy, and something else
+- **That's Odd** caught Cheng guarding his mattress. Near it, **his Palatine eye glowed and warmed**. He opened an investigation, pursued the lead, and found the loose floorboards
+- **Held off Cheng's attack**: Athletics **28 (critical)**, lifting him off his back and holding him in the air one-handed. *"Be calm."* Afterward: *"Was he smiling the entire time he leapt at me? That's creepy"*
+- **Recovered [Voss's field journal](../npcs/cassian-voss.md#the-field-journal-session-seventeen)**, sealed with his own Order's eye, and **carries it** (*"if I give it to Littlefinger, we may never see it again"*). His **Occultism 19** placed **Carcosa** as the destination or origin of an ancient cult. He also flagged that the household entries describe Mido
+- His **Sow Rumor** brought in a drunk claiming *"the big one"* summoned a demon with a goat, first in the northern woods and then on the town bridge. He sent him to Atsura and wrote it down with a question mark. It may also have brought out [Ren](../npcs/ren.md), whose testimony mattered
+- Plied **Masru** with drink for Meilin's escape. Carried Atsura's offer to the party and argued against accusing Mido at the Rite: *"We kind of need her on our side for now."* Delivered the line of the trial: *"Unlike some people, we don't have to fabricate evidence"*
+- Fought the construct at reach: Divine Lance missed (9), then **guandao 24 for 14**. Saved against the jolt (22). *"Is this where my studded leather armor is going to come in handy?"* It was
+- Told Atsura there's *"a second one — an older one, and potentially a worse one,"* and asked if the party can count on her *"to make the right moves at the right time"*

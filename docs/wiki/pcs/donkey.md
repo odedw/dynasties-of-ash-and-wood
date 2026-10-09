@@ -239,3 +239,10 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Proposed the evening's cover: a **private session at Willow's** with invited guests — *"get everybody nice and relaxed and just have a friendly chat"* — and seizing Masru's note under the party's investigative licenses (*"I think we can just seize it"*)
 - Opened the Mido audience: *"We'd like to talk to you about something Old Amber said... an older trouble, older than the curse that was just lifted."* Perception 27 on Cheng during Littlefinger's interrogation: nothing moved
 - Rules note: *"I think more rolls should be hidden from the players. Like perception checks"* — the GM agreed to try it. Also the only party member who can't heal anyone: *"you could be receiving everybody's healing"*
+
+### Session Seventeen (2026-10-08)
+- *David was out; Gary ran Donkey*
+- Named among the four **accusers** at the Second Rite of Open Reckoning
+- **Arcana 22** on Kurosawa's magnetic construct: its armor gives it a very high AC until enough damage breaks its hardness, and then the plates shatter
+- **Ignition, 7 fire**, then backed off
+- **Briefly dying.** He failed the construct's magnetic jolt (Fortitude 11), took 30, and collapsed. Then the table remembered Boone still had two attacks. The GM rewound, Boone killed it first, and **the jolt never happened**. *"Donkey's not dead"*

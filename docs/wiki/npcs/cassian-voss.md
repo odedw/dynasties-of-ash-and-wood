@@ -63,13 +63,91 @@ Da Baishan's quick magic-identification placed the **carving and powder at six m
 
 This reframes Voss from a Willowshore curiosity into a **predecessor**: an Order investigator working the exact site that has now become Kurosawa's Root key, who got close enough to be killed and *scrubbed* from the tree.
 
+**Session Seventeen identified the hand.** The same sprawling script covers the walls of [Cheng Yesho's](the-smiling-one.md) room, and Littlefinger recognized it at once. Cheng scratched out Voss's name.
+
+---
+
+## The Field Journal (Session Seventeen)
+
+Found hidden under loose floorboards beneath [Cheng Yesho's](the-smiling-one.md) mattress at the Silver Mist Inn, wrapped in tattered cloth. [Da Baishan's](../pcs/da-baishan.md) Palatine eye warmed and glowed as he got close. The inside cover bears **the seal of the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md)**. The journal holds two hands: Voss's entries, and **Cheng's** scrawl (in capitals here) overwriting them in the margins, sideways, and across whole pages. **Da Baishan carries it.**
+
+??? quote "Full text of the journal (GM handout)"
+    *[Inside cover: the Palatine eye, stamped in faded ink. Beneath it, "Cassian Voss" — scratched through so hard the nib tore the leather. Rewritten beside it in charcoal. Scratched out again.]*
+
+    **Arrival. Willowshore.**
+
+    Five lines, five fortunes — the local geomancy and my own survey agree, which they never do. Five veins meet beneath this town like spokes under a hub. The river spirit here is called Old Amber. The townsfolk leave rice at the bridge rail and cannot tell me why.
+
+    A florist named Willow warned me off the northern woods. Kind girl. I will heed her. East, then, along the river.
+
+    > *[sideways, up the margin]* **THE LAKE IS UNDER THE RIVER**
+
+    ---
+
+    **Third day.** A veteran ferryman, deep in his cups, on the Battle of Five Crows. The valley sits squarely on the eastern vein. I have marked it on my map.
+
+    Five companies held the ridge. Four broke. The fifth stayed, and chanted. He says the words "sounded like the devil's tongue but walked wrong" — Chthonic letters carrying an older grammar. A song, he thinks. He would not sing it. None of the fifth company came home but one boy, and the boy came home smiling.
+
+    I do not think Five Crows was a summoning gone wrong. I think it was a test of whether one could be done from a vein at all.
+
+    > *[over the paragraph, diagonal, pressed hard]* **FIVE CROWS / FOUR FLEW / FOUR FLEW / FOUR FLEW**
+
+    ---
+
+    **Fourth day.** Tea with the ruling household. Gracious. The Elder serves it herself.
+
+    In the receiving room hangs a tapestry: Willowshore, with five faces at its corners, each half moth. One face has been re-embroidered. The thread is newer than the rest by a generation at least. Someone has been replaced before.
+
+    The ancestral tablets are stranger. No birth names. Every child is entered under a single word: RECEIVED. The house adopts. I counted the tablets by generation.
+
+    Always five.
+
+    > *[in the margin, small, neat, lucid — nothing like the rest]* Are you sure you heard it correctly?
+
+    ---
+
+    *[Three pages cut out. Clean blade edges, close to the spine. On the stub of the last, a fragment:]* ...must be enacted, not merely...
+
+    > *[around the stub, in a ring]* **ARTIST RULER SAGE LOVER JUDGE** — *[SAGE circled until the paper wore through]*
+
+    ---
+
+    **Sixth day.** The reflections here are wrong. A half-beat slow in the puddles, the angle not quite true. Not the river's doing.
+
+    Most convergences are wells. A few are shorelines. A shoreline borders a lake that lies beneath every lake, and across that lake stands a city, under two suns and black stars. When the five veins open together, a living man could walk there from this very square. No death needed. Only the hour, and an invitation.
+
+    Its name is <del>Carcosa</del>. *[Struck through in Voss's own ink. Beside it:]* Better not to write it. Names are how it finds you.
+
+    > *[beneath, charcoal, huge, slanting off the page]* **NOT A CITY / A MOUTH**
+
+    ---
+
+    **Seventh day.** Leaving for the cedars at dawn. The eastern vein runs through a hollow there.
+
+    I am being followed. Not unkindly. It walks behind me, matches my step, and smiles when I turn around.
+
+    > *[scrawled over and over across the lower page, until the paper is grey]* **ARE YOU SURE YOU HEARD IT CORRECTLY / ARE YOU SURE YOU HEARD IT CORRECTLY / ARE YOU SURE YOU HEARD IT CORRECTLY / ARE YOU SURE YOU HEARD**
+
+    *[The remaining pages are blank.]*
+
+**What it establishes:**
+
+- Voss spent about a week in Willowshore before leaving **east, along the eastern vein, for the Hollow of Seven Cedars**, and the journal ends there
+- He was **followed** by something that *"walks behind me, matches my step, and smiles when I turn around."* That's how Cheng walked behind Da Baishan in Session Sixteen. It also fits the Order's line about [Mido](mido.md): *"she knows what followed the last traveler home"*
+- He had **tea with Mido** and noticed the Yeshou house's five adopted children per generation and the tapestry of five half-moth faces (see [the ruling family](../factions/willowshore-ruling-family.md))
+- He thought the **Battle of Five Crows** was a summoning-from-a-vein trial, and he knew about **Carcosa** and a *"shoreline"* under Willowshore
+- **Someone careful removed three pages** about the five archetypes. The surviving fragment says they *"must be enacted"*
+- How the journal reached Cheng's floorboards is unknown
+
 ---
 
 ## Open Questions
 
 - **How did he actually die?** — He was killed by a spirit at the river; the grove sits on that leyline. Was the grove (or its [Warden](warden-of-the-grove.md), or the Dream Eater) what killed him — or did whatever Kurosawa later weaponized already stir there?
 - **Who scratched out his name** on the third cedar, and why? Kurosawa, to erase a predecessor? The grove itself? Voss, defacing his own mark?
-- **Whose handwriting did Littlefinger half-recognize** in the carving?
+- **Whose handwriting did Littlefinger half-recognize** in the carving? *Answered:* **[Cheng Yesho's](the-smiling-one.md)** (Session Seventeen)
+- **What followed him to the cedars?** His last entry: *"It walks behind me, matches my step, and smiles when I turn around"*
+- **Who cut the three pages** about the five archetypes out of his journal, and how did the journal end up under Cheng's floor?
 - **Is his death connected to the ritual?** — He was Order, he was on the leyline, and he predates Kurosawa at the very site that is now the rite's keystone
 - **What was "stolen" and "broken"?** — His spirit's cryptic message suggests something was taken from him and something was violated or destroyed
 - **Did someone else benefit from his death?** — Could the ritual have required a sacrifice, and was Voss that sacrifice?
@@ -132,3 +210,9 @@ This reframes Voss from a Willowshore curiosity into a **predecessor**: an Order
 
 - The message lands as his clearest testimony yet on his own death and on the **second hand** at the cedars: whoever erased his name — and likely whoever killed him — **was not [Kurosawa](magistrate-kurosawa.md)** and not the oni. The GM's closing recap tied it together: a second ritual, linked to Voss and the [Order of the Palatine Eye](../factions/order-of-the-palatine-eye.md), predates everything Kurosawa built at the grove
 - Whether returning his name (and freeing the [Grandmother](the-grandmother.md)) is enough to finally untether his spirit remains to be seen — his voice was *weaker* than before, not stronger
+
+### Session Seventeen (2026-10-08)
+- **His field journal was found** under [Cheng Yesho's](the-smiling-one.md) floorboards, with a Palatine Eye seal and Cheng's scrawl overwriting it. See *[The Field Journal](#the-field-journal-session-seventeen)* above
+- **The erasure's author identified**: the handwriting on the cedar matches the writing covering Cheng's walls, where *Cassian* is written clearly with the surname scratched out
+- His final entry describes being followed by something that smiles. The party now reads him as **the "last traveler"** of [Mido's](mido.md) half-truth
+- Da Baishan's Occultism placed the city Voss named and then struck out, **Carcosa**, as the destination or origin of an ancient cult

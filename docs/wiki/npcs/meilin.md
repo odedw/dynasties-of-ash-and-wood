@@ -12,7 +12,7 @@
 | **Ancestry** | Unknown |
 | **Occupation** | Gravekeeper; currently personal attendant to [Mayor Masru](mayor-masru.md) |
 | **Location** | The Yeshou estate, [Willowshore](../locations/willowshore.md) — has not left the grounds since the Festival of Returning Spirits |
-| **Status** | **In danger.** Bruised, frightened, and denying it (Session Sixteen); Masru intends to take her to [Kirahata](../locations/kirahata.md) |
+| **Status** | **Escaping tonight.** Agreed to let Littlefinger climb to her window and take her out of the estate (Session Seventeen) |
 
 ---
 
@@ -81,3 +81,9 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - **Littlefinger's Perception said otherwise**: every non-verbal cue read *terrified, scared, nervous* — and as she reached for the dishes he saw **bruising around both upper arms**, bicep-high. Nothing on her face
 - **Declined rescue** (Diplomacy 15): *"I don't think that would be a good idea — to come in without an invitation — for anybody involved. But thank you. If I'm allowed to come, maybe I'll see you at the festival tonight"*
 - **Masru's plans for her** surfaced separately: he is lobbying [Atsura](atsura.md) to void his commission so he can return to [Kirahata](../locations/kirahata.md) *with Meilin* and reopen his businesses. The party — Boone first — is alarmed; getting her out is now on the docket
+
+### Session Seventeen (2026-10-08)
+- **Brought to the festival on Masru's arm** in a formal kimono with heavy, almost kabuki-style face paint. She was visibly unhappy while he pulled her around by the arm and corrected her posture and manners, *"like finishing school"*
+- [Willow](radiant-willow.md) asked Masru to dance so Littlefinger could have one dance with her (Diplomacy 26). She checked that Masru was occupied, then took his hand: *"Until he comes back"*
+- **Said yes.** *"I'm pretty scared, but tonight might work. He tends to be sleepy and highly intoxicated during a festival. It might be my chance to get out. I don't know where to go if I was to leave."* The plan: Littlefinger climbs to her **second-floor window** at the estate, rappels her down, and they go via Willow's for supplies to a safehouse outside town. Don't pack, don't act differently. *"If there's a night to escape... the night all the stars aligned. I will wait for you this evening. Thank you."*
+- Followed Masru, carried home drunk by guards, back to the estate under the full moon

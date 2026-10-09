@@ -95,6 +95,11 @@ The Order of the Palatine Eye is, in effect, the campaign's only present lead on
 - Da Baishan discovered his **On the Case** feat mid-session (*"I treat my adventures as mysteries"*) — Devise a Stratagem justified by the standing investigation, very much in the Order's house style — and his Order-trained **Occultism 27** produced the transfusion analysis of the [Grandmother's seed](../npcs/the-grandmother.md#the-seed-the-plum)
 - The eye glowed again during that analysis — *"divine inspiration from the Order... it whispers to you, writes some entry into the book"* — the first suggestion that the Order's knowledge is being **actively fed** to its last detective
 
+### Session Seventeen (2026-10-08)
+- **The eye found the Order's lost field notes.** Da Baishan's palm-eye warmed and glowed near [Cheng Yesho's](../npcs/the-smiling-one.md) mattress, and beneath the floorboards lay **[Cassian Voss's field journal](../npcs/cassian-voss.md#the-field-journal-session-seventeen)**, with the **Palatine Eye seal** on its inside cover. It is the first Order document recovered since the Vault
+- Its contents give the Order's dead investigator's last findings: the five veins under Willowshore, the Battle of Five Crows as a summoning-from-a-vein trial, the Yeshou family's *"always five"* adoptions, a *"shoreline"* to **Carcosa**, and the final entry, *"I am being followed... it smiles when I turn around."* Three pages on the five archetypes were cut out
+- Da Baishan, the Order's last detective, now carries the journal of the one before him
+
 !!! note "Continuity — who carries the eye"
     Session Ten's notes recorded **Boone** taking the Book of Divided Testimony and the Palatine Detective dedication, with Da Baishan dropping his mark. In play at the start of Session Eleven, the GM worked through **Da Baishan's** character sheet for the new investigator subclass, and it is **Da Baishan** who carries the eye-mark, casts Divine Lance, and acts as the Order's reader for the rest of the session. Going forward this wiki treats **Da Baishan as the active Palatine Detective / eye-bearer.** (Ownership of the physical *Book* was not raised in Session Eleven and is left open.)
 

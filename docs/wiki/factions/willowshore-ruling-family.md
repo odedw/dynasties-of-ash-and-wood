@@ -67,6 +67,16 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 ### The Second Curse (Session Sixteen)
 [Old Amber](../npcs/old-amber.md), freed, described an older curse on Willowshore that *"moves the way grief moves through a family that stops speaking of it... has learned to keep a door for itself, and to smile from behind it."* Every clue the party holds about the *second hand* — the moth-powder erasure of [Voss's](../npcs/cassian-voss.md) name, the two-year silence of the spirit, the Book of Divided Testimony's *"elder who lies by subtraction"* — now points at this house. The Smiling One chanted at a demon on a battlefield and came home wearing the smile; the matriarch went nervous the moment her son was questioned. Whether the family is the curse's **victim**, its **keeper**, or its **author** is the question the party fell asleep on.
 
+### Always Five: The Received (Session Seventeen)
+[Cassian Voss's](../npcs/cassian-voss.md) field journal, found under [Cheng's](../npcs/the-smiling-one.md) floorboards, records what he saw at tea with the household:
+
+- **A tapestry in the receiving room**: Willowshore with **five faces at its corners, each half moth**. One face has been **re-embroidered** in thread *"newer than the rest by a generation at least. Someone has been replaced before"*
+- **The ancestral tablets carry no birth names.** Every child is entered under one word: **RECEIVED**. *"The house adopts. I counted the tablets by generation. Always five."*
+
+Set beside the five archetypes (*artist, ruler, sage, lover, judge*), the five veins, the five lanterns, and Cheng's *"five must fall, not four,"* the family's practice of adopting exactly five children per generation looks less like custom and more like a role being filled. The tapestry and tablets would be in the Yeshou estate, which the family may soon get back.
+
+Mido's own admission to the party: *"We have achieved some of our wealth by more gray-area means — smuggling and the like — a little light treason. But we are not a family of geomantic arcanists."*
+
 ### Opposition
 - The new oni mayor
 - Villagers who welcomed the oni's arrival
@@ -146,3 +156,9 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 - **[Cheng](../npcs/the-smiling-one.md) reclassified as Mido's son** (GM ruling), fetched from the north side of town by [Da Baishan](../pcs/da-baishan.md) with the promise of treats; Mido described him as a good boy who came back from the war *"like this... harmless"*
 - **The family flinched.** Cheng gave nothing under Littlefinger's questioning — *"Treats"* — but Mido grew visibly nervous. The session ended with the party's suspicion moving from *who in this town* to *who in this family* — see *[The Second Curse](#the-second-curse-session-sixteen)*
 - Expected at [Willow's](../npcs/radiant-willow.md) festival that evening
+
+### Session Seventeen (2026-10-08)
+- [Mido](../npcs/mido.md) admitted the family's smuggling and *"light treason"* past but denied any arcane practice, then **showed the party [Cheng's](../npcs/the-smiling-one.md) room**: walls of fives, crows, archetypes, and *Cassian*, in the hand that erased Voss's name at the cedars
+- **[Voss's field journal](../npcs/cassian-voss.md#the-field-journal-session-seventeen)** was found under Cheng's floor. It describes the household's **five adopted children per generation** and the **half-moth tapestry** with one face replaced. See *[Always Five](#always-five-the-received-session-seventeen)*
+- The party **kept the journal secret** from Mido, who defended Cheng anyway: *"I don't believe he has any malice"*
+- Mido **testified for the party** at the Second Rite of Open Reckoning, where the family's standing carried weight. With [Kurosawa](../npcs/magistrate-kurosawa.md) stripped and gone, the Yeshou estate may return to the family. They left the festival early

@@ -245,3 +245,14 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - **Hugged first.** When [Willow](../npcs/radiant-willow.md) skipped across the square screaming *"You did it!"*, she embraced Ginkgo before anyone else — and the GM noted *"I know Ginkgo wants to"* when she invited the party to the festival
 - Named by [Mido](../npcs/mido.md), again, among the three outsiders who *"put your lives on the line"* for a town that isn't theirs
 - Stands to level up to 4 before next session, per the Session Fifteen plan
+
+### Session Seventeen (2026-10-08)
+- *Oded back at the table*
+- *"You tell us"* — to Mido, when she insisted Kurosawa must be behind everything
+- **The prescient planner.** He'd bought a bag of snacks in advance, knowing they'd be visiting Cheng, and used them to lure Cheng off his mattress: *"Come, Cheng, tell me about the crows."* Cheng counted five tally marks and said *"Treat"*
+- Asked the right questions about the journal: *"Do we know why Cheng has Cassian Voss's diary?"* Then he asked whether Mido deserved a chance to explain. The table deferred
+- **Credited with the Meilin plan** by Littlefinger (*"Ask her to dance, then try to talk to her"*) and **declared unmatchable** by Willow: *"I know you're in love with this whole town"* (*"All right, fine"*)
+- Interviewed [Ren](../npcs/ren.md) on the spot (*"Are you willing to testify?"*) and argued against accusing too many people at the Rite: *"It might be a bit suspicious if we shoot it multiple directions"*
+- One of the four **accusers** at the Second Rite of Open Reckoning
+- **Stripped the construct**: cast **Command: "Drop your armor"**. It failed (18 vs. DC 20), and its chest plate and guards thudded to the dirt, making it *"a lesser armored soldier."* Later landed **Divine Lance, 23, for 7**
+- **Hugged first by Willow, again**: *"Our village heroes did it again!"*

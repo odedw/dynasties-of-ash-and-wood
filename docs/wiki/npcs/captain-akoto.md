@@ -48,3 +48,9 @@ Akoto is professional and measured. When the party presented their investigative
 
 ### Session Twelve (2026-07-16)
 - Observed from a distance during the party's surveillance of [Willowshore](../locations/willowshore.md): still on duty amid a garrison **doubled to ~8 guards**, and now **following the orders** of the [new blue-skinned oni administrator](atsura.md) operating from the estate in [Kurosawa's](magistrate-kurosawa.md) absence
+
+### Session Seventeen (2026-10-08)
+- **Called by Kurosawa as his final witness** at the Second Rite of Open Reckoning, to vouch for procedure: every arrest under written warrant, countersigned, chain of custody recorded. *Yes, Magistrate*, to each
+- Asked whether any irregularity was ever reported under Kurosawa's command, he paused for a long time, then answered: ***"Yes, Magistrate. One."***
+- **He was the one who reported it.** Under the **oversight provision**, he sent the Mirror Tribunal the mismatch between the estate log Kurosawa filed the night before the cataclysm and his officer [Ren's](ren.md) report of seeing the magistrate pass the east gate. *"That's why they're here. You weren't where you said you were. I didn't think I would be forced to answer that question, especially by you. But it was the proper procedure to follow. And I followed it."*
+- Kurosawa commended him (*"precisely what I trained him to do"*), but the testimony turned the crowd for good

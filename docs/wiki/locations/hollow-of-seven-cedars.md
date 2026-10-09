@@ -227,3 +227,7 @@ Roughly 10 miles west of [Willowshore](willowshore.md). The trail passes through
 - **The unbinding**: the [Grandmother](../npcs/the-grandmother.md) rose from the basin, pulled the corruption back from the ley line, asked Ginkgo to strike *her* (*"Do not cut the trees. Cut me. It is the same kindness, only smaller"*), handed him the **[seed](../npcs/the-grandmother.md#the-seed-the-plum)**, and dissipated
 - **The grove healed in minutes** — and the basin refilled with clear, potable water. The Hollow is whole; its spirit is gone
 - *Post-session GM retcon*: the Grandmother was a **nature spirit cast into service long ago** — by whom, and whether the same hand made the second seal, are the threads the Hollow leaves behind
+
+### Session Seventeen (2026-10-08)
+- *Not visited.* **The second seal's hand was identified.** The writing that covers [Cheng Yesho's](../npcs/the-smiling-one.md) walls matches the frantic erasure of [Voss's](../npcs/cassian-voss.md) name on the third cedar, and Littlefinger recognized it
+- [Voss's field journal](../npcs/cassian-voss.md#the-field-journal-session-seventeen) ends with him leaving for the cedars at dawn (*"the eastern vein runs through a hollow there"*), followed by something that *"smiles when I turn around"*

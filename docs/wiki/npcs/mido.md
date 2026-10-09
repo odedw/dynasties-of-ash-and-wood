@@ -95,6 +95,8 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 
 **Session Sixteen sharpened the picture.** Asked point-blank about the *older* curse and the moth-powder erasure of Voss's name, Mido answered smoothly — *"I don't know anything about it... I did not travel to the Seven Cedars"* — and assumed aloud that the erasure was Kurosawa's work. She stayed composed through all of it. She became **visibly nervous** only when [Littlefinger](../pcs/littlefinger.md) turned the same questions on her son [Cheng](the-smiling-one.md). Whatever she is subtracting, it lives in her own family — and *"lied for love"* now reads as literal.
 
+**Session Seventeen all but named the traveler.** [Cassian Voss's](cassian-voss.md) journal, found under her son's floorboards, records tea with *"the Elder,"* who *"serves it herself,"* and ends with Voss leaving for the cedars, followed by something that *"walks behind me, matches my step, and smiles when I turn around."* If Voss was the last traveler, what followed him home was her son.
+
 ---
 
 ## Session History
@@ -191,3 +193,11 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 - **Cheng reclassified as her son** (GM: *"It's her son"*). Her account of him: *"a good, honorable boy, fighting a war he probably shouldn't have been at, and he came back from it like this. Harmless... a happy, might I say, dull young man."* Withheld his treats — *"those are for the festival"* — and was *"a little bit confused how Chang can help"*
 - **The tell.** Through the curse questions she was composed. When Littlefinger began grilling Cheng about Voss's name and the moth powder, **she was the one in the room who looked nervous** (party-wide Perception). Session ended on it
 - Still expected at [Willow's](radiant-willow.md) **festival** that evening
+
+### Session Seventeen (2026-10-08)
+- **Turned the suspicion back on Kurosawa** — *"You're 100% sure that Kurosawa did not do this?"* — and then on the Magi and Atsura, *"I believe they have more secrets than they are letting on."* When pressed, she **admitted the family's gray past**: *"smuggling and the like — a little light treason. But we are not a family of geomantic arcanists"*
+- **Showed the party [Cheng's](the-smiling-one.md) room** — *"I'll preface it with this: I am still his mother"* — and stood in the doorway, looking pensive, ashamed, and perhaps *"aware of what this is starting to mean"*
+- **Called Cheng off** when he attacked Da Baishan, with the only voice that reaches him: *"Dear son, we have some treats and some drink in the other room. Let them do their work"*
+- **Was not told about Voss's journal.** Littlefinger said they'd found nothing. She answered as if they had: *"I know what it implies — my son's room and his rantings — but I don't believe he has any malice... all that you're seeing is a manifestation of what happened to him in that war."* And: *"This is our home. You know where to find us"*
+- **Testified for the party** at the Second Rite of Open Reckoning. Less warm than Willow but accurate, and her family's standing carried weight with the crowd
+- Left the festival early with the family. With Kurosawa gone, the Yeshou may get their estate back, along with the tapestry and the RECEIVED tablets Voss saw there

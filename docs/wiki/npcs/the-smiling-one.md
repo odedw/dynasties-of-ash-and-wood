@@ -14,7 +14,7 @@
 | **Affiliation** | [Willowshore Ruling Family](../factions/willowshore-ruling-family.md) |
 | **Role** | Family member; [Mido's](mido.md) **son** (see note below); decorated military veteran |
 | **Location** | Silver Mist Lodge, [Willowshore](../locations/willowshore.md) |
-| **Status** | Under the party's suspicion as of Session Sixteen — [Old Amber](old-amber.md) described a second curse that *"smiles from behind a door"* |
+| **Status** | Prime suspect in the second curse. Author of the erasure of [Voss's](cassian-voss.md) name; Voss's journal was hidden under his floor (Session Seventeen) |
 
 !!! note "Brother or son?"
     Session Five established Cheng as Mido's **brother**. In Session Sixteen the GM corrected the party mid-scene — *"It's her son"* — and Mido spoke of him as a boy she sent to war and got back changed. This page now follows the Session Sixteen ruling; earlier session entries below retain the original wording.
@@ -44,6 +44,26 @@ Combined with [Boone's](../pcs/boone.md) Session Six vision — Cheng at the **B
 - Cheng is simply *"affected by it,"* not the cause — Braedon's position walking in, and the one he abandoned within twenty minutes of watching him questioned
 
 Direct questioning produced nothing from Cheng — and visible nervousness from **Mido**.
+
+---
+
+## The Room (Session Seventeen)
+
+Mido showed the party Cheng's room at the Silver Mist Inn, which few people enter, she herself rarely. It holds almost nothing: a water jug, a thin floor mattress, a ragged pillow, a lantern. No shrine, no keepsakes. It smells of ink, charcoal, and oil. **Every wall is written over**, in Elvish, Dwarvish, Common, and other languages, upside down, reversed, and layered across years:
+
+- **Tally marks in fives**, everywhere. Given charcoal, he counts five on the wall and stops
+- **Four crows in silhouette and a fifth with a smiling human head**, the only drawings
+- ***ARTIST, RULER, SAGE, LOVER, JUDGE***
+- ***"FIVE MUST FALL. NOT FOUR, NOT FOUR, NOT FOUR"***
+- ***Cassian***, clearly written, with the surname scratched over
+
+The handwriting **matches the erasure of [Voss's](cassian-voss.md) name** on the third cedar. Littlefinger recognized it immediately.
+
+Mido's account: he hears many voices, *"sometimes he's Cheng, other times... somewhere else, saying things."* He was always a linguist who learned languages fast and loved ciphers as a child, and she assumes that's why the army **commissioned him for code-breaking**.
+
+Under his mattress, which he sat on to guard, were loose floorboards hiding **[Voss's field journal](cassian-voss.md#the-field-journal-session-seventeen)**, overwritten in Cheng's capitals: *THE LAKE IS UNDER THE RIVER*, *FIVE CROWS / FOUR FLEW*, *NOT A CITY / A MOUTH*, and *ARE YOU SURE YOU HEARD IT CORRECTLY* over and over. Voss's last entry describes being followed by something that *"walks behind me, matches my step, and smiles when I turn around"*, which is exactly how Cheng followed Da Baishan in Session Sixteen.
+
+When Da Baishan reached for the floorboards, Cheng **attacked**. He crossed the room past Boone and Ginkgo and landed on the orc's back, clawing at his eyes and neck, smiling throughout: *"Away — I want — you, mine!"* Only his mother's voice calmed him.
 
 ---
 
@@ -107,3 +127,11 @@ When Littlefinger returned his military medal, Cheng came forward—still smilin
 - **Interrogated by [Littlefinger](../pcs/littlefinger.md)**: told that Da Baishan recarved [Cassian Voss's](cassian-voss.md) name at the Seven Cedars and that Voss's ghost said *the oni didn't kill him* — **no reaction** (Littlefinger high Perception; Donkey 27). His mouth opened: *"Treats."* Offered a treat in exchange for explaining the mustard moth-wing powder packed into the erased name — *"Kurosawa didn't do that. Who did?"* — still nothing
 - **Mido, not Cheng, was the one who got nervous.** Session ended there
 - Post-session, Boone re-confirmed the Battle of Five Crows vision with the GM: while others fled or fought the demon, Cheng stood **chanting at it**, the smile spreading Grinch-wide across his face, staring at Boone. The table's closing theory: *"Is this family the ones trying to bring back that horrible Elder God?"*
+
+### Session Seventeen (2026-10-08)
+- **His room was opened to the party** by Mido: walls covered in tallies of five, crows with a smiling human head, the five archetypes, *"five must fall, not four,"* and *Cassian*. See *[The Room](#the-room-session-seventeen)*
+- **Identified as the hand behind the erasure** at the [Hollow of Seven Cedars](../locations/hollow-of-seven-cedars.md): Littlefinger matched the wall-writing to the scratched-out carving
+- **Lured off his mattress** by Ginkgo's snacks. He counted five tally marks on the wall without looking up, then said *"Treat"*
+- **Attacked Da Baishan** when the orc lifted his mattress. Da Baishan's critical Athletics (28) held him in the air one-handed: *"Be calm."* Mido called him off with *"Son"* and treats in the other room. *His smile never changed*
+- **Voss's field journal**, with his own scrawl over it, was taken from under his floorboards. The party has not told Mido
+- Mido, afterward: *"I don't believe he has any malice. I don't think he's capable of planning something."* He went home early from the festival with the family

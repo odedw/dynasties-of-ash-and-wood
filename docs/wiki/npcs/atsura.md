@@ -12,8 +12,8 @@
 | **Ancestry** | Tiefling oni (blue-skinned) |
 | **Role** | Magistrate of the [Council of the Magi](../factions/council-of-the-magi.md); agent of the **[Mirror Tribunal](../factions/council-of-the-magi.md#the-mirror-tribunal)** |
 | **Affiliation** | The Council of the Magi — sent to **investigate [Kurosawa](magistrate-kurosawa.md)**, not to assist him |
-| **Location** | [Willowshore](../locations/willowshore.md), operating out of the occupied Yeshou estate |
-| **Status** | Active ally-in-practice; freed the party from their cage (Session Fifteen); investigation of Kurosawa **"nearly complete"** — verdict pending the party's choice (Session Sixteen) |
+| **Location** | [Willowshore](../locations/willowshore.md). Now a resident of the **Silver Mist Inn** |
+| **Status** | **Verdict delivered**: stripped Kurosawa of his seat (Session Seventeen). Commission complete; has petitioned to stay; without authority but *"a resident and a friend"* |
 
 ---
 
@@ -75,6 +75,18 @@ The party is split on her. [Boone](../pcs/boone.md): *"I think she's great."* [D
 
 ---
 
+## The Verdict (Session Seventeen)
+
+She chose to rule **at the festival, in the open**, *"while the omens and the spirits are smiling the greatest,"* and let the party's Second Rite go first. Once Boone nullified their conviction, she spoke:
+
+> *"By the authority of the Council of the Magi and the Mirror Tribunal, I strip Kurosawa of his seat in the Order of the Magi. His commission is void, his workings disavowed. He is ordered to return for correction. Until he does, he acts for no one. He speaks on behalf of himself alone. He has no ties to the Magi or any order. From this moment forth, that is my verdict."*
+
+As she reached for the sword he seemed to be surrendering, Kurosawa murmured, *"You've been taught well. You've obeyed every policy and procedure,"* which suggests he once trained her. Her answer: *"I've done as I've been ordered to do. There's no joy in this sentence. It is the right verdict."* Then he vanished into the earth and left a construct, and she fought it alongside the party with her **wakizashi** (12 damage) and an arm tattoo that flared into a **golden shield**.
+
+The Tribunal's case against him began with a filing from his own captain: [Akoto](captain-akoto.md) reported the mismatch between [Ren's](ren.md) gate report and Kurosawa's estate log, and *"that's why they're here."*
+
+---
+
 ## Relationships
 
 ### [Boone](../pcs/boone.md)
@@ -125,3 +137,12 @@ Colleagues in title, adversaries in fact. He did not know she was in town; his b
 - **Witnessed Masru's confession and the handover of Kurosawa's verdict script** to [Da Baishan](../pcs/da-baishan.md); the mayor visibly played to her while surrendering it
 - **Declared her investigation "nearly complete"** and laid out *[the offer](#the-offer-session-sixteen)*: her verdict now, or the party's Second Reckoning first — warning that the window may close once she rules. Granted the party time to consult: *"Very well"*
 - Left with Masru pleading for his commission to be voided so he can return to [Kirahata](../locations/kirahata.md) with [Meilin](meilin.md); her answer, if any, was not heard
+
+### Session Seventeen (2026-10-08)
+- **Danced with Boone.** Willow pushed him (*"like the last cask of ale in the bar"*), Kurosawa sneered *"Greetings, prisoner,"* and Boone held out his hands. *"I'm not a great dancer, but you've been very kind. If you don't mind me stepping on your feet a few times."* — *"Very strong feet."* It went well
+- **Offered the party their Reckoning first**, then delivered *[her verdict](#the-verdict-session-seventeen)* stripping Kurosawa of his seat in the Magi
+- **Fought Kurosawa's construct** with wakizashi and tattoo-shield
+- **Staying on.** Her commission is over, but she has petitioned the Tribunal to remain and will live at the **Silver Mist Inn** until it answers. *"For now, I'm a resident and a friend... but I have no authority other than that"*
+- **On Kurosawa**: *"I know him well. He's always been bound by law, every rule. He was a follower... And now, without that rule of law to bind him, I'm not sure what he'll do."* She'll help if he returns
+- **On the second curse**: it has *"become abundantly clear as I've investigated."* Kurosawa *"would also seem to have stumbled upon that,"* and his research may help. Her deepest knowledge is of the Magi, and of Kurosawa himself
+- Ended the night with a **fist bump** from Boone (*"Great work today, Atsura"*), which she returned. Littlefinger has been told she might teach him arcane tattoos

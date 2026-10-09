@@ -87,6 +87,8 @@ Willow considers herself an innate matchmaker—she believes finding love connec
 
 She recruited Ginkgo as her accomplice, planning to arrange "accidental" meetings at the festival feast.
 
+**Session Seventeen update.** At the festival for Old Amber she declared it outright: *"I can make matches. I know people's hearts."* She paired **Boone and [Atsura](atsura.md)** (*"staring at this new magistrate like she's the last cask of ale in the bar"*). For **Littlefinger and Meilin**, she danced with Masru herself to buy them time. She declared **Ginkgo exempt**: *"I know you're in love with this whole town, and I refuse to place you with somebody."*
+
 ---
 
 ## Session History
@@ -164,3 +166,9 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - **Called a festival for that evening** (~7 PM, sundown) to celebrate the bounty of fish and [Old Amber's](old-amber.md) return — dance, song, drink — with the party as *"the belles of the ball"*
 - **Ordered the party to the salon first**, on the house: *"I can get your tusks capped with something glittery and gold-y. I can put some feathers and petals in your hairs."* Donkey booked a **private session with invited guests** as cover for a quiet conversation; she agreed instantly: *"Of course"*
 - Later seen on the north side of town **singing and twirling** with the decorating crews — *"happy as a lark"* — while [Cheng Yesho](the-smiling-one.md) smiled at the edge of her crowd
+
+### Session Seventeen (2026-10-08)
+- **Hosted the festival** and called the party *"all my favorites... the road may have been dark to get here, but look at what has happened"*
+- **Matchmade in earnest**: Boone and Atsura, Littlefinger and Meilin, Ginkgo exempt. She **danced with Masru** as cover so Littlefinger could talk to Meilin, and agreed with him that Meilin is *"not in a very favorable situation."* Her salon is the first stop on Meilin's escape route
+- **Rallied the town at the Second Rite.** She reminded the crowd that she was the only one to raise her hand at the first trial, and that she knows why: Kurosawa's curse had dulled their minds. *"Now that you're thinking freely, trust your heart."* Then she called the vote, raised her hand first, and **the whole square followed**
+- After the construct fell, ran to the party clapping, *"Our village heroes did it again!"*, and **hugged Ginkgo** first, again

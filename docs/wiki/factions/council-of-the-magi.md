@@ -10,8 +10,8 @@
 |---|---|
 | **Type** | Imperial arcane authority |
 | **Jurisdiction** | Arcane ruins, artifacts, and geomancy within the oni Imperium |
-| **Known Members** | [Magistrate Kurosawa](../npcs/magistrate-kurosawa.md), [Magistrate Atsura](../npcs/atsura.md) (Mirror Tribunal) |
-| **Status** | Active; its internal-affairs arm is now investigating Kurosawa in [Willowshore](../locations/willowshore.md) |
+| **Known Members** | [Magistrate Atsura](../npcs/atsura.md) (Mirror Tribunal); formerly [Kurosawa](../npcs/magistrate-kurosawa.md), stripped of his seat in Session Seventeen |
+| **Status** | Active. The Mirror Tribunal has ruled against Kurosawa; Atsura awaits word on whether she stays in [Willowshore](../locations/willowshore.md) |
 
 ---
 
@@ -93,3 +93,9 @@ The Council is cited often and seen never. Everything known is secondhand:
 - **The choice offered**: her verdict on Kurosawa now, or after the party's own Reckoning — with the warning that once she rules, the party may not get another chance. What a Tribunal verdict *does* to a magistrate — and whether it removes him from Willowshore, or worse — is still unknown. See *[The Offer](../npcs/atsura.md#the-offer-session-sixteen)*
 - **Overruled Kurosawa publicly for a second time** — *"they are abiding by the ruling"* — while standing beside him in the square
 - Masru is now openly courting the Council's favor, hoping it will void the commission Kurosawa signed to install him
+
+### Session Seventeen (2026-10-08)
+- **How the Tribunal was summoned**: [Captain Akoto](../npcs/captain-akoto.md) filed under the **oversight provision** after his soldier [Ren's](../npcs/ren.md) gate report contradicted Kurosawa's estate log for the night before the cataclysm. *"That's why they're here"*
+- **The verdict.** After the party's Second Rite cleared them, [Atsura](../npcs/atsura.md) ruled: *"By the authority of the Council of the Magi and the Mirror Tribunal, I strip Kurosawa of his seat in the Order of the Magi. His commission is void, his workings disavowed. He is ordered to return for correction. Until he does, he acts for no one."* A Tribunal sentence turns out to mean **expulsion and a summons for "correction"**
+- Kurosawa did not comply. He sank into the earth and left a construct behind. He is now an ex-Magi geomancer with no law to bind him
+- Atsura's commission is complete. She has **petitioned to stay** in Willowshore and is waiting on the Tribunal's answer. Kurosawa's *"you've been taught well"* suggests he once trained her

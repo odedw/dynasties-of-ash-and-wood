@@ -11,8 +11,9 @@
 | **Name** | Kurosawa |
 | **Title** | Magistrate |
 | **Ancestry** | Oni |
-| **Affiliation** | [Shogun Tsuneni's](shogun-tsuneni.md) regime |
-| **Location** | [Willowshore](../locations/willowshore.md) (temporarily at the Yeshou estate) |
+| **Affiliation** | None. **Stripped of his seat in the [Council of the Magi](../factions/council-of-the-magi.md)** by the Mirror Tribunal (Session Seventeen); *"he acts for no one"* |
+| **Location** | Unknown. Vanished into the earth during the Second Rite of Open Reckoning |
+| **Status** | Disgraced, ordered to return *"for correction,"* at large |
 
 ---
 
@@ -298,3 +299,13 @@ The party also debated whether the note itself can be trusted — a private rese
 - **His own judge turned on him.** Minutes later [Masru](mayor-masru.md) apologized to the party for being *"manipulated"* and produced **a note in Kurosawa's handwriting scripting what the mayor should say and what verdict to deliver** at the first Rite of Open Reckoning — then handed it to Da Baishan. The trial he called *"lawful to the letter"* is now documented as rigged, in his own hand
 - **The evidence file against him** now holds: the signed device commission, a cursed copper nail, the verdict script, and a Mirror Tribunal magistrate who calls the first trial *"a sham, a kangaroo court."* Atsura says her investigation is *"nearly complete."* [Da Baishan's](../pcs/da-baishan.md) **Sow Rumor** is also working the crowd against him
 - **One card left in his favor**: the *second curse*. Old Amber confirmed something older and colder runs beneath his work — and Donkey noted that if it *"rears its head,"* Kurosawa is positioned to say *"look what they did"*
+
+### Session Seventeen (2026-10-08)
+- **Arrived at the festival** with Atsura and Masru, and greeted Boone with *"Greetings, prisoner."* Boone ignored him and asked Atsura to dance
+- **Put on trial by the people he convicted.** The party called a Second Rite of Open Reckoning with Boone as judge. Kurosawa: *"A very interesting tactic. The former accused calling out their accuser... I'm interested to see what grounds and evidence you can fabricate"*
+- **His defense**: the verdict script must be forged, since Masru, a self-confessed sleight-of-hand man, *"surely has the ability to write in someone else's hand"* (Masru had just produced the parchment Kurosawa saw him "burn"). [Luda's](luda.md) tonic showed the party *"conferring with the dead"* a second time. And everything he did followed procedure: *"Enough with the theater and coins and tearful testimonies... What we need is clear jurisprudence"*
+- **Undone by his own witness.** Asked whether any irregularity was ever reported under his command, [Captain Akoto](captain-akoto.md) said *"Yes, Magistrate. One."* Akoto had filed it himself with the Mirror Tribunal: [Ren's](ren.md) gate report showed Kurosawa passing the **east gate** the night before the cataclysm, but his estate log said otherwise. *"You weren't where you said you were."* Kurosawa fumbled for words for the first time, then recovered: *"It's precisely what I trained him to do... a clean bill of innocence"*
+- **The whole square raised its hands** against him. Boone's verdict: the first Rite was tainted, the party's conviction is nullified, and Kurosawa owes the town reparations and must *"bother the town no more,"* with his fate left to the magistrates
+- **Stripped by [Atsura](atsura.md)**: *"I strip Kurosawa of his seat in the Order of the Magi. His commission is void, his workings disavowed. He is ordered to return for correction. Until he does, he acts for no one."*
+- **His exit.** He unslung his nodachi as if to surrender it and murmured to Atsura: *"You've been taught well. You've obeyed every policy and procedure."* Then, to Boone: ***"A verdict is only as strong as the ground it stands on."*** He knelt, etched geometric lines around himself with the blade, and sank as the earth wrapped up over him. **A magnetic, plate-armored geometric construct** rose where he'd been. The party destroyed it, and **flies, locusts, and gnats** poured out of the wreck
+- **Whereabouts unknown.** Atsura, who knew him well: *"He's always been bound by law, every rule... And now, without that rule of law to bind him, I'm not sure what he'll do."* She believes his research had **stumbled onto the second curse** and may hold insights
