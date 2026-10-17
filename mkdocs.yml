@@ -47,6 +47,7 @@ nav:
     - 15. Second Reckoning: sessions/2026-09-03.md
     - 16. Tear the Veil: sessions/2026-09-17.md
     - 17. Five Bells: sessions/2026-10-08.md
+    - 18. Marks for the King: sessions/2026-10-15.md
   - Wiki:
     - Player Characters:
       - Da Baishan: wiki/pcs/da-baishan.md
@@ -79,6 +80,7 @@ nav:
       - Magistrate Atsura: wiki/npcs/atsura.md
       - Old Amber: wiki/npcs/old-amber.md
       - Ren: wiki/npcs/ren.md
+      - The Soul Eater: wiki/npcs/soul-eater.md
     - Factions:
       - Willowshore Ruling Family: wiki/factions/willowshore-ruling-family.md
       - Mizu Ki Hikari: wiki/factions/mizu-ki-hikari.md
@@ -95,6 +97,7 @@ nav:
       - Palatine Eye Vault: wiki/locations/palatine-eye-vault.md
       - Kirahata: wiki/locations/kirahata.md
       - The Land of Dreams: wiki/locations/land-of-dreams.md
+      - Carcosa: wiki/locations/carcosa.md
   - Player Guide: resources/Player Guide.md
 
 markdown_extensions:

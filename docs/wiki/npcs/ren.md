@@ -55,3 +55,7 @@ His commanding officer, who believed his report, filed it by the book, and later
 - **Came forward at the festival** in answer to Da Baishan's Sow Rumor, but refused the reward: he had stood on the east river gate the night before the cataclysm, seen the magistrate pass through, reported it, and later found the log said Kurosawa never entered
 - Agreed to testify **in exchange for a reassignment** away from Willowshore
 - His report, filed upward by Captain Akoto to the Mirror Tribunal, turned out to be the reason Atsura came to town. It was the decisive fact at the Second Rite of Open Reckoning
+
+### Session Eighteen (2026-10-15)
+- Helped carry the drunken [Masru](mayor-masru.md) home to the estate after the festival
+- [Atsura](atsura.md) credited the Sow Rumor with *"uncovering Ren"* and his testimony with helping the case, while warning Da Baishan off false rewards

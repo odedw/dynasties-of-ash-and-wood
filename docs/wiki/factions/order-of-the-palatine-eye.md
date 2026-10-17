@@ -122,3 +122,10 @@ The Order of the Palatine Eye is, in effect, the campaign's only present lead on
 > *"A thing buried is not always buried by cowards. Sometimes buried by the wise."*
 
 > *"When truth speaks kindly, distrust it most."*
+
+---
+
+## Session Eighteen (2026-10-15)
+
+- **An outsider's view of the Order.** [Atsura](../npcs/atsura.md) asked to see [Da Baishan's](../pcs/da-baishan.md) eye-mark and traced it: *"I've always respected the Order. I like what they stood for... the search for secrets and truth. And from what the stories are, it didn't matter what creed, what race, or what background someone had. If you were called, you were called. And I like that they marked."* She called it *"a true magical tattoo,"* unlike her own ink
+- **The Order's last known member was marked.** Da Baishan and Ginkgo remember the mustard mark on [Cassian Voss's](../npcs/cassian-voss.md) shoulder from his burial, and the thing that killed him, [a soul eater](../npcs/soul-eater.md), came for Boone this session. Voss's *"Tell the Order — it was not the oni"* now reads as pointing at whatever sends them

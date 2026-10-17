@@ -216,3 +216,8 @@ Found hidden under loose floorboards beneath [Cheng Yesho's](the-smiling-one.md)
 - **The erasure's author identified**: the handwriting on the cedar matches the writing covering Cheng's walls, where *Cassian* is written clearly with the surname scratched out
 - His final entry describes being followed by something that smiles. The party now reads him as **the "last traveler"** of [Mido's](mido.md) half-truth
 - Da Baishan's Occultism placed the city Voss named and then struck out, **Carcosa**, as the destination or origin of an ancient cult
+
+### Session Eighteen (2026-10-15)
+- **He was marked.** Da Baishan (19) and Ginkgo (24) both remembered a mark on his shoulder by the neckline when they buried him, in the same place as Boone's. Da Baishan: *"I feel somewhat confident saying that he is the sage."* That fits SAGE being circled in his journal until the paper wore through
+- **What killed him came back.** [The soul eater](soul-eater.md) that attacked Boone wore the same tattered mustard robes as the spirit Da Baishan and Ginkgo watched kill him at the river. Read together, it looks like he was hunted *because* he was marked
+- The city he named, **[Carcosa](../locations/carcosa.md)**, matches the dream the newly marked are now sharing

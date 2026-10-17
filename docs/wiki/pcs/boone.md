@@ -239,3 +239,12 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Kurosawa's last words were for him: ***"A verdict is only as strong as the ground it stands on."***
 - **Killed the construct.** 14 (miss), **24 for 18**, 4 (miss); held onto his blade against its magnetic disarm with Athletics 23 and *"all of your dwarven might"*; then **24 for 13**, and with Donkey about to be blasted, **15 for 17** and **20 for 15**, splitting its core. **63 damage** on the night
 - **Fist-bumped Atsura** (*"Great work today, Atsura"*). She returned it
+
+### Session Eighteen (2026-10-15)
+- Stood watch outside the Yeshou estate wall during Meilin's rescue: *"My plan is to not mess up the stealth."* While the audio was lost, he was seen checking behind the party for guards several times, each from a spot with a better view of the bridge where [Atsura](../npcs/atsura.md) and Da Baishan were comparing tattoos. He also asked, hypothetically, how long ink takes to heal on a dwarf
+- At the inn, laid out the five archetypes with the party: *"I was the judge. I'm just realizing that now."* Asked whether he'd heard any voices lately: *"More than usual"*
+- **Dreamed of [Carcosa](../locations/carcosa.md)**: the motionless lake, two suns (red and mustard), black stars, a stark city of towers, and **a judge's chair of pale wood with a mustard cushion, exactly his size**. His own verdict echoed back over the water
+- **Woke to [the soul eater](../npcs/soul-eater.md)** standing over him, his plum wine jug empty. It reached into him for a **critical 18**. He woke the inn (*"Hey guys, wake up!"*), hit it for 9, 16 (reactive strike, as it went for Ginkgo), and 17, and hit the doorframe a lot. The party's spells hadn't recovered: *"God damn it, Boone"*
+- **His mark changed** overnight from moth dust on his clothes to a **three-pronged swirl**, like henna on the skin, that won't rub off. Littlefinger: *"They sent him to kill the Judge"*
+- Asked [Willow](../npcs/radiant-willow.md) directly, *"Do you feel more like a lover or an artist right now?"*, then told her plainly what the party suspects and that the marked should look out for each other. Offered to *"demurely show a little shoulder"* for the mark inspection
+- With Donkey, escorting a disguised [Meilin](../npcs/meilin.md) to Littlefinger's cabin south of town

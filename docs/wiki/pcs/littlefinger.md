@@ -256,3 +256,11 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Opened the construct fight hiding and slinging (21, clanked off the armor), then landed three sling hits after Ginkgo's Command. That set off a rules dive: sneak attack applies to *every* qualifying strike, but this target was **immune to precision damage**
 - **Level 4**: **Poison Weapon** (daily injury poisons equal to his level, 1d4 poison, no save, for sling stones) and **Tattoo Artist** (four common magical tattoo formulas of level 2 or lower). Atsura might teach him; he won't step on Boone's toes
 - Shared his Alaska cruise photos after the session: salmon runs, six bears, a glacier by helicopter, a Denali grizzly beside the bus
+
+### Session Eighteen (2026-10-15)
+- **Rescued [Meilin](../npcs/meilin.md).** Followed Masru's party home with **Shadow Mark**, slipped onto the estate grounds (Stealth 28, so good Boone and Ginkgo lost him), activated the **Leaf Shadow Clasp** and **Monkey Pin**, and hooked into the study's open window (Athletics 21)
+- **Found [Kurosawa](../npcs/magistrate-kurosawa.md) in the dark** packing his research: *"You're very quiet."* Climbed in rather than run. *"We've been at odds, but we don't have to continue to be. I'm here to save a different life. If you'll go your way, I'll go mine."* Kurosawa agreed they were no longer enemies, showed him his moth-mark, and pointed him at the Yeshou family. He left by the window. Littlefinger had already told Ginkgo to stand down
+- Found Meilin awake in the corner of the master bedroom with a small satchel (*"I know he said not to pack anything"*) and Masru snoring on the bed. Got her down the rope and over the fence (Stealth 26) to **Willow's back rooms**
+- Pointed out, after the soul eater attack, that if they'd slept at Willow's, *"not only did I have my lady friend close by... I'm technically correct, which is the best kind"*
+- **Two poisoned, flanked sling stones** on the soul eater (5, 7, 9 across his hits), then vanished into the shadows. Named the target: ***"They sent him to kill the Judge"***
+- **Offered his hunting cabin**, two to three miles south of town and stocked with provisions, as Meilin's safehouse. Stays in town himself, being seen on purpose, so he won't look like he left with her

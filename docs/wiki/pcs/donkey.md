@@ -246,3 +246,10 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - **Arcana 22** on Kurosawa's magnetic construct: its armor gives it a very high AC until enough damage breaks its hardness, and then the plates shatter
 - **Ignition, 7 fire**, then backed off
 - **Briefly dying.** He failed the construct's magnetic jolt (Fortitude 11), took 30, and collapsed. Then the table remembered Boone still had two attacks. The GM rewound, Boone killed it first, and **the jolt never happened**. *"Donkey's not dead"*
+
+### Session Eighteen (2026-10-15)
+- *David was out; Gary ran Donkey*
+- Went back to the Silver Mist Inn while the others rescued Meilin. Still short on spell slots after the construct fight
+- Missed [the soul eater](../npcs/soul-eater.md) with **Ignition** twice (14, then 12), scorching the hallway wall behind it
+- Checked and found clear of the mustard mark
+- **Escorting [Meilin](../npcs/meilin.md)** with Boone to Littlefinger's cabin south of town. He knows the way, since it's where he does his truffle hunting. His disguise magic only works on himself, so Willow handled Meilin's

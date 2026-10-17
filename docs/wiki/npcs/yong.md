@@ -114,3 +114,7 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 - **Cured.** [Old Amber](old-amber.md) ate the seed in the [Land of Dreams](../locations/land-of-dreams.md) and the memory curse lifted from all of Willowshore. The party stepped out of Dew Drop Petals to find Yong and [Hong](hong.md) **embracing** in the square where they had been screaming at each other the day before — the GM's marker for the whole town's change
 - **Remembers everything** — the argument included — but his feelings about it are his own again; like the rest of the town he understands he was enchanted
 - **Apologized to the party in person**: *"I'm sorry that I wasn't brave enough, or didn't understand enough, to raise my hand in your defense. I regret that now. But hopefully you can forgive me. I wasn't in my normal state of mind at the time."* The first townsperson besides Willow to own his silence at the trial
+
+### Session Eighteen (2026-10-15)
+- **Ran into the square at dawn**: *"Please, please help me. My son!"* [Hong](hong.md) had screamed all night and something seemed to have bitten him. [Atsura](atsura.md) answered and went home with him
+- At home (one modest room, with curtains for each of them), he told her it all at once: Hong was speaking gibberish and had never done anything like it. *"Are we cursed? The spirits hate us."* He blamed himself and apologized for anything he might have done

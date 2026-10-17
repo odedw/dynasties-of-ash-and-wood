@@ -54,3 +54,6 @@ Akoto is professional and measured. When the party presented their investigative
 - Asked whether any irregularity was ever reported under Kurosawa's command, he paused for a long time, then answered: ***"Yes, Magistrate. One."***
 - **He was the one who reported it.** Under the **oversight provision**, he sent the Mirror Tribunal the mismatch between the estate log Kurosawa filed the night before the cataclysm and his officer [Ren's](ren.md) report of seeing the magistrate pass the east gate. *"That's why they're here. You weren't where you said you were. I didn't think I would be forced to answer that question, especially by you. But it was the proper procedure to follow. And I followed it."*
 - Kurosawa commended him (*"precisely what I trained him to do"*), but the testimony turned the crowd for good
+
+### Session Eighteen (2026-10-15)
+- **Procedure, for the next superior too.** When [Masru](mayor-masru.md) stormed into the square at dawn demanding a search for [Meilin](meilin.md) and naming Littlefinger, Akoto answered calmly: ***"You must file a report first, sir, and then we will go look for her."*** Masru went to write one. Once it's filed, the garrison will be looking for her

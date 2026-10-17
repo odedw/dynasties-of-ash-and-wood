@@ -256,3 +256,12 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - One of the four **accusers** at the Second Rite of Open Reckoning
 - **Stripped the construct**: cast **Command: "Drop your armor"**. It failed (18 vs. DC 20), and its chest plate and guards thudded to the dirt, making it *"a lesser armored soldier."* Later landed **Divine Lance, 23, for 7**
 - **Hugged first by Willow, again**: *"Our village heroes did it again!"*
+
+### Session Eighteen (2026-10-15)
+- Backed up Meilin's rescue from outside the estate, keeping a **Message** link open to Littlefinger (*"If you need any help, let me know"*). In the lost-audio stretch, he narrated the bridge tattoo comparison to Littlefinger in whispers, and was told to focus
+- **Saw [Willow's](../npcs/radiant-willow.md) mark** (Perception 29) as she turned away after hugging him last, longest, and hardest: mustard moth wings on her neck. He said nothing to her and told the party later
+- Thought all five archetypes might have been marked at the same moment, and remembered *"five must be sacrificed to bring—"*. Didn't want to worry Willow yet
+- **Cut [the soul eater](../npcs/soul-eater.md) open.** Fear failed against it (it rolled 31). Then he checked it was void-healing and cast **Vitality Lash** for **18**: *"almost like the Care Bears. Projecting love."* It came for his skull with both hands, and he broke free (Fortitude 25). Religion 19 tied it to the thing that killed Voss
+- **"Have to save Willow!"** First out the door. Told her about Boone's mark and the attack, but not the rest yet
+- Remembered **a mark on [Voss](../npcs/cassian-voss.md)** from the burial (24). Floated that Kurosawa might be LOVER rather than RULER
+- Went with Da Baishan and Littlefinger to [Hong](../npcs/hong.md)

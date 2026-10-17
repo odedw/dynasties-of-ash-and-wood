@@ -104,3 +104,8 @@ While the rest of the party met with [Mido](mido.md), Hong stayed behind with Bo
 ### Session Sixteen (2026-09-17)
 - **He didn't get far — and he came back.** When [Old Amber](old-amber.md) consumed the seed and the curse lifted from the whole town, the first thing the party saw outside Dew Drop Petals was Hong and [Yong](yong.md) **embracing** in the square. Father and son remember the fight; neither feels it anymore
 - Came with his father to thank the party in the street, and stood by as Yong apologized for staying silent at the trial
+
+### Session Eighteen (2026-10-15)
+- **Marked.** He screamed through the night and his father couldn't calm him. *"Something bit him."* When the party arrived with [Atsura](atsura.md), he was thrashing in his cot with **a mark like Boone's** visible as he rolled
+- **Dreamed of [Carcosa](../locations/carcosa.md).** He spoke of two suns, a lake, and **a chair that is for him**. His eyes were open but he wasn't there, in shock, *"a twelve-year-old kid"* by the GM's description (earlier sessions put him at about ten)
+- ***"It's coming for me. I know it's coming for me. I'm 97. I'm number 97."*** The meaning is unknown. If something is coming, [the soul eater](soul-eater.md) that came for Boone is the obvious candidate

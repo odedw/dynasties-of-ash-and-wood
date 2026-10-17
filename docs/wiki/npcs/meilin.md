@@ -11,8 +11,8 @@
 | **Name** | Meilin |
 | **Ancestry** | Unknown |
 | **Occupation** | Gravekeeper; currently personal attendant to [Mayor Masru](mayor-masru.md) |
-| **Location** | The Yeshou estate, [Willowshore](../locations/willowshore.md) — has not left the grounds since the Festival of Returning Spirits |
-| **Status** | **Escaping tonight.** Agreed to let Littlefinger climb to her window and take her out of the estate (Session Seventeen) |
+| **Location** | En route to Littlefinger's hunting cabin, south of [Willowshore](../locations/willowshore.md) |
+| **Status** | **Escaped** the Yeshou estate (Session Eighteen). Masru is demanding a search |
 
 ---
 
@@ -87,3 +87,9 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - [Willow](radiant-willow.md) asked Masru to dance so Littlefinger could have one dance with her (Diplomacy 26). She checked that Masru was occupied, then took his hand: *"Until he comes back"*
 - **Said yes.** *"I'm pretty scared, but tonight might work. He tends to be sleepy and highly intoxicated during a festival. It might be my chance to get out. I don't know where to go if I was to leave."* The plan: Littlefinger climbs to her **second-floor window** at the estate, rappels her down, and they go via Willow's for supplies to a safehouse outside town. Don't pack, don't act differently. *"If there's a night to escape... the night all the stars aligned. I will wait for you this evening. Thank you."*
 - Followed Masru, carried home drunk by guards, back to the estate under the full moon
+
+### Session Eighteen (2026-10-15)
+- **Waited, as promised.** When Littlefinger slipped into the master bedroom past the snoring Masru, she was awake in the corner: ***"You came."*** She had a small satchel: *"I know he said not to pack anything, but I only grabbed a few things. He didn't seem to notice at all"*
+- Climbed down the rope from the study window and went over the fence. She spent the night in **[Willow's](radiant-willow.md) back rooms** and slept through the party nearly breaking down the door
+- **Masru noticed by morning**: *"I know they took her. She would not have left on her own... I would suspect Littlefinger and his crew"*
+- **Disguised by Willow** as an older woman (paint, a grey-streaked wig, a stoop, block-soled shoes; passable at a distance) and escorted by Boone and Donkey to **Littlefinger's hunting cabin**, two to three miles south of town

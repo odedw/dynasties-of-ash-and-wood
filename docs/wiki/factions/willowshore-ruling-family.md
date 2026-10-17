@@ -162,3 +162,7 @@ Mido's own admission to the party: *"We have achieved some of our wealth by more
 - **[Voss's field journal](../npcs/cassian-voss.md#the-field-journal-session-seventeen)** was found under Cheng's floor. It describes the household's **five adopted children per generation** and the **half-moth tapestry** with one face replaced. See *[Always Five](#always-five-the-received-session-seventeen)*
 - The party **kept the journal secret** from Mido, who defended Cheng anyway: *"I don't believe he has any malice"*
 - Mido **testified for the party** at the Second Rite of Open Reckoning, where the family's standing carried weight. With [Kurosawa](../npcs/magistrate-kurosawa.md) stripped and gone, the Yeshou estate may return to the family. They left the festival early
+
+### Session Eighteen (2026-10-15)
+- *Did not appear.* But **Kurosawa named them** on his way out of the estate window, to Littlefinger: *"If I were those remaining here in Willowshore, the Yeshou family is the one I would look toward first. Who else could have orchestrated us all being there at the same time?"* He also counted the family's **five generations** among the fives he believes are no coincidence
+- Kurosawa has cleared his research out of the estate, leaving it empty of him

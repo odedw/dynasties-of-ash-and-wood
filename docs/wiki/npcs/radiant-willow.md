@@ -172,3 +172,12 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - **Matchmade in earnest**: Boone and Atsura, Littlefinger and Meilin, Ginkgo exempt. She **danced with Masru** as cover so Littlefinger could talk to Meilin, and agreed with him that Meilin is *"not in a very favorable situation."* Her salon is the first stop on Meilin's escape route
 - **Rallied the town at the Second Rite.** She reminded the crowd that she was the only one to raise her hand at the first trial, and that she knows why: Kurosawa's curse had dulled their minds. *"Now that you're thinking freely, trust your heart."* Then she called the vote, raised her hand first, and **the whole square followed**
 - After the construct fell, ran to the party clapping, *"Our village heroes did it again!"*, and **hugged Ginkgo** first, again
+
+### Session Eighteen (2026-10-15)
+- **Sheltered [Meilin](meilin.md)** in her back rooms after Littlefinger got her out of the estate: *"Hopefully your dreams will be quiet, with hope at the end of them"*
+- Thanked the party: *"Inspiring is the first word that comes to mind. I believe Willowshore will bloom because of what you've done."* She hugged each of them, **Ginkgo last, longest, and hardest**: *"May you all have dreams of heroes"*
+- **She is marked.** As she turned away, Ginkgo saw **mustard moth wings on her neck**. By dawn the mark had become the same **three-pronged swirl** as Boone's. She noticed it *"sometime last night."* It doesn't hurt and won't come off
+- **Dreamed of [Carcosa](../locations/carcosa.md)** and **painted it in her sleep**: the two suns and the city of towers, in brushstrokes that aren't hers. *"It's like it's someone else's"*
+- Opened her door to find Da Baishan two shoulder-charges into breaking it down. *"What's the emergency?"* She took it gracefully (*"I'm not too worried about my door... I trust each of your judgment"*) and **blushed** a little at how worried they'd been for her
+- Boone asked if she felt more like a lover or an artist. *"I think I've generally considered myself more of an artist than a lover."* The party reads her as **ARTIST**. She was saddened that *"the honeymoon of Willowshore"* had turned to woe again
+- **Disguised Meilin** for her escape south, delighted to be part of the team: face paint, a grey-streaked wig, a stoop, and block-soled shoes

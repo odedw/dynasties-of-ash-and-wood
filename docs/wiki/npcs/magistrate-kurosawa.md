@@ -12,8 +12,8 @@
 | **Title** | Magistrate |
 | **Ancestry** | Oni |
 | **Affiliation** | None. **Stripped of his seat in the [Council of the Magi](../factions/council-of-the-magi.md)** by the Mirror Tribunal (Session Seventeen); *"he acts for no one"* |
-| **Location** | Unknown. Vanished into the earth during the Second Rite of Open Reckoning |
-| **Status** | Disgraced, ordered to return *"for correction,"* at large |
+| **Location** | Unknown. Vanished into the earth during the Second Rite; last seen leaving the estate study for the **northern woods** with his research (Session Eighteen) |
+| **Status** | Disgraced, ordered to return *"for correction,"* at large. **Marked** by the mustard moth at the fifth bell |
 
 ---
 
@@ -309,3 +309,11 @@ The party also debated whether the note itself can be trusted — a private rese
 - **Stripped by [Atsura](atsura.md)**: *"I strip Kurosawa of his seat in the Order of the Magi. His commission is void, his workings disavowed. He is ordered to return for correction. Until he does, he acts for no one."*
 - **His exit.** He unslung his nodachi as if to surrender it and murmured to Atsura: *"You've been taught well. You've obeyed every policy and procedure."* Then, to Boone: ***"A verdict is only as strong as the ground it stands on."*** He knelt, etched geometric lines around himself with the blade, and sank as the earth wrapped up over him. **A magnetic, plate-armored geometric construct** rose where he'd been. The party destroyed it, and **flies, locusts, and gnats** poured out of the wreck
 - **Whereabouts unknown.** Atsura, who knew him well: *"He's always been bound by law, every rule... And now, without that rule of law to bind him, I'm not sure what he'll do."* She believes his research had **stumbled onto the second curse** and may hold insights
+
+### Session Eighteen (2026-10-15)
+- **Came back for his research.** [Littlefinger](../pcs/littlefinger.md), climbing to the second-floor study to rescue [Meilin](meilin.md), found him there in the dark, filling a satchel from the desk and the chest at the foot of the bed. Red eyes: *"You're very quiet."* *"I'm taking what is owed to me. This is my research"*
+- **Called a truce.** *"Young Littlefinger, I agree we may not be friends, but I don't believe we're enemies anymore. Truly. You have come to realize that there's more going on here than the game that you and I have been playing"*
+- **He's marked.** By a snapped flame he showed **moth dust at the crook of his neck**: *"A moth landed on me and gave me this mark, and it does not come off... I heard five bells when your judge sentenced me... and this moth landed on me at that time, on the fifth bell."* He counts fives everywhere (the Yeshou's five generations, five ley lines, the fifth month) and believes *"I'll be one of five to have this."* He says there's *"a dire plan"* he's been *"roped into,"* and he'll *"dedicate everything I can to understanding"* it. As with the [lockbox note](#the-lockbox-note-the-second-seal), he presents himself as **an investigator of a hand he doesn't control**
+- **Pointed the party at the Yeshou**: *"If I were those remaining here in Willowshore, the Yeshou family is the one I would look toward first. Who else could have orchestrated us all being there at the same time?"*
+- Left by the window and went **north over the wall into the woods**. He let Meilin's rescue go: *"Take whatever prize you want"*
+- The party's guess at his archetype: **RULER**, or possibly **LOVER**

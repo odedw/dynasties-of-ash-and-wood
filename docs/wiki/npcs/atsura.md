@@ -146,3 +146,13 @@ Colleagues in title, adversaries in fact. He did not know she was in town; his b
 - **On Kurosawa**: *"I know him well. He's always been bound by law, every rule. He was a follower... And now, without that rule of law to bind him, I'm not sure what he'll do."* She'll help if he returns
 - **On the second curse**: it has *"become abundantly clear as I've investigated."* Kurosawa *"would also seem to have stumbled upon that,"* and his research may help. Her deepest knowledge is of the Magi, and of Kurosawa himself
 - Ended the night with a **fist bump** from Boone (*"Great work today, Atsura"*), which she returned. Littlefinger has been told she might teach him arcane tattoos
+
+### Session Eighteen (2026-10-15)
+- **Stopped Da Baishan on the bridge** after the festival, out of uniform and in shorter sleeves. She rebuked him for the Sow Rumor: *"The Magi have offered no reward. Would you put the council's name on a falsehood?... A case with lies is a case with cracks in it. And someone like Kurosawa, who I know well, spends his life looking for cracks like these. Next time, if you want to use my authority, ask me first. I may even say yes."* She paid the goat-story drunk a couple of gold coins anyway
+- **Asked to see the Order's mark** and traced it, lingering on the eye. *"I've always respected the Order... it didn't matter what creed, what race, or what background someone had. If you were called, you were called"*
+- **Her tattoos, and her father.** Her people see the body as *"born finished"*: *"Why would you put graffiti on a temple?"* Her father found her first tattoo, **a crane's head** on her back by the shoulder blade, when she was **nineteen**. *"He didn't shout. He lectured. He always lectures. Several hours of lectures telling me all the precedents of the oni."* She got **the butterfly on her wrist** the next day. She also showed Da Baishan her shield tattoo and spoke of patterns a person can discover and create
+- **Six minutes of the conversation were lost** from the recording. From the far end of the bridge the party saw sleeves rolled up and tattoos compared, and heard her laugh. When the audio returns she is thanking him: *"...different background than the rest. And I appreciate the early trust that I've earned. Not sure I'm deserving of it, but I appreciate it."* She touched his forearm and walked south
+- **No mark.** Da Baishan (Perception 26, critical) is confident she doesn't carry the mustard moth-mark
+- At dawn she answered [Yong's](yong.md) cry for help (*"I don't have any command here anymore, but what's going on?"*) and went with him to [Hong](hong.md)
+
+**Open question:** her father lectures on precedent, and Kurosawa told her at his sentencing, *"You've been taught well."*

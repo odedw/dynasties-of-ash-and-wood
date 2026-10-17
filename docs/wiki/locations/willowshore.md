@@ -291,3 +291,11 @@ Old Amber's parting words established that the town's trouble is not over. Benea
 - **Kurosawa vanished into the earth** and left a magnetic construct in the square. The crowd scattered, the party destroyed it, and a swarm of flies and locusts poured out of the wreck
 - **The east river gate**: guard [Ren](../npcs/ren.md) saw Kurosawa pass through it the night before the cataclysm, contradicting the estate log
 - Night falls under a **full moon**. Masru is carried home drunk, and Meilin's escape from the estate is planned for tonight
+
+### Session Eighteen (2026-10-15)
+- **The bridge**: [Atsura](../npcs/atsura.md) and Da Baishan talked tattoos and the Order there after the festival, by moonlight
+- **The Yeshou estate**: [Kurosawa](../npcs/magistrate-kurosawa.md) emptied his research from the second-floor study and left north for the woods. [Meilin](../npcs/meilin.md) escaped down a rope from the same window while [Masru](../npcs/mayor-masru.md) snored in the west-wing master bedroom
+- **Dew Drop Petals** hid Meilin for the night and survived two shoulder-charges from Da Baishan. [Willow](../npcs/radiant-willow.md) painted [Carcosa](carcosa.md) there in her sleep
+- **The Silver Mist Inn**: plum wine left at every party door with a *Thank you* tag. Before dawn [a soul eater](../npcs/soul-eater.md) attacked Boone in his room and was destroyed in the hallway. Most guests locked their doors
+- **Yong's home**, a modest one-room house in the residential quarter east of the courtyard: [Hong](../npcs/hong.md) was found marked and raving
+- **At dawn** Masru demanded a search for Meilin (pending his written report), and Littlefinger made a point of being seen around town
