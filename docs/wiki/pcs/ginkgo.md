@@ -265,3 +265,9 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - **"Have to save Willow!"** First out the door. Told her about Boone's mark and the attack, but not the rest yet
 - Remembered **a mark on [Voss](../npcs/cassian-voss.md)** from the burial (24). Floated that Kurosawa might be LOVER rather than RULER
 - Went with Da Baishan and Littlefinger to [Hong](../npcs/hong.md)
+
+### Session Nineteen (2026-11-12)
+- **Level 5**: Speak with Kindred (plants and fungi); considering a bonded skink
+- At Yong's: identified Hong's moth-dust (Nature 16), then critically diagnosed the illness (**Religion/Arcana 31**) as a **curse**, not a wound — ordinary healing would not touch it
+- Stayed with Littlefinger and Hong while Da Baishan went with Atsura; later reunited on the south road after the cabin fight
+- At the Yeshou feast, sat by Cheng and caught the willow-and-root rhyme about *"the frame upstairs"*

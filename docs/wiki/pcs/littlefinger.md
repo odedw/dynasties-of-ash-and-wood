@@ -264,3 +264,9 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Pointed out, after the soul eater attack, that if they'd slept at Willow's, *"not only did I have my lady friend close by... I'm technically correct, which is the best kind"*
 - **Two poisoned, flanked sling stones** on the soul eater (5, 7, 9 across his hits), then vanished into the shadows. Named the target: ***"They sent him to kill the Judge"***
 - **Offered his hunting cabin**, two to three miles south of town and stocked with provisions, as Meilin's safehouse. Stays in town himself, being seen on purpose, so he won't look like he left with her
+
+### Session Nineteen (2026-11-12)
+- **Level 5**: climbing suite (Follow the Expert / Prepare a Route); **Step Lively**; sneak attack **2d6**. Took Da Baishan's crossbow (*"Next money I steal is yours"*)
+- Stayed with Ginkgo and Hong while Boone/Donkey took Meilin south. Learned the cabin was compromised by [Okio](../npcs/okio.md) and the web lurker — *"No follow-up questions. Agreed"* to burning it
+- Helped hide Meilin at Willow's again. Poisoned his new crossbow bolts. Bought bolts on a hero's discount
+- At the feast, Perception 30: caught Cheng looping *"There's arms on the chair so you won't fall out"* while looking upstairs. Declined [Atsura's](../npcs/atsura.md) invite out loud, then shadowed her upstairs anyway and **stole the framed chart** from behind the tapestry into his document case

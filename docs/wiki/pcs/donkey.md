@@ -253,3 +253,9 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Missed [the soul eater](../npcs/soul-eater.md) with **Ignition** twice (14, then 12), scorching the hallway wall behind it
 - Checked and found clear of the mustard mark
 - **Escorting [Meilin](../npcs/meilin.md)** with Boone to Littlefinger's cabin south of town. He knows the way, since it's where he does his truffle hunting. His disguise magic only works on himself, so Willow handled Meilin's
+
+### Session Nineteen (2026-11-12)
+- *David was out; Gary ran Donkey at level 4*
+- Knocked on the cabin door while Boone watched the window. Met [Okio](../npcs/okio.md); asked her to leave. Her talk of the centennial / elemental dragons snagged a **clouded memory**: ~100 years ago, **the Night the River Sang**, and a **missing girl**
+- Blinded by her magical darkness. Ignition streak smothered. Landed a **critical Tangle Vine (30)** on the web lurker when he dropped from the rafters, then fled with Boone and Meilin
+- Present (GM-run) at the Yeshou feast; older Occultism on Carcosa — a place of an old cult, long believed dead

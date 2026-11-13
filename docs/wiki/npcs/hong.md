@@ -109,3 +109,10 @@ While the rest of the party met with [Mido](mido.md), Hong stayed behind with Bo
 - **Marked.** He screamed through the night and his father couldn't calm him. *"Something bit him."* When the party arrived with [Atsura](atsura.md), he was thrashing in his cot with **a mark like Boone's** visible as he rolled
 - **Dreamed of [Carcosa](../locations/carcosa.md).** He spoke of two suns, a lake, and **a chair that is for him**. His eyes were open but he wasn't there, in shock, *"a twelve-year-old kid"* by the GM's description (earlier sessions put him at about ten)
 - ***"It's coming for me. I know it's coming for me. I'm 97. I'm number 97."*** The meaning is unknown. If something is coming, [the soul eater](soul-eater.md) that came for Boone is the obvious candidate
+
+### Session Nineteen (2026-11-12)
+- Still feverish the next morning. Under his fingernails: **fine mustard moth powder** — the same ground wing/carapace dust the party has seen across Willowshore
+- Asked for **Boone the judge**, then: *"He has one too. It was big. Mine was small. But he has a chair. I saw his. If it comes for me, tell Kimmy I was brave and wasn't scared."*
+- [Ginkgo](../pcs/ginkgo.md) critically diagnosed the illness as a **curse**, not a wound — ordinary healing will not help
+- Moved with [Yong](yong.md) when the party abandoned the forge for safer company; ended the day sheltered while the heroes attended the Yeshou feast. [Mido's](mido.md) invitation carried a handwritten wish for *"the blacksmith's boy who is unwell,"* and her toast named him aloud
+- In [Cheng's](the-smiling-one.md) old room the same morning, fresh charcoal appeared: ***The little chair is ready.*** The wall tally had climbed from 95 to **96**. Hong had called himself 97 the night before

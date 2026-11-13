@@ -264,3 +264,10 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - **Failed to break down [Willow's](../npcs/radiant-willow.md) door** twice (Athletics 21 and 22, then a 1 on each damage die), and she opened it herself. *"It's all Ginkgo's fault."* Apologized for the damage
 - **Perception 26 (critical)**: sure he saw no mark on Atsura. **Remembered a mark on [Voss's](../npcs/cassian-voss.md) shoulder** from the burial (19): *"I feel somewhat confident saying that he is the sage"*
 - Proposed splitting up in the morning: Littlefinger gets Meilin out, and he helps Hong and Yong. Suggested Donkey go with Meilin, and Willow do the disguise
+
+### Session Nineteen (2026-11-12)
+- **Level 5**: **Orc Ferocity**; intimidation up
+- With [Atsura](../npcs/atsura.md), crossed [Masru](../npcs/mayor-masru.md) on the bridge (commission void; still hunting Meilin) and took the Yeshou feast invitations
+- Searched Cheng's room: tally **96**, fresh charcoal ***The little chair is ready***, no chart. Atsura explained she was hunting the framed map Kurosawa took
+- Planted a **Sow Rumor** that Littlefinger had taken Meilin to the cabin alone — bait for Masru during dinner. Hero's-discount shopping (Diplomacy 22): short bow, arrows, bolts for 3 gp
+- At the feast, pressed Mido on Carcosa (her answer was deceptive). Backed Atsura's errand upstairs after Masru walked out on his "lead"

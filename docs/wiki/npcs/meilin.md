@@ -11,8 +11,8 @@
 | **Name** | Meilin |
 | **Ancestry** | Unknown |
 | **Occupation** | Gravekeeper; currently personal attendant to [Mayor Masru](mayor-masru.md) |
-| **Location** | En route to Littlefinger's hunting cabin, south of [Willowshore](../locations/willowshore.md) |
-| **Status** | **Escaped** the Yeshou estate (Session Eighteen). Masru is demanding a search |
+| **Location** | Hidden in [Willow's](radiant-willow.md) back rooms, [Willowshore](../locations/willowshore.md) |
+| **Status** | **Escaped**; cabin safehouse compromised by [Okio](okio.md). Masru still hunting her |
 
 ---
 
@@ -93,3 +93,8 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - Climbed down the rope from the study window and went over the fence. She spent the night in **[Willow's](radiant-willow.md) back rooms** and slept through the party nearly breaking down the door
 - **Masru noticed by morning**: *"I know they took her. She would not have left on her own... I would suspect Littlefinger and his crew"*
 - **Disguised by Willow** as an older woman (paint, a grey-streaked wig, a stoop, block-soled shoes; passable at a distance) and escorted by Boone and Donkey to **Littlefinger's hunting cabin**, two to three miles south of town
+
+### Session Nineteen (2026-11-12)
+- On the walk south, told Boone and Donkey that Masru never hit her — he called her his *prize* and *investment*, property he did not want damaged
+- Hid outside the cabin window while Boone and Donkey confronted [Okio](okio.md); fled with them when the spider fight broke. *"I don't think I should stay there. I think we should hike me back in town."*
+- Returned to **Willow's back rooms** (already searched once by [Akoto](captain-akoto.md)). Da Baishan sowed a rumor that she was alone at the cabin during the Yeshou feast, baiting [Masru](mayor-masru.md) into walking into Okio's nest

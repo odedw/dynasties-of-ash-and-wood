@@ -12,7 +12,7 @@
 | **Title** | Mayor of [Willowshore](../locations/willowshore.md) |
 | **Ancestry** | Oni |
 | **Affiliation** | [Shogun Tsuneni's](shogun-tsuneni.md) regime |
-| **Status** | In office; residing at the Yeshou estate; **turned on Kurosawa** (Session Sixteen) — surrendered the magistrate's handwritten trial script and is lobbying to have his commission voided |
+| **Status** | **Commission voided** (Session Nineteen). Room at the Silver Mist Inn for a few days while he hunts [Meilin](meilin.md); no longer at the Yeshou estate |
 
 ---
 
@@ -153,3 +153,8 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 ### Session Eighteen (2026-10-15)
 - **Slept soundly.** He was half off the bed where the guards (including [Ren](ren.md)) dropped him, snoring loudly enough to cover Littlefinger opening the door and [Meilin](meilin.md) leaving. Kurosawa was ransacking the study next door at the same time
 - **At dawn, raged in the square**: *"You need to find her. I know they took her. She was there last night and gone this morning. She would not have left on her own. Go to the inn. I would suspect Littlefinger and his crew. He's the one who danced with her and talked to her."* [Captain Akoto](captain-akoto.md): *"You must file a report first, sir."* He stomped back north to the estate to write it
+
+### Session Nineteen (2026-11-12)
+- Met [Da Baishan](../pcs/da-baishan.md) and [Atsura](atsura.md) on the bridge with a loaded cart: commission voided, Yeshou reclaiming the estate, a few days at the Silver Mist to find [Meilin](meilin.md). *"Every little bird comes back to the nest."*
+- Received a Yeshou feast invitation; promised to attend and to have his *"prize"* by morning
+- At dinner, drunk, ranted to Boone about Meilin's marketable vulnerability and insulted [Willow](radiant-willow.md) (*"who wants to be with a salad?"*), then left early on a *"very strong lead"* — walking into Da Baishan's planted rumor that Meilin was alone at Littlefinger's cabin (now occupied by [Okio](okio.md)). Whether he arrived is unknown

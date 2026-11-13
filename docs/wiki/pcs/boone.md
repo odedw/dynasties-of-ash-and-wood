@@ -248,3 +248,10 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - **His mark changed** overnight from moth dust on his clothes to a **three-pronged swirl**, like henna on the skin, that won't rub off. Littlefinger: *"They sent him to kill the Judge"*
 - Asked [Willow](../npcs/radiant-willow.md) directly, *"Do you feel more like a lover or an artist right now?"*, then told her plainly what the party suspects and that the marked should look out for each other. Offered to *"demurely show a little shoulder"* for the mark inspection
 - With Donkey, escorting a disguised [Meilin](../npcs/meilin.md) to Littlefinger's cabin south of town
+
+### Session Nineteen (2026-11-12)
+- **Level 5**: **Rock Runner**; fighter weapon mastery (polearm — critical shove); intimidation up
+- Escorted disguised Meilin south with Donkey. Found smoke and stew at Littlefinger's cabin. Peeked the window, then slipped in behind [Okio](../npcs/okio.md) on **Stealth 27**
+- Intimidated her (24) into dropping the cover story. Fought her spider form in magical darkness: hit for 15 and 16, lost a leg joint for her, took her bite and poison, used second wind, Battle Medicine, and called the retreat
+- Heard her summon the **web lurker** from the rafters; got Meilin out; told Littlefinger flat: *"You got giant spiders there. We got to burn the place down"*
+- At the Yeshou feast, sat beside Masru (musical chairs), endured his Meilin speech and the Willow insult, then shared a **double vision** of Carcosa's long table, pale masks, little chair, and ten stairs. Asked the table about Carcosa; Mido's answer shook

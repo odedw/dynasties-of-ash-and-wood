@@ -12,7 +12,7 @@
 | **Title** | Matriarch / Elder |
 | **Ancestry** | Human (elderly) |
 | **Affiliation** | [Willowshore Ruling Family](../factions/willowshore-ruling-family.md) (Yeshou family) |
-| **Location** | Silver Mist Lodge, [Willowshore](../locations/willowshore.md) (temporarily) |
+| **Location** | Yeshou estate, [Willowshore](../locations/willowshore.md) (restored, Session Nineteen) |
 
 ---
 
