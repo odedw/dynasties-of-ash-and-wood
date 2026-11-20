@@ -259,3 +259,11 @@ Donkey has become one of Da Baishan's sources of information in Willowshore. How
 - Knocked on the cabin door while Boone watched the window. Met [Okio](../npcs/okio.md); asked her to leave. Her talk of the centennial / elemental dragons snagged a **clouded memory**: ~100 years ago, **the Night the River Sang**, and a **missing girl**
 - Blinded by her magical darkness. Ignition streak smothered. Landed a **critical Tangle Vine (30)** on the web lurker when he dropped from the rafters, then fled with Boone and Meilin
 - Present (GM-run) at the Yeshou feast; older Occultism on Carcosa — a place of an old cult, long believed dead
+
+### Session Twenty (2026-11-19)
+- *David was back*
+- **Sleep** on all four devils dropped two, then **Tangle Vine** (24) slowed another. **Hypnotize** bounced off the last one (26)
+- **Willowshore Lore 25**: the Night the River Sang was real. A girl vanished into the river at the bend by the bridge about a hundred years ago, and he's more and more sure he was there. Something is still clouding the rest
+- Asked who else might remember, which led to Mido. Then asked her outright what happened. Her answer: *"Donkey, you were there. I think I saw you up on the bridge"*
+- *"If those resources are scones, then they're scones."* And to Kurosawa, about the pulled device: *"Are you really going to keep bringing that up?"*
+- Got a forked river-reed **wand of widening** from [Old Amber](../npcs/old-amber.md)

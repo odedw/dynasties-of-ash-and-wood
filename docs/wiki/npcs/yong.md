@@ -118,3 +118,13 @@ Yong crafts various metalwork at Eternal Blaze Ironworks:
 ### Session Eighteen (2026-10-15)
 - **Ran into the square at dawn**: *"Please, please help me. My son!"* [Hong](hong.md) had screamed all night and something seemed to have bitten him. [Atsura](atsura.md) answered and went home with him
 - At home (one modest room, with curtains for each of them), he told her it all at once: Hong was speaking gibberish and had never done anything like it. *"Are we cursed? The spirits hate us."* He blamed himself and apologized for anything he might have done
+
+### Session Nineteen (2026-11-12)
+- Watched over feverish Hong while Ginkgo diagnosed a **curse**. Didn't know why a child would be cursed and meant to ask [Old Amber](old-amber.md)
+
+### Session Twenty (2026-11-19)
+- Heard the devil fight and was on his way to help with a **forge mallet** when the party reached his door
+- Thought Hong was finally resting. Then he saw the wet bed and dropped to his knees: *"Hong, my son... I did everything. It wasn't your fault. It wasn't your fault"*
+- **Pledged everything**: *"I don't have the arcane skills, the martial prowess of anybody here, but I will do everything and anything to get my son back. If it's money, skills, extra hands, I will do what I can"*
+- **Carried Hong's body to Dew Drop Petals himself**, staggering, and turned down every offer of help
+- **Forged the fifth ley-line device** with Boone, to [Kurosawa's](magistrate-kurosawa.md) exact original dimensions. He worked faster than anyone had seen (he rolled a 20), and thinks it may be some of his best work. The same man Kurosawa once commissioned now built the device that will open the door to his son. It was set on the eastern line

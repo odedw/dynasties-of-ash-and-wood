@@ -158,3 +158,6 @@ Masru responded warmly when Boone and Ginkgo introduced themselves with food. He
 - Met [Da Baishan](../pcs/da-baishan.md) and [Atsura](atsura.md) on the bridge with a loaded cart: commission voided, Yeshou reclaiming the estate, a few days at the Silver Mist to find [Meilin](meilin.md). *"Every little bird comes back to the nest."*
 - Received a Yeshou feast invitation; promised to attend and to have his *"prize"* by morning
 - At dinner, drunk, ranted to Boone about Meilin's marketable vulnerability and insulted [Willow](radiant-willow.md) (*"who wants to be with a salad?"*), then left early on a *"very strong lead"* — walking into Da Baishan's planted rumor that Meilin was alone at Littlefinger's cabin (now occupied by [Okio](okio.md)). Whether he arrived is unknown
+
+### Session Twenty (2026-11-19)
+- **Missing.** By the next afternoon he still hadn't come back from his *"lead."* Nobody in town knows what happened to him. Littlefinger suggested checking the cabin (*"Kind of feels like returning to the scene of a crime"*), and Da Baishan suggested burning it

@@ -94,3 +94,14 @@ In the waking world the effect was immediate and town-wide: the **memory curse l
 - **Spoke to the dreamers**: thanks for breaking the veil, and the warning of **two curses** — the developed one on the town's minds, and an *"older, colder"* one that *"smiles from behind a door"*
 - **Ate the last half of the [Grandmother's seed](the-grandmother.md#the-seed-the-plum)** at the party's offer and **lifted the memory curse from all of Willowshore**; the dreamscape turned to color and dissolved. *"I will not forget what you've done for this area"*
 - The town felt it within minutes: quickened river, leaping fish, blooming reeds — and [Willow](radiant-willow.md) called a **festival** that evening to celebrate the spirit's return
+
+### Session Twenty (2026-11-19)
+- **Answered a waking ritual** at the river (Ginkgo, Religion 29). The current slowed and darkened, and a golden glow rose from far deeper than the four-foot river could hold. *"Dear friends, it's good to see you. What is it you require of me?"*
+- Told the party was going to [Carcosa](../locations/carcosa.md): *"You're going to the other shore, like the girl."* And: *"It is as I feared for these many years. It's finally come. I can offer only help on this shore. I can give you gifts to assist you in the other. But I have no reach beyond here"*
+- **Gave each of them a gift** on an unfurling lily:
+    - **Boone**: a **ghost touch rune** on his polearm, which lit up at the forge across town. *"The river weighs everything. Even judges"*
+    - **Ginkgo**: a driftwood **greater staff of healing**
+    - **Da Baishan**: a silent reed **clandestine cloak**. *"Be the fog. The fog sees everything, and nothing sees the fog"*
+    - **Littlefinger**: a **silver dagger** with a **rune of earthbinding**
+    - **Donkey**: a forked river-reed **wand of widening**
+- *"I wish I could provide more. It's all I could do from here"*

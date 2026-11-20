@@ -12,7 +12,8 @@
 | **Age** | ~10 years old |
 | **Ancestry** | Kitsune |
 | **Occupation** | Blacksmith's son / apprentice |
-| **Location** | Eternal Blaze Ironworks, [Willowshore](../locations/willowshore.md) |
+| **Location** | Body at Dew Drop Petals; spirit at the long table in [Carcosa](../locations/carcosa.md) |
+| **Status** | **Claimed** (Session Twenty): number 97, held between death and the afterlife |
 
 ---
 
@@ -116,3 +117,11 @@ While the rest of the party met with [Mido](mido.md), Hong stayed behind with Bo
 - [Ginkgo](../pcs/ginkgo.md) critically diagnosed the illness as a **curse**, not a wound — ordinary healing will not help
 - Moved with [Yong](yong.md) when the party abandoned the forge for safer company; ended the day sheltered while the heroes attended the Yeshou feast. [Mido's](mido.md) invitation carried a handwritten wish for *"the blacksmith's boy who is unwell,"* and her toast named him aloud
 - In [Cheng's](the-smiling-one.md) old room the same morning, fresh charcoal appeared: ***The little chair is ready.*** The wall tally had climbed from 95 to **96**. Hong had called himself 97 the night before
+
+### Session Twenty (2026-11-19)
+- **Seen in [Carcosa](../locations/carcosa.md).** In [Willow's](radiant-willow.md) vision, shared with Boone and Ginkgo, a three-foot pale-masked figure in grey robes walked to **a small chair** at the long table and spoke in Hong's voice, trembling as something pulled him into it: *"...you can save us all on this shore. Enter the door."* Then, nearly seated: ***"No, Kimmy, it wasn't her fault."***
+- **Found dead that night.** He lay on his side, not breathing, his bed and hair **soaked with salty water** that smelled like the still lake. His skin was pale, and his mark had turned from a swirl into a **pale mask** in white ink
+- Ginkgo's Religion: **dead but not dead**. His body has died, but his spirit hasn't passed into the afterlife. Something is holding it
+- He is **number 97**. [Kurosawa's](magistrate-kurosawa.md) mirror shows no mask on his reflection
+- Carried by [Yong](yong.md) to Dew Drop Petals. Willow and [Meilin](meilin.md) remembered a good, hard-working kid and his love for [Kimmy](kimmy.md)
+- **The rescue plan is about him.** If one claimed soul comes back off the ledger before the hundredth day, [Mido's](mido.md) bargain fails. He's almost certainly in his chair at the table

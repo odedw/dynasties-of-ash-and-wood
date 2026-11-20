@@ -93,7 +93,7 @@ The Tribunal's case against him began with a filing from his own captain: [Akoto
 Whatever "psychic connection" Boone attempted through the doorway (Performance — she smirked and shook her head), the private garden conversation worked: she called his eyes **honest**, took his evidence seriously, and freed the party on his word plus paper. His parting smolder earned a smile **and a wink**. Boone walked away *"on clouds."* [Willow](radiant-willow.md) has already offered him the full head-to-toe treatment: *"You will look irresistible."*
 
 ### [Kurosawa](magistrate-kurosawa.md)
-Colleagues in title, adversaries in fact. He did not know she was in town; his beat of visible surprise at the door — caught by Boone — was the first crack in his composure the party has ever seen. She outranks him in practice: she countermanded his caging of the party to his face, and he swallowed it.
+**Her father** (confirmed, Session Twenty). Colleagues in title, adversaries in fact. He did not know she was in town; his beat of visible surprise at the door — caught by Boone — was the first crack in his composure the party has ever seen. She outranks him in practice: she countermanded his caging of the party to his face, and he swallowed it.
 
 ### The Party
 *"I am not your enemy."* She is using them as an evidence source against Kurosawa, and they are using her as legal cover — both sides know it, and so far the arrangement is holding. She freed them from the cage on her own ruling: *"They are confined to the borders of Willowshore. That is what they were convicted of. And they will honor that."*
@@ -156,3 +156,12 @@ Colleagues in title, adversaries in fact. He did not know she was in town; his b
 - At dawn she answered [Yong's](yong.md) cry for help (*"I don't have any command here anymore, but what's going on?"*) and went with him to [Hong](hong.md)
 
 **Open question:** her father lectures on precedent, and Kurosawa told her at his sentencing, *"You've been taught well."*
+
+### Session Nineteen (2026-11-12)
+- Searched Cheng's room with Da Baishan for the **framed chart** Kurosawa took from the Yeshou. At the feast she said the errand out loud, excused herself, and **stole the chart from behind the tapestry upstairs** with Littlefinger. She translated what she could on the walk home
+
+### Session Twenty (2026-11-19)
+- **Confirmed: Kurosawa is her father.** *"Yes, he is my father. I believe he'll come. I'll bring him here, to Dew Drop Petals. We need to keep him safe, but we need his skills to move these lines."* Boone: *"What? You're holding out on us."* (The GM admitted he'd hoped to keep it secret longer. Claude flagged it about four sessions earlier)
+- Not a geomancer: *"I would think someone of the Order might have picked up on this, but I'm closer to an investigator, like Da Baishan here"*
+- Went out alone at night and **came back the next morning with Kurosawa**, not looking proud or happy about it: *"I have brought him, and he is willing to help"*
+- Was at the riverbank when he began moving the lines and Mido landed on the bridge

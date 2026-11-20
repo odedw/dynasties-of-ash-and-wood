@@ -181,3 +181,14 @@ She recruited Ginkgo as her accomplice, planning to arrange "accidental" meeting
 - Opened her door to find Da Baishan two shoulder-charges into breaking it down. *"What's the emergency?"* She took it gracefully (*"I'm not too worried about my door... I trust each of your judgment"*) and **blushed** a little at how worried they'd been for her
 - Boone asked if she felt more like a lover or an artist. *"I think I've generally considered myself more of an artist than a lover."* The party reads her as **ARTIST**. She was saddened that *"the honeymoon of Willowshore"* had turned to woe again
 - **Disguised Meilin** for her escape south, delighted to be part of the team: face paint, a grey-streaked wig, a stoop, and block-soled shoes
+
+### Session Nineteen (2026-11-12)
+- Sheltered Meilin again after the cabin turned out to be a spider nest. *"Things grow better with company"*
+- Insulted at the feast in her absence by Masru: *"Who wants to be with a salad?"*
+
+### Session Twenty (2026-11-19)
+- **Pulled Ginkgo into her vision** through their mycelial bond. On the grey shore she held his hand, petals dim: *"Ginkgo, that one's mine, isn't it? Someone made it very carefully. Like they've been waiting for me for a long time. I don't want to sit in it. I'm afraid what will happen if I do"*
+- That night, after *"another very dire dream,"* she took his hand in both of hers: *"I know you saw. I know you were there, and I thank you for being there with me. It gave me some comfort. I don't know when they'll come for me, but it was good to see a friend while I was over there"*
+- Took in Hong's body, consoled [Yong](yong.md), and hosted the whole party overnight, plus Kurosawa the next day. Made a humming breakfast of fruit, dates, nuts, and herbal tea
+- [Mido](mido.md), at her table, spoke of the *"true love"* between her and Ginkgo, a love that can wait a hundred years across a shore
+- Her reflection in Kurosawa's mirror wears a **pale mask**. The party counts her among the last three marked

@@ -49,7 +49,7 @@ The family is also **actively surveilling** [Magistrate Kurosawa](../npcs/magist
 
 | Member | Role | Notes |
 |--------|------|-------|
-| [Mido](../npcs/mido.md) | Matriarch / Elder | Sharp, pragmatic leader; admitted to the sabotage |
+| [Mido](../npcs/mido.md) | Matriarch / Elder | Sharp, pragmatic leader; admitted to the sabotage. **Revealed (Session Twenty)** as the girl who crossed to Carcosa and the King's betrothed |
 | [Cheng Yesho / The Smiling One](../npcs/the-smiling-one.md) | Mido's son (earlier: brother) | Decorated military veteran; reads Chthonic; "knows the real ending"; came back from the war *"like this"* |
 | [Kuji Yasho](../npcs/kuji-yasho.md) | Mido's son | Tunnel and quartermaster operator; led the party's extraction in Session 9 |
 | Mido's daughter | Family | Present beside Mido at the cave hideout; not yet named |
@@ -166,3 +166,12 @@ Mido's own admission to the party: *"We have achieved some of our wealth by more
 ### Session Eighteen (2026-10-15)
 - *Did not appear.* But **Kurosawa named them** on his way out of the estate window, to Littlefinger: *"If I were those remaining here in Willowshore, the Yeshou family is the one I would look toward first. Who else could have orchestrated us all being there at the same time?"* He also counted the family's **five generations** among the fives he believes are no coincidence
 - Kurosawa has cleared his research out of the estate, leaving it empty of him
+
+### Session Nineteen (2026-11-12)
+- **Restored to the estate.** [Mido](../npcs/mido.md) hosted a feast for *"the Heroes of Willowshore"* with Cheng, Emiko, Koji, and Hana at the table. When Boone described pale masks and a long table, the children recoiled and Mido's hand shook
+- The **framed chart** Kurosawa had taken (the first thing the family demanded back) was stolen from behind the upstairs tapestry during dinner
+
+### Session Twenty (2026-11-19)
+- **The matriarch is the threat.** Mido confessed that she crossed to [Carcosa](../locations/carcosa.md) as a girl, met the King, and placed the marks as a *"wedding gift."* She expects him at the centennial and promises *"we will make a family soon."* The *"elder who lies by subtraction"* was hiding her own road
+- [Cheng](../npcs/the-smiling-one.md) came with her and signaled **three** with his fingers
+- By afternoon Mido was openly opposing the party, landing on the bridge to stop Kurosawa's working with two summoned creatures. How much the rest of the family knows is unknown

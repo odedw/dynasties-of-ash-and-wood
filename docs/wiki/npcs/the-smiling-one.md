@@ -135,3 +135,13 @@ When Littlefinger returned his military medal, Cheng came forward—still smilin
 - **Attacked Da Baishan** when the orc lifted his mattress. Da Baishan's critical Athletics (28) held him in the air one-handed: *"Be calm."* Mido called him off with *"Son"* and treats in the other room. *His smile never changed*
 - **Voss's field journal**, with his own scrawl over it, was taken from under his floorboards. The party has not told Mido
 - Mido, afterward: *"I don't believe he has any malice. I don't think he's capable of planning something."* He went home early from the festival with the family
+
+### Session Nineteen (2026-11-12)
+- His old room at the Silver Mist: the tally moved from 95 to **96**, with fresh charcoal: ***The little chair is ready***
+- At the feast he arranged chopsticks in a star and hummed: *"Willow and root and stone and rain, ash for the fifth and back again. Draw them crooked, draw them straight, the frame upstairs will make them wait."* Looking upstairs, he mouthed five times: *"There's arms on the chair so you won't fall out"*
+
+### Session Twenty (2026-11-19)
+- **Came to breakfast at Willow's** behind [Mido](mido.md), his smile bigger and brighter than ever. Waved **three fingers** at the party and perched on the back of a chair
+- Sat beside his mother while she confessed to the King and the marks. Asked whether the King is Cheng's father, she said: *"No, no. Not yet. We will make a family soon, though"*
+- Had **Da Baishan's guandao at his throat** as leverage. Mido answered with a warning instead of a bargain
+- Left bouncing, holding **three fingers** up from the doorway. The party reads it as the count: three souls left, 98 to 100

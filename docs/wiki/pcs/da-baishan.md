@@ -271,3 +271,11 @@ At a tavern, Baishan crossed paths with Donkey, an ancient elf who spoke a truth
 - Searched Cheng's room: tally **96**, fresh charcoal ***The little chair is ready***, no chart. Atsura explained she was hunting the framed map Kurosawa took
 - Planted a **Sow Rumor** that Littlefinger had taken Meilin to the cabin alone — bait for Masru during dinner. Hero's-discount shopping (Diplomacy 22): short bow, arrows, bolts for 3 gp
 - At the feast, pressed Mido on Carcosa (her answer was deceptive). Backed Atsura's errand upstairs after Masru walked out on his "lead"
+
+### Session Twenty (2026-11-19)
+- **Arcana 29** on the devils: the shores are converging, the veil is tearing, and these were soldiers from another plane, immune to fire and resistant to everything but silver and magic. *"So they're probably not traders looking for pottery, then"*
+- Designed Ginkgo's ward as a **mushroom stamp**. Missed twice with the guandao and once with **Divine Lance**, then watched Ginkgo crit the same spell for 32. Finally hit the last devil with Divine Lance (13, *"orcish aftertaste"*) and the guandao (12). Felt vindicated about Littlefinger's crossbow
+- Asked whether Mido was the girl who went into the river. **Held his guandao to Cheng's throat** for leverage, and Mido warned him that he has no mark and *"no protections."* *"I could be intimidating, but that was pretty intimidating"*
+- Worked out that Cheng's tally is now **97** and what happens at 100
+- Got nudged by Atsura (*"someone of the Order might have picked up on this"*). *"I've certainly picked up a few things"*
+- Got a silent reed **clandestine cloak** from [Old Amber](../npcs/old-amber.md): *"Be the fog. The fog sees everything, and nothing sees the fog"*

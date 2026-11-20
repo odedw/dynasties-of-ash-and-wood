@@ -270,3 +270,11 @@ Littlefinger has ties to Willowshore's de facto rulers—the family that refuses
 - Stayed with Ginkgo and Hong while Boone/Donkey took Meilin south. Learned the cabin was compromised by [Okio](../npcs/okio.md) and the web lurker — *"No follow-up questions. Agreed"* to burning it
 - Helped hide Meilin at Willow's again. Poisoned his new crossbow bolts. Bought bolts on a hero's discount
 - At the feast, Perception 30: caught Cheng looping *"There's arms on the chair so you won't fall out"* while looking upstairs. Declined [Atsura's](../npcs/atsura.md) invite out loud, then shadowed her upstairs anyway and **stole the framed chart** from behind the tapestry into his document case
+
+### Session Twenty (2026-11-19)
+- Gave the devils the benefit of the doubt (*"They could be traders come to see about picking up new spices"*), then debuted his crossbow, **Crossy McBowface**, with pre-poisoned bolts. **First kill of the fight**, Stealth 31 (*"hide and seek champion of the world"*), and a 10-damage sneak attack. Then two misses: *"You're right, something's wrong with this crossbow."* He pictures it as a Drizzt hand crossbow. The table calls it *"gangster sideways"*
+- Wanted to shake down Mido; Da Baishan said he just wanted to pickpocket her again. *"I want to make sure the team has the resources required to accomplish their mission"*
+- **Told to keep the chart** by Mido herself
+- Did the count: *"That's Willow, that's Boone, and that's Kurosawa. 98, 99, and 100."* Asked whether they need to take the judge across. On the King: *"Sounds like you get a trip to Memphis"*
+- Got a **silver dagger with a rune of earthbinding** from [Old Amber](../npcs/old-amber.md). Plans to combine it with **Quick Draw** for thrown strikes. After the session he admitted he'd lined up a slide-in Quick Draw rapier finish on the last devil, until Boone killed it first
+- On Mido: related *"loosely... not tightly coupled."* Possibly adopted

@@ -101,6 +101,9 @@ A metallic **flower-petal mechanism** suspended inside a slowly turning gear tra
 - Donkey also recovered an **unblemished longsword** in a sheath buried in the rubble: **Judgement's Edge** (see below), once wielded by the legendary oni [Shen Takashi](../npcs/shen-takashi.md)
 - The ruin is now functionally destroyed—a cratered collapse. The subterranean chamber is gone.
 
+### Session Twenty (2026-11-19)
+- *Not visited directly.* A **replacement for the pulled device**, forged by [Yong](../npcs/yong.md) and [Boone](../pcs/boone.md) to the original's exact dimensions, was carried east toward the ruins and set on the **eastern ley line**, on the Willowshore side of the tear. With the fifth device in place, [Kurosawa](../npcs/magistrate-kurosawa.md) can bend the lines back to their first-night shape and open the door to [Carcosa](carcosa.md)
+
 ---
 
 ## Items Recovered

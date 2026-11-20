@@ -271,3 +271,12 @@ By the river one night, Ginkgo and Da Baishan witnessed a spirit kill a person. 
 - At Yong's: identified Hong's moth-dust (Nature 16), then critically diagnosed the illness (**Religion/Arcana 31**) as a **curse**, not a wound — ordinary healing would not touch it
 - Stayed with Littlefinger and Hong while Da Baishan went with Atsura; later reunited on the south road after the cabin fight
 - At the Yeshou feast, sat by Cheng and caught the willow-and-root rhyme about *"the frame upstairs"*
+
+### Session Twenty (2026-11-19)
+- **Walked the far shore with Willow.** Her vision pulled him in through the mycelial bond. On the grey sand she held his hand and asked whether the carefully made chair was hers. Later that night she thanked him: *"It was good to see a friend while I was over there"*
+- Pushed for the whole party to spend the night at Willow's with Hong and Yong, fearing the soul eater
+- **Devil fight**: Vitality Lash ×3 (13, 9, 11) and a **Forbidding Ward** on Boone, which became a mushroom stamp on the forehead and later made *"Die, judge"* miss. Then, right after Da Baishan missed with it, **Divine Lance, natural 20, crit for 32**, with a wink, and the beam grazing Da Baishan *"with the power of friendship"*
+- Religion on Hong's body: dead, but his spirit is held short of the afterlife
+- **Confronted Mido**: *"So are you gonna sacrifice our friends to be with the king? Because we're not going to let you."* Cast **Command** (she rolled 39). *"We will open the door."* *"You will answer for your sins"*
+- Reasoned through the plan: find Kurosawa to move the lines, and get the judge across to unwrite the ledger. Clarified that the door doesn't need to wait for the tenth
+- **Led the river ritual** for [Old Amber](../npcs/old-amber.md) (Religion 29) and asked for a blessing for the journey to Carcosa. Received a driftwood **greater staff of healing**

@@ -255,3 +255,12 @@ Boone, Ginkgo, and Donkey are all veterans of the same war—though Boone fought
 - Intimidated her (24) into dropping the cover story. Fought her spider form in magical darkness: hit for 15 and 16, lost a leg joint for her, took her bite and poison, used second wind, Battle Medicine, and called the retreat
 - Heard her summon the **web lurker** from the rafters; got Meilin out; told Littlefinger flat: *"You got giant spiders there. We got to burn the place down"*
 - At the Yeshou feast, sat beside Masru (musical chairs), endured his Meilin speech and the Willow insult, then shared a **double vision** of Carcosa's long table, pale masks, little chair, and ten stairs. Asked the table about Carcosa; Mido's answer shook
+
+### Session Twenty (2026-11-19)
+- **Saw the long table again** on the walk home: about a hundred masked figures, three empty chairs, Hong pulled toward the small one. The party watched him stand catatonic in the road
+- **Front line against four devils.** All four missed him in the first round. He hit for 11 and 17, **tripped** one, hit for 10, landed a **reactive strike** for 15, and **killed two**, the second and the last. The last devil said ***"Die, judge"*** and missed because of Ginkgo's ward. He breathed in its fire and took one point: *"Feels like home"*
+- At Yong's: *"We're going to help him. It's not over yet"*
+- **Grappled Mido** into her chair: *"That boy is dying... How can I go where he is?"* Won the strength contest (31 to her 28). *"The judge is strong. I will give him that."* — *"Thank you."* He let her go once it was clear she was too strong to hold
+- His reflection in Kurosawa's mirror wears **a pale mask**. The party counts him as one of the last three marked
+- **Forged the fifth ley-line device with Yong** in a montage of oiled muscles (*"a three-foot-five Arnold Schwarzenegger"*)
+- Got a **ghost touch rune** on his polearm from [Old Amber](../npcs/old-amber.md). It lit up while he was at the forge: *"The river weighs everything. Even judges."* He's the judge who has to sit in the King's court to unwrite the ledger

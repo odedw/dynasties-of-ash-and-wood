@@ -52,3 +52,10 @@ Hong and Kimmy are close friends with hints of a childhood crush. Hong broke her
 - Hugged Hong with relief when he was pulled out
 - Kissed Hong on the cheek at Da Baishan's suggestion
 - Could not make her "first wish" at the festival because Hong had broken her lantern
+
+### Session Nineteen (2026-11-12)
+- *Did not appear.* Feverish and marked, [Hong](hong.md) asked the party to pass on a message: *"If it comes for me, tell Kimmy I was brave and wasn't scared"*
+
+### Session Twenty (2026-11-19)
+- *Did not appear.* In Willow's vision of [Carcosa](../locations/carcosa.md), Hong's last words before reaching his chair were ***"No, Kimmy, it wasn't her fault."*** Whose fault he meant is unknown
+- Hong was found dead that night. [Willow](radiant-willow.md) and [Meilin](meilin.md) mourned his love for her and that the two of them won't grow up together

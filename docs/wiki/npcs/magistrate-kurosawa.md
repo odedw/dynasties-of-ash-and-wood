@@ -12,8 +12,8 @@
 | **Title** | Magistrate |
 | **Ancestry** | Oni |
 | **Affiliation** | None. **Stripped of his seat in the [Council of the Magi](../factions/council-of-the-magi.md)** by the Mirror Tribunal (Session Seventeen); *"he acts for no one"* |
-| **Location** | Unknown. Vanished into the earth during the Second Rite; last seen leaving the estate study for the **northern woods** with his research (Session Eighteen) |
-| **Status** | Disgraced, ordered to return *"for correction,"* at large. **Marked** by the mustard moth at the fifth bell |
+| **Location** | Hiding at Dew Drop Petals; working the ley lines from the riverbank (Session Twenty) |
+| **Status** | Disgraced, ordered to return *"for correction."* **Marked** by the mustard moth at the fifth bell. **Father of [Atsura](atsura.md).** Now allied with the party to open the door to [Carcosa](../locations/carcosa.md) |
 
 ---
 
@@ -317,3 +317,15 @@ The party also debated whether the note itself can be trusted — a private rese
 - **Pointed the party at the Yeshou**: *"If I were those remaining here in Willowshore, the Yeshou family is the one I would look toward first. Who else could have orchestrated us all being there at the same time?"*
 - Left by the window and went **north over the wall into the woods**. He let Meilin's rescue go: *"Take whatever prize you want"*
 - The party's guess at his archetype: **RULER**, or possibly **LOVER**
+
+### Session Nineteen (2026-11-12)
+- *Did not appear.* The stolen chart shows his dotted lines pulling the ley lines **east**, to a point of his own, **not** toward the first night's door. Its author feared he would pull them back
+
+### Session Twenty (2026-11-19)
+- **Named as Atsura's father.** *"He may not answer to a magistrate, but I believe that he'll heed the call of his daughter."* She went out at night to bring him in
+- **Arrived at Dew Drop Petals** cloaked, behind Atsura, and showed the party his mark: *"Looks like many of us share a similar fate... It seems that we have a shared destiny. And also, perhaps, a way out"*
+- **The mirror.** In his glass, his own reflection, Boone's, and Willow's wear **pale masks**. Hong's body shows nothing. The party counts him among the last three marked (98–100)
+- **The plan**: four of his five ley-line devices are still in place. He needs the fifth, the one the party pulled at the Gosembiki (*"We reconfigured"*), rebuilt to the original's exact dimensions and set on the eastern line this side of the tear. Then he can bend the lines back to their first-night shape and **open the door**. [Yong](yong.md) and Boone forged it in a few hours
+- **What he told the party**: everyone can cross, as Mido did a century ago. The chart's margin notes are **Mido's handwriting**, not his, and the warning not to cross early is hers. Her bargain needs **a hundred souls by midnight of the hundredth day**. Bring even one back off the ledger and it fails. Without that, Carcosa merges with this world and *"there won't be a Willowshore"*
+- Stayed out of sight at the salon, since he doesn't think the town would welcome him
+- **At the riverbank**: *"Well, I'm not sure if I should say friends —"* (Da Baishan: *"No, you should."*) *"— fellow heroes. I should call myself a hero. In this moment, we are ready to open the door."* He began pulling the invisible lines, chanting, the river and earth groaning, until **Mido** landed on the bridge and ordered him to stop

@@ -98,3 +98,7 @@ Willow gave Meilin her makeover for the festival and is clearly proud of the res
 - On the walk south, told Boone and Donkey that Masru never hit her — he called her his *prize* and *investment*, property he did not want damaged
 - Hid outside the cabin window while Boone and Donkey confronted [Okio](okio.md); fled with them when the spider fight broke. *"I don't think I should stay there. I think we should hike me back in town."*
 - Returned to **Willow's back rooms** (already searched once by [Akoto](captain-akoto.md)). Da Baishan sowed a rumor that she was alone at the cabin during the Yeshou feast, baiting [Masru](mayor-masru.md) into walking into Okio's nest
+
+### Session Twenty (2026-11-19)
+- Still hiding at Willow's. Was **consoling [Willow](radiant-willow.md)** after another dire dream when the party arrived near midnight. She and Willow comforted [Yong](yong.md) over Hong's body
+- Masru hasn't returned from the cabin

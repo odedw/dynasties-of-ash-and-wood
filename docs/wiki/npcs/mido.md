@@ -13,6 +13,7 @@
 | **Ancestry** | Human (elderly) |
 | **Affiliation** | [Willowshore Ruling Family](../factions/willowshore-ruling-family.md) (Yeshou family) |
 | **Location** | Yeshou estate, [Willowshore](../locations/willowshore.md) (restored, Session Nineteen) |
+| **Status** | **Revealed** (Session Twenty): the girl who crossed to [Carcosa](../locations/carcosa.md) a century ago, betrothed to the King; placer of the marks. Now openly hostile |
 
 ---
 
@@ -96,6 +97,30 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 **Session Sixteen sharpened the picture.** Asked point-blank about the *older* curse and the moth-powder erasure of Voss's name, Mido answered smoothly — *"I don't know anything about it... I did not travel to the Seven Cedars"* — and assumed aloud that the erasure was Kurosawa's work. She stayed composed through all of it. She became **visibly nervous** only when [Littlefinger](../pcs/littlefinger.md) turned the same questions on her son [Cheng](the-smiling-one.md). Whatever she is subtracting, it lives in her own family — and *"lied for love"* now reads as literal.
 
 **Session Seventeen all but named the traveler.** [Cassian Voss's](cassian-voss.md) journal, found under her son's floorboards, records tea with *"the Elder,"* who *"serves it herself,"* and ends with Voss leaving for the cedars, followed by something that *"walks behind me, matches my step, and smiles when I turn around."* If Voss was the last traveler, what followed him home was her son.
+
+**Session Twenty ended the subtraction.** She told them herself. The road she hid was the one she walked: into the river, a hundred years ago, to the King.
+
+---
+
+## The Girl Who Went into the River (Session Twenty)
+
+About a hundred years ago, on **the Night the River Sang**, a little girl followed the river's song into the water at the bend by the bridge and disappeared. [Donkey](../pcs/donkey.md) half-remembers it. Mido says she saw him up on the bridge. **The girl was Mido.**
+
+> *"The song was beautiful. It's the song I know I'll hear on my wedding day... I could not step away. And had I not walked in, I don't think I would have met the people I met."*
+>
+> ***"I met the King. And the King met me. And he saw me. And we will be together, finally."***
+
+What she confessed at [Willow's](radiant-willow.md) breakfast table:
+
+- **The King is coming** to Willowshore at the centennial, three days out, and [Carcosa](../locations/carcosa.md) is coming with him
+- He made her wait. Time runs roughly tenfold across the water, so *"it's been like 10,000 years that he has waited for me."* Then he *"gave me the signs of who are the five to be chosen"*
+- **She placed the marks.** Not with her own hand, but *"I had to make the prophecy come true when it was shown to me."* ***"Curse is such a harsh word. It's a wedding gift"***
+- The marked are *"for the King to take, like he has taken all the others."* [Hong](hong.md) has already been claimed
+- **Cheng is not the King's son**: *"No, no. Not yet. We will make a family soon, though"*
+- **She wrote the margin notes on the chart** (per [Kurosawa](magistrate-kurosawa.md)), including *"let no one cross before the tenth"*
+- *"There's no sins. There's no crimes committed. I've just followed my heart. Just as you would have done, if any of you were in my position"*
+
+**Her hidden power.** The frail old woman on a cane rolled a **39** on her Will save against Ginkgo's Command, strained against Boone's grapple with real strength (Athletics 28 to his 31), and warned [Da Baishan](../pcs/da-baishan.md), who has no mark, that he has *"no protections on you like the others."* That afternoon she flew in as **a bolt of black**, landed on the bridge, and summoned **two giant creatures** to stop Kurosawa from moving the lines.
 
 ---
 
@@ -201,3 +226,16 @@ Until the party can ask Mido directly **what she knows that the last traveler di
 - **Was not told about Voss's journal.** Littlefinger said they'd found nothing. She answered as if they had: *"I know what it implies — my son's room and his rantings — but I don't believe he has any malice... all that you're seeing is a manifestation of what happened to him in that war."* And: *"This is our home. You know where to find us"*
 - **Testified for the party** at the Second Rite of Open Reckoning. Less warm than Willow but accurate, and her family's standing carried weight with the crowd
 - Left the festival early with the family. With Kurosawa gone, the Yeshou may get their estate back, along with the tapestry and the RECEIVED tablets Voss saw there
+
+### Session Nineteen (2026-11-12)
+- Back in the Yeshou estate. Hosted a **feast for the heroes**, with a handwritten wish for Hong in the invitation and a toast to him at the table
+- **Her hand shook** when Boone asked about Carcosa. She glanced upstairs first and then lied by subtraction again: an old cult-of-the-tree homeland
+- The framed chart was stolen from behind the tapestry upstairs during dinner
+
+### Session Twenty (2026-11-19)
+- **Came to breakfast at Willow's** on a cane, calmer and happier than the party had ever seen her, with Cheng behind her. Told Littlefinger to **keep the chart**: *"I've had a hundred years or so to memorize it"*
+- Spoke to Ginkgo and Willow about true love that waits a hundred years across *"an expansive shore"*
+- **Confessed**: she is the girl who went into the river, she met the King, and the marks are her *"wedding gift."* See *[The Girl Who Went into the River](#the-girl-who-went-into-the-river-session-twenty)*
+- **Grappled by Boone** and pinned in her chair, laughing. Shrugged off Ginkgo's Command (Will 39). Warned Da Baishan off when he held his blade to Cheng's throat. *"The judge is strong. I will give him that"*
+- Walked out on her own terms: *"Take these last three days and enjoy your friendship... For it will be my King's arrival when the centennial hits"*
+- That afternoon, as Kurosawa began pulling the ley lines back, she **streaked down onto the bridge as a bolt of black**: ***"Leave the lines alone. You will not open this door."*** She summoned two giant creatures. Combat is next session
